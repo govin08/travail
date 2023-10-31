@@ -3,16 +3,27 @@
 현재 성남 DB(tibero)에는 다음과 같은 스키마들이 존재합니다.
 
 tibero
+
 ├ OUTLN
+
 ├ SEOUL_IRIS
+
 ├ SEOUL_TIBERO
+
 ├ SNITS
+
 ├ SNITS_IF
+
 ├ SNITS_INT
+
 ├ SYS
+
 ├ SYSCAT
+
 ├ SYSGIS
+
 ├ TIBERO
+
 └ TIBERO
 
 2.
@@ -20,24 +31,43 @@ tibero
 각 스키마에서 저희 프로젝트와 관련있는 데이터들은 다음과 같습니다.
 
 tibero
+
 ├ OUTLN
+
 ├ SEOUL_IRIS
+
 ├ SEOUL_TIBERO
+
 ├ SNITS
+
   ├ "L_IF_INT_PHASE_CONFIG" : "이력_연계_교차로_현시구성" - 올라와있지 않음
+
   └ "L_IF_INT_TPLAN" : "이력_연계_교차로_시간계획" - 올라와있지 않음
+
 ├ SNITS_IF
+
 ├ SNITS_INT
+
   ├ S_INT_CONFIG : "교차로_제어기" - 올라와있으나 데이터상의 이슈 존재
+
   ├ "S_INT_PHASE_CONFIG" : "교차로_현시구성" - 올라와있음
+
   ├ "S_INT_TPLAN" : "교차로_시간계획" - 올라와있지 않음
+
   ├ "S_SA_DPLAN" : "그룹 일계획" - 올라와있음
+
   ├ "S_SA_WPLAN" : "그룹 주간계획" - 올라와있음
+
   └ "S_TOD_HIS" : "신호 TOD 이력" - 올라와있지 않음
+
 ├ SYS
+
 ├ SYSCAT
+
 ├ SYSGIS
+
 ├ TIBERO
+
 └ TIBERO
 
 3.
