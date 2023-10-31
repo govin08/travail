@@ -31,7 +31,7 @@ tibero
   └ "L_IF_INT_TPLAN" : "이력_연계_교차로_시간계획" - 올라와있지 않음
 ├ SNITS_IF
 ├ SNITS_INT
-  ├ S_INT_CONFIG : "교차로_제어기" - 올라와있으나 데이터상의 이슈 존재
+  ├ "S_INT_CONFIG" : "교차로_제어기" - 올라와있으나 데이터상의 이슈 존재
   ├ "S_INT_PHASE_CONFIG" : "교차로_현시구성" - 올라와있음
   ├ "S_INT_TPLAN" : "교차로_시간계획" - 올라와있지 않음
   ├ "S_SA_DPLAN" : "그룹 일계획" - 올라와있음
