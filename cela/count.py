@@ -1,5 +1,5 @@
 character_count = 0 # 전체 등장인물
-main_char_count = 0 # 주요 등장인물 : 소설 서사에 직접 등장 & 이름 호명
+main_char_count = 0 # 주요 등장인물 : 서사에 직접 등장 & 이름 호명
 with open('colmena_characters.txt', 'r', encoding='utf-8') as file:
     for line in file:
         # 빈 행은 제외
