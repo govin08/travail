@@ -61,8 +61,10 @@ U&0&0&D_H
 b
 =
 \begin{bmatrix}
-\bar f\\
-\bar V\\
+\bar f
+\\
+\bar V
+\\
 \bar\rho
 \end{bmatrix}
 ,\qquad
