@@ -18,7 +18,7 @@ $$
 =M_0\sum_{(i,j)\in OD}\sum_{k=1}^{n_{ij}}t_{ij}^kx_{ij}^k
 +M_1\sum_{e\in E}\left|\bar f_e-f_e\right|
 +M_2\sum_{(o,d)\in Z^2}\left|\bar V_{od}-V_{od}\right|
-+M_3\sum_{\text{inc},\text{out}}\left|\bar\rho_{\text{inc},\text{out}}-\rho_{\text{inc},\text{out}}\right|\\[10pt]
++M_3\sum_{\text{inc},\text{out}}\left|\bar\rho_{\text{inc},\text{out}}-\rho_{\text{inc},\text{out}}\right|\\
 \text{subject to}\qquad
 &x_{ij}^k\ge0
 &&\forall i,j,k
