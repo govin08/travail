@@ -44,7 +44,6 @@ $$
 \text{subject to}\qquad
 &
 AX = b\\[10pt]
-
 \end{align*}
 $$
 
