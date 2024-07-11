@@ -40,10 +40,10 @@ $$
 \begin{align*}
 \text{Minimize}\qquad
 &L(X)
-=c^TX\\[10pt]
+=c^TX
 \text{subject to}\qquad
 &
-AX = b\\[10pt]
+AX = b
 \end{align*}
 $$
 
