@@ -69,7 +69,7 @@ b
 c
 =
 \begin{bmatrix}
-M_0T\\M_1\\M_2\\M_3
+M_0T\\ M_1\\ M_2\\ M_3
 \end{bmatrix}
 ,\qquad
 X
