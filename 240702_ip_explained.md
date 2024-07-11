@@ -48,6 +48,7 @@ AX = b
 $$
 
 $$
+\begin{align*}
 A=
 \begin{bmatrix}
 P&D_E&0&0
@@ -76,5 +77,6 @@ X
 \begin{bmatrix}
 x\\ y\\ z\\ w
 \end{bmatrix}
+\end{align*}
 $$
 
