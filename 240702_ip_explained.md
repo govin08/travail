@@ -75,7 +75,7 @@ M_0T\\M_1\\M_2\\M_3
 X
 =
 \begin{bmatrix}
-x\\y\\z\\w
+x\\ y\\ z\\ w
 \end{bmatrix}
 \end{align*}
 $$
