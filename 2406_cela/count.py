@@ -1,4 +1,7 @@
-with open('colmena_characters.txt', 'r', encoding='utf-8') as file:
+import os
+path_txt = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'colmena_characters.txt')
+print(path_txt)
+with open(path_txt, 'r', encoding='utf-8') as file:
     lines = []
     for line in file:
         # 빈 행은 제외
