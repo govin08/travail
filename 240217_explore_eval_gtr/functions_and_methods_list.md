@@ -1,0 +1,25 @@
+# evaluation_green_time.ratio.py
+
+- functions
+  - convert_to_duration
+  - convert_to_g_ratio
+  - find_best_power
+  - objective
+- Preprocessor
+    - _df_to_dict
+    - _set_base_infos
+    - _set_matrix
+    - _set_bounds
+    - _set_equality_constraint
+    - _set_inequality_constraint
+    - main
+- Tuner
+  - _clip
+  - _get_initial_value
+  - _optimize
+  - _check_constraints
+  - _trim_durations
+  - optimize
+- functions (more)
+  - evaluate
+  - fit
