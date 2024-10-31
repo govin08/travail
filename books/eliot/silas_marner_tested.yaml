@@ -1,0 +1,318 @@
+title: Memos in 「Silas Marner」
+
+description:
+  이 파일은 George Eliot의 「Silas Marner」를 읽으며 모르는 단어 및 등장인물을 정리한 파일이다.
+
+book_info:
+  title: Silas Marner
+  author: George Eliot
+  first_published_in: 1861
+  published_by: the Penguin Group
+  first_edition_published_in_Penguin_Books_in: 1996
+
+voca_info:
+  - part / chapter / page: 편(編) / 장(章) / 페이지
+    - 변경시에만 입력
+  - word / mean: 단어 / 뜻
+    - 필수 입력 항목
+  - class / example / explanation / dict_info / synonym / antonym: 품사 / 예문 / 설명 / 사전정보 / 유의어 / 반의어
+    - 선택 입력 항목
+
+characters_info:
+  - description:
+    - 주인공인 Silas Marner를 제외한 모든 인물들에 대하여 페이지 기재.
+    - 어떤 등장인물이 한 chapter에 두 번 이상 등장하면 그 등장인물이 가장 처음에 나온 시점의 페이지를 기재.
+  - character: 등장인물
+    - 필수 입력 항목
+  - explanation: 설명
+    - 선택 입력 항목
+
+created_at: 2024-10-31
+updated_at: 2024-10-31
+---
+# part: 1
+chapters:
+  - chapter: 1
+    pages:
+    - page: 5
+      words:
+      - spinning-wheel: 물레
+      - hum: 콧노래를 부르다. 윙윙거리다
+      - bosom: (여자의) 가슴
+      - pallid: 창백한, 핼쑥한
+      - undersized: 보통보다 작은
+      - brawny: 건장한
+        synonym: burly
+      - country folk: 시골사람들
+      - remnant: 남은 부분, 나머지, 자투리
+      - upland: 고지대
+      - flaxen: 금발의
+        synonym: blonde
+      - cling round: 딱 붙어있다. 주위에 흐르다
+      - hum: 콧노래를
+        dict_info: 예문
+
+      - word: country folk
+        mean: 시골사람들
+      - word: remnant
+        mean: 남은 부분, 나머지, 자투리
+      - word: upland
+        mean: 고지대
+      - word: flaxen
+        mean: 금발의
+        synonym: blonde
+      - word: cling round
+        mean: 딱 붙어있다. 주위에 흐르다
+        dict_info: 예문
+      - word: unwonted
+        mean: 평소와는 다른, 특이한, 뜻밖의
+      - word: intermittent
+        mean: 간헐적인, 간간히 일어나는
+        synonym: sporadic
+      - word: pedlar
+        mean: 행상인, 도붓장수
+        synonym: peddler
+      - word: shallow
+        mean: (복수) 얕은 곳, 여울
+        class: 명사
+      - word: handicraft
+        mean: 수공예, 수공예품
+      - word: overwise
+        mean: 남달리 현명한
+    - page: 6
+      infos:
+      - word: dexterity
+        mean: (손이나 머리를 쓰는) 재주, 재치, 교묘함, 빈틈없음, 손재주
+        dict_info: 옥스포드, 동아출판, YBM
+      - word: partake
+        mean: (자기에게 제공된 것을) 먹다, 참가하다
+      - word: conjouring
+        mean: 마술
+      - word: rustic
+        mean: 시골 특유의, 소박한, 무례한, 조야한, 전원생활의
+        dict_info: 옥스포드, 동아출판, YBM
+      - word: contract
+        mean: 줄이다, (버릇이) 들다, (자연히) ~의 습관이 붙다
+        dict_info: 옥스포드, 동아출판, YBM
+      - word: hedgegrow
+        mean: 산울타리, (산울타리의) 죽 늘어선 관목
+        dict_info: 동아출판
+      - word: stone-pit
+        mean: 채석장
+        synonym: quarry, guary
+      - word: loom
+        mean: 베틀, 직기
+      - word: trotting
+        mean: 속보, 빨리 걷기
+      - word: winnow
+        mean: (낱알, 겨 등을) 까부르다, 키질하다, (좋은 부분을) 골라내다, 뽑아내다
+        dict_info: 동아출판
+      - word: flail
+        mean: 도리깨
+        class: 명사
+      - word: counterbalance
+        mean: (반대되는 힘으로) 균형을 잡아주다
+      - word: scornful
+        mean: 경멸하는
+      - word: mockery
+        mean: 조롱, 조소
+      - word: tread-mill
+        mean: 밟아 돌리는 바퀴, 단조롭고 피곤한 일
+        dict_info: YBM
+      - word: scoundrel
+        mean: 악당
+      - word: chary of
+        mean: ~을 (하기를) 꺼리는, 조심스러운, 신중한, 나서지 않는, 음전한, 부끄러워하는, 내성적인, 아까워하는, 삼가는, 저어하는
+        synonym: wary
+      - word: protuberant
+        mean: 융기된, 볼록하게 도드라진, 돌출한, 현저한, 뚜렷한
+        dict_info: 옥스퍼드, 동아출판
+      - word: dart
+        mean: (~에게) 휙 눈길을 던지다, 흘깃 쳐다보다
+      - word: cramp
+        mean: 경련
+      - word: rickets
+        mean: 구루병, 곱사등, 골연화(증)
+        dict_info: 교학사
+      - word: wry
+        mean: (얼굴, 표정 등이) (일시적으로) 찡그린, 비틀어진, 뒤틀린
+        dict_info: 동아출판
+      - word: benignity
+        mean: 인자, 상냥스러움, 온화
+      - word: toil
+        mean: 노동
+    - page: 7
+      infos:
+      - word: mishap
+        mean: 작은 사고 (불행)
+      - word: barren
+        mean: 척박한, 황량한
+      - word: pasture
+        mean: 초원, 목초지, 환경
+      - word: fancy
+        mean: 원하다, ~ 하고싶다.
+      - word: victual
+        mean: 먹을 것, 식품
+      - word: phantasm
+        mean: 환영, 허깨비, 유령
+      - word: parish
+        mean: (교회, 성당의) 교구
+      - word: outskirt
+        mean: 변두리, 교외
+      - word: meagre
+        mean: (양, 질이) 빈약한 (변변찮은)
+        synonym: meager
+      - word: nestle
+        mean: 따뜻이 앉다(눕다)
+      - word: snug
+        mean: 포근한, 아늑한
+        synonym: cosy
+      - word: horseback
+        mean: 말을 타고 하는
+      - word: turnpike
+        mean: 유료도로, 유료고속도로
+      - word: coach-horn
+        mean: (역마차의) 나팔
+      - word: homestead
+        mean: 집과 대지, 선조 대대의 집, (특히 부속 건물, 농장이 있는) 농장
+      - word: orchard
+        mean: 과수원
+      - word: ornamental
+        mean: 장식용의
+      - word: weathercock
+        mean: (수탉 모양의) 풍향계
+      - word: imposing
+        mean: 인상적인, 눈길을 끄는
+      - word: rectory
+        mean: 교구 목사관
+      - word: practised
+        mean: (연습을 많이 하여) 노련한(능숙한)
+        synonym: practiced
+      - word: manor-house
+        mean: 장원 영주의 저택
+      - word: vicinity
+        mean: 부근
+      - word: rollicking
+        mean: 신나는, 흥겨운, 쾌활한
+        synonym: exuberant
+      - word: jolly
+        mean: 행복한, 쾌활한, 즐거운
+      - word: Whitsun
+        mean: 성령강림절
+        synonym: Whitsunday
+      - word: Easter tide
+        mean: 부활절 계절, 부활절로부터 시작되는 일주일
+      - word: short-sighted
+        mean: 근시안의
+      - word: door-sill
+        mean: 문지방
+        synonym: threshold
+    - page: 8
+      infos:
+      - word: pint
+        mean: 파인트
+      - word: wheelwright
+        mean: (특히 나무로 된) 수레바퀴 제조인(목수)
+      - word: lass
+        mean: (스코틀랜드 영어, 북잉글랜드 영어) 아가씨, 처녀
+      - word: unexampled
+        mean: 전례가 없는, 비할 데 없는, 둘도 없는
+      - character: Jem Rodney
+      - word: molecatcher
+        mean: A person who traps and kills moles
+        dict_info: wiktionary 
+        explanation: mole은 두더지를 뜻함
+      - word: aver
+        mean: (사실이라고) 단언하다(주장하다)
+        synonym: assert, declare
+      - word: stile
+        mean: 층계형 출입구 (들판의 울타리, 문 등을 타고 오르내릴 수 있도록 만든 것)
+      - word: limb
+        mean: 팔다리, 사지
+        dict_info: 동아출판
+      - word: clutch
+        mean: (꽉) 움켜잡다
+        synonym: grip
+      - word: saw-pit
+        mean: 톱질 구덩이
+      - word: argumentative
+        mean: 따지기 좋아하는, 시비를 거는
+      - character: Macey
+      - word: shaft
+        mean: 수갱, 통로, 손잡이, 자루
+      - word: parson
+        mean: (영국 국교회의) 교구 주임 목사(사제)
+    - page: 9
+      infos:
+      - word: mischief
+        mean: (특히 아이들이 하는 크게 심각하지 않은) 나쁜 짓(장난)
+      - word: persecution
+        mean: 박해, 학대, 졸라댐, 괴롭힘
+        dict_info: 옥스퍼드, 동아출판
+      # - character: Tarley
+      - word: provident
+        mean: (특히 돈을 저축하면서) 장래를 준비하는(앞날에 대비하는)
+      - word: cottager
+        mean: (특히 과거에 시골) 오두막에 사는 사람
+      - word: yarn
+        mean: (작물, 편물용) 실, 방적사
+      - word: counteract
+        mean: (무엇의 악영향에) 대응하다
+      - word: repugnance
+        mean: (강한) 반감(혐오감)
+      - word: metamorphosis
+        mean: 탈바꿈, 변형, 변태
+        synonym: transformation
+      - word: fervid
+        mean: 열렬한
+      - word: artisan
+        mean: 장인, 기능보유자
+        synonym: craftman
+      - word: sect
+        mean: (종교의) 분파, 교파, 종파
+      - word: exemplary
+        mean: 모범적인, 본이 되는 훌륭한
+        dict_info: 옥스퍼드, 동아출판
+      - word: minister
+        mean: 성직자, 목사
+        synonym: pastor, priest, vicar
+    - page: 10
+      infos:
+      - word: wilful
+        mean: 고의적인, 의도적인, 고집이 센
+        synonym: willful
+      - word: trance
+        mean: 황홀, 열중, 무아지경, 실신, 혼수(최면) 상태
+      - word: fervour
+        mean: 열정
+        synonym: fervor
+      - word: resurgent
+        mean: 되살아나는, 부활하는, 재기하는
+        dict_info: 옥스퍼드, 동아출판, YBM
+      - word: fervent
+        mean: 열렬한, 강렬한
+      - word: impart
+        mean: (정보, 시직 등을) 전하다, (특정한 특성을) 주다
+        synonym: convey, lend
+      - word: bequest
+        mean: 유증(재산), 유산
+      - word: foxglove
+        mean: (식물) 디기탈리스(digitalis)
+      - word: dandelion
+        mean: 민들레
+      - word: coltsfoot
+        mean: 머위, 관동
+      - word: brethren
+        mean: 
+      - character: William Dane
+
+      - word: serenity
+        mean: 
+      - word: 
+        mean: 
+      - word: 
+        mean: 
+      - word: 
+        mean: 
+      - word: 
+        mean: 
