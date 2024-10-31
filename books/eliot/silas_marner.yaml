@@ -362,8 +362,9 @@ chapters:
         mean: 홀아비
       - word: tend
         mean: 돌보다, 보살피다
-    - page: 11
+    - page: 12
       characters:
+      - the minister
       words:
       - word: vestry
         mean: 교회부속실(사무실, 기도실, 주일학교 교실용), 예배실
@@ -372,6 +373,55 @@ chapters:
         mean: 심문
       - word: repent
         mean: 뉘우치다, 회개하다
+    - page: 13
+      characters:
+      words:
+      - word: tuck
+        mean: 밀어넣다
+      - word: impetuous
+        mean: 성급한, 충동적인
+      - word: feebly
+        mean: 약하게, 희미하게, 힘없이
+      - word: sore
+        mean: 몹시, 격렬하게, 심하게
+        dict_info: 동아출판, YBM
+        class: 부사
+      - word: stricken
+        mean: 상처받은, 부상당한, 시달린
+        dict_info: 동아출판, YBM
+      - word: deliberation
+        mean: 숙고, 신중함
+      - word: resort
+        mean: 의지, 호소
+        dict_info: 옥스포드, 동아출판, YBM
+      - word: culprit
+        mean: 범인
+      - word: draw lots
+        mean: 제비뽑기를 하다
+        dict_info: 숙어
+      - word: bruise
+        mean: 멍(흠)이 생기다
+      - word: agitation
+        mean: 불안, 동요
+    - page: 14
+      characters:
+      words:
+      - word: shudder
+        mean: 몸이 떨림, 전율, 몸서리, 크게 흔들림
+      - word: blasphemy
+        mean: 신성모독
+      - word: meek
+        mean: 온순한, 온화한
+      - word: sever
+        mean: 잘라내다, 끊다, 절단하다
+      - word: culpable
+        mean: 과실이 있는, 비난받을 만한
+      - word: take refuge
+        mean: 대피하다
+      - word: benumbing
+        mean: 무감각한
+      - word: at an end
+        mean: (일 따위가) 끝나서, (인내가) 다하여
       - word: 
         mean: 
       - word: 
