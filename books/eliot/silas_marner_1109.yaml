@@ -11,38 +11,24 @@ book_info:
   first_edition_published_in_Penguin_Books_in: 1996
 
 voca_info:
-  description:
-  components:
-    part: 편(編)
-    chapter: 장(章)
-    page: 페이지
-    word: 단어
-    mean: 뜻
-    class: 품사
-    example: 예문
-    explanation: 설명
-    dict_info: 사전정보
-    synonym: 유의어
-    antonym: 반의어
-  component_description:
-    변경시에만 입력 : part, chapter, page
-    필수입력항목: word, mean
-    선택입력항목: class, example, explanation, dict_info, synonym, antonym
+  - part / chapter / page: 편(編) / 장(章) / 페이지
+    - 변경시에만 입력
+  - word / mean: 단어 / 뜻
+    - 필수 입력 항목
+  - class / example / explanation / dict_info / synonym / antonym: 품사 / 예문 / 설명 / 사전정보 / 유의어 / 반의어
+    - 선택 입력 항목
 
 characters_info:
-  description:
+  - description:
     - 주인공인 Silas Marner를 제외한 모든 인물들에 대하여 페이지 기재.
     - 어떤 등장인물이 한 chapter에 두 번 이상 등장하면 그 등장인물이 가장 처음에 나온 시점의 페이지를 기재.
-  components:
-    character: 등장인물
-    explanation: 설명
-  component_description:
-    필수입력항목: character
-    선택입력항목: explanation
+  - character: 등장인물
+    - 필수 입력 항목
+  - explanation: 설명
+    - 선택 입력 항목
 
 created_at: 2024-10-31
-updated_at: 2024-11-09
-
+updated_at: 2024-10-31
 ---
 # part: 1
 chapters:
