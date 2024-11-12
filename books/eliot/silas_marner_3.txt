@@ -1,4 +1,9 @@
 Silas marner, chapter 3
+---
++ : 모르는 단어
+- : 인물
+* : 지명, 이름, 소재, 상징
+---
 23
 * Raveloe
 - Squire Cass
@@ -71,6 +76,65 @@ Silas marner, chapter 3
 + distrain (동산을) 압류하다
 + arrear 지체, 밀림, 연체금
 + sneer 비웃다
++ clench 꽉 쥐다, 악물다
++ quarrel 다투다
++ bid goodbye 작별을 고하다
+- Kimble
+* Wildfire : 말
+- Bryce
+- Keating
++ bid (경매에서의) 가격제시, 호가
++ throttle 목졸라 죽이다
++ daresay 아마도 ~일 것이다
++ splash (물, 흙탕물 등을) 끼얹다, 튀기다
++ treble 제일 높은 소리, 최고 음역
++ laudanum 아편틴크, 아편으로 만든 약물
++ keep one's sleeve 슬금슬금 다가가다
++ obliging 협력적인, 잘 돌봐주는
++ quiver (가볍게) 떨다(떨리다)
++ overshoot (목표지점보다) 더 가다, (원래 계획보다) 더 많이 하다
++ draught 한 모금, 죽 들이마시기
++ rap 톡톡(쾅쾅) 두드리다(치다)
++ irresolution 우유부단
++ defy 반항하다, 거역하다
++ contingent ~에 의존하는, 불확실한, 우발적인, 우연의, 돌연한
++ vacillation 흔들림, 동요, 주저, 우유부단
++ disinherited 상속권이 박탈된, 폐적한
++ uprooted 뿌리채 뽑힌
++ irrevocable 변경할 수 없는 (→ revoke)
++ concession 양보(양해), 인정
++ placable 달래기 쉬운, 온화한, 너그러운
+* Bramcote
++ undertake 시작하다
++ tice (→ entice?)
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
 + 
 + 
 + 
