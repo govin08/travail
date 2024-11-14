@@ -111,12 +111,15 @@ Silas marner, chapter 1
 
 9
 + mischief (특히 아이들이 하는 크게 심각하지 않은) 나쁜 짓(장난)
++ be indebted to ~에게 빚지다, ~덕을 보다
 + persecution 박해, 학대, 졸라댐, 괴롭힘
+* Tarley
 + provident (특히 돈을 저축하면서) 장래를 준비하는(앞날에 대비하는)
 + cottager (특히 과거에 시골) 오두막에 사는 사람
 + yarn (작물, 편물용) 실, 방적사
 + counteract (무엇의 악영향에) 대응하다
 + repugnance (강한) 반감(혐오감)
++ tale 총수, 총량, 총계
 + metamorphosis 탈바꿈, 변형, 변태
 + fervid 열렬한
 + artisan 장인, 기능보유자
