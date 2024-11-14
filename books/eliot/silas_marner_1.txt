@@ -121,12 +121,15 @@ Silas marner, chapter 1
 + fervid 열렬한
 + artisan 장인, 기능보유자
 + sect (종교의) 분파, 교파, 종파
++ layman 평신도
+* Lantern Yard
 + exemplary 모범적인, 본이 되는 훌륭한
 + minister 성직자, 목사
 
 10
 + wilful 고의적인, 의도적인, 고집이 센
 + trance 황홀, 열중, 무아지경, 실신, 혼수(최면) 상태
++ accession 승낙, 응낙, 동의
 + fervour 열정
 + resurgent 되살아나는, 부활하는, 재기하는
 + fervent 열렬한, 강렬한
@@ -136,6 +139,8 @@ Silas marner, chapter 1
 + dandelion 민들레
 + coltsfoot 머위, 관동
 + brethren (종교 단체의) 신도들, (남자) 교우들
+* David and Jonathan : 다윗과 요나단 (성경)
+- William Dane
 + serenity (마음, 생활의) 평온, 평정, 침착
 + be dazzled by ~에 현혹되다
 + blemish 흠집을 내다
@@ -143,12 +148,14 @@ Silas marner, chapter 1
 + impressible 다감한, 감수성이 풍부한(예민한)
 + imperativeness 명령적임, 단호함, 부득이함
 + complacent (보통 부정적 의미로) 마음에 흡족한, 무관심한, 개의치 않는, (자기의 우월성에) 만족해하는, 자기만족의, 흐뭇해보이는
+* Assurance of salvation : 구원의 확신(성서)
 
 11
 + mingle 섞이다, 어우러지다, 섞다, 어우르다
 + conversion 개종, 전향, 전환
 + colloquy 대화
 + cataleptic 강직증의, 강경증의
++ fit 발작, 증상
 + amidst (특히 흥분, 공포심이 느껴지는) 가운데에, ~으로 에워싸인
 + jar 보기싫게 부조화를 이루다, (의견 따위가) 삐걱거리다, 맞지 않다, 말다툼하다(with)
 + exhort 열심히 권하다, 촉구하다, 간곡히 타이르다, 권하다, 훈계(권고)하다
@@ -159,11 +166,13 @@ Silas marner, chapter 1
 + deacon 부제, 집사, 조합장
 + widower 홀아비
 + tend 돌보다, 보살피다
++ relieve 교대하다
 
 12
 + vestry 교회부속실(사무실, 기도실, 주일학교 교실용), 예배실
 + interrogation 심문
 + repent 뉘우치다, 회개하다
++ departed 세상을 하직한
 
 13
 + tuck 밀어넣다
@@ -181,6 +190,7 @@ Silas marner, chapter 1
 14
 + shudder 몸이 떨림, 전율, 몸서리, 크게 흔들림
 + blasphemy 신성모독
++ little short of 거의 ~인
 + meek 온순한, 온화한
 + sever 잘라내다, 끊다, 절단하다
 + culpable 과실이 있는, 비난받을 만한
