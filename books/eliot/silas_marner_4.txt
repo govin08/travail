@@ -43,7 +43,8 @@ Silas marner, chapter 4
 + divine 알아채다, 예측하다, 꿰뚫어보다, 추측하다
 + draught
 + pocket-pistol 소형 권총, (위스키 등의) 주머니용 술병
-+ ill favoured 못생긴, 못난, 불쾌한, 꺼림칙한
+- field
++ ill-favoured 못생긴, 못난, 불쾌한, 꺼림칙한
 + unmarketable 판로가 없는, 시장성이 없는
 + flank 측면, 옆구리
 + pant (숨을) 헐떡이다

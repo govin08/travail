@@ -5,6 +5,7 @@ Silas marner, chapter 2
 * : 지명, 이름, 소재, 상징
 ---
 15
++ nay 그게 아니라, 글쎄, 그렇기는 하나
 * Invisible
 + unhinge 경첩을 떼다, 미치게 만들다
 * Lethean
@@ -50,6 +51,7 @@ Silas marner, chapter 2
 + subsist 근근이 살아가다, 존속하다
 + aloof 냉담한
 + loam 양질의 토양, 비옥한 토양, 양토
+- field
 + cobbler 구두 수선공
 + dropsy 수종, 부기
 + precursor 선구자, 선배, 선임자
