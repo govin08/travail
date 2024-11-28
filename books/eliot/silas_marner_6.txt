@@ -13,7 +13,7 @@ Silas marner, chapter 6
 + smock-frock 작업복
 + eyelid 눈꺼풀
 + draught
-- Mr Snell, John
+- Mr. Snell, John
 + landlord (펍의) 주인
 + druv (사투리) drive의 과거형
 - Bob, butcher
@@ -31,7 +31,7 @@ Silas marner, chapter 6
 + affirmative 긍정의 말, 긍정, 동의
 47
 + defiant 반항하는, 저항하는, 도전조의, 시비조의
-- Mr Lammeter
+- Mr. Lammeter
 + drench 동물에게 물약을 먹이다
 + carcass (도살한 짐승의) 몸통
 + pig-headed 고집센, 황소고집의
@@ -51,5 +51,30 @@ Silas marner, chapter 6
 + choir 합창단, 성가대
 + basson (목관악기) 바순
 + key-bugle 유건나팔
-- Mr Toolkey, deput-clerk
-- Mr Winthrop, wheelwright
+- Mr. Tookey, deput-clerk
+- Ben Winthrop, wheelwright
++ presumtion 추정, 어림짐작, 억측, 외람됨, 건방짐
+- Crackenthorp
++ infirmity 허약, 병약, 쇠약
++ undertake
+- Squire
++ lad 사내애, 청년
+- Aaron
++ throstle (새종류) 개똥지빠귀의 일종
++ stalk (식물의) 줄기
++ unflinching 수그러들지 않는, 움츠러들지 않는
++ piquant 톡쏘는, 짜릿한, 흥미진진한, 통쾌한
+49
++ epigram 경구, 풍자시
++ varmin 해충, 해조, 기생충
++ conciliatory
+- Macey의 형제 (바이올리니스트)
++ complimentary 칭찬하는, 찬사의, 아첨하는, 치하하는
+50
++ look on 구경하다, 지켜보다
++ court ~의 환심을 사려고 하다, ~을 얻으려고 하다
+- Miss Osgood
+- Mr. Osgood
++ lass
++ rector 교구 목사
+- Mr. Drumlow
