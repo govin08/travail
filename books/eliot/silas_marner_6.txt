@@ -42,6 +42,7 @@ Silas marner, chapter 6
 + twirl 빙글빙글 돌다, 돌리다, 회전시키다
 + complacency
 + pitying 동정하는, 가련하게 여기는
+* Tarley
 48
 + deputy 대행, 대리, 대리인, 부관
 + propriety 적절성, 예절
@@ -90,3 +91,33 @@ Silas marner, chapter 6
 + wedlock 혼인, 결혼생활
 + afore (고어)(= before)
 + pooh (감탄사) 흥, 피, 치
++ bequeath 물려주다, 유증하다, 남기다, 증여하다
++ tune 곡
+52
++ duly 절차에 따라, 정당하게, 알맞게
+- Macey의 할아버지
++ groom 마부, 말 사육 담당자, 말몰이꾼
++ livery 제복, 복장
+- Mr Cliff
++ hoss 말(horse)
+* Lunnon
++ Old Harry 악마
++ fright 놀라게 하다
++ gentlefolk (고어) 좋은 가문 사람들
++ hereabout 이 근처에
++ abide 참다, 견디다, 머무르다, 깃들이다
++ queer 기묘한, 괴상한
++ crack the whip 채찍을 휘두르다
++ raving 발광하는, 미쳐 날뛰는, 굉장한
+53
++ banging (문이) 부딪히는 소리
++ make believe ~인 체하다, 가장하다
+- Macey의 아버지
+- Mr. Dowlas
++ crack nut 견과류를 깨다(까다)
++ wager 돈을 걸다, 도박하다
++ finger-post
++ many a time 여러 번, 자주
++ agoing 움직여, 진행하여
++ be obliged to ~감사하다
++ lief (고어) 기꺼이, 자진해서
