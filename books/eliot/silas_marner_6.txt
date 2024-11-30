@@ -16,7 +16,7 @@ Silas marner, chapter 6
 - Mr. Snell, John
 + landlord (펍의) 주인
 + druv (사투리) drive의 과거형
-- Bob, butcher
+- Bob Lundy, butcher
 + jolly 행복한, 쾌활한, 즐거운
 + be disposed to ~의 경향이 있다
 + rashly 성급하게, 무분별하게, 경솔히
@@ -120,4 +120,14 @@ Silas marner, chapter 6
 + many a time 여러 번, 자주
 + agoing 움직여, 진행하여
 + be obliged to ~감사하다
+54
 + lief (고어) 기꺼이, 자진해서
++ bate 덜다, 줄이다 (=abate)
++ yap 요란하게 짖어대다, 지껄여대다
++ cur 똥개
++ turn tail 꽁무니를 빼고 달아나다
++ candour 솔직함
++ pike-staff 창의 자루, 석장, 지팡이
++ tut 쯧 (못마땅해서 내는 소리)
++ skulk 몰래 숨다, 남의 눈을 피하다
++ crass 무신경한
