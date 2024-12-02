@@ -24,6 +24,7 @@ Silas marner, chapter 7
 + outermost 가장 바깥쪽의
 + sullen
 + clasp 꽉 움켜쥐다
+56
 + entreatingly 애원하다시피, 간청하듯이, 간절히
 + meddle 간섭하다, 참견하다
 + resolute 단호한, 확고한
@@ -31,3 +32,32 @@ Silas marner, chapter 7
 + on a par with ~와 동등한, 같은 수준의
 + feeble
 + transient
++ surplice (기독교) 소백의, 중백의
+57
++ preoccupation (생각의) 사로잡힘, 집착, 몰두
++ register 알아채다, 기억하다
++ sap
++ distress (정신적) 고통, 괴로움
++ mush 곤죽, 반죽, 곤죽을 만들다
++ the nick of time 아슬아슬한 때
++ disreputable
++ preternatural 기이한, 초자연적인
++ felon 중죄인, 흉악범
++ reckon 생각하다, 간주하다
++ by one's own account ~의 말에 의하면
++ torpid 무기력한, 느린, 둔한
++ compunction
+58
++ assure oneself of ~을 확인(확신)하다
++ cross-examine 꼬치꼬치 캐묻다, 심문하다
++ tramp 방랑자, 부랑자, 쿵쿵거리는 발자국소리
+- Mr Kench, constable
++ premise 진술, 기술사항
++ pregnant 그득한, 가득한
++ superlative 최상의, 최고의
++ pooh
+- Malam, justice
+59
++ rehearse 연습(준비)하다, 반복하다
++ ecclasiastical 기독교의, 교회의
++ consent 동의하다, 허락하다
