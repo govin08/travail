@@ -66,3 +66,5 @@ Silas marner, chapter 8
 + try (법원에서) 심리하다, 재판하다
 + assize 법정, 재판
 + recital 설명회, 독주회, 낭독회
++ set off
++ horseback
