@@ -142,7 +142,7 @@ Silas marner, chapter 3
 + mutter 중얼거리다, 투덜거리다, 불평하다
 + diabolical 끔찍한, 진저리나는, 사악한, 악마같은
 + cunning 교활함, 간계
-+ avoal 공언, 언명, 시인, 고백
++ avowal 공언, 언명, 시인, 고백
 + folly 판단력 부족, 어리석음, 어리석은 행동(생각)
 + prompting 촉발, 자극 유도
 + woo 구애하다
@@ -163,7 +163,7 @@ Silas marner, chapter 3
 + impel ~해야만 하게 하다
 + fitful 잠깐씩 하다가 마는
 + galling 짜증, 불편함
-+ fit 발작, 욱하는 감정
++ fit
 + yearning 갈망, 열망
 + morrow 내일
 * Batherley
