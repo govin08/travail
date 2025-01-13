@@ -434,6 +434,7 @@ and finally
 * 오역 : 오슬러의 「의학」 ← Osler’s Medicine 264
 * 우유 짜는 아가씨 milkmaid 266
 * 인정많은 기질 279
+* 진짜 신사 숙녀라면 ~ 293
 「」
 ←
 →
