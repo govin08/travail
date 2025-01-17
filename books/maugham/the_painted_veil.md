@@ -49,7 +49,7 @@
 * 그가 미소를 지었다. 조소를 담아 인상을 찌푸렸다고 해야 맞을 것이다. 그녀는 손에 이마를 갖다 댔다. 자살행위야. 그와 다를 바가 뭐가 있나. 끔찍해! 그녀는 그가 이런 식으로 나오리라고는 미처 생각지 못했다. 그가 그렇게 하도록 놔둘 수는 없었다. 잔인했다. 그녀가 그를 사랑하지 않는 게 그녀의 잘못은 아니었다. 그녀를 위해 그가 스스로 목숨을 끊는다는 생각은 참을 수 없엇다. 눈물이 그녀의 뺨을 타고 천천히 흘러내렸다. 91
 - 헤이워드 박사(Dr. Hayward) 92
 + 열녀 = virtuous widow. it was a memorial in compliment of a fortunate scholar or a virtuous widow 128
-- 워딩턴(Waddington, 행정부관, Deputy Commissioner, 세관원, Customs) 130 141 146
+- 워딩턴(Waddington, 행정부관, Deputy Commissioner, 세관원, Customs) 130 141 146 208
 - 왓슨(Watson, 선교사, missionary, 사망) 130 154
 - 태수(太守, magistrate) 131 146
 - 유대령(Colonel Yü) 131 146
@@ -91,9 +91,12 @@
 * A la bonne heure 192
 * 알겠지만, 평화는 일이나 쾌락, 이 세상의 수녀원이 아닌 자신의 영혼 속에서만 찾을 수 있습니다. You know, my dear child, that one cannot find peace in work or in pleasure, in the world or in a convent, but only in one's soul. 192
 * 하지만 오고 싶어요, 수녀님. 여기가 나를 쉬게 하는군요. But I like to come, Mother. I find that it rests me. 196
-- 워딩턴의 동거녀 201
+- 만주부인 (워딩턴의 동거녀) 201
 * 어느 날 문득, 그녀는 일주일 동안 한 번도 찰스 타운센드에 대한 생각을 하거나 꿈을 꾸지 않았다는 것을 깨달았다. 갑자기 그녀의 심장이 쿵쿵 두방망이질했다. 그녀가 치료된 것이다! 이젠 찰스를 생각해도 아무렇지 않았다. 더 이상 그를 사랑하지 않아. 아, 이 평안과 자유스러움이여! 203
 * Que vous êtes belle, ma cheère enfant 204
+* 해링턴 가든스 Harrington Gardens 207
+* chaise longue 214
+* Qu'est ce qu'elle dit? ... Quelle jolie pour le docteur. 216
 
 「」
 ←
