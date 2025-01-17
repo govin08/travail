@@ -97,6 +97,7 @@
 * 해링턴 가든스 Harrington Gardens 207
 * chaise longue 214
 * Qu'est ce qu'elle dit? ... Quelle jolie pour le docteur. 216
+* 남자가 아내의 정조를 아무리 중요하게 여긴다 해도 이건 도에 지나쳤다. 228
 
 「」
 ←
