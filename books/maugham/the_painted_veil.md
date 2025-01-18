@@ -71,7 +71,7 @@
 * 그녀는 마치 커튼의 한쪽 끝이 잠시 들어 올려진 틈새로 꿈에서는 본 적 없는 다채롭고 장대한 세상을 언뜻 본 것만 같았다. It was as though the corner of a curtain were lifted for a moment, and she caught a glimpse of a world rich with a colour and significance she had not dreamt of. 147
 * "위험하단 말이오. 이건 미친 짓이야. 자살 행위라고." // "그래서 먹는 거에요." 149
 * 질병에 대한 공포에 사로잡힌 채 그것을 먹는 키티의 마음속에는 월터에게 복수하겠다는 악의뿐만 아니라 자신의 절망적인 두려움을 비웃는 조롱이 도사리고 있었다. Kitty, in terror of the disease, took it with the feeling not only that she was thus maliciously avenging herself on Walter, but that she was flouting her own desperate fears. 149
-- 원장수녀 (The Mother Superior) 157
+- 원장수녀 (The Mother Superior, 오데트) 157
 + 삼판선(sampan, 三板船) 160
 + 부잔교(landing-stage, 浮棧橋) 160
 - 조제프 수녀 (Sœur St. Joseph) 161 194
@@ -104,7 +104,13 @@
 * 스리캐슬스 담배 233
 * 도 236
 * 조제프 수녀의 올케 237
+* 더이상 그녀를 위해서가 아니라 240
 * 고통으로 가득찬 세상에 240
+* 비에르노 부인 (원장 수녀의 옛 친구) 242
+* 원장 수녀의 어머니 243
+* Mais oui 245
+* 마음을 얻는 방법은 딱 하나입니다 246
+* 
 「」
 ←
 →
