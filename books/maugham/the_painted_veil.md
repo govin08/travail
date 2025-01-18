@@ -97,7 +97,10 @@
 * 해링턴 가든스 Harrington Gardens 207
 * chaise longue 214
 * Qu'est ce qu'elle dit? ... Quelle jolie pour le docteur. 216
+* 그녀가 크게 동요하고 있는데도 222
+* 그녀는 그의 인간성에 몸을 던지고 227
 * 남자가 아내의 정조를 아무리 중요하게 여긴다 해도 이건 도에 지나쳤다. 228
+* 현재 그가 그녀의 마음 속에 일깨운 229
 * 스리캐슬스 담배 233
 * 도 236
 * 조제프 수녀의 올케 237
