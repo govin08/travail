@@ -15,8 +15,8 @@
 - 찰스 타운센드 (Townsend, 키티의 애인, 41살, 홍콩 총독부 차관보) 20 57 134 141
 * 하페이밸리 23
 * 빅토리아로드 24 77
-- 도로시 타운센드(타운센드 부인) 24 57 143
-- 가스틴 부인 (키티의 어머니) 25 31
+- 도로시 타운센드(타운센드 부인) 24 57 143 287
+- 가스틴 부인 (키티의 어머니) 25 31 317
 - 타운센드 부부의  아들 1 (영국에 거주, 15살) 25
 - 타운센드 부부의  아들 2 (영국에 거주) 25
 - 타운센드 부부의  아들 3 (홍콩에 거주) 25
@@ -42,7 +42,7 @@
 * 게다가 그(타운센드)는 그녀가 좋아하는 똑똑한 남자이기도 했다. 61
 * 카르티에 61
 * 쿠 초우의 가게 (Ku-Chou's, 골동품 가게, the curio shop) 77
-- 시몬스 (현 총독) 81
+- 시몬스 (현 총독) 81 299
 * 메이탄푸(Mei-tan-fu, 湄潭赋) 89
 - 프랑스 수녀들 (5명 → 6명) 89
 - 알버스너트 89
@@ -109,7 +109,7 @@
 * 원장 수녀의 어머니 243
 * Mais oui 245
 * 마음을 얻는 방법은 딱 하나입니다. 자신이 사랑을 주고 싶은 대상처럼 자신을 만들면 되지요. There is only one way to win hearts and that is to make oneself like unto those of whom one would be loved. 246
-- 도리스의 아들 248
+- 도리스의 첫째 아들 248 318
 * 그녀는 이제 그가 조금도 두렵지 않맜다. 오히려 그가 안타깝고 다른 한편으로는 그가 살짝 어리석다는 생각을 떨쳐 버릴 수 없었다. She was not in the least frightened of him now, but sorry for him, and at the same time she could not help thinking him slightly absurd. 248
 * "윌터, 제발 날 용서해줘요." // 그녀가 그 위로 몸을 기울이며 말했다. 그녀는 그가 부담감을 견딜 수 없을까 봐 두려워 그를 동요시키지 않으려고 조심했다. "너무나 미안해요, 당신에게 잘못을 저질렀어요. 뼈저리게 후회해요." "Walter, I beseech you to forgive me," she said, leaning over him. For fear that he could not bear the pressure she took care not to touch him. "I'm so desperately sorry for the wrong I did you. I so bitterly regret it." 269
 * "내 사랑" // 그의 핏기 없고 수척한 얼굴에 어떤 기색이 비쳤다. 그것은 움직임이라고 하기엔 미약했지만 무시무시한 발작에 버금가는 파장을 일으켰다. 그녀는 그에게 그 단어를 한 번도 사용한 적이 없었다. 그녀가 그런 표현을 빈번하게 사용한 것은 개들과 아기들과 자동차뿐이었다는 혼란스럽고 믿기 힘든 생각이 죽어 가는 그의 머릿속에 스친 모양이었다. 그떄 뭔가 가슴 아픈 일이 일어났다. 그녀는 주먹을 꽉 쥐고서 자신을 억제하려고 안간힘을 썼다. 그의 야윈 뺨에 두 줄기 문물이 천천히 흘러내리는 것을 보았던 것이다. "Darling." // A shadow passed over his wan and sunken face. It was less than a movement, and yet it gave all the effect of a terrifying convulsion. She had never used that word to him before. Perhaps in his dying brain there passed the thought, confused and difficulty grasped, that he had only heard her use it, a commonplace of her vocabulary, to dogs and babies and motor-cars. Then something horrible occurred. She clenched her hands, trying with all her might to control herself, for she saw two tears run slowly down his wasted cheeks. → 여기서 그 단어(that word)가 뭘 뜻하지. 직전의 "내 사랑"("Darling.") 일까? 261
@@ -121,6 +121,19 @@
 * Eh bien, Madame, je vous quitte. 279
 * 의무를 이행하는 건 아무것도 아니라는 걸, 하지만 그게 당신이 해야 할 일이라는 걸 명심하세요. 그리고 손이 더러워지면 반드시 씻는 것보다 더 기특한 일은 없다는 것도요. _단 한 가지 중요한 것은 의무에 대한 사랑입니다. 사랑과 의무가 하나면 은총이 당신 안에 머물거에요._ 그리고 당신은 모든 이해를 초월하는 행복을 맛볼 겁니다. Remember that it is nothing to do your duty, that is demanded of you and is no more meritorious than to wash your hands when they are dirty; _the only thing that counts is the love of duty; when love and duty are one, then grace is in you_ and you will enjoy a happiness which passes all understanding. 281
 * 그녀는 마지막으로 열녀문을 보면서 그 외관에서 풍기는 불가사의한 모순과 그에 버금가는 자기 자신의 모순에 이제는 답을 할 수 있을 것 같은 느낌이 들었다. at the memorial arch he said good-bye to her, and looking at it for the last time she felt that she could reply to the enigmatic irony of its appearance with an equal irony of her own. 281
+* 자유! 그게 바로 그녀의 가슴속에서 울려 퍼지는 생각이었고, 비록 미래는 아주 희미했지만 아침 햇살에 드리운 안개낀 강물처럼 다채롭게 빛났다. 자유! 답답한 속박으로부터의 자유일 뿐 아니라 그녀를 짓눌렀던 애증 관계로부터의 자유였다. 자유, 위협적인 죽음으로부터의 자유, 그녀를 땅으로 끌어내렸던 사랑으로부터의 자유. 모든 정신적 속박으로부터의 자유, 유체 이탈된 한 영혼의 자유. 그리고 자유, 용기, 무슨 일이 생기든 개의치 않는 씩씩함이 그녀와 함께했다. Freedom! That was the thought that sung in her heart so that even though the future was so dim, it was iridescent like the mist over the river where the morning sun fell upon it. Freedom! Not only freedom from a bond that irked, and a companionship which depressed her; freedom, not only from the death which had threatened, but freedom from the love that had degraded her; freedom from all spiritual ties, the freedom of a disembodied spirit; and with freedom, courage and a valiant unconcern for whatever was to come. 286
+* 물론 그는 그들을 교묘하게 놀리고 있었다. 비열한 개처럼 Of course he was skilfully pulling their legs: the dirty dog. 299
+* 그녀는 여자가 아니었고 그녀의 인격은 와해되었다. 그녀는 단지 욕망이었다. She was not a woman, her personality was dissolved, she was nothing but desire. 305
+* 그가 너무나 옳았다. 무가치한 그녀와 그가 결혼하지 않은 건 그로서는 당연했다. 그녀가 매춘부보다 나을 게 뭐란 말인가. 아니, 더 형편없지. 최소한 그 가벼운 여자들은 빵을 위해서 자신을 내준다. He was so justified. He had been right not to marry her, for she was worthless; she was no better than a harlot. Oh, worse, for those poor women gave themselves for bread. ... 하지만 그녀는 노예에 불과했다. 나약하고, 나약한! 한심하고, 가망없는, 창녀. and she was a slave. Weak, weak! It was hopeless, it was no good to try, she was a slut.
+* 홍콩으로 돌아온 그녀의 다시금 자행된 타락. 도시 분위기가 주는 유혹적인 분위기가 있다. 사람들은 시골보다 서울에서 더 많은 걸 얻을 수 있을 지 모르겠는데, 또 한편으로는 서울에서 더 많은 걸 잃을 수도 있겠다는 생각이 든다. 315
+* Sainte Marie 316
+* 도대체 무엇에 홀렸기에 그토록 그를 경멸하는데도, 온 마음을 다해 경멸하는데도 찰스의 천박한 포옹에 열정적으로 굴복했단 말인가? What was it that had seized her, so that, despising him, despising him with all her heart, she had yielded passionately to Charlie's foul embrace? 316
+- 도리스의 둘째 아들 248 318
++ 군식구 318
+* 키티는 아버지가 딸에게서 숨기려고 하는 게 무엇인지 단박에 알아챘다. 그것은 안도감, 영원한 안도감이었고, 그런 자신에 대한 두려움이었다. She guessed at once what her father was trying to hide from her. It was relief he felt, an infinite relief, and he was frightened of himself. 322
+* 죽음이 그녀의 얼굴에서 야비함을 도둑질해 가고 개성적인 인상만 남겨 놓았다. Death had robbed her face of its meanness and left only an impression of character. 323
+* 이제까지 죽은 사람들을 여러 번 봐 왔지만 한동안 영혼이 머물렀던 육체라는 느낌을 죽어서도 풍기는 경우는 이상하게도 처음이었다. 그녀는 슬픔을 느낄 수는 없었다. 그녀의 가슴에 깊은 애정의 느낌이 남아 있기에는 어머니와 그녀 사이에 존재하는 아픔이 너무 컸다. It was strange to Kitty that of the dead persons she had seen this was the only one who in death seemed to preserve a look as though that clay had been once a habitation of the spirit. Grief she could not feel, for there had been too much bitterness between her mother and herself to leave in her heart any deep feeling of affection;
+* 어머니는 평생동안 책략과 술책으로 일관했지만 속되고 무가치한 것 이외엔 아무것도 얻지 못했다. 아마 어머니는 지금쯤 저세상에서 자신의 세속적인 일생을 실망스럽게 바라보고 있지 않을까? She had schemed and intrigued all her life and never had she desired anything but what was base and unworthy. Kitty wondered whether perhaps in some other sphere she looked upon her earthly course with consternation. 324
 「」
 ←
 →
