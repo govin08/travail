@@ -134,6 +134,7 @@
 * 죽음이 그녀의 얼굴에서 야비함을 도둑질해 가고 개성적인 인상만 남겨 놓았다. Death had robbed her face of its meanness and left only an impression of character. 323
 * 이제까지 죽은 사람들을 여러 번 봐 왔지만 한동안 영혼이 머물렀던 육체라는 느낌을 죽어서도 풍기는 경우는 이상하게도 처음이었다. 그녀는 슬픔을 느낄 수는 없었다. 그녀의 가슴에 깊은 애정의 느낌이 남아 있기에는 어머니와 그녀 사이에 존재하는 아픔이 너무 컸다. It was strange to Kitty that of the dead persons she had seen this was the only one who in death seemed to preserve a look as though that clay had been once a habitation of the spirit. Grief she could not feel, for there had been too much bitterness between her mother and herself to leave in her heart any deep feeling of affection;
 * 어머니는 평생동안 책략과 술책으로 일관했지만 속되고 무가치한 것 이외엔 아무것도 얻지 못했다. 아마 어머니는 지금쯤 저세상에서 자신의 세속적인 일생을 실망스럽게 바라보고 있지 않을까? She had schemed and intrigued all her life and never had she desired anything but what was base and unworthy. Kitty wondered whether perhaps in some other sphere she looked upon her earthly course with consternation. 324
+* 마지막 문단이 민음사 판본과 gutenberg 원문이 일치하지 않는다
 「」
 ←
 →
