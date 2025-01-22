@@ -3,6 +3,8 @@
 - https://archive.org/details/in.ernet.dli.2015.507685 : 민음사 판본과 일치하는 것으로 보임
 
 
+* tea (「인간의 굴레에서」, p. 30의 주석) : 빅토리아 시대의 영국인들은 오후에 차를 곁들인 가벼운 간식을 먹었다. (차를 곁들이기 때문에 이 간식을 보통 'tea'라고 부른다.) 이 간식은 계층마다 먹는 방식이나 음식이 약간씩 다르다. 상류 계층은 오후 세 시경에 샌드위치와 케이크를 간단히 먹는다. 그런 다음, 여덟 시경에 저녁 식사(supper)를 더 한다. 정찬(dinner)은 주로 낮에 하는데 저녁에 정찬을 하는 경우도 있다. 필립의 가족과 같은 중류 계층은 간식을 꽤 푸짐하게 먹는다. 어린 사람에게는 이것이 보통 하루의 마지막 식사가 되지만 어른들은 저녁에 가벼운 식사를 더 하기도 한다. 노동 계층은 주로 버터 바른 빵, 치즈, 그리고 약간의 고기를 맥주 한 잔 정도에 곁들여 먹는데 그들에게는 이것으로 하루 식사가 끝이다. 따라서 이들에게는 이 'tea'가 간식이라기보다는 저녁 식사가 된다. 요즘에는 영국의 대부분의 지방에서 저녁식사를 'tea'라고 부르는 경향이 있고 일부 지방에서는 'dinner' 혹은 'supper'라고 한다.
+
 - 화자(어셴든 윌리엄, Ashenden, Willie) 7 74 98 122
 - 로지 갠(Rosie Gann, 드리필드의 첫번째 부인, 로지 드리필드, 로지 이글던Iggulden) 8 47 57 79 98 109 126 130 154 174 192 200 226 279
 - 윌리엄 백부(「인간의 굴레에서」, 목사) 9
@@ -126,7 +128,7 @@
 * 런던 채텀 앤드 도버 레일웨이 (역, London, Chatham & Dover Railway) 89
 * 베어 앤드 키 (술집, Bear and Key) 89 95 155(162) 252 261
 * 듀크 오브 켄트 (술집, Duke of Kent) 89 254
-- 조지 켐프 (George Kemp, 석탄 상인) 89 105 109 124 134 175 235 283
+- 조지 켐프 (George Kemp, 석탄 상인) 89 105 109 114 124 134 175 235 283
 * 서른이 넘은 사람들이 사랑을 한다니 속이 좀 울렁거렸다. That people over thirty should be in love seemed to me rather disgusting. 93
 * 펀 베이(Ferne bay) 92 102
 - 조지 켐프의 두 아들 92 236
@@ -150,46 +152,61 @@
 + 중혼 109
 + 배서 109
 * 사히브 112
+* 드리필드 부부의 하녀 113 132
 * 간유리 114
-* 수형 피아노 116 182
-* 벤조 116
+* 수형 피아노 (cottage piano) 116 182
+* 벤조 (banjo) 116 125
+* 그들은 연주나 노래 요청을 바라지 않는다는 표시로 악보를 현관에 놓아두었지만 집주인은 차를 마신 후 그들에게 악보를 가져왔느냐고 물었다. → 이 관습을 다른 소설에서 본 것 같은데. 혹시 「오만과 편견」에서였나? 116
+* 「페어헤이븐 (Fairhaven)」 드리필드의 소설 118
+* 드리필드에 대한 갤러웨이의 평가 : 물론 저속한 사람들이긴 한데 그의 소설은 그렇게 형편없지 않아. 게다가 출신을 생각하면 글을 쓰는 것 자체가 대단하지. Of course they're rather common, but he doesn't write half badly, and when you think what he came from it's wonderful that he writes at all. 119
 - 스미스슨 (포목상) 116
-- 인컴 부인 (그린고트 부인의 사촌) 119
+- 인컴 부인 (Mrs Encombe, 그린고트 부인의 사촌) 119
 - 인컴씨(옥스포드 대학교 교수) 119
-- 험프리 워드 120 182
-- 글래드스톤 120
-- 매슈 아널드 121
-- 브로턴 양 121
-- 헤이포스 부인 (의사 아내) 121
-* 위다 121
+* 험프리 워드 부인 (Mrs. Humphry Ward) 120 182
+* 「로버트 엘즈미어(Robert Elsmere)」 : 험프리 워드의 책. Ward's most popular novel by far was the religious "novel with a purpose" Robert Elsmere, which portrayed the emotional conflict between the young pastor Elsmere and his wife, whose over-narrow orthodoxy brings her religious faith and their mutual love to a terrible impasse; but it was the detailed discussion of the "higher criticism" of the day, and its influence on Christian belief, rather than its power as a piece of dramatic fiction, that gave the book its exceptional vogue. It started, as no academic work could have done, a popular discussion on historic and essential Christianity.
+- 글래드스톤 씨 (Mr. Gladstone) 120
+- 매슈 아널드 씨 (Mr. Matthew Arnold, 험프리 워드의 삼촌) 121
+- 브로턴 양 (Miss Broughton) 121
+- 헤이포스 부인 (의사 아내, Mrs. Hayforth) 121
+* 「장미처럼 붉은 그녀(Lady Rose's Daughter)」 : 험프리 워드의 책. Lady Rose's Daughter is a novel by Mary Augusta Ward that was the best-selling novel in the United States in 1903. 서머싯 몸은 이 책을 「Red as a Rose is She」로 쓰고 있다.
+* 위다 (Ouida) 121
+* Mademoiselle de la Ramée 122
 - 의사 122
 * 찰스 디킨스 123 183 210
-* 휘스트 126
-* 새뮤얼 스콧 129
-* 망통 130
+* 「피크윅 클럽 여행기(Pickwick Papers)」 : 디킨스의 소설 123
+* 휘스트 (whist) 126
+* 새뮤얼 스콧 (Samuel Scott, 화가) 129
+* 망통 (지명) 130
 - 해리스 (고깃간) 130
-- 드리필드 집의 하녀 132
-* 제러미 테일러 139
+* 귀족처럼 굴지는 않았어요. Well, after all they didn't exactly suggest the Vere de Veres, you know. 133
+* 정통과 비속이 어수선하게 뒤섞인 문체 an uneasy mixture of the classical and the slangy 136
+* 그는 속물들을 다스리기에 아주 좋은 몽둥이였다. He was a very good stick to beat the Philistines with. 137
+* 그러나 여자들이 곧잘 변비에 걸린다는 것을 모르는 사람이 없거늘 소설에서 여자들을 항문이 없는 존재처럼 그리는 것은 기사도 정신의 과잉이라고밖에 안 보인다. 그런데도 여자들은 자기들을 그런 식으로 그리는 것을 좋아하니 나로서는 놀라울 따름이다. We know of course that women are habitually constipated, but to represent them in fiction as being altogether devoid of a back passage seems to me really an excess of chivalry. I am surprised that they care to see themselves thus limned. 138
+* 선택된 자들은 대중성을 비웃는다. 그들은 대중성을 평범함의 증거로 치부하는 경향이 있으나 이는 후대 사람들의 선택이 한 시대의 무명작가들이 아니라 유명한 작가들 중에서 이루어진다는 점을 간과하는 것이다. 불후의 명작이 언론의 외면 속에 사장되는 일이 계속되어 왔을지 몰라도 후대 사람들은 그 존재를 알 길이 없다. 또한 후대 사람들이 지금의 베스트셀러를 모조리 폐기 처분하더라도 결국 무엇을 고른다면 지금의 베스트셀러 속에서 고를 수밖에 없는 것이다. The elect sneer at popularity; they are inclined even to assert that it is a proof of mediocrity; but they forget that posterity makes its choice not from among the unknown writers of a period, but from among the known. It may be that some great masterpiece which deserves immortality has fallen still-born from the press, but posterity will never hear of it; it may be that posterity will scrap all the best sellers of our day, but it is among them that it must choose. 138
+* 제러미 테일러 (Jeremy Taylor) 139
 * 판(Pan) 140
 * 서리(Surrey) 140
-* 문단의 화두 : 하느님 → 판 → 아름다움 140 157
+* 문단의 화두 : 하느님God → 판Pan → 아름다움Beauty → 현실주의 140 157
 * 아름다움 (beauty) 140
-* 티치아노 142
-* 라신 142
-* 엘 그레코 142
+* 아름다움은 황홀감이고 배고픔만큼이나 단순하다. 이러쿵저러쿵 떠들 만한 거리가 아닌 것이다. 장미 향기와 같아서 한 번 냄새를 맡으면 그것으로 끝이다. 이것이 예술 비평이 지루한 이유다. 아름다움과 무관한, 즉 예술과 무관한 내용이라면 모르겠지만. Beauty is an ecstasy; it is as simple as hunger. There is really nothing to be said about it. It is like the perfume of a rose: you can smell it and that is all: that is why the criticism of art, except in so far as it is unconcerned with beauty and therefore with art, is tiresome. ... 아름다움은 완벽하지만 완벽함은 (인간의 본성상) 사람들의 주의를 잠시 잡아 둘 뿐이다. Beauty is perfect, and perfection (such is human nature) holds our attention but for a little while. ... 아름다움은 막다른 골목이고, 한번 도달하면 어디로든 갈 수 없는 산봉우리다. Beauty is a blind alley. It is a mountain peak which once reached leads nowhere. ... 아름다움은 심미적 본능을 만족시킨다. 하지만 대체 누가 만족하기를 원하는가? 배부른 것이 진수성찬 못지 않게 좋다는 말은 어리석은 자에게나 해당된다. 아름다움은 지루하다는 것을 직시해야 한다. Beauty is that which satisfies the æsthetic instinct. But who wants to be satisfied? It is only to the dullard that enough is as good as a feast. Let us face it: beauty is a bit of a bore. 141
+* Qu'est-ce que ça prouve? 142
+* 티치아노(Titian, 이탈리아 화가) 142
+* 엘 그레코 (El Greco, 그리스 화가) 142
+* 라신 (Racine, 프랑스 극작가) 142
 + 염생 습지 143
-* 그의 가치는 긴 수명에 있다. 143
 + 프리마돈나 143
-- 올더스 147
-- 앳킨스 149
+* 그(드리필드)의 가치는 긴 수명에 있다. 노인을 공경하는 것은 인류가 가진 가장 바람직한 특성 중 하나인데 이 특성은 다른 어느 나라보다 영국에서 뚜렷하다고 볼 수 있다. it was his longevity. Reverence for old age is one of the most admirable traits of the human race and I think it may safely be stated that in no other country than ours is this trait more marked. ... 곰곰이 숙고한 끝에 내린 결론은 이렇다. 평균 나이를 넘긴 노작가가 노년에 보편적으로 칭송받는 진짜 이유는 지식인들이 서른 살이 넘으면 글을 전혀 읽지 않기 때문이다. 나이가 들수록 젊었을 때 읽은 책들은 화려한 빛을 발하기 마련이니 그 책을 쓴 저자의 가치는 해마다 높아진다. 물론 계속 글을 쓰고 대중의 시선 안에 머무는 노작가여야 한다. After mature consideration I have come to the conclusion that the real reason for the universal applause that comforts the declining years of the author who exceeds the common span of man is that intelligent people after the age of thirty read nothing at all. As they grow older the books they read in their youth are lit with its glamour and with every year that passes they ascribe greater merit to the author that wrote them. Of course he must go on; he must keep in the public eye. 143
+- 올더스(Aldous) → 올더스 헉슬리를 말하는 듯하다. 147
 * 건축 (→ 토머스 하디?) 150 283
-* 헨리 제임스 152 210 266
+* 셰익스피어의 희곡 : 「잣대엔 잣대로(Measure for Measure)」, 「트로일러스와 크레시다(Troilus and Cressida)」 152
+* 헨리 제임스가 미국의 부상이라는 세계사의 중대 사건을 나몰라라 한 채 잉글랜드 시골 저택의 다과회에서 나오는 잡담을 기록하느라 바쁘다고 했지. Henry James had turned his back on one of the great events of the world's history, the rise of the United States, in order to report tittle-tattle at tea parties in English country houses 152
+* 헨리 제임스 (Henry James) 152 210 266
 - 백작부인 152
-* 에드먼드 고스 155
-* 커즌 경 155
+* 유명인사들 : 에드먼드 고스 (Edmund Gosse), 커즌 경 (Lord Curzon) 155
+* 리턴 스트레이치(Lytton Strachey, 평론가) 157
 * 반다이크 초상화 157 171 195
-* 가장 순수한 타입의 예술가는 자기가 던진 농담에 혼자 웃음을 터뜨리는 익살꾼이 아닌가 하는 생각을 종종 한다. 160
-* 펨리코 160
+* 가장 순수한 타입의 예술가는 자기가 던진 농담에 혼자 웃음을 터뜨리는 익살꾼이 아닌가 하는 생각을 종종 한다. I often think that the purest type of the artist is the humorist who laughs alone at his own jests. 160
+* 일전에 자네가 그 양반에 대한 글을 쓸 생각이 없다고 말하지만 않았어도 부탁하지 않았을 거야. 그 자료를 쓸 생각도 없이 그냥 간직하겠다는 건 나는 먹기 싫고 남 주긴 아깝다는 심보이지 뭔가. I shouldn't have asked you, but you told me the other day that you weren't going to write anything about him yourself. It would be rather like a dog in a manger to keep to yourself a whole lot of material that you have no intention of using. 161
 - 허드슨 부인 164 173
 * 세인트 루크(St. Luke's) 164 179
 - 웨스트민스터 학교 교사 164
