@@ -1,36 +1,56 @@
-원문 : https://gutenberg.ca/ebooks/maughamws-cakesandale/maughamws-cakesandale-00-e.html
+원문 :
+- https://gutenberg.ca/ebooks/maughamws-cakesandale/maughamws-cakesandale-00-e.html : 민음사 판본과 다른 부분 존재
+- https://archive.org/details/in.ernet.dli.2015.507685 : 민음사 판본과 일치하는 것으로 보임
 
-- 화자(윌리 어셴든) 7 74 98 122
-- 로지(드리필드의 첫번째 부인, 로지 갠Gann, 로지 드리필드, 로지 이글던Iggulden) 8 47 57 79 98 109 126 130 154 174 192 200 226 279
+
+- 화자(어셴든 윌리엄, Ashenden, Willie) 7 74 98 122
+- 로지 갠(Rosie Gann, 드리필드의 첫번째 부인, 로지 드리필드, 로지 이글던Iggulden) 8 47 57 79 98 109 126 130 154 174 192 200 226 279
 - 윌리엄 백부(「인간의 굴레에서」, 목사) 9
-- 이사벨라(「인간의 굴레에서」, 윌리엄의 아내) 9
+- 이사벨라(「인간의 굴레에서」, 윌리엄의 아내) → 해당 소설에 등장하는 백모는 루이자, 루이자 케리인데 왜 여기서는 이사벨라라고 쓰여져 있지?  9
 - 헨리 숙부(목사) 9 52 85 95 97 120 124 129 174 243 260
-- 소피 숙모 9 52 85 110 120 126 129 192 262
+- 소피 숙모 (독일인, 높은 신분임에도 가난한 집안 출신) 9 52 85 110 120 126 129 192 262
 - 필립 캐리(「인간의 굴레에서」)
 * 토머스 하디 9
-- 에드워드 드리필드(테드, Edward Driffield, Ted) 9 39 54 77 95 97 110 125 130 136 177 225 241 246
+- 에드워드 드리필드(테드, Edward Driffield, Ted, 84살까지 장수) 9 39 54 77 95 97 110 125 130 136 177 225 241 246
 * 조지 메러디스 9 43
 * 아나톨 프랑스 9
-* 레이디 세인트헬리어 10
+* 나는 열여덟 살 때 「테스」를 읽고 젖 짜는 아가씨와 결혼하리라 결심할 만큼 그것에 열광했지만, 대부분의 동시대인들과 달리 하디의 다른 작품들은 그다지 좋아하지 않았고 문체도 별로 높이 평가하지 않았다. → 이후 나오는 어셴든이 드리필드에 대해 하는 평가와 거의 일치하는 것으로 보인다. 그런데도 서머싯 몸은 잡아떼고 있다. 9
+* 레이디 세인트헬리어 (레이디 잔) → 미스 트래포드를 연상케 한다. 10
 + 앙트레entrée 10
-- 엘로이 키어(로이, Alroy Kear, Roy) 10 13 32 50 61 136 164 210 246 270
+- 엘로이 키어(Alroy Kear, Roy, 로이) 10 13 32 50 61 136 164 210 246 270
 + 흠결 11
+* 우리가 창조한 모든 인물은 우리 자신의 복사본과 다름없다. 물론 그들이 나 자신보다 더 고귀하고 더 이타적이며 더 도덕적이고 더 신성할 수도 있다. 신이 그러하듯 작가가 본인의 이미지를 바탕으로 인물을 창조하는 것은 아주 자연스러운 현상이다. 자신의 작품을 홍보하기 위해 갖은 수단을 동원하는 작가를 표현할 때 나는 다른 사람에게 초점을 맞출 필요가 없었다. 그러기에 이것은 너무나 흔한 관행이다. 누구나 공감할 수밖에 없는 문제다. 11
+* 칵테일 파티 12
+* 어떤 사람이 누군가의 집에 전화를 걸어 찾는 사람이 출타중이라는 것을 알고는 중요한 용무인 양 들어오는 대로 전화해 달라는 메시지를 남겼다면 그 용무란 것은 전화를 받은 사람보다 전화한 사람에게 더 중요한 일이기 마련이다. (첫문장) I have noticed that when someone asks for you on the telephone and, finding you out, leaves a message begging you to call him up the moment you come in, and it's important, the matter is more often important to him than to you. 13
 - 펠로스 양 13 49
+* 엘로이 키어의 수첩 15
 + 안면몰수 15
-* 토머스 칼라일 16 43
+* 동시대 작가들 중 로이만큼 보잘것없는 재능으로 확고한 위치를 거머쥔 작가는 찾아보기 어려웠다. I could think of no one among my contemporaries who had achieved so considerable a position on so little talent. 16
+* 토머스 칼라일 (「프랑스 혁명French Revolution」, 「의상철학Sartor Resartus」) 16 43
+* 나로서는 로이가 토머스 칼라일이 어느 만찬 연설에서 "천재는 고통을 감내하는 무한한 능력을 가졌다."라고 했다는 글을 읽고 큰 깨달음을 얻었을 거라고 짐작할 수밖에 없다. I cannot but think that he saw the white light of revelation when first he read that Charles Dickens in an after-dinner speech had stated that genius was an infinite capacity for taking pains. 16
 - 레이먼드 키어(엘로이의 아버지, 홍콩 식민장관, 자메이카 총독) 16
 - 에밀리(엘로이의 어머니) 17
+* 앤서니언Athenamm 17
 + 마권 18
-* 「바늘의 눈」(엘로이 키어의 두번째 소설)
-* 버건디(Burgundy, 부르고뉴Bourgogne산 포도주)
+* 그가 대가를 받고 만찬 후 연설을 하고 있음이 얼마 후 밝혀졌다. 그가 워낙 상냥했기 때문에 동료 작가들과 경쟁자들, 동년배들은 그가 신사라는 사실에도 불구하고 그 사실을 눈감아주었다. It was soon discovered that he had a pretty gift for after-dinner speaking. He was so pleasant that his fellow writers, his rivals and contemporaries, forgave him even the fact that he was a gentleman. → 신사라면 대가를 받고 연설을 하면 안되는 사회적 합의가 있었나보다. 20
+* 그들은 장애물이 될 만큼 높이 올라가지 못할 남자에게 기꺼이 발판이 되어 주었다. they were quite content to give a leg up to a man who would never climb so high as to be an obstacle to themselves. 21
+* 로이의 겸손함과 진실함 : 로이를 거만하다고 말하는 사람들이 있기는 하지만 그것은 그들의 착각이다. 로이는 젊은 시절에 가장 큰 매력으로 작용한 겸손함을 한시도 잃은 적이 없다. But when they say that he is swollen-headed they err. Roy has never lost the modesty which in his youth was his most engaging trait. / 이것만큼은 스미스가 잘못 본 것이다. 엘로이 키어의 가장 탁월한 특징은 진실함이었다. 무려 이십오 년간 사기를 칠 수 있는 사람은 세상에 없다. 위선만큼 성취하기 어렵고 진이 빠지는 악덕도 없다. 위선은 한시도 늦추지 않는 경계심과 영혼을 초월하는 극기가 필요하다. 불륜이나 폭음과 달리 짬짬이 훈련으로 달성할 수 있는 것이 아니다. 하루를 온전히 투자해야 하는 작업이다. Smith was wrong here. The most shining characteristic of Alroy Kear was his sincerity. No one can be a humbug for five-and-twenty years. Hypocrisy is the most difficult and nerve-racking vice that any man can pursue; it needs an unceasing vigilance and a rare detachment of spirit. It cannot, like adultery or gluttony, be practised at spare moments; it is a whole-time job. 21 27
+* 「바늘의 눈」(엘로이 키어의 두번째 소설) 21
+* 시적 정의 poetic justice 22
+* 버건디(Burgundy, 부르고뉴Bourgogne산 포도주) 23
 - 스미스 26
+* 오래된 우정을 유지하려 애쓰는 건 쓸데없는 일일세. 양쪽 모두 고통스럽기만 하니까. 누군가는 남들보다 더 성장하는 것이 사실이니 받아들일 수밖에 없어. It's no good trying to keep up old friendships. It's painful for both sides. The fact is, one grows out of people, and the only thing is to face it 26
++ 마침맞다 28
 * 돈키호테 30
-* 애덤 33
+* 엘로이 키어의 클럽에 있는 늙은 짐꾼과 시동 33
+* 애덤 스타일 33
++ rhubarb 대황 34
 - 암스트롱 (와인 담당자) 35
++ 립프라우밀히 Liebfraumilch 35 
 * 마티스 38
 * 마르셀 프루스트 38
-- 에이미 드리필드(드리필드의 두번째 부인, 간호사) 40 59 61 154 166 249 256 270 278 285
-* 윌터 페이터 43
+- 에이미 드리필드(드리필드의 두번째 부인, 간호사, 25년간 결혼생활) 40 59 61 154 166 249 256 270 278 285
+* 월터 페이터(「마리우스Marius」) 43
 * 뉴먼 44
 * 피츠제럴드 44
 * 괴테 44
@@ -45,69 +65,88 @@
 * 베를렌 44
 * 셰익스피어 44 137 152
 - 펀 코트(Ferne Court) 45 66 81 96 122 154 261 278 285
+* 드리필드의 틀니와 담뱃재 46
+* 사랑스러운 여자였어. She was sweet. 48
 + 버슬 치마 50 271
 * 말라르메 50
+* 발레리 화이트와 토스티의 노래 50
++ 쪽매붙임 52
 - 런던의 은행가 53
 - 은행가의 아들 53
 + 옹송그리다 54 214
-- 은행 점장 (교구 위원) 55
-- 갤러웨이 (부목사) 55 79 114 124 151
-+ 니커보커스 55 150
+- 은행 점장 (manager, 교구 위원, churchwarden) → 「인간의 굴레에서」의 조사이아 그레이브스에 해당하는 인물인 것 같다. 55
+- 갤러웨이 (Galloway, 부목사, curate) 55 79 114 124 151
++ 니커보커스 knickerbockers 55 150
 + 플란넬 55
 - 셰퍼드 할머니 56
+- 드리필드의 아버지(울프 양의 관리인, old Miss Wolfe's bailiff at Ferne Court) 57 81 96 122 268
 * 레일웨이 암스(술집, Railway Arms) 57 88 101
-* 회중교회 57 84
-- 윌터 스콧 59
+* 회중교회(Congregational chapel, Congregational Church) 57 84
+* 하버샴(Haversham, 드리필드가 하버샴 고등학교를 나왔음. 조지 켐프의 아들들도 하버샴의 중학교를 다녔음.) 58 88 101 202
+* 제가 알기로 하버샴 고등학교를 다녔고 장학금과 상을 많이 탔어요. 장학금을 받고 옥스포드의 위덤 칼리지에 붙었는데 바다로 도망쳐 선원이 되었죠. He was at Haversham School, I understand, and he got any number of scholarships and prizes. He got a scholarship at Wadham, but he ran away to sea instead. → 옥스포드에 갈 수 있었으나 자퇴했다는 점에서 필립과 유사하다. 58
+* 재주 많은 사람이 뭐 하나 똑 부러지게 하는 일이 없는 법이지. Jack of all trades and master of none 「인간의 굴레에서」의 백부가 한 말인 "우물을 파더라도 한 우물을 파라고 했다."와 비슷하다. 58
+- 윌터 스콧 (「아이반호」) 59
+- 블랙스터블의 후임 목사 59
+* 소박한 사람들 simple people 59
 + 눙치다 63
 * 터켄베리 64 83 118 128
-- 호드마시 부인 64
+- 호드마시 부인 (Lady Hodmarsh) 64
 - 호드마시 준남작baronetage 64
-- 스켈리언 경 65
-- 공작부인 65 152
+- 스켈리언 경 (Lord Scallion) 65
+- 공작부인 (파티의 주빈) 65 152
 + 출창 66 113
-+ 사라사 66
-+ 치펀데일 66
++ 사라사chintz 66
++ 치펀데일Chippendale 66
 + 클로슈cloche 67
 - 블랙스터블 교구 목사 67
 - 목사의 부인 67
 + 서지serge 68 80 120
-* 피터 렐리 69
-* 제임스 보즈웰 74 171
-* 윌리엄 해즐링 74
-* 보터 모자 80
-- 드리필드의 아버지(울프 양의 관리인, old Miss Wolfe's bailiff at Ferne Court) 81 96 122 268
+* 드리필드의 윙크 : 그러고는 놀라운 일이 일어났다. 그가 내게 한쪽 눈을 찡긋했던 것이다. then I had a sudden shock; he gave me a little wink. 68 71
+* 피터 렐리 (Peter Lely, 화가) 69
+* 제임스 보즈웰Boswell 74 171
+* 윌리엄 해즐릿Hazlitt 74
+* 세이프티 자전거 77
+* 솔리드 타이어 77
+* 보터 모자 (boater) 80
 - 울프 81 95 122
+* 그때는 몰랐지만 그녀의 태도에는 상대가 경계심을 풀고 마음을 놓게 만드는 솔직함이 있었다. 그녀는 생기가 넘치는 어린아이처럼 열정적으로 재잘거렸고, 반짝거리는 눈에는 언제나 황홀한 미소가 어른거렸다. 나는 왠지 그 미소가 좋았다. 조금은 능청스러운 미소라고나 할까. 능청스럽다는 말에서 불쾌한 측면을 뺄 수 있다면 말이다. 능청스럽다고 하기에는 너무나 순수한 미소였다. 어쩐지 짓궂은 미소였다. 말썽을 피우는 줄 알면서도 재미난 장난을 치고 싶어하는 아이, 큰 말썽이 날 리 없다는 걸 알고 금세 들키지 않으면 스스로 그것을 털어놓는 아이의 미소였다. 물론 그때 나는 그녀의 미소에서 편안함을 느꼈을 뿐이다. I did not of course realize it then, but I know now that there was a disarming frankness in her manner that put one at one's ease. She talked with a kind of eagerness, like a child bubbling over with the zest of life, and her eyes were lit all the time by her engaging smile. I did not know why I liked it. I should say it was a little sly, if slyness were not a displeasing quality; it was too innocent to be sly. It was mischievous rather, like that of a child who has done something that he thinks funny, but is quite well aware that you will think rather naughty; he knows all the same that you won't be really cross and if you don't find out about it quickly he'll come and tell you himself. But of course then I only knew that her smile made me feel at home. 82
 - 정원사 83 129
-- 메리앤 83 99 131 243
+- 메리앤(Mary-Ann, 일 년 치 봉급 12파운드) 83 99 131 243
 * 조이 레인 83 194
-- 앤스티(의사) 84
+- 앤스티(Anstey, 의사) 84
 * 라임 코티지 84
-- 에밀리 (하녀) 86 129
+- 에밀리 (Emily, 하녀) 86 129
 - 메리앤의 어머니 86
 - 드리필드의 어머니 87
-- 조사이어 갠 (로지의 아버지) 88
-* 라이 레인 88 99
-* 하버샴 88 101 202
-* 프린스 오브 웨일스 페더스 88 101
-- 리브스 부인 88
-* 런던 채텀 앤드 도버 레일웨이 (술집, London, Chatham & Dover Railway) 89
+- 조사이어 갠 (Josiah Gann, 로지의 아버지) → Josiah라는 이름은 조사이아 그레이브스에서의 이름과 같다. 88
+* 라이 레인 (Rye Lane) 88 99
+* 레일웨이 암스 (술집, Railway Arms, 로지의 첫 직장, 로지와 조지가 만난 곳) 88
+* 프린스 오브 웨일스 페더스 (술집, the Prince of Wales's Feathers at Haversham, 로지의 두번째 직장, 로지와 드리필드가 만난 곳) 88 101
+- 리브스 부인 (Mrs. Reeves, 레일웨이 암스의 주인으로 추정) 88
+* 런던 채텀 앤드 도버 레일웨이 (역, London, Chatham & Dover Railway) 89
 * 베어 앤드 키 (술집, Bear and Key) 89 95 155(162) 252 261
 * 듀크 오브 켄트 (술집, Duke of Kent) 89 254
-- 조지 켐프 89 105 109 124 134 175 235 283
+- 조지 켐프 (George Kemp, 석탄 상인) 89 105 109 124 134 175 235 283
+* 서른이 넘은 사람들이 사랑을 한다니 속이 좀 울렁거렸다. That people over thirty should be in love seemed to me rather disgusting. 93
 * 펀 베이(Ferne bay) 92 102
 - 조지 켐프의 두 아들 92 236
-* 그런데 그 여자는 왜 아기가 안 생겼지 93
+* 그런데 그 여자는 왜 아기가 안 생겼지? But, look here, why didn't she have a baby? 93
 * 펀(Ferne) 교회 96
-* 헤이우드 문구점 96 255
-* 로더릭 레이번스워스, 루도릭 몽고메리 99
-* 스리 게이븜스 101
-- 그린고트 소령 101 112 130
+* 헤이우드 문구점 (Hayward, the stationer's) 96 255
++ 파팅게일 (farthingales) 98
+* 나는 그녀가 뱃사람들과 '놀아났다'는 것을 믿기 어려웠다. I could not see her "going with" sailors 99
+* 이들은 체면이라는 가면을 쓰고 살았다. They dwelt behind a mask of respectability. 100
+* 스리 게이블스 (Three Gables, 지명, 그린고트 부부가 이사온 곳) 101
+- 그린고트 소령 (Major Greencourt) 101 112 130
 - 그린고트 부인 101 119 130
-- 화자의 아버지(사무 변호사) 101
+- 화자의 아버지(사무 변호사) → 「인간의 굴레에서」와는 다르게 아버지가 의사가 아닌 변호사로 등장한다. 101
 - 화자의 어머니 101
 * 메이드스톤 101
-- 펀 베이의 술집 여자 102
+- 돌핀 (Dolphin, 펀 베이의 술집) 102
+- 돌핀의 술집 여자 102
++ 소매산 105
 - 로지의 어머니 107 245
+* 뭐라 꼬집어 말할 수는 없지만 좋아하지 않고는 배길 수 없는 여자에요. 여기 한 시간은 족히 있었는데 단 한순간도 잘난 척을 하지 않네요. ... 예전에 꼬맹이였을 때 내가 머리를 빗겨 준 일하며, 차 마시기 전에 자기 고사리손을 씻겨 준 일들을 모두 기억하고 있더라고요. 그 어머니가 우리랑 같이 차를 마시라고 우리 집에 보내기도 했어요. 그때는 참 그림처럼 예쁜 아이였는데. ... 그것참, 사실을 알고보면 다른 여자들보다 유달리 나쁜 여자는 아니라고 봐야죠. 워낙 유혹의 손길이 많다 보니까 그렇게 되는 거거든요. 많은 여자들이 로지를 욕하지만 그 여자들도 로지처럼 기회가 많았다면 별수 없었을 거에요. I don't 'ardly know what it is, but there's somethin' you can't 'elp likin' about her. She was 'ere the best part of an hour and I will say that for 'er, she never once give 'erself airs. ... She remembers everything, how I used to brush her 'air for her when she was a tiny tot and how I used to make her wash her little 'ands before tea. You see, sometimes her mother used to send 'er in to 'ave her tea with us. She was as pretty as a picture in them days. ... Oh, well, I dare say she's been no worse than plenty of others if the truth was only known. She 'ad more temptation than most, and I dare say a lot of them as blame her would 'ave been no better than what she was if they'd 'ad the opportunity. 107
 + 중혼 109
 + 배서 109
 * 사히브 112
@@ -295,3 +334,5 @@
 * 휴 월폴 299
 
 「」
+←
+→
