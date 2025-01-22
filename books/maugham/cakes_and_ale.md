@@ -32,7 +32,7 @@
 * 나로서는 로이가 토머스 칼라일이 어느 만찬 연설에서 "천재는 고통을 감내하는 무한한 능력을 가졌다."라고 했다는 글을 읽고 큰 깨달음을 얻었을 거라고 짐작할 수밖에 없다. I cannot but think that he saw the white light of revelation when first he read that Charles Dickens in an after-dinner speech had stated that genius was an infinite capacity for taking pains. 16
 - 레이먼드 키어(엘로이의 아버지, 홍콩 식민장관, 자메이카 총독) 16
 - 에밀리(엘로이의 어머니) 17
-* 앤서니언Athenamm 17
+* 앤서니언(Athenæum, 사교클럽) 17 188
 + 마권 18
 * 그가 대가를 받고 만찬 후 연설을 하고 있음이 얼마 후 밝혀졌다. 그가 워낙 상냥했기 때문에 동료 작가들과 경쟁자들, 동년배들은 그가 신사라는 사실에도 불구하고 그 사실을 눈감아주었다. It was soon discovered that he had a pretty gift for after-dinner speaking. He was so pleasant that his fellow writers, his rivals and contemporaries, forgave him even the fact that he was a gentleman. → 신사라면 대가를 받고 연설을 하면 안되는 사회적 합의가 있었나보다. 20
 * 그들은 장애물이 될 만큼 높이 올라가지 못할 남자에게 기꺼이 발판이 되어 주었다. they were quite content to give a leg up to a man who would never climb so high as to be an obstacle to themselves. 21
@@ -84,7 +84,7 @@
 - 드리필드의 아버지(울프 양의 관리인, old Miss Wolfe's bailiff at Ferne Court) 57 81 96 122 268
 * 레일웨이 암스(술집, Railway Arms) 57 88 101
 * 회중교회(Congregational chapel, Congregational Church) 57 84
-* 하버샴(Haversham, 드리필드가 하버샴 고등학교를 나왔음. 조지 켐프의 아들들도 하버샴의 중학교를 다녔음.) 58 88 101 202
+* 하버샴(Haversham, 드리필드가 하버샴 고등학교를 나왔음. 조지 켐프의 아들들도 하버샴의 중학교를 다녔음. 드리필드 부부의 런던생활동안 로지가 어셴든에게 엄마를 만나러 두 주에 한 번씩 간다고 말한 장소이지만 실제로는 조지를 만났다.) 58 88 101 202
 * 제가 알기로 하버샴 고등학교를 다녔고 장학금과 상을 많이 탔어요. 장학금을 받고 옥스포드의 위덤 칼리지에 붙었는데 바다로 도망쳐 선원이 되었죠. He was at Haversham School, I understand, and he got any number of scholarships and prizes. He got a scholarship at Wadham, but he ran away to sea instead. → 옥스포드에 갈 수 있었으나 자퇴했다는 점에서 필립과 유사하다. 58
 * 재주 많은 사람이 뭐 하나 똑 부러지게 하는 일이 없는 법이지. Jack of all trades and master of none 「인간의 굴레에서」의 백부가 한 말인 "우물을 파더라도 한 우물을 파라고 했다."와 비슷하다. 58
 - 윌터 스콧 (「아이반호」) 59
@@ -154,7 +154,7 @@
 * 사히브 112
 * 드리필드 부부의 하녀 113 132
 * 간유리 114
-* 수형 피아노 (cottage piano) 116 182
+* 수형 피아노 (cottage piano) 116 180
 * 벤조 (banjo) 116 125
 * 그들은 연주나 노래 요청을 바라지 않는다는 표시로 악보를 현관에 놓아두었지만 집주인은 차를 마신 후 그들에게 악보를 가져왔느냐고 물었다. → 이 관습을 다른 소설에서 본 것 같은데. 혹시 「오만과 편견」에서였나? 116
 * 「페어헤이븐 (Fairhaven)」 드리필드의 소설 118
@@ -208,17 +208,17 @@
 * 가장 순수한 타입의 예술가는 자기가 던진 농담에 혼자 웃음을 터뜨리는 익살꾼이 아닌가 하는 생각을 종종 한다. I often think that the purest type of the artist is the humorist who laughs alone at his own jests. 160
 * 일전에 자네가 그 양반에 대한 글을 쓸 생각이 없다고 말하지만 않았어도 부탁하지 않았을 거야. 그 자료를 쓸 생각도 없이 그냥 간직하겠다는 건 나는 먹기 싫고 남 주긴 아깝다는 심보이지 뭔가. I shouldn't have asked you, but you told me the other day that you weren't going to write anything about him yourself. It would be rather like a dog in a manger to keep to yourself a whole lot of material that you have no intention of using. 161
 - 허드슨 부인 164 173
-* 세인트 루크(St. Luke's) 164 179
-- 웨스트민스터 학교 교사 164
-* 저지 릴리 165
-- 허드슨 씨(교회 관리인) 165
-* 코크니 (Cockney) 166
+* 세인트 루크 (the medical school at St. Luke's) 164 179
+- 웨스트민스터 학교 교사 (어셴든의 의대생 시절 이웃) 164
+* 저지 릴리 (여배우) 165
+- 허드슨 씨(명문가의 집사, 교회 관리인, 별세) 165
+* 코크니 유머 (Cockney humour) 166
 * 마리 로이드 166
 - 부처 양 (Miss Butcher) 167
-- 조지 (허드슨 내외의 아들) 167
-- 헤스터(하녀) 167
+- 조지 (George, 허드슨 내외의 아들) 167
+- 헤스터(Hester, 하녀) 167
 * 울리치 아스날(Woolwich Arsenal)
-- 그레이엄 씨 170
+- 그레이엄 씨 (어셴든이 예전에 살던 방의 현재 세입자) 170
 * 에드워드 기번 171
 * 볼테르 171
 * 루소 171
@@ -226,22 +226,22 @@
 * 다마스크 직물 177
 - 카울리 양 177
 - 어느 귀부인 (카울리양에게 가구를 물려줌) 177
-* 퐁파두르 부인 178
-* 호레이스 월폴 180
+* 퐁파두르 부인 (Madame de Pompadour) 178
+* 호레이스 월폴 (Horace Walpole, 「왕족과 귀족 작가 목록(Catalogue of Royal and Noble Authors)」) 180
 * 슈맹드페르 180
-* 유럽 작위 순위 : 공작duke(시), 후작marquess(순수문학), 백작count(소설), 자작Viscount(저널리즘, 연극), 남작baron(저널리즘, 연극), 준남작baronet(하위단계의 문학) 181
+* 유럽 작위 순위 : 공작duke(시), 후작marquess(순수문학), 백작count(소설), 남작baron과 자작Viscount(저널리즘, 연극), 준남작baronet(하위단계의 문학) 181
 * 알렉산드로스 대왕 181
 * 프로페르티우스 182
 + 수금(竪琴, 악기) 182
 * 토르콰토 타소 182
-- 이저벨 트래퍼드 (바턴 트래퍼드 부인) 183 229 241 246 273 285
+- 이저벨 트래퍼드 (트래퍼드 부인) 183 229 241 246 273 285
 * 누구누구와 누구누구 (So and So and So and So) 184
 * 밀로 184
 - 바턴 트래퍼드 (내무부 공무원, 선사시대 연구자) 184 230 246 273
 * 영국에 비가 내리지 않는다? 185
 - (세상을 떠난 위대한 소설가) 185
 * 오라냐크 부싯돌 185
-- 재스퍼 기번스 186
+- 재스퍼 기번스(Jasper Gibbons) 186
 * 그녀가 지나치게 조심성을 발휘하는 바람에 재스퍼 기번스는 하마터면 버스를 놓칠 뻔했다. She was so cautious indeed that with Jasper Gibbons she almost missed the bus. 186
 * 존 밀턴 187
 * 퍼시 비시 셸리 187
@@ -249,61 +249,77 @@
 * 로버트 브라우닝 187
 * 예리코의 성벽 187
 * 빅토리아 여왕 187
-* 해리슨 에인즈워스 188
+* 해리슨 에인즈워스 (Harrison Ainsworth) 188
 * 이번엔 반드시 우승마에 걸겠다는 191
-* 로지와 바턴 트래퍼드 부인 사이의 긴장 192
-- 퀜틴 포드 (아마추어 예술 애호가) 193 200 215
-- 해리 레트퍼드 (배우) 193 200 216 272 291
-- 라이어널 힐리어 (화가) 193 201 215
-* 그저 북해나 터캔베리 성당의 탑 위에 걸린 태양처럼 자연 현상의 일부로 받아들였을 뿐이다. 194
+* 늘 매력적이고 상냥했으며 사려깊게 귀를 기울였지만 경계하고 평가하고 _이번엔 반드시 우승마에 걸겠다는_ 결의가 있었다. At Homes, charming always and gentle, listening intelligently, but watchful, critical, and determined (if I may put it crudely) _next time to back a winner._
+* 로지와 바턴 트래퍼드 부인 사이의 긴장 : 바턴 트래퍼드 부인은 본인처럼 스코틀랜드 명문가 출신의 여인이 저명한 문인이 실수로 결혼한 술집 여급 출신의 아내에게 취할 법한 태도로 드리필드 부인을 대했다. Mrs. Barton Trafford treated her exactly as you would expect a woman of very good Scotch family, which she was, to treat an ex-barmaid with whom a distinguished man of letters had made an unfortunate marriage. 192
+* 망할 늙은 살쾡이 that damned old cat 193
+- 퀜틴 포드 (Quentin Forde, 부자, 아마추어 예술 애호가) 193 200 215
+- 해리 레트퍼드 (Harry Retford, 배우) 193 200 216 272 291
+- 라이어널 힐리어 (Lionel Hillier, 화가) 193 201 215
+* 그저 북해나 터캔베리 성당의 탑 위에 걸린 태양처럼 자연 현상의 일부로 받아들였을 뿐이다. I took it as part of the natural order of things, just as I took the sun setting over the North Sea or the towers of Tercanbury Cathedral 194
 - 해리 레트퍼드와 알고 지내는 사진가 194 272
 * 솜브레로sombrero 195
 * 모네 195
 * 시슬레 195
 * 르누아르 195
-* 프레더릭 레이턴(Frederic Leighton) 195
-* 앨머 태디마(Alma Tadema) 195
-* G. F. 워츠(George Frederic Watts) 195
+* 프레더릭 레이턴(Frederic Leighton, 화가) 195
+* 앨머 태디마(Alma Tadema, 화가) 195
+* G. F. 워츠(George Frederic Watts, 화가) 195
+* 예술에 대해 잘 몰라도 화가를 만족시킬 각종 창의적인 반응들이 깔끔하게 정리된 얇은 안내서 a very neat little guide to enable the amateur of pictures to deal to the satisfaction of their painters with the most diverse manifestations of the creative instinct 197
 + 수레국화 198
 * 금빛과 은빛 199 203 273
 * 제물로 바쳐진 어린 암소 199
+* 훗날 바턴 트래퍼드 부인은 그 초상화를 보고 제물로 바쳐진 어린 암소가 생각난다고 말했다. When, later, Mrs. Barton Trafford saw the picture she said it reminded her of a sacrificial heifer.
 * 헨리 8세 202
-* 마리아 피츠허버트 202
-* 레이디 해밀턴 202
-* 루크레치아 보르자 202
-* 펠리페 202
-* 아녜스 소렐 202
-* 뒤바리 부인 202
+* 마리아 피츠허버트 (Mrs. Fitzherbert) 202
+* 레이디 해밀턴 (Lady Hamilton) 202
+* 루크레치아 보르자 (Lucrezia Borgia) 202
+* 스페인 펠리페 군주 (Philip of Spain) 202
+* 아녜스 소렐 (Agnes Sorel) 202
+* 뒤바리 부인 (Madame du Barry) 202
+* 로지는 말이 많은 편은 아니었다. 뮤직홀에서 저녁 시간을 보낸 뒤 날씨가 좋은 밤이면 걷곤 했는데 둘이 걸어 돌아올 때 그녀는 말이 없었다. 하지만 그녀의 침묵은 친밀하고 편히 다가왔다. 상대를 배제한 침묵이 아니라 충만한 행복감 안에 상대를 끌어안은 침묵이었다. She was never a great talker. Often when, the night being fine, we decided to walk back from the music hall at which we had been spending the evening, she never opened her mouth. But her silence was intimate and comfortable. It did not exclude you from thoughts that engaged her apart from you; it included you in a pervasive well-being. 203
+* 사람들 앞에서 아무런 거리낌 없이 약속을 잡았고, 그들을 쳐다볼 때 그 짓궃고 천진한 미소를 띠었는데, 내 눈에는 그것이 너무나 신비롭고 아름답게 보였다. she used to make her appointments with them quite openly in anybody's hearing; and when she looked at them it was with that mischievous, childlike smile which I had now discovered held such a mysterious beauty. 204
 * (갑작스러운) 일인칭 시점에 대한 이야기 209
-* 에벌린 워 210
-* 퍼시 러벅 210
-* E. M. 포스터 210
-* 에드윈 뮤어 210
+* 에벌린 워 (Evelyn Waugh) 210
+* 퍼시 러벅(Percy Lubbock, 「The Craft of Fiction(소설의 기술)」, ) 210
+* E. M. 포스터(E. M. Forster, 「Aspects of the Novel(소설의 면면)」) 210
+* 에드윈 뮤어(Edwin Muir, 「The Structure of the Novel(소설의 구조)」) 210
 * 다니엘 디포 210
 * 에밀리 브론테 210
 * 프루스트 210
+* 가끔 소설가는 자신을 신처럼 생각하고 작중 인물에 대해 모든 걸 이야기하려 들 때가 있지만, 반면에 작중 인물에 대한 모든 것이 아니라 자기가 아는 것만 이야기하기도 한다. 우리는 나이를 먹을 수록 자신이 신이 아니라는 걸 점점 의식하기 마련이니 작가가 경험으로 체득한 것 이상은 쓰지 않으려 한다고 해도 놀랄 일은 아니다. 일인칭 시점은 이 제한된 목적에 한해 대단히 유용하다. Sometimes the novelist feels himself like God and is prepared to tell you everything about his characters; sometimes, however, he does not; and then he tells you not everything that is to be known about them but the little he knows himself; and since as we grow older we feel ourselves less and less like God I should not be surprised to learn that with advancing years the novelist grows less and less inclined to describe more than his own experience has given him. The first person singular is a very useful device for this limited purpose. 211
 * 알렉산더 포프 211
 * 보디스 212
-* 잭 카이퍼 217
-* 머프 219
+* 잭 카이퍼(Jack Kuyper, 네덜란드계 유대인, 다이아몬드 상인) 217
++ 망종 218
+* 여자의 허리에 손을 감기 위해서는 택시보다 이륜마차가 더 낫다는 사실을 다른 소설에서 언급한 것 같다. 내가 기억하기로는 「인간의 굴레에서」였던 것 같은데 맞으려나. 219
++ 머프 219
 * 카나리아 220
-* 아스트라한 221
-* 「생명의 잔」 226 229 286
-* 「그들의 열매」 229 247
-- 올굿 뉴턴 230
+* 아스트라한(astrakhan, 러시아의 도시) 221
+* 나는 이제 성나고 상처받고 분개한 눈으로 로지를 쳐다보았다. 그녀는 내게 미소를 지었다. 무슨 말로 그녀의 아름다운 미소에 담긴 그 달콤하고 다정한 빛을 묘사할 수 있을까. 그녀의 목소리는 우아하고 상냥했다. I looked at Rosie now, with angry, hurt, resentful eyes; she smiled at me, and I wish I knew how to describe the sweet kindliness of her beautiful smile; her voice was exquisitely gentle. 224
+* 그럼 된거야. 안달하고 질투하는 건 바보나 하는 짓이야. 지금 얻을 수 있는 것에 만족하면 안돼? 기회가 있을 때 인생을 즐겨야지. 어차피 100년 후엔 우리 모두 죽을 텐데 뭐가 그렇게 심각해? 할 수 있을 때 우리 좋은 시간 보내자. Well, then. It's so silly to be fussy and jealous. Why not be happy with what you can get? Enjoy yourself while you have the chance, I say; we shall all be dead in a hundred years and what will anything matter then? Let's have a good time while we can. 224
+* 「생명의 잔(The Cup of Life)」 226 229 286
+* "자꾸 진짜가 아니라고 하는데 말이지……" 그는 미소를 지었다. "웃기지 말라고 해. 그건 진짜야." "They say it isn't true," he smiled. "They can go to hell. It is true." 228
+* 「그들의 열매(By Their Fruits)」 229 247
+- 올굿 뉴턴 (Allgood Newton, 평론가) 230
 * 기함하다 232
 * 칸트와 바스티유 감옥 습격사건 232
 * 헥토르 233
-* 새뮤얼 존슨 234
-* 정말 훌륭하시네요, 올굿. 234
+* 새뮤얼 존슨 (Samuel Johnson) 234
+* 정말 훌륭하시네요, 올굿. You're wonderful, Allgood. 234
 - 조지 켐프의 아내 236
-* 그건 제가 할 수 있는 일이 아닌 것 같습니다. 237
+<!-- * 그건 제가 할 수 있는 일이 아닌 것 같습니다. I don't know how I could do that. 237 -->
 * 소본스sawbones 238
-* 벤저민 디즈레일리 240
-* 험프티 덤프티
-- 교구위원 243
-* 존 러스킨 247
+* 벤저민 디즈레일리(Benjamin Disraeli) 240
+* 험프티 덤프티(Humpty-dumpty) 241
+- 교구 위원 243
+* désemparé 247
+* 존 러스킨 (John Ruskin, 평론가, 화가) 247
+* 그는 집필 활동을 중단하고 한참이 지나서야 큰 명성을 누리게 되었지만 → 하디의 경우와 비슷하다. 248
+* 출판 기념회 she organized its reception. 248
 + 마침맞다 251
+* 바턴 트래퍼드 부인을 가리켜 인정이 넘치는 사람이라고 해도 틀린 말은 아니겠지만, 만약 그 인정에 독이 녹아 있을 수 있따면 나는 이 경우가 아닐까 하는 느낌이 든다. I think it may be not unjustly said that Mrs. Barton Trafford fairly ran over with the milk of human kindness, but all the same I have an inkling that if ever the milk of human kindness was charged with vitriol, here was a case in point. 251
 * 마린 호텔 252
 - 베어 앤드 키의 여자 점원 253
 * 콤프턴 매켄지(Compton Mackenzie) 253
