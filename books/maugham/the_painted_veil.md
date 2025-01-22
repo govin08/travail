@@ -135,6 +135,7 @@
 * 그들은 방금 만난 낯선 사람들보다 더 서먹하게 이야기를 나누었다. 만약 그들이 정말 낯선 사람들이었다면 그것이 그가 그녀에게 관심과 호기심을 가질 이유가 됐겠지만 오히려 그들이 공유한 과거가 부녀 사이를 가로막는 무관심의 장벽으로 작용했다. They were talking more distantly than if they were strangers who had just met, for if they had been he would have been interested in her just because of that, and curious, but their common past was a wall of indifference between them. 326
 * 그들 모두가 그를 지겨워한다는 것을 그녀도 알고 있었지만 그도 똑같이 그들을 지겨워한다고는 한 번도 생각지 못했다. 그녀가 고난을 겪으며 터득한 슬픈 통찰력은, 아버지는 언제나 다정하고 조용한 사람이지만, 절대로 자신에게 인정하지 않았을 것이고 앞으로도 안 할지라도 마음속으로는 그녀를 달가워하지 않는다는 것을 그녀에게 암시하고 있었다. She had known that they were all bored by him, but it had never occurred to her that he was equally bored by them. He was as ever kind and subdued, but the sad perspicacity which she had learnt in suffering suggested to her that, though he had probably never acknowledged it to himself and never would, in his heart he disliked her. 327
 * 난 그 아이를 세상에 던져 놓고는 사랑한답시고 결국 어떤 남자와 잠자리를 갖기 위한 여자로 키우기 위해 평생토록 입히고 먹일 생각은 없어요. I'm not going to bring a child into the world, and love her, and bring her up, just so that some man may want to sleep with her so much that he's willing to provide her with board and lodging for the rest of her life. 332
+* 마지막 문단이 민음사 판본과 gutenberg 원문이 일치하지 않는다
 「」
 ←
 →
