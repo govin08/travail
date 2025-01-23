@@ -88,7 +88,7 @@
 * 제가 알기로 하버샴 고등학교를 다녔고 장학금과 상을 많이 탔어요. 장학금을 받고 옥스포드의 위덤 칼리지에 붙었는데 바다로 도망쳐 선원이 되었죠. He was at Haversham School, I understand, and he got any number of scholarships and prizes. He got a scholarship at Wadham, but he ran away to sea instead. → 옥스포드에 갈 수 있었으나 자퇴했다는 점에서 필립과 유사하다. 58
 * 재주 많은 사람이 뭐 하나 똑 부러지게 하는 일이 없는 법이지. Jack of all trades and master of none 「인간의 굴레에서」의 백부가 한 말인 "우물을 파더라도 한 우물을 파라고 했다."와 비슷하다. 58
 - 윌터 스콧 (「아이반호」) 59
-- 블랙스터블의 후임 목사 59
+- 블랙스터블의 후임 목사 59 67 260
 * 소박한 사람들 simple people 59
 + 눙치다 63
 * 터켄베리 64 83 118 128
@@ -100,8 +100,7 @@
 + 사라사chintz 66
 + 치펀데일Chippendale 66
 + 클로슈cloche 67
-- 블랙스터블 교구 목사 67
-- 목사의 부인 67
+- 블랙스터블의 후임 목사의 부인 67
 + 서지serge 68 80 120
 * 드리필드의 윙크 : 그러고는 놀라운 일이 일어났다. 그가 내게 한쪽 눈을 찡긋했던 것이다. then I had a sudden shock; he gave me a little wink. 68 71
 * 피터 렐리 (Peter Lely, 화가) 69
@@ -114,7 +113,7 @@
 * 그때는 몰랐지만 그녀의 태도에는 상대가 경계심을 풀고 마음을 놓게 만드는 솔직함이 있었다. 그녀는 생기가 넘치는 어린아이처럼 열정적으로 재잘거렸고, 반짝거리는 눈에는 언제나 황홀한 미소가 어른거렸다. 나는 왠지 그 미소가 좋았다. 조금은 능청스러운 미소라고나 할까. 능청스럽다는 말에서 불쾌한 측면을 뺄 수 있다면 말이다. 능청스럽다고 하기에는 너무나 순수한 미소였다. 어쩐지 짓궂은 미소였다. 말썽을 피우는 줄 알면서도 재미난 장난을 치고 싶어하는 아이, 큰 말썽이 날 리 없다는 걸 알고 금세 들키지 않으면 스스로 그것을 털어놓는 아이의 미소였다. 물론 그때 나는 그녀의 미소에서 편안함을 느꼈을 뿐이다. I did not of course realize it then, but I know now that there was a disarming frankness in her manner that put one at one's ease. She talked with a kind of eagerness, like a child bubbling over with the zest of life, and her eyes were lit all the time by her engaging smile. I did not know why I liked it. I should say it was a little sly, if slyness were not a displeasing quality; it was too innocent to be sly. It was mischievous rather, like that of a child who has done something that he thinks funny, but is quite well aware that you will think rather naughty; he knows all the same that you won't be really cross and if you don't find out about it quickly he'll come and tell you himself. But of course then I only knew that her smile made me feel at home. 82
 - 정원사 83 129
 - 메리앤(Mary-Ann, 일 년 치 봉급 12파운드) 83 99 131 243
-* 조이 레인 83 194
+* 조이 레인 83 194 261
 - 앤스티(Anstey, 의사) 84
 * 라임 코티지 84
 - 에밀리 (Emily, 하녀) 86 129
@@ -293,7 +292,7 @@
 * 보디스 212
 * 잭 카이퍼(Jack Kuyper, 네덜란드계 유대인, 다이아몬드 상인) 217
 + 망종 218
-* 여자의 허리에 손을 감기 위해서는 택시보다 이륜마차가 더 낫다는 사실을 다른 소설에서 언급한 것 같다. 내가 기억하기로는 「인간의 굴레에서」였던 것 같은데 맞으려나. 219
+* 여자의 허리에 손을 감기 위해서는 택시보다 이륜마차가 더 낫다는 사실을 다른 소설에서 언급한 것 같다. 내가 기억하기로는 「인간의 굴레에서」였던 것 같은데 맞으려나. → 「인간의 굴레에서」 1부를 펼쳐보았다. 그 부분은 못찾았다. 219
 + 머프 219
 * 카나리아 220
 * 아스트라한(astrakhan, 러시아의 도시) 221
@@ -320,49 +319,59 @@
 * 출판 기념회 she organized its reception. 248
 + 마침맞다 251
 * 바턴 트래퍼드 부인을 가리켜 인정이 넘치는 사람이라고 해도 틀린 말은 아니겠지만, 만약 그 인정에 독이 녹아 있을 수 있따면 나는 이 경우가 아닐까 하는 느낌이 든다. I think it may be not unjustly said that Mrs. Barton Trafford fairly ran over with the milk of human kindness, but all the same I have an inkling that if ever the milk of human kindness was charged with vitriol, here was a case in point. 251
-* 마린 호텔 252
+* 마린 호텔 (Marine Hotel) 252
 - 베어 앤드 키의 여자 점원 253
 * 콤프턴 매켄지(Compton Mackenzie) 253
-- 케이티(베어 앤드 키의 노파) 253
-- 브렌드퍼드 부인 253
-- 브렌트퍼드 씨 256
-* 그 양반이 여기 들러 흑맥주를 한 잔씩 하는 걸 아주 좋아했거든요. 퍼마신 건 아니고 그저 바에 앉아 얘기하는 걸 좋아했지요. 256
+- 케이티 (Katie, 베어 앤드 키의 노파) 253
+- 브렌드퍼드 부인 (Mrs. Brentford) 253
+- 바 여급 (barmaid) 255
+- 브렌트퍼드 씨 (베어 앤드 키의 주인) 256
+* 그 양반이 여기 들러 흑맥주를 한 잔씩 하는 걸 아주 좋아했거든요. 퍼마신 건 아니고 그저 바에 앉아 얘기하는 걸 좋아했지요. 세상에, 한번 말을 시작하면 한 시간이고, 상대도 가리지 않았어요. He used to be very partial to dropping in here and having his glass of bitter. Mind you, I don't say he ever got tiddly, but he used to like to sit in the bar and talk. My word, he'd talk by the hour and he never cared who he talked to. 256
+* 재미난 양반이었어요. 격을 두지 않았죠. 런던에서는 귀한 대접을 받았나 보더라고요. 돌아가셨을 때 신문이 온통 그 양반으로 도배된 걸 보면 말이죠. 하지만 그 양반과 이야기를 하다 보면 그런 생각이 전혀 안 들었어요. 나나 당신처럼 그냥 아무개처럼 느껴졌거든요. 물론 우리는 그 양반을 편히 모시려고 했죠. 안락의자에 앉으시라고 해도 굳이 카운터에 앉았어요. 발이 벽 몰딩에 닿는 느낌이 좋다면서. 자기는 바가 좋다고 늘 말했어요. 거기에서 인생이 보인다고. 그리고 자기는 늘 인생을 사랑한다고. He was a funny old fellow. No side, you know; they tell me they thought a rare lot of him in London and when he died the papers were full of him; but you'd never have known it to talk to him. He might have been just nobody like you and me. Of course we always tried to make him comfortable; we tried to get him to sit in one of them easy chairs, but no, he must sit up at the bar; he said he liked to feel his feet on a rail. My belief is he was happier here than anywhere. He always said he liked a bar parlour. He said you saw life there and he said he'd always loved life. 257
 * 안락의자에 앉으시라고 해도 굳이 카운터에 앉았어요. (→ 스트릭랜드?) 257
 - 브렌트퍼드 씨의 아버지 257
 - 마을 의사의 아들 (어셴든과 동창) 259
+* 책상 위에 장미들이 담긴 꽃병이 있었고, 팔걸이의자 옆 작은 원탁 위에는 『스펙테이터』가 한 부 놓여 있었다. 재떨이에는 거장의 파이프가 있었고 잉크스탠드에는 이크가 가득했다. 모든 것이 완벽히 갖춰진 광경이었다. 이유를 알 수 없지만 내 눈에는 이상하게 죽어 보이는 방이었다. 벌써부터 박물관의 곰팡이 냄새가 났다. There was a bowl of roses on the desk and on a little round table by the side of the armchair a copy of the Spectator. In the ash trays were the master's pipes and there was ink in the inkstand. The scene was perfectly set. I do not know why the room seemed so strangely dead; it had already the mustiness of a museum. 263
 * 샬롯 브론테 264
-- 헨리 비어드 맥두걸 265
-- 장 폴 언더힐 265
+* 지난번 왔을 때만 해도 이곳에 내 책은 분명히 없었다. 나는 자연스러운 동작으로 내 책을 한 권 뽑아 먼지가 있는지 손가락으로 쓸어 보았다. 먼지는 없었다. 그다음엔 샬롯 브론테의 책을 한 권 꺼내어 그럴듯한 대화를 이어 가면서 같은 실험을 했다. 아니 이번에도 먼지는 없었다. 드리필드 부인에게 훌륭한 가정부와 성실한 하녀가 있다는 것만은 분명했다. I knew very well that they had not been there on my last visit and in a casual way I took one of them out and ran my fingers along the top to see whether there was dust on it. There was not. Then I took another book down, one of Charlotte Brontë's, and making a little plausible conversation tried the same experiment. No, there was no dust there either. All I learned was that Mrs. Driffield was an excellent housekeeper and had a conscientious maid. 264
+* 로이와 드리필드 부인은 내가 기억하는 것들을 말하게 하려고 교묘한 질문을 던졌다. 나는 혼자 간직하기로 한 일들을 무심코 발설할까 봐 정신을 바짝 차렸다. Roy and Mrs. Driffield were putting artful questions to incite me to disclose my recollections and I was gathering my wits about me so that I should not in an unguarded moment let slip anything that I had made up my mind to keep to myself; 265
+- 헨리 비어드 맥두걸 (Henry Beard MacDougal, 버지니아 대학교 조교수, 영문학 전공) 265
+- 장 폴 언더힐 (Jean-Paul Underhill, 뉴욕 출신) 265
 - 하녀 (이 양반의 증손자) 268
+* 드리필드는 어릴 적의 신분 컴플렉스를 해소하기 위해 펀 코트를 매입했음. 또 어릴 적의 유행대로 (토트넘 코트 로드의 가구) 집을 꾸몄고, 그게 드리필드의 취향이었음. 하지만 에이미는 철지난 유행을 참아내지 못했고, 드리필드 몰래 가구 등을 바꿨음. 결국 지금 관광객들 눈에 보이는 드리필드의 생가는 드리필드의 것이라기보다는 에이미의 것임. 269
 * 엘로이 키어의 미국적인 (미국을 선호하는) 태도 269
 * 공작고사리 271
-* 남들에게 보이는 얼굴은 가면이었고 그의 행위도 중요하지 않았다. 그의 실체는 죽을 때까지 알려지지 않은 고독한 존재였고, 그의 작품을 쓰는 작가와 그의 인생을 살아가는 남자 사이를 조용히 오가는 유령이 아니었을까. 272
+* 남들에게 보이는 얼굴은 가면이었고 그의 행위도 중요하지 않았다. 그의 실체는 죽을 때까지 알려지지 않은 고독한 존재였고, 그의 작품을 쓰는 작가와 그의 인생을 살아가는 남자 사이를 조용히 오가는 유령이 아니었을까. 세상이 에드워드 드리필드라 여기는 두 꼭두각시에게 냉소적이고 초연하게 미소를 짓는 유령. 내가 이제껏 기록한 에드워드 드리필드는 두 발을 딛고 선 살아있는 인간이 아니다. 나는 그를 납득이 가는 동기와 합리적 행동으로 살을 붙여 완성하지도 않았다. 그러려고 노력하지도 않았다. 그것은 더 유능한 앨로이 키어의 필력에 기꺼이 맡길 생각이다. The face you saw was a mask and the actions he performed without significance. I had an impression that the real man, to his death unknown and lonely, was a wraith that went a silent way unseen between the writer of his books and the fellow who led his life, and smiled with ironical detachment at the two puppets that the world took for Edward Driffield. I am conscious that in what I have written of him I have not presented a living man, standing on his feet, rounded, with comprehensible motives and logical activities; I have not tried to: I am glad to leave that to the abler pen of Alroy Kear. 272
 * 젖짜는 아낙 (→ 테스?) 273
 * 백인 검둥이 (white nigger) 273
 * 헤베 273
 * 의미심장한 눈길 (드리필드 부인과 로이) 273
-* 누구의 험담 한 번 하는 걸 들어 본 적이 없네. 마음씨가 고운 사람이었어 273
+* 정말 좋은 여자였어. 나는 그 여자가 성질을 부리는 걸 한 번도 본 적이 없네. 뭐든 원하는 게 있으면 다 들어주는 여자였어. 누구의 험담 한 번 하는 걸 들어 본 적이 없네. 마음씨가 고운 사람이었어. She was a very nice woman. I never saw her in a bad temper. You only had to say you wanted something for her to give it to you. I never heard her say a disagreeable thing about anyone. She had a heart of gold. 273
+* 그녀는 아주 단순한 여자였어요. 건강하고 천진한 본능을 가진 여자 말입니다. 사람들을 행복하게 만드는 걸 좋아했죠. 사랑을 사랑했어요. She was a very simple woman. Her instincts were healthy and ingenuous. She loved to make people happy. She loved love. 274
 + 페티코트 274
-* 태양이 햇빛을 발산하고 꽃들이 향기를 내뿜듯 자연스럽게 자신을 내어 준 거예요. 275
+* 태양이 햇빛을 발산하고 꽃들이 향기를 내뿜듯 자연스럽게 자신을 내어 준 거예요. She gave herself as naturally as the sun gives heat or the flowers their perfume. 275
 * 피마자기름 274
-* 진지한 감정이란 본디 부조리를 내포하는 게 분명하다. 276
-* 강렬한 감성과 한없는 무관심이 조합된 특이한 성격 276
+* 진지한 감정이란 본디 부조리를 내포하는 게 분명하다. 나로서는 도무지 그 이유를 알 수가 없지만. 다만 영원불멸한 지성이 보기에는 하찮은 행성에 잠시 머물다 가는 처지에 온갖 고통에 시달리며 아등바등하는 인간이 그저 농담처럼 느껴질 수도 있을 것이다. It must be that there is something naturally absurd in a sincere emotion, though why there should be I cannot imagine, unless it is that man, the ephemeral inhabitant of an insignificant planet, with all his pain and all his striving is but a jest in an eternal mind. 276
+* 그분은 일단 어떤 감정이 소진되고 나면 그 감정을 불러일으켰던 사람에게 더 이상 아무런 관심을 두지 않으셨어요. 강렬한 감성과 한없는 무관심이 조합된 특이한 성격이었다고 봐야죠. I think that when he had exhausted an emotion he took no further interest in the person who had aroused it. I should say that he had a peculiar combination of strong feeling and extreme callousness. 276
 * 헤럴드 켐프 (조지 켐프의 아들) 277
-* 문체는 생략의 기술 278
-- 매니저 279
+* 문체는 생략의 기술이라고 하지 않던가? Do they not tell us that style is the art of omission?  278
+- 어셴든의 매니저 279
 - 홍보담당자 279
-* 오르몰루 281
-* 세브르 281
-* 와토 281
+* 오르몰루 (ormolu) 281
+* 세브르 (Sèvres) 281
+* 와토 (Watteau, 화가) 281
 - 제시(하녀) 281
 * 시폰 드레스 281
 * 테머니(Tammany) 283
-* 컨트랙트 285
+* 컨트랙트(contract, 브리지 게임) 285
 * 드리필드 부부의 딸 286
 * 드리필드 부부의 집주인 여자 289
+* 그러다가 뭐에 씌였던 걸까. 그 방에 계속 앉아 있다가는 미칠 것 같았어. 어디든 불빛과 사람들이 있는 곳으로 가고 싶었어. 테드로부터 달아나고 싶었어. 아니 그보다는 테드가 생각하고 느끼는 모든 것들로부터 달아나고 싶었지. 방이 두 개 뿐이라 침실로 들어갔어. 아이의 침대가 그대로 있었지만 그쪽은 쳐다보지도 않았어. 나는 모자와 베일을 쓰고는 옷을 갈아입고 테드에게 돌아갔지. // '나 외출해.' 내가 말했어. I don't know what came over me. I felt that if I went on sitting in that room I'd go mad. I wanted to go somewhere where there were lights and people. I wanted to get away from Ted; no, not so much that, I wanted to get away from all that Ted was thinking and feeling. We only had two rooms. I went into the bedroom; the child's cot was still there, but I wouldn't look at it. I put on my hat and a veil and I changed my dress and then I went back to Ted. // "'I'm going out,' I said.
 * 빌 테리스 292
-* 우울해서 벌어진 일 293
-* 바누치 씨 294
+* 나는 그런 여자들에게 바보처럼 굴지 말라고 늘 이야기해. 남편이 당신을 사랑하지 않아서 그런 게 아니라고. 그러니 그렇게 속상할 일이 아니라고 말이야. 아무 것도 아닌 일이라고. 그냥 우울해서 벌어진 일이라고. 남편도 힘들지 않았다면 그런 생각은 하지 않았겠지. 그때 나도 그런 심정이었어. I always tell her not to be silly. It doesn't mean he doesn't love her, and isn't terribly upset, it doesn't mean anything, it's just nerves; if he weren't so upset he wouldn't think of it. I know, because that's how I felt then. 293
+* 나한테 더없이 다정하게 굴었어. 나는 비참했어. 더이상 버틸 자신이 없는데 그이한테는 내 마음을 달래 줄 방법이 없었어. He was terribly kind to me all that time. I was miserable, you know. Somehow I felt that I just couldn't get over it, and there was nothing he didn't do to make it easier for me. 294
+* 바누치 (Vanuzzi, 이탈리아 이민자, 로지의 애인) 294
+* 작가의 삶이란 가시밭길이다. 우선 가난과 세상의 냉대를 견뎌야 한다. 어느 정도 성공을 거두고 나서는 살얼음판을 걸어야 한다. 그리고 변덕스러운 대중에 휘둘린다. // 작가를 흔드는 인간들은 수두룩하다. ... 하지만 작가는 한 가지 보상을 얻는다. 뭔가 마음에 맺힌 것이 있다면 괴로운 기억, 친구를 저세상으로 떠나보낸 슬픔, 짝사랑, 상처받은 자존심, 배은망덕한 인간에 대한 분노, 어떤 감정이든, 어떤 번뇌든 그저 글로 풀어 버리기만 하면 된다. 그걸 소설의 주제로, 수필의 소재로 활용하면 모든 것을 잊을 수 있다. 작가는 유일한 자유인이다. I began to meditate upon the writer's life. It is full of tribulation. First he must endure poverty and the world's indifference; then, having achieved a measure of success, he must submit with a good grace to its hazards. He depends upon a fickle public. ... But he has one compensation. Whenever he has anything on his mind, whether it be a harassing reflection, grief at the death of a friend, unrequited love, wounded pride, anger at the treachery of someone to whom he has shown kindness, in short any emotion or any perplexing thought, he has only to put it down in black and white, using it as the theme of a story or the decoration of an essay, to forget all about it. He is the only free man.
 * 작가의 보상 : 망각 295
 * 휴 월폴 299
 
