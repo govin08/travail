@@ -1,6 +1,6 @@
-import keyboard, subprocess, sys, os
+import keyboard, subprocess, sys, os, argparse
 script_dir = os.path.dirname(os.path.abspath(__file__))
-script_path = os.path.join(script_dir, "accumulator.py")
+script_path = os.path.join(script_dir, "accumulator_1.py")
 
 def run_script():
     subprocess.run([sys.executable, script_path])
