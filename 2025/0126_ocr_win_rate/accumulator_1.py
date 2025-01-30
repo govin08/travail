@@ -1,5 +1,5 @@
 from PIL import ImageGrab
-import pytesseract, csv, os
+import pytesseract, csv, os, random
 from datetime import datetime as DT
 from itertools import product
 from collections import Counter
@@ -13,19 +13,16 @@ def load_log(log_path):
         prev_n_los = int(last_line[4])
     return prev_n_win, prev_n_los
 
-def capture_section(ocr_dir, lef, top, rig, bot, name, config = '-c tessedit_char_whitelist=0123456789',augmentation=False):
-    section = ImageGrab.grab(bbox=(lef, top, rig, bot))
-    # 캡처한 이미지를 파일로 저장
-    section.save(os.path.join(ocr_dir, f"{name}.png"))
+def capture_section(ocr_dir, lef, top, rig, bot, name, config = '-c tessedit_char_whitelist=0123456789',augmentation=False, n_sam=20):
     if not augmentation:
+        section = ImageGrab.grab(bbox=(lef, top, rig, bot))
         # OCR을 사용하여 화면의 숫자를 문자열 형태로 변환
         num = pytesseract.image_to_string(
             section,
             config=config # '-c tessedit_char_whitelist=0123456789'
             ).strip() # the number of wins
         return num
-    else:
-            # OCR 위치 후보 지정
+    else: # OCR 위치 후보 지정
         sep = 1
         lefs = range(lef - sep, lef + sep + 1)
         rigs = range(rig - sep, rig + sep + 1)
@@ -34,17 +31,23 @@ def capture_section(ocr_dir, lef, top, rig, bot, name, config = '-c tessedit_cha
         
         locs = list(product(lefs, tops, rigs, bots))
 
+        sections = []
+        for (lef, top, rig, bot) in random.sample(locs, n_sam):
+            section = ImageGrab.grab(bbox=(lef, top, rig, bot))
+            sections.append(section)
+
         nums = []
-        for (lef, top, rig, bot) in locs:
+        for section in sections:
             num = pytesseract.image_to_string(
                 section,
                 config=config # '-c tessedit_char_whitelist=0123456789'
                 ).strip() # the number of wins
             nums.append(num)
-        print(nums)
+        # 캡처한 이미지를 파일로 저장
+        section.save(os.path.join(ocr_dir, f"{name}.png"))
         counts = Counter(nums)
         freq_num, frequency = counts.most_common(1)[0]
-        print(f"OCR 결과 : {freq_num}, 빈도 : {frequency} / {(2 * sep+1)**4}")
+        print(f"OCR 결과 : {freq_num}, 빈도 : {frequency} / {n_sam}")
         return freq_num
 
 def validate_numbers(n_win, n_los):
@@ -86,9 +89,9 @@ def main(augmentation=False):
     prev_n_win, prev_n_los = load_log(log_path)
     
     # OCR 위치 지정
-    top, bot = 131, 147
+    top, bot = 130, 147
     win_lef, win_rig = 359, 391
-    los_lef, los_rig = 395, 427
+    los_lef, los_rig = 395, 426
     
     n_win = capture_section(ocr_dir, win_lef, top, win_rig, bot, 'section_win', augmentation = augmentation)
     n_los = capture_section(ocr_dir, los_lef, top, los_rig, bot, 'section_los', augmentation = augmentation)
@@ -98,4 +101,4 @@ def main(augmentation=False):
     update_log(prev_n_win, prev_n_los, n_win, n_los, win_rate, difference, log_path)
     
 if __name__ == "__main__":
-    main(augmentation=False)
+    main(augmentation=True)
