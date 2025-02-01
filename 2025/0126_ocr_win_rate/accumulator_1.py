@@ -1,8 +1,18 @@
 from PIL import ImageGrab
-import pytesseract, csv, os, random
+import pytesseract, csv, os, random, argparse
 from datetime import datetime as DT
 from itertools import product
 from collections import Counter
+
+import sys
+print("Received arguments:", sys.argv)  # 전달받은 인자 출력
+
+parser = argparse.ArgumentParser()
+parser.add_argument('--aug', '-a', type=lambda x:x.lower() == 'true', default=True)
+parser.add_argument('--n_sam', '-n', type=int, default=10)
+args = parser.parse_args()
+
+print("Parsed arguments:", args)  # args 값 확인
 
 def load_log(log_path):
     # 최신 승수와 패수 불러오기
@@ -101,4 +111,4 @@ def main(augmentation=False, n_sam=20):
     update_log(prev_n_win, prev_n_los, n_win, n_los, win_rate, difference, log_path)
     
 if __name__ == "__main__":
-    main(augmentation=True, n_sam=10)
+    main(augmentation=args.aug, n_sam=args.n_sam)
