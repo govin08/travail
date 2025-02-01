@@ -95,7 +95,7 @@ def main(augmentation=False, n_sam=20):
     
     # OCR 위치 지정
     top, bot = 130, 147
-    win_lef, win_rig = 359, 391
+    win_lef, win_rig = 359, 390
     los_lef, los_rig = 395, 426
     
     n_win = capture_section(ocr_dir, win_lef, top, win_rig, bot, 'section_win', augmentation = augmentation, n_sam=n_sam)
