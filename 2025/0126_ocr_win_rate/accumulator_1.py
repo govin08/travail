@@ -78,7 +78,7 @@ def update_log(prev_n_win, prev_n_los, n_win, n_los, win_rate, difference, log_p
         else:
             print("no change in stats")
 
-def main(augmentation=False):
+def main(augmentation=False, n_sam=20):
     print("")
     print("========viewing the screen========")
     # 프로그램 경로
@@ -93,12 +93,12 @@ def main(augmentation=False):
     win_lef, win_rig = 359, 391
     los_lef, los_rig = 395, 426
     
-    n_win = capture_section(ocr_dir, win_lef, top, win_rig, bot, 'section_win', augmentation = augmentation)
-    n_los = capture_section(ocr_dir, los_lef, top, los_rig, bot, 'section_los', augmentation = augmentation)
+    n_win = capture_section(ocr_dir, win_lef, top, win_rig, bot, 'section_win', augmentation = augmentation, n_sam=n_sam)
+    n_los = capture_section(ocr_dir, los_lef, top, los_rig, bot, 'section_los', augmentation = augmentation, n_sam=n_sam)
     n_win, n_los = validate_numbers(n_win, n_los)
     print(n_win, n_los)
     win_rate, difference = calculate(n_win, n_los)
     update_log(prev_n_win, prev_n_los, n_win, n_los, win_rate, difference, log_path)
     
 if __name__ == "__main__":
-    main(augmentation=True)
+    main(augmentation=True, n_sam=10)
