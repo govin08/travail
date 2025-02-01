@@ -286,3 +286,117 @@ Dans mon sac, il y a des livres, un ramen, une gamelle, des stylos et une paire 
 - village : n.m.
 - quartier : n.m.
 - chaussure, chaussette : n.f.
+
+# 12. une tour, un pont, des bateaux, la tour, le pont, les bateaux
+
+## "un", "une", "des" et "le", "la", "les"
+
+### exemples
+- une tour      | la tour
+- un pont       | le pont
+- des bateaux   | les bateaux
+
+### explications
+- l'article indéfini
+    - chose non unique, catégorie
+        - un pont
+        - une femme
+        - des rues
+    - quantité
+        - un homme
+        - une femme
+
+    |           |masculin       |féminin    |
+    |-          |-              |-          |
+    |singulier  |un             |une        |
+    |féminin    |des            |           |
+
+- l'article défini
+    - chose unique, précise
+        - le Pont-Neuf
+        - la femme de Paul
+        - les rues de Paris
+    - Généralité
+        - l'homme (= les hommes)
+        - la femme (= les femmes)
+        - la musique, le sport, le cinéma
+
+    |           |masculin       |féminin    |
+    |-          |-              |-          |
+    |singulier  |le             |la         |
+    |féminin    |les            |           |
+
+## exercices
+
+### 1. Complétez avec "un", "une" ou "le", "la". Présentez des rues, places, etc., de votre payes
+- un musée      | le musée Picasso          | le musée de dooly
+- un pont       | le pont de Arts           | le pont de 성수
+- un jardin     | le jardin du Luxembourg   | le jardin de 창포
+- une rue       | la rue de Rivoli          | la rue de 해등
+- une place     | la place de l'Étoile      | la place de la municipalité
+- une gare      | la gare de Lyon           | la gare de 창동
+
+### 2. Faites des phrases, selon le modèle. Continuez.
+- L'espagnol est une langue latine.
+- Les oranges sont des fruits.
+- La France est un pays d'Europe.
+- Le football est un sport populaire.
+
+### 3. Faite des phases.
+- J'adore les chats.
+- J'ai un chat.
+- Je conduis la voiture.
+- J'achète une voiture.
+- J'aime le tatouage.
+- Il a un tatouage.
+- Elle adore les vestes en cuir.
+- Il porte la veste en cuir.
+- Nous avon des motos anglaises.
+- Je déteste le moto anglaise.
+
+### 4. Exprimez vos goûts, selon le modèle.
+- J'aime le soleil.
+- Je déteste le vent.
+- Je déteste le froid.
+- Je déteste le chaleur.
+- Je déteste le bruit.
+- J'aime le bois.
+- Je déteste le plastique.
+- Je déteste les chats.
+- Je déteste les pigeons.
+- J'aime le bleu.
+- Je déteste l'orange.
+
+### 5. Répondez au questionnaire avec "un", "une" ou "le", "la", "l'". Continuez.
+- un jour : le jeudi
+- une couleur : le rouge
+- une saison : l'automne
+- un animal : l'éléphant
+- un pays : l'Irlande
+- un chiffre : le sept
+
+### 6.
+- a. Sujets pour une voyante
+    - l'amour
+    - l'argent
+    - la tristesse
+    - le bonheur
+- b. Sujets pour un magazine
+    - le sport
+    - la célébrité
+    - le vêtement
+
+## vocabulaires
+- langue : n.f. 언어
+- tatouage : n.m. 문신
+- veste : n.f. 조끼, 저고리
+- cuir : n.m. 가죽
+- bois : n.m. 삼림, 숲, 나무
+- saison : n.f. 계절
+- animal : n.m.
+- chiffre : n.m. 숫자
+- voyant : n.f. 점쟁이
+- 
+
+## remarques
+- froid(추위)는 여성형 명사, chaleur(더위)는 남성형 명사
