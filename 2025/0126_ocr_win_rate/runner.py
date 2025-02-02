@@ -1,6 +1,6 @@
 import keyboard, subprocess, sys, os, argparse
 script_dir = os.path.dirname(os.path.abspath(__file__))
-script_path = os.path.join(script_dir, "accumulator_1.py")
+script_path = os.path.join(script_dir, "accumulator.py")
 
 print('runner is now ready.')
 def run_script():
