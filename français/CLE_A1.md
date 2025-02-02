@@ -400,3 +400,160 @@ Dans mon sac, il y a des livres, un ramen, une gamelle, des stylos et une paire 
 
 ## remarques
 - froid(추위)는 여성형 명사, chaleur(더위)는 남성형 명사
+
+# 13. Je visite le Louvre. Je suis au Louvre. J'envoie une carte du Louvre.
+
+## "à la", "au", "aux" : "à"+ article définis
+
+### exemples
+- la Bastille   | à la Bastille.
+- l'Opéra       | à l'Opéra
+- le Louvre     | au Louvre
+- les Invalides | aux Invalides
+
+### explications
+- à + le = au
+    - Je vais au Louvre
+- à + les = aux
+    - Je vais aux Invalides
+- à + la et à l' = pas de changement
+    - Je vais à la Bastille.
+    - Je vais à l'Opéra.
+
+## "de la", "du", "des" : "de" + article définis
+
+### exemples
+- la mère       | de la mère
+- l'enfant      | de l'enfant
+- le père       | du père
+- les Martiens  | des Martiens
+
+### explications
+- de + le = du
+    - les chaussures du pére
+- de + les = des
+    - les chaussures des Martiens
+- de la et de l' = pas de changement
+    - les chaussures de la mère
+    - les chaussures de l'enfant
+
+## exercices
+
+1. Complétez librement en utilisant "à la", "à l'", "au"
+- À 8 heures, je suis à la maison.
+- À 9 heures, je suis au café.
+- À 13 heures, je suis au restaurant.
+- À 14 heures, je suis à la bibliothèque.
+- À 18 heures, je suis au marché.
+- À 20 heures, je suis au gymnase.
+
+2. Faites des phrases avec "à la", "au" ou "aux". Continuez librement.
+- J'aime le thon et les anchois. (제시된 문장)
+    - Je mange une pizza au thon et aux anchois. (제시된 답안)
+- Tu aimes le jambon et le fromage. (제시된 문장)
+    - Tu manges le pain au jambon et au fromage. (내 답안)
+    - Tu manges une pizza au jambon et au fromage. (답지)
+- Elle aime les champignons et la sauce tomate. (제시된 문장)
+    - Elle mange les pâtes aux champignons et à la sauce tomate. (내 답안)
+    - Elle mange une pizza aux champignons et à la sauce tomate. (답지)
+- Nous aimons les pommes de terre et les carottes. (만든 문장)
+- Nous aimons les fruits de mer. (답지)
+    - Nous mangeons la soupe aux pommes de terre et aux carottes. (내 답안)
+    - Nous mangeons une pizza aux fruits de mer. (답지)
+
+3. "de la", "de l'", "du" ou "des" : associez selon le modèle.
+- le chat / la voisine      | le chat de la voisine
+- le livre / l'étudiant     | le livre de l'étudiant
+- le vélo / le professeur   | le vélo du professeur
+- les jouets / les enfants  | les jouets des enfants
+- le mari / la coiffeuse    | le mari de la coiffeuse
+- le stylo / l'écrivain     | le stylo de l'écrivain
+- la femme / le boulanger   | la femme du boulanger
+- la voiture / le voisin    | la voiture du voisin
+
+4. Associez selon le modèle.
+- la baguette du chef d'orchestre
+- le stylo de l'écrivain
+- la couronne de la reine
+- le micro du chanteur
+- les cornes du diable
+- les amis des amis
+
+5. Complétez selon le modèle. Continuez librement.
+- J'aime le goût du café.
+- J'aime le bleu du ciel.
+- J'aime le chant des oiseaux.
+- J'aime la lumière du soleil.
+- J'aime l'odeur de la terre mouillée.
+- J'aime le rire des enfants.
+
+6. Faites des phrases avec "le", "la", "les", "à la", "au", "aux" et "de la", "du", "des".
+- le Louvre
+    - Je visite le Louvre.
+    - Je suis au Louvre.
+    - J'envoie une carte du Louvre.
+- la tour Eiffel
+    - Je visite la tour Eiffel.
+    - Je suis à la tour Eiffel.
+    - J'envoie une carte de la tour Eiffel.
+- les Invalides
+    - Je visite les Invalides.
+    - Je suis aux Invalides.
+    - J'envoie une carte des Invalides.
+- la Défense
+    - Je visite la Défense.
+    - Je suis à la Défense.
+    - J'envoie une carte de la Défense.
+- le musée Picasso
+    - Je visite le musée Picasso.
+    - Je suis au musée Picasso.
+    - J'envoie une carte du musée Picasso.
+
+## vocabulaires
+- thon : n.m. 다랑어, 참치
+- anchois : n.m. 멸치
+- voisin : n.m. 이웃 (f. voisine)
+- jouet : n.m. 장난감
+- coiffeur : n.f. 이발사, 미용사
+- écrivain : n.f. 작가
+- la baguette du chef d'orchestra : 지휘자의 지휘봉
+- couronne : n.f. 관, 화관, 상
+- micro : n.m. 마이크
+- corne : n.f. 뿔
+- reine : n.f. 왕비, 왕후, 여왕
+- diable : n.m. 악마, 사탄
+- terre : n.f. 땅
+- mouillé : a. 젖은, 축축한
+- goût : n.m. 미각, 입맛
+- lumière : n.f. 빛, 햇빛
+- odeur : n.f. 냄새, 향기
+- rire : n.m. 웃음
+
+## remarques
+- 따라서 des는 복수형부정관사로도 쓰이고 de + les의 의미로도 쓰인다.
+- 본문에서는 de + le/la/les의 결합과 à + le/la/les의 결합을 다루고 있다. de + un/une/des의 결합은 다음과 같다.
+    - de + un = de
+        - un ami de un étudiant → un ami de étudiant
+        - un table de un bois → un table de bois
+    - de + une = de
+        - une femme de une beauté → une femme de beauté
+        - une salle de une danse → une salle de danse
+    - de + des = de
+        - un sac de des livres → un sac de livres
+- à + un/une/des의 결합은 없다. (이상, 출처 : claude)
+    - à + un = à + un
+        - Je parle à un ami.
+    - à + une = à + une
+        - Il pense à une solution.
+    - à + des = à + des
+        - Elle écrit à des amis.
+- 셀 수 없는 음식(mass noun)은 단수로 쓴다.
+    - le thon
+    - le riz
+    - le lait
+    - le pain
+- 셀 수 있는 음식은 보통 복수로 쓴다. (이상, 출처 : claude)
+    - les anchois
+    - les carottes
+    - les pommes
+→
