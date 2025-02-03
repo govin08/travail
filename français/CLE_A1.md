@@ -4,12 +4,11 @@ GRAMMAIRE PROGRESSIVE DU FRANÇAIS (A1)
 
 ## le nom et l'article (명사와 관사)
 
-### exemples
-- un homme
-- un arbre
-- une route
+- exemples
+    - un homme
+    - un arbre
+    - une route
 
-### explications
 - Le nom est, en général, précédé d'un article.
     - Dites : Un homme marche
     - Ne dites pas : Homme marche.
@@ -34,7 +33,7 @@ GRAMMAIRE PROGRESSIVE DU FRANÇAIS (A1)
 
 ## exercices (1)
 
-### 1. Placez l'article "un" ou "une", selon le modèle.
+1. Placez l'article "un" ou "une", selon le modèle.
 - transports
     - une voiture
     - un bus
@@ -58,18 +57,18 @@ GRAMMAIRE PROGRESSIVE DU FRANÇAIS (A1)
     - un croissant
     - un gâteau
 
-### 2. Complétez avec "un" ou "une". Observez les adjectifs.
+2. Complétez avec "un" ou "une". Observez les adjectifs.
 - un restaurant italien
 - un bon disque
 - un film intéressant
 - une leçon importante
 - une valise noire
 
-### 3. Complétez avec "un"ou "une".
+3. Complétez avec "un"ou "une".
 - un étudiant achète un livre.
 - une fille mange un gâteau.
 
-### 6. Lisez et mettez au féminin. Continuez librement.
+6. Lisez et mettez au féminin. Continuez librement.
 Rencontres : Un touriste japanais parle avec un vendeur italien. Un homme brun dîne avec un acteur connu.
 Un Martien pressé écoute un boulanger bavard.
 
@@ -119,11 +118,11 @@ Une Martienne pressée écoute une boulangere bavarde.
 
 ## exercices (2)
 
-### 1. 2. Complétez avec "un" ou "une"
+1. 2. Complétez avec "un" ou "une"
 - un voyage à Venise
 - un ballon vert
 
-### 3. Associez les objets selon le modèle.
+3. Associez les objets selon le modèle.
 - un ordinateur et une tablette
 - un couteau et une fourchette
 - une voiture et un garage
@@ -131,7 +130,7 @@ Une Martienne pressée écoute une boulangere bavarde.
 - un bureau et un téléphone
 - une addition et une soustraction
 
-### 4. Complétez avec "un" ou "une". Acoordez l'adjectif si c'est nécessaire.
+4. Complétez avec "un" ou "une". Acoordez l'adjectif si c'est nécessaire.
 - une université européenne
 - un vêtement élégant
 - une publicité originale
@@ -141,7 +140,7 @@ Une Martienne pressée écoute une boulangere bavarde.
 - une organisation internationale
 - une émission intéressante
 
-### 6. Complétez avec "le" ou "la". Continuez librement.
+6. Complétez avec "le" ou "la". Continuez librement.
 - Sujets d'actualité
     - le gouvernement
     - le chômage
@@ -187,12 +186,11 @@ Une Martienne pressée écoute une boulangere bavarde.
 
 ## singulier et pluriel des noms
 
-### exemples
-- un arbre  | des arbres
-- une fleur | des fleurs
-- un oiseau | des oiseaux
+- exemples
+    - un arbre  | des arbres
+    - une fleur | des fleurs
+    - un oiseau | des oiseaux
 
-### explications
 - L'article est singulier ou pluriel, comme le nom :
     |           |singulier  |pluriel    |
     |-          |-          |-          |
@@ -212,7 +210,7 @@ Une Martienne pressée écoute une boulangere bavarde.
 
 ## exercices
 
-### 1. Mettez les noms au pluriel
+1. Mettez les noms au pluriel
 - une voiture   | des voitures
 - un homme      | des hommes
 - une table     | des tables
@@ -224,7 +222,7 @@ Une Martienne pressée écoute une boulangere bavarde.
 - un gâteau     | des gâteaux
 - un journal    | des journaux
 
-### 2. Mettez au pluriel, selon le modèle. Continuez librement.
+2. Mettez au pluriel, selon le modèle. Continuez librement.
 Dans mon village (la capitale), il y a :
 - un café           | des cafés
 - une place         | des places
@@ -235,17 +233,17 @@ Dans mon village (la capitale), il y a :
 - un jardin         | des jardins
 - une école         | des écoles
 
-### 3. Complétez avec "un", "une" ou "des". Déscrivez votre propre salon.
+3. Complétez avec "un", "une" ou "des". Déscrivez votre propre salon.
 Dans mon salon : il y a un divan, des fauteuils, une télévision, une chaîne hi-fi, des plantes vertes, un tapis bleu, des rideaux blancs des tableaux modernes, une armoire un meuble ancien, un vase noir avec des fleurs blanches, une étagère avec des livres et des disques.
 
-### 4. Complétez avec "un", "une" ou "des". Décrivez votre propre ville / village / quatier
+4. Complétez avec "un", "une" ou "des". Décrivez votre propre ville / village / quatier
 Dans mon village, il y a des maisons anciennes et des immeubles modernes. Au centre, il y a une grande place avec une vieille église et une jolie fontaine. Dans la rue principale, il y a un petit café avec des chaises vertes. À l'entrée, il y a un parking avec des arbres.
 
 <!-- Dans mon village, il y a des immeubles anciennes. Acote de gare, il y a des restaurants et des écoles. Au colline, il y a une bibliothèque. Il y a trop des arbes dans mon village. -->
 
 Dans mon village, il y a des immeubles anciens. À côté de la gare, il y a des restaurants et des écoles. Sur la colline, il y a une bibliothèque. Il y a beaucoup d'arbres dans mon village.
 
-### 5. Complétez avec "un", "une" ou "des" et continuez librement la liste.
+5. Complétez avec "un", "une" ou "des" et continuez librement la liste.
 À vendre :
 - un lit
 - une table
@@ -262,7 +260,7 @@ Dans mon village, il y a des immeubles anciens. À côté de la gare, il y a des
 - un collier
 - une ceinture
 
-### 6. Qu'est-ce que'on trouve :
+6. Qu'est-ce que'on trouve :
 Dans mon sac, il y a des livres, un ramen, une gamelle, des stylos et une paire de baguettes.
 
 ## vocabulaires
@@ -291,12 +289,11 @@ Dans mon sac, il y a des livres, un ramen, une gamelle, des stylos et une paire 
 
 ## "un", "une", "des" et "le", "la", "les"
 
-### exemples
-- une tour      | la tour
-- un pont       | le pont
-- des bateaux   | les bateaux
+- exemples
+    - une tour      | la tour
+    - un pont       | le pont
+    - des bateaux   | les bateaux
 
-### explications
 - l'article indéfini
     - chose non unique, catégorie
         - un pont
@@ -328,7 +325,7 @@ Dans mon sac, il y a des livres, un ramen, une gamelle, des stylos et une paire 
 
 ## exercices
 
-### 1. Complétez avec "un", "une" ou "le", "la". Présentez des rues, places, etc., de votre payes
+1. Complétez avec "un", "une" ou "le", "la". Présentez des rues, places, etc., de votre payes
 - un musée      | le musée Picasso          | le musée de dooly
 - un pont       | le pont de Arts           | le pont de 성수
 - un jardin     | le jardin du Luxembourg   | le jardin de 창포
@@ -336,13 +333,13 @@ Dans mon sac, il y a des livres, un ramen, une gamelle, des stylos et une paire 
 - une place     | la place de l'Étoile      | la place de la municipalité
 - une gare      | la gare de Lyon           | la gare de 창동
 
-### 2. Faites des phrases, selon le modèle. Continuez.
+2. Faites des phrases, selon le modèle. Continuez.
 - L'espagnol est une langue latine.
 - Les oranges sont des fruits.
 - La France est un pays d'Europe.
 - Le football est un sport populaire.
 
-### 3. Faite des phases.
+3. Faite des phases.
 - J'adore les chats.
 - J'ai un chat.
 - Je conduis la voiture.
@@ -354,7 +351,7 @@ Dans mon sac, il y a des livres, un ramen, une gamelle, des stylos et une paire 
 - Nous avon des motos anglaises.
 - Je déteste le moto anglaise.
 
-### 4. Exprimez vos goûts, selon le modèle.
+4. Exprimez vos goûts, selon le modèle.
 - J'aime le soleil.
 - Je déteste le vent.
 - Je déteste le froid.
@@ -367,7 +364,7 @@ Dans mon sac, il y a des livres, un ramen, une gamelle, des stylos et une paire 
 - J'aime le bleu.
 - Je déteste l'orange.
 
-### 5. Répondez au questionnaire avec "un", "une" ou "le", "la", "l'". Continuez.
+5. Répondez au questionnaire avec "un", "une" ou "le", "la", "l'". Continuez.
 - un jour : le jeudi
 - une couleur : le rouge
 - une saison : l'automne
@@ -375,7 +372,7 @@ Dans mon sac, il y a des livres, un ramen, une gamelle, des stylos et une paire 
 - un pays : l'Irlande
 - un chiffre : le sept
 
-### 6.
+6.
 - a. Sujets pour une voyante
     - l'amour
     - l'argent
@@ -396,7 +393,6 @@ Dans mon sac, il y a des livres, un ramen, une gamelle, des stylos et une paire 
 - animal : n.m.
 - chiffre : n.m. 숫자
 - voyant : n.f. 점쟁이
-- 
 
 ## remarques
 - froid(추위)는 여성형 명사, chaleur(더위)는 남성형 명사
@@ -405,37 +401,37 @@ Dans mon sac, il y a des livres, un ramen, une gamelle, des stylos et une paire 
 
 ## "à la", "au", "aux" : "à"+ article définis
 
-### exemples
-- la Bastille   | à la Bastille.
-- l'Opéra       | à l'Opéra
-- le Louvre     | au Louvre
-- les Invalides | aux Invalides
+- exemples
+    - la Bastille   | à la Bastille.
+    - l'Opéra       | à l'Opéra
+    - le Louvre     | au Louvre
+    - les Invalides | aux Invalides
 
-### explications
-- à + le = au
-    - Je vais au Louvre
-- à + les = aux
-    - Je vais aux Invalides
-- à + la et à l' = pas de changement
-    - Je vais à la Bastille.
-    - Je vais à l'Opéra.
+- explications
+    - à + le = au
+        - Je vais au Louvre
+    - à + les = aux
+        - Je vais aux Invalides
+    - à + la et à l' = pas de changement
+        - Je vais à la Bastille.
+        - Je vais à l'Opéra.
 
 ## "de la", "du", "des" : "de" + article définis
 
-### exemples
-- la mère       | de la mère
-- l'enfant      | de l'enfant
-- le père       | du père
-- les Martiens  | des Martiens
+- exemples
+    - la mère       | de la mère
+    - l'enfant      | de l'enfant
+    - le père       | du père
+    - les Martiens  | des Martiens
 
-### explications
-- de + le = du
-    - les chaussures du pére
-- de + les = des
-    - les chaussures des Martiens
-- de la et de l' = pas de changement
-    - les chaussures de la mère
-    - les chaussures de l'enfant
+- explications
+    - de + le = du
+        - les chaussures du pére
+    - de + les = des
+        - les chaussures des Martiens
+    - de la et de l' = pas de changement
+        - les chaussures de la mère
+        - les chaussures de l'enfant
 
 ## exercices
 
@@ -911,4 +907,49 @@ Dans mon sac, il y a des livres, un ramen, une gamelle, des stylos et une paire 
         - f.s. : vieille
         - f.p. : vieilles
 
+# 17. Ma fille a les yeux noirs. mon fils a trois ans.
+
+## les caractéristiques physiques
+- exemples
+    - Ma fille a les yeux noirs.
+    - Elle a les cheveux blonds
+- explications
+    - Elle a les yeux noirs.    | Ses yeux sont noirs.
+    - Elle a les cheveux blonds.| Ses cheveux sont blonds.
+    - Elle a le visage rond.    | Son visage est rond.
+
+## l'âge
+- exemples
+    - Il a trois ans!
+- "avoir" + nombre d'années (de mois, de jours, ...)
+    - Il a trois mois.      | Il est petit.
+    - Il a cent ans.        | Il est vieux.
+
+## exercices
+
+3. Associez les personnes et les âges, selon de modèle.
+- Max est footballeur professionnel.    | Il a vingt-cinq ans.
+- Paul est à la retraite.               | Il a soixante-cinq ans.
+- Anna est l'actuelle Miss Monde.       | Elle a vingt-deux ans.
+- Marie est lycéenne.                   | Elle a quinze ans.
+- Jeanne est très vieille.              | Elle a cent vingt ans.
+
+## vocabulaires
+- fils / fille : 아들 / 딸
+- œuf / yeux : 단수 / 복수
+- rond : 둥근, 구형의
+- allongé : 긴, 길쭉한 (→ allonger)
+- carré : 네모난 (→ carrer)
+- roux : 다갈색의
+- retraite : n.f. 퇴직
+- actuel : a. 현재의, 오늘날의
+- Miss Monde : 미스 월드, 국제 미인대회
+- ensuite : 그리고 나서
+- défaut : 부족, 결함
+- paresseux : 게으른, 나태한
+
+## remarques
+- œil, yeux : m.
+- cheveu : m.
+- visage : m.
 →
