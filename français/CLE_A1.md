@@ -690,4 +690,225 @@ Dans mon sac, il y a des livres, un ramen, une gamelle, des stylos et une paire 
 
 ## remarques
 - amie, erreur처럼 여성형 명사임에도 불구하고 모음으로 시작하기 때문에 ma ta sa 대신 mon ton son이 붙는 현상을 발음의 조화(euphonie)라고 한다.
+
+# 15. ce chat, cette voiture, ces arbres
+
+## "ce", "cette", "ces" : les démonstratifs
+
+### exemples
+- ce chat
+- cette voiture
+- ces arbres
+
+### explications
+- L'adjectif démonstratif motre un objet :
+    - exemples
+        - Regarde cette fourmi (sur le sol).    | L'objet est proche
+        - Regarde cette étoile (dans le ciel).  | ou lointain
+    - Il désigne un moment de la journée en cours :
+        - ce matin, cet après-midi, ce soir     | = aujourd'hui
+        - le matin, l'après-midi, le soir       | = en général
+- L'adjectif démonstratif s'accorde avec le nom :
+
+    |           |masculin   |féminin        |
+    |-          |-          |-              |
+    |singulier  |ce chat    |cette voiture  |
+    |pluriel    |ces arbres|
+    - "ce" devient "cet" devant une voyelle ou un "h" muet.
+        - ce acteur → cet acteur
+        - ce homme → cet homme
+
+## exercices
+
+1. Complétez avec "ce"ou "cette". Créez des phrases avec des adjectifs.
+- cette maison
+- cette place
+- ce magazine
+- ce garçon
+- cette fille
+- ce monsieur
+- cette chambre
+- ce fauteuil
+- ce lit
+- ce gâteau
+- cette glace
+- ce plat
+- ce pull
+- cette robe
+- ce manteau
+
+2. "ce", "cette", "cet", "ces" : complétez et transformez
+- Ce livre est intéressant.
+- Cette histoire est intéressante.
+- Ces livres sont intéressants.
+- Ces histoires sont intéressantes.
+
+- Cet étudiant est allemand.
+- Cette étudiante est allemande.
+- Ces étudiants sont allemands.
+- Ces étudiantes sont allemandes.
+
+- Cet acteur est très beau.
+- Cette actrice est très belle.
+- Ces acteurs sont très beaux.
+- Ces actrices sont très belles.
+
+3. Complétez avec "ce", "cette", "cet", "ces"
+- Qui est ce garçon blond?
+- Tu connais cette chanson?
+- Goûtez ce gâteau!
+- Ces tableaux sont intéressants!
+- Cette chaise est libre?
+- À qui est cette écharpe?
+- Ce verre est à vous?
+- Cet appartement est magnifique!
+
+4. Complétez avec "le", "la" ou "ce", "cette" + moment de la journée.
+- Ce matin, je suis malade, je reste à la maison.
+- Le matin, d'habitude, je vais au bureau.
+- Le soir, en général, je regarde un film à télé.
+- Ce soir, c'est mon anniversaire, j'invite tous mes amis.
+- Cette nuit, il y a une éclipse de lune.
+- La nuit, je dors huit heures, en général.
+
+5. Mettez au pluriel (ou singulier).
+- Ce pull est chaud.            | Ces pulls sont chauds.
+- Cette robe est chère.         | Ces robes sont chères.
+- Ce manteau est très beau.     | Ces manteaux sont très beaux.
+- Cette cravate est horrible.   | Ces cravates sont horribles.
+- Ces places sont immenses.     | Cette place est immense.
+- Ces église sont anciennes.    | Cette église est ancienne.
+- Ces hôtels sont confortables. | Cet hôtel est confortable.
+- Ces aéroports sont modernes.  | Cet aéroport est moderne.
+
+
+## vocabulaires
+- sol : n.m. 땅바닥, 지면 (→ terre : n.f.)
+- proche : a. 인접한, 이웃한
+- lointain : a. 먼, 멀리 떨어진
+- fourmi : n.f. 개미
+- étoile : n.f. 별
+- en cours : 진행중인
+- accorder : v. 일치시키다
+- creer : v. 창조하다
+- glace :  n.f. 얼음
+- plat : n.m. 그릇
+- pull : n.m. 스웨터
+- chanson : n.f.
+- gâteau : n.m.
+- éscarpe : n.f. 스카프
+- verre : n.m. 유리 (bière : 맥주, vin : 와인)
+- Cette chaise est libre? : 의자가 비어있나요?
+- À qui est cette écharpe? : 이 목도리는 누구 거에요?
+- Ce verre est à vous? : 이 잔이 당신 거에요?
+- hôtel : n.m.
+- aéroport : n.m.
+
+## remarques
+- soir와 soirée 모두 '저녁'이라는 뜻이지만 뉘앙스가 살짝 다르고, soir은 남성명사, soirée는 여성명사이다.
+
+
+# 16. J'ai une voiture. Vous avez une belle voiture.
+
+## La possession : "avoir" + nom
+- exemples
+    - J'ai une maison.  | Vous avez une belle maison
+    - J'ai une voiture. | Vous avez une belle voiture
+    - J'ai un chien.    | Vous avez un beau chien.
+
+- Chose et personnes
+    - J'ai un appartement.      | Vous avez une maison.
+    - J'ai deux chiens.         | Vous avez trois chats.
+    - J'ai un travail fatigant. | Vous avez un travail intéressant.
+    - J'ai des amis français.   | Vosu avez des amis anglais.
+
+## Place de l'adjectif : après le nom
+- exemples
+    - J'ai une voiture vert.
+    - J'ai une voiture française.
+    - J'ai une voiture économique.
+- "Beau", "joli", "bon", "petit", "grand", "gros", "vieux" : avant le nom
+    - J'ai une petite voiture.
+    - J'ai une jolie voiture.
+    - J'ai une bonne voiture.
+
+## exercices
+
+1. Donnez des informations personnelles à partir du modèle.
+- J'ai une voiture anglaise.        | Vous avez une voiture coréenne.
+- J'ai une télévision japonaise.    | Vous avez une télévision chinoise.
+- J'ai un appareil photo allemand.  | Vous avez un appareil photo anglais.
+- J'ai une montre suisse.           | Vous avez une montre française.
+- J'ai des chaussures italiennes.   | Vous avez des chaussures hollandaises.
+
+2. Faites des phrases avec le verbe "avoir" et les articles manquants.
+- J'ai une maison, vous avez un appartement.
+- J'ai un garçon, vous avez une fille.
+- J'ai une sœur, vous avez un frère.
+- J'ai un chien, vous avez un chat.
+
+3. Donnez des informations personnelles à partir du modèle.
+- Je suis français.             | Vous êtes coréen.
+- Je parle français.            | Vous parlez coréen.
+- J'ai un passeport français.   | Vous avez un passeport coréen.
+
+5. Continuez le texte, selon le modèle.
+- Vous avez une grosse voiture.
+- Vous avez un grand appartement.
+- Vous avez une jolie femme.
+- Vous avez un gros salaire.
+- Vous avez des meubles anciens.
+- Vous avez des amis sympathiques.
+
+6. Quels vêtements portez-vous aujourd'hui?
+- J'ai un manteau vert.
+- J'ai des chaussures blanches.
+- J'ai un pantalon foncè.
+
+## vocabulaires
+- à partir de : ~ 로부터
+- appareil photo : 카메라
+- carte d'identité : 신분증
+- carte de crédit : 신용카드
+- salaire : n.m. 급여
+- foncè : a. 어두운
+
+## remarques
+- 앞에서 수식하는 예외적인 형용사들의 변화형태
+    - beau
+        - m.s. : beau, bel
+        - m.p. : beaux
+        - f.s. : belle
+        - f.p. : belles
+    - joli
+        - m.s. : joli
+        - m.p. : jolis
+        - f.s. : jolie
+        - f.p. : jolies
+    - bon
+        - m.s. : bon
+        - m.p. : bons
+        - f.s. : bonne
+        - f.p. : bonnes
+    - petit
+        - m.s. : petit
+        - m.p. : petits
+        - f.s. : petite
+        - f.p. : petites
+    - grand
+        - m.s. : grand
+        - m.p. : grands
+        - f.s. : grande
+        - f.p. : grandes
+    - gros
+        - m.s. : gros
+        - m.p. : gros
+        - f.s. : grosse
+        - f.p. : grosses
+    - vieux
+        - m.s. : vieux, vieil
+        - m.p. : vieux
+        - f.s. : vieille
+        - f.p. : vieilles
+
 →
