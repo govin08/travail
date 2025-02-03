@@ -556,4 +556,138 @@ Dans mon sac, il y a des livres, un ramen, une gamelle, des stylos et une paire 
     - les anchois
     - les carottes
     - les pommes
+
+# 14. mon père, ton père, son père, ma mère, ta mère, sa mère
+
+## "mon", "ton", "son" : les possessifs
+
+### exemples
+- son père
+- sa mère
+- ses parents
+
+### explications
+- L'adjectif possessif s'accorde avec le nom :
+    - le père       | son père
+    - la mère       | sa mère
+    - les parents   | ses parents
+
+- Le possessif varie avec les personnes :
+    - Je
+        - mon père
+        - ma mère
+        - mes parents
+    - Tu
+        - ton père
+        - ta mère
+        - tes parents
+    - Il / Elle
+        - son père
+        - sa père
+        - ses parents
+    - Nous
+        - notre père
+        - notre mère
+        - nos parents
+    - Vous
+        - votre père
+        - votre mère
+        - vos parents
+    - Ils / Elles
+        - leur père
+        - leur mère
+        - leurs parents
+    - "ma" devient "mon", "ta" devient "ton", "sa" devient "son" devant une voyelle.
+        - ma amie → mon amie
+        - ta erreur → ton erreur
+
+## exercices
+
+1. Complétez avec "mon" ou "ma". Donnez des informations personnelles
+
+(교재)
+- Mon père est blond.
+- Ma mère est brune.
+- mon frère Kevin est blond.
+- Ma sœur Clémence est brune.
+- Ma grand-mère est châtain
+
+(직접 만든 문장)
+- Mon père était convenable.
+- Ma mère est gentille et sympa.
+- Ma sœur est bavarde.
+- Mon ami 종원 est grand et tranquille.
+- Mes connaissances sont gentils.
+
+2. "Mon", "ma" ou "mes" : qu'est-ce que vous emportez pour aller : 
+- À la piscine : J'emporte mon maillot, ma serviette, mon shampooing, mon sac, mon bonnet et mes lunettes.
+- À l'école : J'emporte mon stylo, ma gomme, mon dictionnaire, ma règle, mes cahiers et mes livres.
+
+3. Complétez avec "son", "sa", "ses".
+- le père de Marie : son père
+- la mère de Paul : sa mère
+- la voiture de Jean : sa voiture
+- le vélo de la voisine : son vélo
+- le cahier de l'étudiante : son cahier
+- le livre du professeur : son livre
+- l'adresse d'Ivan : son adresse
+- l'amie de Franck : son amie
+
+4. Completez avec "son", "sa", "ses".
+- Jules aime Anna. Il aime son visage, sa bouche, ses yeux, ses cheveux, ses mains, son sourire, sa silhouette et son style. (교재 예시)
+- Anna aime Jules. Elle aime sa taille, son intelligence, sa tendresse, son nez, ses oreilles et ses amis et amies. (직접 작문)
+
+5. Complétez : a. avec les possessifs, b. avec les possessifs et les noms.
+- Il est ordonné.               | Ils sont désordonnés.
+- Sa chambre est bien rangée.   | Leur chambre est en désordre.
+- Son lit est bien fait.        | Leur lit est mal fait.
+- Ses vêtements sont repassés.  | Leurs vêtements sont froissés.
+- Son écriture est lisible.     | Leur écriture est illisible.
+- Ses cahiers sont propres.     | Leurs cahiers sont sales.
+
+6. Continuez selon de modèle.
+- Je suis chez mon cousin et ma cousine.
+- Tu es chez ton cousin et ta cousine.
+- Il/Elle est chez son cousin et sa cousine.
+- Nous sommes chez notre cousin et notre cousine.
+- Vous êtes chez votre cousin et votre cousine.
+- Ils/Elles sont chez leur cousin et leur cousine.
+
+## vocabulaires
+- châtain : a. 밤색의
+- convenable : a. 적절한, 예의바른
+- maillot : n.m. 속옷
+- maillot de bain : 수영복
+- serviette : n.f. 수건
+- shampooing : n.m. 샴푸, 샴푸로 머리감기
+- bonnet : n.m. 챙없는 모자
+- gomme : n.f. 고무, 지우개
+- règle : n.f. 규정, 규칙, 자
+- cahier : n.m. 공책
+- adresse : n.f.
+- visage : n.m. 얼굴
+- bouche : n.f. 입술
+- yeux : n.m. 두 눈 (복수형, 단수 → œil)
+- cheveu : n.n. 머리털
+- main : n.f. 손
+- sourire : n.m. 미소
+- silhouette : n.f. 실루엣, 몸매, 형태
+- style : n.m.
+- tendresse : n.f. 다정함
+- nez : n.m. 코
+- oreille : n.f. 귀
+- démarche : n.f. 발걸음
+- ordonné : a. 정리된, 정돈된 (→ ordonner)
+- désordonné : a. 무질서한, 혼란스러운
+- rangée : a. 정리된, 정돈된 (→ ranger)
+- désordre : n.m. 뒤죽박죽, 혼란
+- bien fait : 잘 하다, 잘 되다 (→ mal fait)
+- repasser : v. 다림질하다, 다시 통과하다
+- froisser : v. 구기다
+- écriture : n.f. 문자
+- lisible : a. 읽기 쉬운 (→ illisible)
+- sale : a. 더러운
+
+## remarques
+- amie, erreur처럼 여성형 명사임에도 불구하고 모음으로 시작하기 때문에 ma ta sa 대신 mon ton son이 붙는 현상을 발음의 조화(euphonie)라고 한다.
 →
