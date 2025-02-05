@@ -1140,4 +1140,236 @@ J'ai un fils. Il s'appelle Thibaud. Il a huit ans. Il a un très bon copain qui 
         - Elle a des yeux bleus. (O)
         - Elle a de yeux bleus. (X)
  
+# 20. Je n'ai pas la télévision. Je n'ai pas de chat.
+
+## "pas le", "pas la", "pas les" : les articles définis et la négation
+- exemples
+    - Il a la télévision.   | Il n'a pas la télévision.
+    - Il a l'electricité.   | Il n'a pas l'electricité.
+    - Il a le téléphone     | Il n'a pas le téléphone.
+- "le", "la", "les" / "pas le", "pas la", "pas les"
+    - J'ai la photo de Léo. | Je n'ai pas la photo de Léa.
+    - J'ai le numéro de Léo.| Je n'ai pas le numéro de Léa.
+    - J'ai l'adresse de Léo.| Je n'ai pas l'adresse de Léa.
+    - J'ai les clés de Léo. | Je n'ai pas les clés de Léa.
+## "pas de" : les articles indéfinis et la négation
+- exemples
+    - Il a un chapeau.  | Il n'a pas un chapeau.
+    - Il a une cravate. | Il n'a pas une cravate.
+    - Il a des lunettes | Il n'a pas des lunettes.
+- "un", "une", "des" / "pas de"
+    - J'ai un chien.    | Je n'ai pas de chien.
+    - J'ai une voiture. | Je n'ai pas de voiture.
+    - J'ai des enfants. | Je n'ai pas d'enfants.
+- On peut dire :
+    - J'ai une télévision (un magnétoscope, un caméscope) → objet
+    - J'ai la télévision (le téléphone, le gaz) → service
+
+## exercices
+
+1. Mettez à la forme négative, selon de modèle.
+- Dans notre appartement            | Dans notre "maison de campagne"
+- Nous avons l'électricité.         | Nous n'avons pas d'électricité.
+- Nous avons l'eau courante.        | Nous n'avons pas d'eau courante.
+- Nous avons le gaz de ville.       | Nous n'avons pas de gaz de ville.
+- Nous avons le téléphone.          | Nous n'avons pas de téléphone.
+- Nous avons la télévision.         | Nous n'avons pas de télévision.
+- Nous avons le chauffage central.  | Nous n'avons pas de chauffage central.
+
+2. Réponez à la forme négative, selon de modèle.
+- En panne
+- Tu as une roue de secours?    | Non, je n'ai pas de roue de secours.
+- Tu as une lampe de poche?     | Non, je n'ai pas de lampe de poche.
+- Tu as des allumettes?         | Non, je n'ai pas d'allumettes
+- Tu as un plan de la région?   | Non, je n'ai pas de plan de la région.
+- Tu as un téléphone portable?  | Non, je n'ai pas de téléphone portable.
+
+3. Faites des dialogues à la forme affirmative et négative, selon de modèle.
+- une chaîne hi-fi / des disques
+    - J'ai une chaîne hi-fi, mais je n'ai pas de disques.
+    - Moi, j'ai des disques, mais je n'ai pas de chaîne hi-fi.
+- le permis / une voiture
+    - J'ai le permis, mais je n'ai pas de voiture.
+    - Moi, j'ai une voiture, mais je n'ai pas le permis.
+- un balcon / des plantes
+    - J'ai un balcon, mais je n'ai pas de plantes.
+    - Moi, j'ai des plantes, mais je n'ai pas de balcon.
+- des cigarettes / des allumettes
+    - J'ai des cigarettes, mais je n'ai pas d'allumettes.
+    - Moi, J'ai des allumettes, mais je n'ai pas de cigarettes.
+- la télévision / un ordinateur
+    - J'ai la télévision, mais je n'ai pas d'ordinateur.
+    - Moi, J'ai un ordinateur, mais je n'ai pas la télévision.
+
+## vocabulaires
+- electricité : n.f. 전기
+- photo : n.f.
+- numéo : n.m.
+- adresse : n.f.
+- clé : n.f. 열쇠
+- chapeau : n.m
+- cravate : n.f. 넥타이
+- lunette : n.f.
+- magnétoscope : n.m. 비디오 테이프 녹화기
+- caméscope : 비디오 카메라
+- eau courante : 수도
+- gaz de ville : 도시가스
+- chauffage : n.m. 난방
+- chauffage central : 중앙 난방
+- panne : n.f. 고장, 정지
+- roue : n.f. 바퀴
+- secours : n.m. 도움, 지원
+- roue de secours : 스페어 타이어
+- lampe : n.f. 램프, 전등
+- poche : n.f. 포켓, 주머니
+- lampe de poche : 손전등
+- allumette : n.f. 성냥
+- plan : n.m. 지도
+- région : n.f. 지역
+- téléphon portable : 휴대폰
+- chaîne hi-fi : 오디오
+- permis : n.m. 허가증
+- balcon : n.m. 발코니
+
+## remarques
+- 책에는 camescope으로 네이버 사전에는 caméscope으로 되어 있음.
+- One peut dire 부분 :
+    - J'ai une télévision : 집에 실제로 TV가 있다. (물리적으로 존재한다.)
+    - J'ai la télévision : TV 서비스에 가입되어 있다.
+
+# exercices récapitulatifs
+récapitulatif : a. 요점을 간추린, 요약하는 n. 요약
+
+1. verbe "avoir", article indéfinis, possessifs. / Complétez selon de modèle.
+- J'ai un livre.        | C'est mon livre.
+- Tu as une voiture.    | C'est ta voiture.
+- Elle a une bicyclette.| C'est sa bicyclette.
+- Nous avons une maison.| C'est notre maison.
+- Il a un appartement.  | C'est son appartement.
+
+2. article définis, "du", "de la", démonstratifs, possessifs. / Attribuez les objets aux personnes
+- manteau / dame blonde
+    - Ce manteau, c'est le manteau de la dame blonde.
+    - C'est son manteau.
+- écharpe / jeune fille brune
+    - Cette écharpe, c'est l'écharpe de la jeune fille brune.
+    - C'est son écharpe.
+- voiture / voisin
+    - Cette voiture, c'est la voiture du voisin.
+    - C'est sa voiture.
+- parapluie / monsieur barbu
+    - Ce parapluie, c'est le parapluie du monsieur barbu.
+    - C'est son parapluie.
+- blouson / jeune homme roux
+    - Ce blouson, c'est le blouson du jeune homme roux.
+    - C'est son blouson.
+- moto / voisine
+    - Cette moto, c'est la moto de la voisine.
+    - C'est sa moto.
+
+3. article définis, démostratifs, possessifs, négation. / Complétez.
+- En vacances, j'emporte ma radio, mais je n'emporte pas mon ordinateur.
+- Pour mon anniversaire, j'invite mes amis, mais je n'invite pas mes voisins.
+- Je connais cette dame, mais je ne connais pas ce monsieur.
+- J'ai mon chéquier, mais je n'ai pas ma carte bleue.
+- J'aime cet appartement, mais je n'aime pas ce quartier.
+- J'aime le rouge, mais je n'aime pas le vert.
+
+4. verbe "avoir", articles, verbes en "-er" / Complétez selon le modèle.
+- Il a mal à la tête. Il entre dans une pharmacie. Il achète une boîte d'aspirine.
+- Tu as faim. Tu entres dans une boulangerie. Tu achètes un croissant.
+- Nous avons soif. Nous entrons dans une épicerie. Nous achetons une bouteille d'eau.
+- Elle a mal aux pieds. Elle entre dans un magasin de chaussures. Elle achète des sandales.
+
+5. verbes en "-er", "à la", "au", possessifs / Complétez, continuez.
+- Je mange au restaurant avec mon amie Isabelle.
+- Vous mangez à la cafétéria avec vos collègues.
+- Elle mange à la cantine avec son amie Léa.
+- Nous mangeons à la maison avec nos enfants.
+- Ils mangent au café avec leurs copains.
+- Tu manges au club-house avec ta famille.
+
+## vocabulaires
+- manteau : n.m.
+- écharpe : n.f.
+- parapluie : n.m.
+- barbu : a. 수염이 있는
+- blouson : n.m. 잠바, 짧은 상의
+- moto : n.f.
+- emporter : v. 가지고 가다
+- chéquier : n.m. 수표책 (수표용지를 철한 장부. 은행에서 당좌 예금자에게 내준다.)
+- chèque : n.m 수표
+- carte bleue : 직불카드, 현금카드
+- tête : n.f.
+- pharmacie : n.f.
+- boîte : n.f.
+- épicerie : n.f. 향신료, 식료품점
+- bouteille : n.f.
+- magasin : n.m.
+- sandale : n.f.
+- restaurant : n.m.
+- cafétéria : n.f.
+- cantine : n.f. 구내식당, 간의식당
+
+# bilan n.2
+bilan : 결산
+
+1. Completéz avec le verbe "avoir", les articles, les possessifs ou démonstratifs manquants. Faites l'elision si c'est nécessaire.
+
+- Max est un garçon sympathique. Anna est une fille intelligente.
+- Je cherche une maison avec un garage.
+- La femme de Paul est une femme très sympathique.
+- J'aime l'Italie et les Italiens.
+- Je déteste l'hiver, la pluie et les nuages.
+- Regarde cette voiture : c'est la voiture du voisin.
+- Qui est cet homme? / C'est le ministre de la Culture.
+- Je suis français, mais mon père est anglais et ma mère est italienne.
+- Kiti est très belle : j'adore son visage, sa bouche, ses yeux...
+- Vous avez une voiture? / Oui, j'ai une petite Renault.
+- J'ai froid et j'ai mal à la tête. / Vous avez peut-être la grippe!
+- Vous avez un garage? / Non, je n'ai pas de garage.
+
+2. Complétez avec le verbe "avoir", les articles contractés et possessifs manquants.
+
+Éva
+
+Éva a quatre ans et elle parle couramment quatre langues : elle parle portugais avec sa mère quand elle est à la maison. Elle parle allemand avec son père pendant le week-end, elle parle anglais avec son baby-sitter, son institutrice et ses camarades quand elle est à l'école et elle parle français avec son amie Charlotte quand elle est au jardin!
+
+
+## vocabulaires
+- Italie : n.f. 이탈리아
+- hiver : n.m. 겨울
+- pluie : n.f. 비
+- nuage : n.m. 구름
+- ministre : n.m. 장관, 대신
+- culture : n.f. 경작, 농업, 문화
+- visage : n.m.
+- bouche : n.f.
+- yeux : n.m.
+- Renault : 르노
+- grippe : n.f. 유행성 감기
+- couramment : 유창하게
+- baby-sitter : 
+- institutrice : 여교사
+
+## remarques
+- élision(엘리시온) : 두 인접한 모음 사이를 아포스트로피(l'apostrophe, 모음생략부호)로 대체하는 규칙
+    - j'achete
+    - l'hôtel
+    - d'orange
+    - est-ce qu'il ~
+    - C'est importante.
+- Vous avez peut-être la grippe에 관해
+    - peut-être : 아마도
+    - 정관사가 없는 증상 표현
+        - Vous avez froid/chaud.
+        - Vous avez faim/soif.
+        - Vous avez peur. 두렵다
+        - Vous avez mal.
+    - 정관사가 있는 증상 표현
+        - Vous avez la grippe. 독감에 걸리다
+        - Vous avez le rhume. 감기에 걸리다
+        - Vous avez la fière. 열이 나다
+        - Vous avez la migraine. 편두통이 있다
+- les articles contractés란, du, des, au, aux 등을 나타낸다. 관사의 축약형.
 →
