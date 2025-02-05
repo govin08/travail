@@ -952,4 +952,114 @@ Dans mon sac, il y a des livres, un ramen, une gamelle, des stylos et une paire 
 - œil, yeux : m.
 - cheveu : m.
 - visage : m.
+
+# 18. Il a mal à la tête. Il a mal au dos. Ils ont faim. Ils ont froid.
+
+## les sensations de douleur
+
+- exemples
+    - Il a mal au bras.
+    - Il a mal au pied.
+    - Il a mal à la tête.
+    - Il a mal à la main.
+- explications
+    - avoir mal à la tête.
+    - avoir mal au dos.
+    - avoir mal à la gorge.
+- Dites : J'ai mal aux pieds. | Ne dites pas : J'ai mal à mes pieds.
+
+## les sensations de manque
+
+- exmeples
+    - Ils ont chaud.
+    - Ils ont froid.
+- explications
+    - avoir faim
+    - avoir soif
+    - avoir chaud
+    - avoir froid
+    - avoir sommeil
+    - avoir besoin (de)
+    - avoir envie (de)
+    - avoir peur (de)
+- Dites : Vous avez chaud? | Ne dites pas : Vous êtes chaud.
+
+## exercices
+
+1. Faites des phrases selon de modèle.
+- Il est chez le kiné parce qu'il a mal au dos.
+- Il est chez le dentiste parce qu'il a mal aux dents.
+- Il est chez le médecin parce qu'il a mal à la gorge.
+- Il est chez l'ophtalmo parce qu'il a mal aux yeux.
+
+2. Complétez librement avec les expressions ci-dessous.
+- Ils sont perdus dans le désert. Ils ont chaud. Ils ont soif. Ils ont mal aux pieds. Ils ont envie d'une bière et d'un bain.
+- Ils sont perdus dans la neige. Ils ont froid. Ils ont faim. Ils ont mal aux yeux et à la gorge. Ils ont envie d'un chocolat chaud.
+
+3. Faites librement des phrases avec "avoir besoin de".
+- Pour faire mes courses, j'ai besoin d'un sac et j'ai besoin d'argent.
+- Pour écrire, j'ai besoin d'un ordinateur avec VS code.
+- Pour voyager, j'ai besoin d'un billet de train et d'un sac à dos.
+- Pour lire, j'ai besoin d'un livre avec un support de lecture et j'ai besoin d'un ordinateur.
+
+4. Faites des phrases, selon de modèle (plusieurs possibilités)
+- J'ai mal à la tête, j'ai besoin d'une aspirine.
+- Tu as mal à la gorge, tu as besoin d'un sirop.
+- Il a mal au dos, il a besoin d'un massage.
+- Vous avez mal aux pieds, vous avez besoin d'un bain de pieds.
+
+5. Complétez les pharases selon de modèle.
+- exemples :
+    - Max a besoin de vitamines.
+    - Mon chien a peur des chats.
+    - Mes amis ont envie d'aller à la montagne.
+    - Mon fils a sommeil vers 10 heures.
+    - Paul a envie d'une bière.
+- transformations :
+    - Léa a besoin de vacances.
+    - Mon chat a peur des oiseaux.
+    - Mes amies ont envie d'aller à la mer.
+    - Ma fille a sommeil vers minuit.
+    - Anne a envie d'un café.
+
+## vocabulaires
+- 얼굴, 머리, 목
+    - visage : n.m. 얼굴
+    - tête : n.f. 얼굴, 머리
+    - cou : n.m. 목 (구조, 근육)
+    - gorge : n.f. 목 (내부, 인후)
+    - dent : n.f. 치아, 이
+- dos : n.m. 등
+- 굶주림과 목마름
+    - faim : n.f. 굶주림, 허기, 기아
+    - soif : n.f. 목마름, 갈증
+- sensation : n.f. 감각, 느낌
+- sommeil : n.m. 잠, 수면
+- douleur : n.f. 고통, 아픔
+- 손, 팔, 발, 다리
+    - main : n.f. 손
+    - bras : n.m. 팔
+    - pied : n.m. 발
+    - jambe : n.f. 다리
+- manque : n.m. 결핍, 과실, 부족
+- 더위, 추위
+    - chaud : a. 더운, 따뜻한
+    - froid : a. 추운
+- kiné : n. 물리치료사 (kinésithérapeute)
+- ophtalmo : n. 안과, 안과학 (ophtalmologue, ophtalmologie)
+- ci-dessous : 아래에 표시한 대로, 이하에
+- perdu : a. 잃은, 분실한 (→ perdre)
+- bain : n.m. 목욕, 욕조
+- faire les cources : 장을 보다
+- sirop : n. 시럽, 음료
+- vers 10 heures : 10시 경에
+- minuit : n.m. 자정
+
+## remarques
+- Ils ont faim에서 faims를 쓰지 않는 것이 특이해보인다. Ils ont froid도 마찬가지 → 해당 형용사들은 바꾸지 않는다. 관용구같이 쓰인다는 것이 클로드의 답변.
+- sont : être, ont : avoir
+- besoin : n.m. 필요
+- envie : n.f. 부러움, 선망
+- peur : n.f. 두려움
+- montagne, mer는 둘다 여성 명사이다.
 →
