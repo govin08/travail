@@ -1062,4 +1062,82 @@ Dans mon sac, il y a des livres, un ramen, une gamelle, des stylos et une paire 
 - envie : n.f. 부러움, 선망
 - peur : n.f. 두려움
 - montagne, mer는 둘다 여성 명사이다.
+
+# 19. j'ai, tu as, il a ...
+
+## le verbe "avoir" : conjugaison au présent
+- J'ai une voiture.
+- Tu as une moto.
+- Il/Elle/On a les yeux blues.
+- Nous avons faim.
+- Vous avez froid.
+- Ils/Elles ont sommeil.
+
+## l'interrogation et la négation (révision)
+- l'interrogation               | la négation
+- Vous avez froid?              | Non, je n'ai pas froid.
+- Vous avez faim?               | Non, je n'ai pas faim.
+- Vous avez sommeil?            | Non, je n'ai pas sommeil.
+- Est ce-qu'il a soif?          | Non, il n'a pas soif.
+- Est ce-qu'elles ont sommeil?  | Non, elles n'ont pas sommeil.
+- Est ce-qu'ils ont faim?       | Non, ils n'ont pas faim.
+
+## exercices
+
+1. Complétez avec le verbe "avoir".
+- Paul a vingt ans.
+- Nous avons une maison de campagne.
+- Les enfants ont sommeil.
+- Vous avez envie d'un café?
+- Marie a un saxophone.
+- Ils ont trois enfants.
+- On a soif!
+- Tu as faim?
+
+2. Complétez en conjuguant le verbe "avoir".
+
+J'ai un fils. Il s'appelle Thibaud. Il a huit ans. Il a un très bon copain qui s'appelle Antoine. Ils ont tous les deux yeux verts et les cheveux roux. La mère d'Antoine et moi, nous avons aussi les cheveux roux. On a à peu près le même âge : elle a trente et un ans, moi j'ai trente-deux ans. Nous avons les mêmes goûts, nous avons les mêmes disques et les mêmes livres. Nos enfants ont aussi les mêmes livres, les mêmes jouets et ils ont les mêmes copains.
+
+3. Posez des questions et répondez négativement, selon le modèle.
+- Est-ce que tu as faim?                | Non, je n'ai pas faim.
+- Est-ce que tu as soif?                | Non, je n'ai pas soif.
+- Est-ce que vous avez froid?           | Non, je n'ai pas froid.
+- Est-ce que vous avez mal à la tête?   | Non, je n'ai pas mal à la tête.
+
+4. Faite des avec "il est" / "il a" ou "elle est" / "elle a". Mettez au pluriel.
+- Elle est mannequin. Elle a de jolies jambes.
+- Il est chanteur. Il a une belle voix.
+- Elle est architecte. Elle a une belle maison.
+- Il est lycéen. Il a un gros cartable.
+- Elles sont mannequins. Elles ont de jolies jambes.
+- Ils sont chanteurs. Ils ont de belles voix.
+- Elles sont architectes. Elles ont de belles maisons.
+- Ils sont lycéens. Ils ont de gros cartables.
+
+## vocabulaires
+- moto : n.f. 오토바이
+- interrogation : n.f. 의문문
+- à peu près : 거의, 대략
+- mannequin : n.m. 마네킹
+- cartable : n.m. 책가방
+- voix : n.m 목소리, 음성
+
+## remarques
+- avoir 동사의 여섯가지 변형들은 모두 모음으로 시작한다. 따라서, 부정형을 만들 때 n'(n + l'apostrophe)형태가 항상 나타난다.
+- être verbe + participe passé는 수동태를 나타냈다.
+    - être mangé : 먹히다
+    - être aimé : 사랑받다
+- en + participe présent는 gérontif라고 불린다.
+    - en conjuant : 활용하면서
+    - en mangeant : 먹으면서
+    - en parlant : 말하면서
+    - en étudiant : 공부하면서
+- [복수형 명사를 수식하는 형용사에 대한 관사](https://www.koreapas.com/bbs/view.php?id=mento&no=1912932)
+    - 형 + 명인 경우 (joli, bon, petit, grand, gros, vieux 등)
+        - Elle a des jolies jambes. (X)
+        - Elle a de jolies jambes. (O)
+    - 명 + 형인 경우
+        - Elle a des yeux bleus. (O)
+        - Elle a de yeux bleus. (X)
+ 
 →
