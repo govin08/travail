@@ -528,12 +528,12 @@ Dans mon sac, il y a des livres, un ramen, une gamelle, des stylos et une paire 
 ## remarques
 - 따라서 des는 복수형부정관사로도 쓰이고 de + les의 의미로도 쓰인다.
 - 본문에서는 de + le/la/les의 결합과 à + le/la/les의 결합을 다루고 있다. de + un/une/des의 결합은 다음과 같다.
-    - de + un = de
-        - un ami de un étudiant → un ami de étudiant
-        - un table de un bois → un table de bois
-    - de + une = de
-        - une femme de une beauté → une femme de beauté
-        - une salle de une danse → une salle de danse
+    - de + un = d'un
+        - un ami de un étudiant → un ami d'un étudiant
+        - un table de un bois → un table d'un bois
+    - de + une = d'une
+        - une femme de une beauté → une femme d'une beauté
+        - une salle de une danse → une salle d'une danse
     - de + des = de
         - un sac de des livres → un sac de livres
 - à + un/une/des의 결합은 없다. (이상, 출처 : claude)
@@ -1372,4 +1372,304 @@ bilan : 결산
         - Vous avez la fière. 열이 나다
         - Vous avez la migraine. 편두통이 있다
 - les articles contractés란, du, des, au, aux 등을 나타낸다. 관사의 축약형.
+
+# 21. Dino est de rome. il est à Paris. Il est près de versaille, loin de Nice.
+
+## "à", "de", "près de", "loin de" : localisation
+- exemples
+    - Dino est à Paris.
+    - Dino est de Rome.
+    - Paris est près de Versaille.
+    - Paris est loin de Nice.
+- "à" + lieu où on est
+    - Je suis à Paris.
+    - Je suis à Rome.
+    - Je suis à Berlin.
+    - à + le = au : à la plage, à l'aéroport, au cinéma
+- "de" + lieu d'origine (ville)
+    - Je suis de Tokyo.
+    - Je suis de Moscou.
+    - Je suis de Ceylan.
+    - de + voyelle = d' : d'Istanbul, d'Ankara
+- "chez" + personne
+    - Je suis chez Pierre.
+    - Je suis chez des amis.
+    - Je suis chez moi.
+- "près de" : petite distance
+    - Nice est près de Marseille.
+    - Nice est près de Cannes.
+    - Nice est près de Toulon.
+- "loin de" : grande distance
+    - Nice est loin de Paris.
+    - Nice est loin de Lille.
+    - Nice est loin de Brest.
+
+## exercices
+1. Indiquez l'origine des personnages, selon le modèle.
+- Steve est anglais.    | Il est de Londres.
+- Giorgios est grec.    | Il est de Corfou.
+- Ana est espagnole.    | Elle est de Madrid.
+- Björn est norvégien.  | Il est de Oslo.
+
+2. Faites des textes avec "à", "de" ou "d'", selon de modèle.
+- Monsieur Lopez
+    - Il est colombien.
+    - Il est ingénieur.
+    - Il est de Bogotá mais il travaille à Medellin.
+- Madame Cruz
+    - Elle est brésilienne.
+    - Elle est professeur.
+    - Elle est de São Paulo mais elle travaille à Campinas.
+- Monsieur Michaux
+    - Il est français.
+    - Il est informaticien.
+    - Il est d'Aix mais il travaille à Marseille.
+
+3. Complétez avec "à la", "à l'", "au" ou "chez".
+- Elle est à la poste.      | Il est à la piscine.
+- Elle est à la banque.     | Il est au supermarché.
+- Elle est à l'université.  | Il est au cinéma.
+- Elle est à l'aéroport.    | Il est à l'hôtel.
+- Elle est chez Pierre.     | Il est chez Anna.
+- Elle est chez sa mère.    | Il est chez ses amis.
+
+4. Faites des phrases avec "près de" ou "loin de", selon le modèle.
+- Moscou est loin de Paris.
+- Colombo est près de Kandy.
+- Jilin est près de Changchun.
+- New York est loin de Los Angeles.
+
+5. Réponez aux questions.
+- Vous êtes de quelle ville?
+    - Je suis de Chuncheon.
+- Où êtes-vous actuellement?
+    - Je suis à Seoul.
+- Vous habitez près de la mer ou loin de mer?
+    - J'habite loin de mer.
+
+## vocabulaires
+- origine : n.f. 출신
+- Ceylan : 스리랑카
+- grec : a. 그리스의
+- Corfou : 케르키라 섬
+- ingénieur : n.m. 기술자, 기사
+- informaticien : n. 정보과학자, 정보처리 기술자
+- Aix : Aix-en-Provence : 엑상 프로방스
+- poste : n.f. 우체국 n.m. 근무소, 파출소
+- banque : n.f.
+- aéroport : n.m.
+- piscine : n.f.
+- supermarché : n.m.
+- cinéma : n.m.
+- hôtel : n.m.
+
+## remarques
+- "être à"는 현재 어디에 있다, 라는 의미인 반면 "être de"는 어디 출신이다 라는 의미이다. 이것은 "venir de"와 그 의미가 유사하다.
+    - Il est à Paris. 그는 파리에 있다.
+    - Il est de Paris. 그는 파리 출신이다.
+    - Il vient de Paris. 그는 파리에서 왔다.
+    - Il est au Japon. 그는 일본에 있다.
+    - Il est du Japon. 그는 일본 출신이다. 
+    - Il vient du Japon. 그는 일본에서 왔다.
+
+# 22. en France, à Paris, au Japon, à Tokyo.
+
+## "à", "au", "en" + ville ou pays
+
+- exemples
+    - Je connais la Colombie.   | J'habite en Colombie.
+    - Je connais la Bolivie.    | J'habite en Bolivie.
+    - Je connais l'Argentine.   | J'habite en Argentine.
+    - Je connais le Brésil.     | J'habite au Brésil.
+    - Je connais le Pérou.      | J'habite au Pérou.
+    - Je connais le Chili.      | J'habite au Chili.
+- "en" + pays féminins (finales en "-e")
+    - la Colombie   : J'habite en Colombie.
+    - la Belgique   : J'habite en Belgique.
+    - l'Italie      : J'habite en Italie.
+- "au" + pays masculins (autres finales)
+    - le Brésil     : J'habite au Brésil.
+    - le Japon      : J'habite au Japon.
+    - le Canada     : J'habite au Canada.
+    
+* trois exeptions (e로 끝나는 국가명이어도 남성형인 경우)
+    - le Mexique    : J'habite au Mexique.
+    - le Mozambique : J'habite au Mozambique.
+    - le Cambodge   : J'habite au Cambodge.
+* "au" devient "en" devant une voyelle.
+    - Vous habitez en Iran ou en Irak?
+- "aux" + pays pluriels
+    - les Antilles  : J'habite aux Antilles.
+    - les Étas-Unis : J'habite aux Étas-Unis.
+- "à" + villes
+    - J'habite à Rome.
+    - J'habite à Tokyo.
+    - J'habite à Moscou.
+
+## exercices
+
+1. Complétez avec "le"ou "la", puis "en"ou "au" suivis du nom de pays.
+- Ils aiment la Norvège.   | Ils habitent en Norvège.
+- Ils aiment la Pologne.   | Ils habitent en Pologne.
+- Ils aiment la Grèce.     | Ils habitent en Grèce.
+- Ils aiment le Brésil.    | Ils habitent au Brésil.
+- Ils aiment le Portugal.  | Ils habitent au Portugal.
+- Ils aiment le Pakistan.  | Ils habitent au Pakistan.
+- Ils aiment le Canada.    | Ils habitent au Canada.
+
+2. Complétez avec "le", "la" ou "l'". Citez les pays voisins du vôtre.
+- La France a une frontière commune avec la Suisse, la Belgique, l'Allemagne, l'Italie et l'Espagne.
+- L'Algéria a une frontière commune avec le Mahoc, la Tunisie, la Libye, le Niger, le Mali, le Sahara occidental et la Mauritanie.
+
+3. Situez les villes, selon le modèle.
+- Sokoto est au Nigeria.
+- Madras est en Inde.
+- Bucarest est en Roumanie.
+- Hanoi est au Vietnam.
+- Belém est au Brésil.
+- Quito est en Équateur.
+- Yaoundé est au Cameroun.
+- Bagdad est en Irak.
+- Acapulco est en Mexique.
+- Chicago est aux Étas-Unis.
+
+4. Complétez avec "à", "en", "au", "aux"
+- Le Conseil de l'Europe est à Bruxelles, en Belgique.
+- La Scala est à Milan, en Italie.
+- Big Ben est à Londres, en Angleterre.
+- La Petite Sirène est à Copenhague, au Denemark.
+- La statue de la Liberté est à New York, aux Étas-Unis.
+
+
+## vocabulaires
+
+- suivre : v. 뒤따라가다
+- suivis du nom de pays : 나라 이름에 따라서
+- Norvège  : n.f. 노르웨이
+- frontière : n.f. 경계, 국경
+- commune : n.f. 코뮌 (프랑스 최소 행정구)
+- Sahara occidental : n.m. 서사하라
+- Mauritanie : n.f. 모리타니
+- situer : v. 위치시키다, 설정하다
+- Le Conseil de l'Europe : 유럽평의회 (CoE, Council of Europe)
+- La Scala : 스칼라 극장
+- sirène : 세이렌, 인어
+
+## remarques
+
+- 전반적으로 어렵다. 예외가 너무 많은 것 같다. 내 머릿속에 집어넣을 가장 기본적인 형태는 다음과 같은 것이다. 하지만 본문의 설명이 더 정확하다.
+    - 지식
+        - Il connaît Paris.
+        - Il connaît le Japon.
+    - 출신
+        - Il vient de Paris.
+        - Il vient du Japon.
+    - 현재 위치
+        - Il est à Paris.
+        - Il est au Japon.
+    - 거주
+        - Il habite à Paris.
+        - Il habite au Japon.
+
+- 단수의 국가명의 경우 다음과 같이 된다.
+    - 남성형
+        - 모음으로 시작하지 않음 : au Brésil, au Japon, au Canada, au Mexique, au Mozambiquem, au Cambodge.
+        - 모음으로 시작함 : en Iran, en Iraq
+    - 여성형 : en Colombie, en Belgique, en Italie
+
+# 23. dans la voiture, sur la voiture, sous la voiture ...
+
+## "dans", "sur", "sous", "devant", "derrière"
+- exemples
+    - La valise est sur la voiture.
+    - Le garçon est dans la voiture.
+    - La ballon est sous la voiture.
+    - Le chien est devant la voiture.
+    - Le bateau est derrière la voiture.
+- "dans" = à l'intérieur (espace fermé)
+    - Les fleurs sont dans le vase.
+    - La lettre est dans l'enveloppe.
+- "sur" = à l'extérieur (espace ouvert)
+    - Le vase est sur la table.
+    - Le timbre est sur l'enveloppe.
+- "sous" : opposé de "sur"
+    - Le bateau passe sous le pont.
+    <!-- - Les gens marchent sur le pont. (Ne dites pas) -->
+- "devant" : opposé de "derrière"
+    - Le jardin est devant la maison.
+    - La cour est derrière la maison.
+
+## exercices
+1. Complétez avec "dans" ou "sur" / "sur"ou "sous".
+- Montez sur le manège:
+    - dans une auto,
+    - sur un cheval,
+    - sur un vélo,
+    - dans un avion
+    - sur une moto,
+    - dans un autobus.
+- On est bien, sur le sable:
+    - sur une serviette,
+    - sur une chaise longue,
+    - sous un parasol,
+    - sous les pins,
+    - sous le ciel bleu,
+    - sous le soleil.
+
+2. Faites des phrases avec "dans", "sur" et "sous".
+- Les vêtements sont dans la valise. La valise est sur le coffre.
+- L'argent est dans le portefeuille. Le portefueille est dans le sac.
+- Les bougies sont sur le gâteau. Le gâteau est sur la table.
+- Les bijoux sont dans la boîte. La boîte est sur l'étagère.
+- Les journaux sont dans la poubelle. La poubelle est sur l'évier.
+- La robe est sur la chaise. La chaise est dans la chambre.
+
+3. Completéz en utilisant "devant" et "derière", selon le modèle.
+- Les clients sont devant le guichet.
+- La caissière est derrière le guichet.
+- Le cinéaste est derrière la caméra.
+- Les acteurs sont devant la caméra.
+- La locomotive est devant les wagons.
+- Les wagons sont derrière la locomotive.
+- Le jardin est devant la maison.
+- La cour est derrière la maison.
+
+4. Situez librement les objets.
+- Le tapis est sur le sol.
+- La télévision est sur l'étagère.
+- La lampe est sur l'étagère.
+- Le couvert est sur la table.
+- Le lit est dans la chambre.
+- Les vêtements sont dans l'armoire.
+
+5. Répondez librement.
+- Où sont les clés?         | Dans le sac.
+- Où est la télécommande?   | Sur le lit.
+- Où sont mes pantoufles?   | Devant l'entrée.
+- Où sont mes lunettes?     | Sur l'étagère.
+- Où est le programme-télé? | Sur la table.
+
+## vocabualaire
+- espace : n.m. 공간
+- manège : n.m. 회전목마
+- autobus : n.m. 시내버스
+- sable : n.m. 모래
+- parasol : n.m.
+- pin : n.m. 소나무, 소나무 목재
+- coffre : n.m. 궤, 함, 상자, 냉동고, 금고
+- portefeuille : n.m. 지갑
+- bougie : n.f. 초, 양초
+- étagère : n.f. 선반
+- poubelle : n.f. 쓰레기통, 휴지통
+- évier : n.m. 개수대, 배수구
+- guichet : n.m. 쪽문, 통로, 구멍
+- caissièr : n. 현금출납계원, 회계원, 캐셔?
+- cinéaste : n.m. 영화인 (시나리오 작가·영화 감독·영화 제작 관계자)
+- locomotive : n.f. 기관차, 증기기관차
+- cour : n.f. 안마당, 안뜰
+- couvert : n.m. 식기
+- télécommande : n.m. 리모컨
+- pantoufle : n.f. 슬리퍼
+- programme télé : TV 편성표
+
 →
