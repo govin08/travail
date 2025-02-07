@@ -1509,13 +1509,13 @@ bilan : 결산
 ## exercices
 
 1. Complétez avec "le"ou "la", puis "en"ou "au" suivis du nom de pays.
-- Ils aiment la Norvège.   | Ils habitent en Norvège.
-- Ils aiment la Pologne.   | Ils habitent en Pologne.
-- Ils aiment la Grèce.     | Ils habitent en Grèce.
-- Ils aiment le Brésil.    | Ils habitent au Brésil.
-- Ils aiment le Portugal.  | Ils habitent au Portugal.
-- Ils aiment le Pakistan.  | Ils habitent au Pakistan.
-- Ils aiment le Canada.    | Ils habitent au Canada.
+- Ils aiment la Norvège.  | Ils habitent en Norvège.
+- Ils aiment la Pologne.  | Ils habitent en Pologne.
+- Ils aiment la Grèce.    | Ils habitent en Grèce.
+- Ils aiment le Brésil.   | Ils habitent au Brésil.
+- Ils aiment le Portugal. | Ils habitent au Portugal.
+- Ils aiment le Pakistan. | Ils habitent au Pakistan.
+- Ils aiment le Canada.   | Ils habitent au Canada.
 
 2. Complétez avec "le", "la" ou "l'". Citez les pays voisins du vôtre.
 - La France a une frontière commune avec la Suisse, la Belgique, l'Allemagne, l'Italie et l'Espagne.
@@ -1949,7 +1949,109 @@ bilan : 결산
     - C'est un chanteur.
 - table, chaise는 여성형, fauteuil, divan은 남성형
 
+# 27. C'est beau! C'est cher!
+
+## "C'est" + adjectif : le commentaire général
+- exemples
+    - C'est beau!
+    - C'est horrible!
+    - C'est cher!
+    - C'est original.
+- "c'est" + adjectif neutre exprime un commentaire général.
+    - Le commentaire peut exprimer une opinion personnelle:
+        - Tu aime la mer?
+        - Oui, c'est beau!
+        - Tu aime les glaces?
+        - Oui, c'est bon!
+    - Le commentaire peut exprimer une opinion collective:
+        - C'est beau.
+        - C'est parfumé, une rose.
+    - remarque
+        - Dites : La mer, c'est beau.
+        - Ne dites pas : La mer, c'est belle.
+        - Dites : Une rose, c'est beau.
+        - Ne dites pas : Un rose, c'est belle.
+
+- "c'est" décrit une chose en général, "il est" décrit une chose en particulier.
+    - C'est beau, un enfant.    | Il est beau, cet enfant.
+    - C'est beau, une rose.     | Elle est belle, cette rose.
+    - C'est beau, les roses.    | Elles sont belles, ces roses.
+
+## exercices
+
+1. Faites des commentaires selon le modèle.
+- Un paysage, c'est beau.
+- Un livre, c'est intéressant.
+- Une glace, c'est bon.
+- Les moustiques, c'est désagrèable.
+- La tour Eiffel, c'est haut.
+
+2. Ils ne sont pas d'accord. Imaginez des commentaires.
+- La confiture au Coca-Cola     | C'est bon.        | C'est mauvais.
+- Un pull violet, rose et vert  | C'est beau.       | C'est horrible.
+- Les films de karaté           | C'est génial.     | C'est stupide.
+- La morue à la fraise          | C'est intéressant.| C'est ennuyeux.
+- Un match de foot              | C'est passionnant.| C'est stressant.
+
+3. Associez les objets et les descriptions. Continuez librement.
+- C'est beau, fragile et parfumé : C'est une rose.
+- C'est sucré, coloré et petit : C'est un bonbon.
+- C'est long, chaud et doux : C'est une écharpe.
+- C'est rond, transparent et léger : C'est une bulle.
 
 
 
+4. Complétez le dialogue, selon de modèle.
+- Il est sucré, ce bonbon.
+- Oui, c'est sucré, un bonbon.
+- Elle est douce, cette écharpe.
+- Oui, c'est doux, une écharpe.
+- Elle est belle, cette rose.
+- Oui, c'est beau, une rose.
+- Il est pratique, ce grand sac.
+- Oui, c'est pratique, un grand sac.
+- Elle est mignonne, cette petite fille.
+- Oui, c'est mignon, une petite fille.
+
+## vocabulaires
+- commentaire : n.m. 주석, 설명, 해설, 언급
+- neutre : a. 중립의
+- exprimer : v. 표현하다, 나타내다
+- collectif : a. 공동의, 단체의 (f. collective)
+- parfumé : a. 향기나는
+- paysage : n.m. 경치, 풍경
+- moustique : n.m.
+- haut : a. 높은
+- désagréable : a. 불쾌감을 주는
+- mauvais : a. 나쁜
+- stupide : a. 어리석은
+- ennuyeux : a. 지루한
+- stressant : a. 스트레스를 유발하는
+- passionnant : a. 열광시키는, 감동적인
+- morue : n.f. (물고기) 대구
+- fraise : n.f. 딸기
+- sucre : n.m. 설탕, 당
+- coloré : a. 유색의, 원색의
+- sucré : a. 달콤한, 설탕을 넣은
+- doux : a. 단, 단맛이 나는, 심심한, 기분좋은, 부드러운 (f. douce)
+- léger : a. 가벼운, 얇은
+- bulle : n.f. 거품, 방울
+- pratique : a. 실천적인, 실제적인, 실용적인
+
+## remarques
+- 이전 chapitre에서 C'est는 "C'est 명사"의 형태로만 쓰였다. 반면 Il est가 "Il est 형용사"의 형태로 쓰였다. 이번 chapitre에서는 "C'est 형용사" 형태가 쓰일 수 있음을 말하고 있다. 그러면 "C'est 형용사"와 "C'est 형용사"가 비슷한 형식으로 쓰이고 있으므로 구분이 필요하여 설명하고 있는 것 같다.
+- 하지만 여하튼 네 가지 형태 모두 가능한 것이다.
+    - C'est 명사
+        - C'est un homme.
+        - C'est une voiture.
+    - C'est 형용사
+        - C'est beau.
+        - C'est horrible.
+    - Il est 명사
+        - Il est professeur.
+        - Il est américain.
+    - Il est 형용사
+        - Il est grand.
+        - Il est très beau.
+- (C'est 형용사 / Il est 형용사)의 차이는 전자가 일반적인 대상을 묘사하고 후자가 특정한 대상을 묘사한다는 점에서 다르다는 점이 설명되고 있다.
 →
