@@ -1672,4 +1672,284 @@ bilan : 결산
 - pantoufle : n.f. 슬리퍼
 - programme télé : TV 편성표
 
+# 24. Au bord de l'eau, il i a un éléphant. En Afrique, il y a des éléphants.
+
+## "il y a" + nom : l'existence
+
+- exemples
+    - Au bord de l'eau, il y a un éléphant.
+    - Dans l'eau, il y a un crocodile.
+    - En Afrique, il y a des éléphants.
+    - En Afrique, il y a des crocodiles.
+- "il y a" signale la présence ou l'existence de quelque chose dans un lieu :
+    - exemples
+        - Sous un arbre, il y a un éléphant.
+        - Sur la rive, il y a un éléphant.
+        - Au bord de l'eau, il y a un éléphant.
+        - En Afrique, il y a des éléphants.
+        - En Inde, il y a des éléphants.
+        - Dans les zoos, il y a des éléphants.
+    - remarque
+        - Dites : Sou un arbre, il y a ...
+        - Ne dites pas : Sous un arbre, c'est ...
+    - "il y a" est toujours au singulier :
+        - il y a un éléphant.
+        - il y a des éléphant.
+- "qu'est-ce qu'il y a"
+    - Qu'est-ce qu'il y a dans la pièce?
+    - Il y a une table.
+    - Qu'est-ce qu'il y a sur la table?
+    - Il y a des livres.
+- "Il n'y a pas de"
+    - Est-ce qu'il y a un lit?
+    - Non, il n'y a pas de lit.
+    - Est-ce qu'il y a des fleurs?
+    - Non, il n'y a pas de fleurs.
+
+## exercices
+
+1. Répondez aux questions en utilisant "il y a".
+- Dans votre salon, il y a canapé en tissu ou en cuir?
+- Dans mon salon, il y a un canapé en tissu.
+- Dans votre cuisine, il y a une cuisinière électrique ou à gaz?
+- Dans ma cuisine, il y a une cuisinière électrique.
+- Dans votre chambre, il y a un grand lit ou un petit lit?
+- Dans ma chambre, il y a un petit lit.
+- Dans votre salle de bains, il y a une douche ou une baignoire?
+- Dans ma salle de bains, il y a une baignoire.
+
+2. Posez des questions et réponez, selon de modèle.
+- Qu'est-ce qu'il y a dans le salon?
+- Il y a un canapé, des fauteuils et une télévision.
+- Qu'est-ce qu'il y a sur la table?
+- Il y a des assiettes, des verres et une bouteille.
+- Qu'est-ce qu'il y a sur le mur?
+- Il y a des tableaux, un miroir et des étagères.
+- Qu'est-ce qu'il y a dans le tiroir?
+- Il y a des lunettes, des clés et des papiers.
+
+3. Associez, puis faites des phrases avec "il y a".
+- Dans un zoo, il y a des animaux.
+- Dans une bibliothèque, il y a des livres.
+- Dans un port, il y a des bateaux.
+- Dans le magazine, il y a des photos.
+- Dans la pâtisserie, il y a des gâteaux.
+
+4. Faites des phrases avec "il y a", selon le modèle.
+- En Afrique, il y a des lions.
+- Au Japon, il y a des volcans.
+- En Égypte, il y a des pyramides.
+- Au Tibet, il y a des montagnes.
+- En Australie, il y a des kangourous.
+
+5. Posez des questions et répondez à la forme affirmative ou négative.
+- Dans votre pays, est-ce qu'il y a des volcans?
+    - Oui, il y a des volcans.
+- Dans votre ville, est-ce qu'il y a des lacs?
+    - Oui, il y a des lacs.
+- Dans votre région, est-ce qu'il y a des plages de sable?
+    - Non, il n'y a pas de plages de sable.
+- Dans le zoo, est-ce qu'il y a des éléphants?
+    - Oui, il y a des éléphants.
+- Dans les montagnes de 서울, est-ce qu'il y a des ours?
+    - Non, il n'y a pas d'ours.
+- En hiver, est-ce qu'il y a des moustiques?
+    - Non, il n'y a pas de moustiques.
+
+
+## vocabulaire
+- bord : n.m. 가, 가장자리, 테두리
+- rive : n.f. 강의 연안, 하안 (c.f. rivière)
+- pièce : n.f. 방
+- tissu : n.m. 직물, 피륙, 천
+- cuisine : n.f.
+- cuisinière : n.f. 요리용 화덕
+- cuisinière électrique : 전기레인지
+- cuisinière à gaz : 가스레인지
+- salle : n.f.
+- baignoire : n.f. 욕조
+- mur : n.m. 담
+- verres : n.m. 유리
+- tiroir : n.m. 서랍
+- bibliothèque : n.f.
+- magazine : n.m.
+- pâtisserie : n.f.
+- plage de sable : 모래사장
+- ours : n.m. 곰
+- moustique : n.m. 모기
+
+## remarques
+- il y a에서 (출처 : claude)
+    - il은 비인칭주어 (e.g. il pleut.)
+    - y는 장소를 나타내는 부사/대명사 (e.g. j'y vais ~.)
+    - a는 avoir 동사의 3인칭 현재형 (c.f. il'y avait ~., il'y aura~,. aurait ~.)
+- Qu'est-ce que 에서 Qu'는 Que의 축약. (출처 : claude)
+    - Que : 무엇 (what)
+    - Quel/Quelle/Quels/Quelles : 어떤, 무슨 (which)
+    - Qui : 누구 (who)
+    - Quand : 언제 (when)
+    - Où : 어디 (where)
+    - Comment : 어떻게 (how)
+    - Combien : 얼마, 몇
+    - Pourquoi : 왜 (why)
+- salon은 남성형, cuisine, chambre, salle은 여성형.
+
+# 25. Qui est ce? C'est une amie. Qu'est-ce que c'est? C'est un vase.
+
+## "Qui est-ce?" et "Qu'est-ce que c'est?" : l'identification
+
+- exemples
+    - Qui est-ce?
+    - C'est Stella.
+    - C'est une amie.
+    - Qu'est-ce que c'est?
+    - C'est un cadeau.
+    - C'est un vase.
+- L'identification des personnes
+    - Qui est-ce?
+    - C'est une amie. (nom singulier)
+    - Ce sont des amis. (nom pluriel)
+    - Ne dites pas:
+        - Qui est-il?
+        - Il est un ami.
+- L'identification des choses
+    - Qu'est-ce que c'est?
+    - C'est un cadeau. (nom singulier)
+    - Ce sont des cadeaux. (nom pluriel)
+
+## "Ce n'est pas" : la négation
+- C'est Stella.     | Ce n'est pas Stella.
+- C'est un vase.    | Ce n'est pas un vase.
+- Ce sont des roses.| Ce ne sont pas des roses.
+
+## exercices
+5. Faites des phrases avec "c'est", "ce n'est pas" ou "ce ne sont pas". Continuez.
+- C'est un cahier.      | Ce n'est pas un livre.
+- C'est un crayon.      | Ce n'est pas un stylo.
+- C'est une carte.      | Ce n'est pas une lettre.
+- Ce sont des dollars.  | Ce ne sont pas des tulipes.
+
+## vocabulaires
+- guitariste : 기타연주자
+- roman : 장편소설, 소설
+- carte : n.f.
+- réseau : n.m. 그물, 망, 네트워크
+
+## remarques
+- est-ce que의 의미 (나의 추정 + claude)
+    - est-ce que는 c'est que의 의문형이고 이때 que는 관계사이다. 다시 말해, Is it that?에 가깝다.
+    - Est-ce que tu aimes le café?는 Is it that you like coffee?로 이해될 수 있는 것이다.
+    - 마찬가지로 Qu'est-ce que는 What is it that? 정도로 해석될 수 있다.
+    - Qu'est-ce que tu fais?는 What is it that you're making으로 이해될 수 있다.
+- il y a의 부정에서 그 목적어가 복수일 경우 Il n'y a pas de fleurs. 여서 pas de를 썼다. 하지만 c'est의 부정은 Ce ne sont pas des tulipes. 여서 pas des를 쓴다.
+
+# 26. C'est un homme. Il est grand. C'est un sac. Il est grand.
+
+## "c'est" et "il est" : L'identification et la description
+- exemples
+    - C'est un homme.
+    - Il est grand.
+    - C'est un sac.
+    - Il est grand.
+- L'identification et la description de personnes
+    - C'est un homme.   | Il est grand.
+    - C'est une femme.  | Elle est grande.
+    - C'est des hommes. | Ils sont grands.
+    - C'est des femmes. | Elles sont grandes.
+- L'identification et la description de choses
+    - C'est un sac.         | Il est grand.
+    - C'est une valise.     | Elle est grande.
+    - Ce sont des sacs.     | Ils sont grands.
+    - Ce sont des valises.  | Elles sont grandes.
+
+## exercices
+
+1. Compétez avec "c'est" ou "il est".
+- Il est norvégien.
+- C'est un étudiant.
+- Il est français.
+- C'est un professeur.
+- C'est un livre.
+- Il est bleu.
+- C'est une jolie femme.
+- Elle est belle.
+- C'est Joe Wild.
+- Il est chanteur.
+- Il est américain.
+
+2. Posez des questions et répondez avec "il est" ou "elle est", selon de modèle.
+- C'est un fauteuil ancien.
+- Oui, il est très ancien.
+- C'est un garçon sérieux.
+- Oui, il est très sérieux.
+- C'est une belle maison.
+- Oui, elle est très belle.
+- C'est une jolie fille.
+- Oui, elle est très jolie.
+
+3. Complétez avec "c'est", "ce sont", "elle est", "ils sont", "elles sont".
+- 1
+    - C'est Ricardo Bofill.
+    - Il est architecte.
+    - C'est un architecte espagnol.
+- 2
+    - C'est un footballeur.
+    - C'est Éric Cantona.
+    - Il est français.
+- 3
+    - C'est Mme Darmon.
+    - C'est ma concierge.
+    - Elle est gentille.
+- 4
+    - Ce sont des amis.
+    - Ils sont grecs.
+    - Ils sont étudiants
+
+3. Photos de vacances : identifiez et décrivez selon de modèle.
+- 1.
+    - C'est Rio.
+    - C'est la plage d'Ipanema.
+    - Elle est magnifique.
+    - Elle est immense.
+- 2
+    - C'est Tania.
+    - C'est une amie.
+    - Elle est brésilienne.
+    - Elle est linguiste.
+- 3
+    - C'est Algodoal.
+    - C'est une île d'Amazonie.
+    - Elle est sauvage.
+    - Elle est très belle.
+- 4
+    - Ce sont des colibris.
+    - Ce sont des oiseaux.
+    - Ils sont très rapides.
+    - Ils sont très petits.
+
+## vocabulaires
+- sac : n.m.
+- valise : n.f.
+- norvégien : a. 노르웨이의
+- sérieux : a. 진지한
+- concierge : n. 관리인
+- la plage d'Ipanema : 브라질 리우데자네이루의 해변
+- linguiste : n. 언어학자
+- Algodoal : 브라질 pará 주의 환경보호지역 (아마존)
+- île : n.f. 섬
+- sauvage : a. 야생의
+- colibri : n.m. 철새
+- oiseau : n.m.
+
+## remarques
+- 직업에 대해 말할 때에는 Il/Elle est도 가능하고 C'est un/une도 가능하다.
+    - Il est chanteur.
+    - C'est un professeur.
+    - Il est professeur.
+    - C'est un chanteur.
+- table, chaise는 여성형, fauteuil, divan은 남성형
+
+
+
+
 →
