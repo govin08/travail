@@ -1154,9 +1154,9 @@ J'ai un fils. Il s'appelle Thibaud. Il a huit ans. Il a un très bon copain qui 
     - J'ai les clés de Léo. | Je n'ai pas les clés de Léa.
 ## "pas de" : les articles indéfinis et la négation
 - exemples
-    - Il a un chapeau.  | Il n'a pas un chapeau.
-    - Il a une cravate. | Il n'a pas une cravate.
-    - Il a des lunettes | Il n'a pas des lunettes.
+    - Il a un chapeau.  | Il n'a pas de chapeau.
+    - Il a une cravate. | Il n'a pas de cravate.
+    - Il a des lunettes | Il n'a pas de lunettes.
 - "un", "une", "des" / "pas de"
     - J'ai un chien.    | Je n'ai pas de chien.
     - J'ai une voiture. | Je n'ai pas de voiture.
@@ -1999,8 +1999,6 @@ bilan : 결산
 - C'est long, chaud et doux : C'est une écharpe.
 - C'est rond, transparent et léger : C'est une bulle.
 
-
-
 4. Complétez le dialogue, selon de modèle.
 - Il est sucré, ce bonbon.
 - Oui, c'est sucré, un bonbon.
@@ -2054,4 +2052,119 @@ bilan : 결산
         - Il est grand.
         - Il est très beau.
 - (C'est 형용사 / Il est 형용사)의 차이는 전자가 일반적인 대상을 묘사하고 후자가 특정한 대상을 묘사한다는 점에서 다르다는 점이 설명되고 있다.
+
+# exercices récapitulatifs
+1. Identification, article, adjectifs. / Complétez. Continuez librement.
+- Qu'est-ce que c'est une Twingo?
+- C'est une petite voiture française.
+- Qu'est-ce que c'est le MOMA
+- C'est un grand musée américain.
+- Qui est-ce Phillippe Noiret?
+- C'est un bon acteur français.
+- Qu'est-ce que c'est le muscadet?
+- C'est un vin blanc sec.
+- Qu'est-ce que c'est Le Robert?
+- C'est un gros dictionnaire français.
+- Qui est-ce Giorgio Armani?
+- C'est un styliste italien connu.
+
+2. Existence. Identification. Description. Propositions de lieu. / Complétez.
+- Dans la rue, il y a une voiture. C'est une vieille Peugeot. Elle est belle.
+- Sur la table, il y a un livre. C'est un dictionnaire. Il est très gros.
+- Dans la vitrine, il y a des chaussures. Elles sont jaunes. Ce sont des Mac Beans.
+- Dans cette rivière, il y a des poissons. Ce sont des truites. Elles sont énormes.
+- Sur le mur, il y a des affiches. Elles sont anciennes. Elles sont très belles.
+
+3. Existence. Commentaire. Articles. / Faites des phrases selon le modèle.
+- Dans le jardin, il y a des tulipes. C'est beau.
+- Dans la forêt, il y a des vipères. C'est dangereux.
+- Sur le gâteau, il y a des raisins. C'est bon.
+- Dans le journal, il y a des reportages. C'est intéressant.
+
+4. Identification. Description. Commentaire. Articles. Négation. / Faites des phrases selon le modèle.
+- C'est un pull en soie. Ce n'est pas un pull en coton. Il est cher. Ce n'est pas bon marché.
+- C'est une chanteuse. Ce n'est pas une actrice. Elle est italienne. Elle n'est pas espagnole.
+- C'est un studio. Ce n'est pas un appartement. Il est petit. Il n'est pas grand.
+- C'est un stylo. Ce n'est pas un crayon. Il est bleu. Il n'est pas noir.
+
+## vocabulaires
+- musée : n.m.
+- sec : a. 건조한, 말린
+- dictionnaire : n.m.
+- muscadet : n.m. 포도나무 묘목
+- connu : 유명한, 널리 알려진 (← connaître)
+- styliste : n. 문장가, 디자이너
+- vitrine : n.f. 진열창, 쇼윈도
+- chaussure : n.f.
+- truite : n.f. 송어
+- énorme : a. 거대한, 엄청난, 대단한
+- affiche : n.f. 벽보
+- tulipe : n.f.
+- forêt : n.f.
+- vipère : n.f. 살모사, 독사, 악인
+- gâteau : n.m.
+- raisin : n.m. 포도
+- reportage : n.m. 르포르타주, 탐방기사, 현장보도
+- journal : n.m.
+- pull : n.m.
+- soie : n.f. 명주, 비단
+- bon marché : 유리한 거래
+- studio : n.m.
+
+## remarques
+- "C'est un vin sec blanc."보다는 "C'est un vin blanc sec."이 맞다. "드라이한 백포도주"라는 의미로, 백포도주(vin blanc)는 붙여쓰는 게 자연스럽다. (내 추정 + claude)
+- "C'est un styliste connu italien"보다 "C'est un styliste italien connu"가 맞다. connu는 connaître의 과거분사로서 과거분사형 형용사는 맨 뒤에 쓰인다. (내 추정 + claude)
+- "Ce n'est pas bon marché." bon 앞에 un, le 등이 들어가지 않는 이유가 무엇인지. claude말로는 bon marché가 형용사구 처럼 취급되어서 관사가 붙지 않는다고 한다. 내 생각에, 저게 형용사구보다는 명사구처럼 보이는데 어쨌든 bon marché는 그 자체로 쓰이고 관사가 필요없는 것인가보다.
+
+# bilan n.3
+
+1. Complétez.
+- John travaille à Bombay, en Inde.
+- Chaque année, nous passons nos vacances en Grèce ou au Portugal.
+- Les assiettes sont sur la table, les couteaux sont dans le tiroir.
+- Dans le Loch Ness, en Écosse, il y a un gros serpent.
+- Qu'est-ce qu'il y a sur la table? / Sur la table, il y a des fleurs.
+- Qui est-ce? / C'est mon frère Laurent. Il est étudiant.
+- Qu'est-ce que c'est? / C'est un ordinateur portable. Il est très léger.
+- Qui est cet acteur? / C'est Toshiro Mifune. C'est un grand acteur japonais.
+- Est-ce que c'est une mandarine? / Non, ce n'est pas une mandarine, c'est une orange.
+- La Danse Music, c'est formidable. / Oh non, elle est horrible!
+- Dans la place, il y a une statue. C'est une statue de Miró. Elle est très colorée.
+- Dans le jardin, il y a des fleurs, ce sont des roses.
+
+2. Complétez.
+- Ce chanteur, à la télévision, qui est-ce?
+- C'est Joe Wild. C'est le frère de Jim Wild.
+- Et la femme derrière, qui est-ce?
+- C'est Stella Star. C'est une actrice italienne.
+- L'instrument de Joe Wild : Qu'est-ce que c'est?
+- C'est une guitare indienne.
+- Ces mots, sur l'écran, qu'est-ce que c'est?
+- Ce sont les paroles des chansons.
+
+## vocabulaires
+- loch : n.m. 호수
+- Loch Ness : 네스호 (← 네스호의 괴물)
+- Ècosse : 스코틀랜드
+- serpent : n.m. 뱀
+- formidable : a. 무시무시한, 엄청난
+- statue : n.f.
+- écran : n.m. 스크린
+- parole : n.f. 말, 언사
+
+## remarques
+
+C'est의 부정
+- Ce n'est pas Marie
+- Ce n'est pas un livre.
+- Ce ne sont pas des tulipes.
+
+avoir의 부정
+- Je n'ai pas de chien.
+- Je n'ai pas de voiture.
+- Je n'ai pas d'enfant
+- Il n'y a pas de lit.
+- Il n'y a pas de fleurs
+
 →
+←
