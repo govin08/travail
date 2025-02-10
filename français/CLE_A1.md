@@ -2168,7 +2168,7 @@ avoir의 부정
 
 # 28. un, deux, trois ..., dix, vingt, cent ...
 
-## Les nombres (1) : pour compter
+## les nombres (1) : pour compter
 - 0 ~ 29
     - zéro      | dix       | vingt
     - un        | onze      | vingt-et-un
@@ -2255,5 +2255,122 @@ avoir의 부정
     - deux cents
     - deux mille
 - cent는 화폐로 쓰일 때는 복수형으로 쓰지 않는다.
+
+## les nombres (2) : pour classer
+- Dans un classement (nombres ordinaux), on ajoute "-ième", sauf pour "premier" :
+    - premier   | onzième       | trentième
+    - deuxième  | douzième      | quarantième
+    - troisième | treizième     | cinquantième
+    - quatrième | quatorzième   | soixantième
+    - cinquième | quinzième     | soixante-dixième
+    - sixième   | seizième      | quatre-vingtième
+    - septième  | dix-septième  | quatre-vingt-dixième
+    - huitième  | dix-huitième  | centième
+    - neuvième  | dix-neuvième  | millième
+    - dixième   | vingtième     | millionième
+- premier : début du classement
+- dernier : fin du classement
+
+## La date et le jour
+- "La date" : "le" + (jour) + numéro
+    - exemples
+        - Nous sommes le mardi trois mai.
+        - Nous sommes le trois mai.
+    - avec un nom de mois, on dit "le premier", mais "le deux", "le trois", etc.
+        - Nous sommes le premier mai?
+        - Nous sommes le deux mai?
+        - Nous sommes le trois mai?
+- "Le jour" : lundi, mardi, mercredi, jeudi, vencredi, samedi, dimanche
+    - exemples
+        - Aujourd'hui, c'est mardi.
+        - Aujourd'hui, on est mardi.
+    - Lundi = ce lundi :
+        - Lundi, je commence à 7 h.
+        - Mardi, je commence à 10 h.
+    - Le lundi = tous les lundis
+        - Le lundi, je suis fatigué.
+        - Le mardi, je suis en forme.
+
+## exercices (2)
+1. Situez les habitants de l'immeuble, selon le modèle.
+- Monsieur et madame Castelli habitent au cinquième étage.
+- Mademoiselle Maurel habite au quatrième étage.
+- Monsieur Tran Dang habite au troisième étage.
+- Monsieur et Mademoiselle Miller habitent au deuxième étage.
+- Madame Da Costa habite au premier étage.
+
+2. Classez en fonction des points, selon le modèle.
+- Marco est premier. Il a deux mille sept cents points. (2700)
+- Béatrice est deuxième. Elle a deux mille quatre cent quatre-vingt-huit points. (2488)
+- Anna est troisième. Elle a mille trois cent quatre-vingts points. (1380)
+- Fabien est quatrième. Il a neuf cent soixante-quinze points. (975)
+- Julie est cinquième. Elle a six cent trente points. (630)
+- Paul est sixième. Il a trois cent cinquante points. (350)
+
+3. Situez les personnages dans leur époque, continuez.
+- Shakespeare est un écrivain anglais du seizième siècle.
+- Giotto est un peintre italien du quatorzième siècle.
+- Allen est un cinéaste américain du vingtième siècle.
+- Schubert est un musicien autrichien du dix-neuvième siècle.
+
+4. Complétez avec "le" ou rien, selon le modèle.
+- Le samedi en général, je travaille, mais samedi, je suis en vacances.
+- Je passe mon permis de conduire lundi.
+- Le mardi, en général, les musées sont fermés.
+- Katia se marie samedi.
+- Le lundi, je suis toujours fatiguée.
+
+5. Répondez aux questions.
+- Quel jour sommes-nous?
+    - Nous sommes lundi.
+- Quel est le premier jour du printemps?
+    - C'est le vingt et un mars.
+- Quel jour êtes-vous né(e)?
+    - Je suis né un dimanche.
+
+## vocabulaires (2)
+- classer : v. 분류하다, 순위를 매기다, 등급을 매기다
+- classement : n.m. 분류, 순위, 등급
+- ajouter : v. 덧붙이다.
+- sauf : ~을 제외하고
+- être en forme : 건강(컨디션)이 좋다
+- étage : n.m.
+- personnage : n.m. 인물, 저명인사
+- époque : n.f. 시대
+- siècle : n.m. 세기
+- écrivain : n.m.
+- peintre : n.m.
+- cinéaste : n.m. 영화인
+- autrichien : a. 오스트리아의
+- permis : n.m. 허가증
+- marier : v.i. 결혼하다 v.t. 결혼시키다
+- naître : v. 태어나다 (→ né : 남성형-단수 과거분사)
+
+## remarques (2)
+- Les mois
+    - janvier
+    - février
+    - mars
+    - avril
+    - mai
+    - juin
+    - juillet
+    - août
+    - septembre
+    - octobre
+    - novembre
+    - décembre
+- Les jours de la semaine
+    - lundi
+    - mardi
+    - mercredi
+    - jeudi
+    - vendredi
+    - samedi
+    - dimanche
+- 모든 일(deux, trois, ...), 모든 달 (janvier, février, ...), 모든 요일(lundi, mardi, ...)은 남성형으로 취급하여 la가 오는 일 없이 le가 온다.
+- 21번째는 vingt et unième로 쓴다.
+
+
 →
 ←
