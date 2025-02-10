@@ -2166,5 +2166,94 @@ avoir의 부정
 - Il n'y a pas de lit.
 - Il n'y a pas de fleurs
 
+# 28. un, deux, trois ..., dix, vingt, cent ...
+
+## Les nombres (1) : pour compter
+- 0 ~ 29
+    - zéro      | dix       | vingt
+    - un        | onze      | vingt-et-un
+    - deux      | douze     | vingt-deux
+    - trois     | treize    | vingt-trois
+    - quatre    | quatorze  | vingt-quatre
+    - cinq      | quinze    | vingt-cinq
+    - six       | seize     | vingt-six
+    - sept      | dix-sept  | vingt-sept
+    - huit      | dix-huit  | vingt-huit
+    - neuf      | dix-neuf  | vingt-neuf
+- 30 ~ 99
+    - trente            | trente et un      | trente-deux
+    - quarante          | quarante et un    | quarante-deux
+    - cinquante         | cinquante et un   | cinquante-deux
+    - soixante          | soixante et un    | soixante-deux
+    - soixante-dix      | soixante et onze  | soixante-douze
+    - quatre-vingts     | quatre-vingt-un   | quatre-vingt-deux
+    - quatre-vingt-dix  | quatre-vingt-onze | quatre-vingt-douze
+- 100 ~ 999
+    - cent          | cent un       | cent deux
+    - deux cents    | deux cent un  | deux cent deux
+    - trois cents   | trois cent un | trois cent deux
+    - quatre cents  | quatre cent un| quantre cent deux
+- 1000 ~
+    - mille            1000 
+    - dix mille       10000
+    - cent mille     100000
+    - un million    1000000
+    - un milliad 1000000000
+
+- "vingt" et "cent" s'accordent quand ils sont multipliés:
+    - exemples
+        - quatre-vingts
+        - trois-vingts
+        - six-cents
+    - il n'y a pas d'accord quand ils sont suivis d'un nombre:
+        - quatre-vingt-un
+        - cinq cent dix
+        - six cent cinquante
+
+## exercice (1)
+1. Écrivez et lisez les nombres de 1 à 10.
+- un, deux, trois, quatre, cinq, six, sept, huit, neuf, dix.
+
+2. Lisez et transcrivez en chiffrez.
+- dix               10  | cent           100| mille         1000
+- vingt             20  | cinquante      50 | cinq cents    500
+- cent cinq         105 | cent cinquante 150| trente-cinq   35
+- mille deux cents  1200| quarante-trois 43 | six mille     6000
+
+3. Transcrivez en lettres. Donnez les prix dans votre pays.
+- Un pain, combien ça coûte? / Quatre-vingt-huit centimes.
+- Un timbre, combien ça coûte? / Quatre-vingt-dix-huit centimes.
+- Un litre d'essence, combien ça coûte? / Un euro et cinquante centimes.
+- Un journal, combien ça coûte? / Un euro et trente centimes.
+- Un sandwich, combien ça coûte? / Trois euros.
+- Un tee-shirt, combien ça coûte? / Quatorze euros.
+
+4. Transcrivez et lisez les numéro de téléphone. Donnez votre numéro de téléphone.
+- 04 28 59 70 62 : Zéro quatre, vingt-huit, cinquante-neuf, soixante-dix, soixante-deux.
+- 01 75 45 29 71 : Zéro un, soixante-quinze, quarante-cinq, vingt-neuf, soixante et onze.
+- 03 88 35 91 51 : Zéro trois, quatre-vingt-huit, trente-cinq, quatre-vingt-onze, cinquante et un.
+
+5. Transcrivez en lettres la monnaie européenne puis la monnaie de votre pays si elle est différente.
+- Il y a des billets de cinq euros, dix euros, vingt euros, cinquante euros, cent euros, deux cent euros et cinq cent euros.
+- Il y a des pièces de un centime, deux centimes, cinq centimes, dix centimes, vingt centimes, cinquante centimes, un euro, deux euros.
+
+## vocabulaires (1)
+- suivre : 뒤따르다 (→ suivi)
+- nombre : n.m.
+- chiffre : n.m.
+- centime : n.m.
+- monnaie : n.f. 금속화폐, 주화
+- billet : n.m. 지폐
+- pièce : n.f. 동전
+
+## remarques (1)
+- 잘 안외워지는 숫자들
+    - quatre, treize, quatorze, quinze, seize
+    - vingt-et-un
+    - quarante, cinquante, soixante, soixante-dix
+- 숫자 mille은  복수형으로 쓰지 않는다. 다음과 같이 쓴다.
+    - deux cents
+    - deux mille
+- cent는 화폐로 쓰일 때는 복수형으로 쓰지 않는다.
 →
 ←
