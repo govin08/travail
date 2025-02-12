@@ -2442,5 +2442,148 @@ avoir의 부정
 - donnant : donner의 participe présent
 - séance : n.f. 회합, 회의
 - petit matin : 새벽
+
+# 30. Il fait froid, en hiver. Il fait beau, en juillet.
+
+## le temps (la météo)
+- exemples
+    - Il fait chaud.
+    - Il fait froid.
+    - Il pleut.
+    - Il neige.
+- Pour décrire le temps, on utilise "il" impersonnel :
+    - Il fait chaud.
+    - Il fait froid.
+    - Il fait beau.
+    - Il fait dix degrés.
+    - Il pleut.
+    - Il neige.
+    - Il grêle.
+- Pour connaître le temps, on dit : Quel temps fait-il?
+
+## les mois et les saisons
+- Le mois
+    - janvier
+    - février
+    - mars
+    - avril
+    - mai
+    - juin
+    - juillet
+    - août
+    - septembre
+    - octobre
+    - novembre
+    - décembre
+- exemples
+    - en janvier
+    - au mois de janvier
+    - en août
+    - au mois d'août
+- Les saisons
+    - le printemps
+    - l'été
+    - l'automne
+    - l'hiver
+    - au printemps
+    - en été
+    - en automne
+    - en hiver
+
+## exercices
+1. Décrivez le temps dans votre pays selon le modèle.
+    - En France :
+        - En août, il fait chaud.
+        - Au printemps, il pleut souvent.
+        - En hiver, il fait froid.
+        - Il neige parfois en décembre.
+        - Aujourd'hui, il fait beau.
+        - Il fait vingt-cinq degrés.
+    - En Corée :
+        - Au mois de janvier, il fait très froid.
+        - En été, il y a du soleil.
+        - En septembre, il y a parfois des typhons.
+        - Aujourd'hui, il neige.
+        - Il fait un degré.
+
+2. Complétez avec une information météorologique, selon de modèle.
+- J'allume le chauffage quand il fait froid.
+- Nous allons à la plage quand il fait chaud.
+- Les grenouilles chantent quand il pleut.
+- Les touristes sont contents quand il fait beau.
+- Nous faisons du ski quand il neige.
+
+3. Complétez avec "c'est" ou "il fait".
+- Dans mon appartement il fait froid : le chauffage est en panne.
+- Attention, ne touche pas ça : c'est chaud!
+- en général, en été, il fait beau à Paris.
+- L'omelette norvégienne : c'est chaud ou c'est froid?
+- Les marchands de glaces sont contents quand il fait chaud.
+
+4. Complétez avec "en" ou "au", quand c'est nécessaire.
+- En France, la rentrée des classes a lieu en septembre, en automne.
+- Les écoles sont fermées en été, en juillet et en août.
+- Les feuilles tombent en automne, mais elles repoussent au printemps.
+- Les festival de Cannes a lieu au printemps, au mois de mai.
+
+5. Complétez.
+**Sous l'équateur** : 
+Sous l'équateur, les quatre saisons se succèdent en un jour.
+Le matin, c'est le printemps et il fait frais.
+À midi, c'est l'été, il fait chaud.
+À cinq heures, c'est l'automne : il pleut.
+À minuit, c'est l'hiver et il fait froid.
+
+## vocabulaires
+- temps : nm. 날씨, 일기
+- météo : nf. 기상학, 일기예보
+- venter : v. 바람이 분다
+- grêler : v. 우박이 오다
+- saison : nf. 계절
+- météorologique : a. 기상의
+- allumer : vt. 불을 붙이다
+- chauffage : nm. 난방, 불때기
+- grenouille : nf. 개구리
+- faisons (→ faire)
+- panne : nf. 고장, 중단
+- en panne : 고장난, 중단된
+- toucher : vt. 만지다
+- omelette : nf. 오믈렛
+- norvégienne : a. 노르웨이의
+- marchand : n. 상인
+- rentrée : 돌아옴, 귀가, (신학년의) 시작, 복귀, 컴백
+- avoir lieu : 발생하다, 일어나다
+- feuille : nf. 나뭇잎
+- tomber : v. 넘어지다, 떨어지다
+- repousser : v. 떼밀다, (다시) 싹이 나다 (← pousser)
+- équateur : nm. 적도
+- succèder : vt, vp. 잇달아 오다, 차례로 일어나다, 계승하다
+- frais : a. 서늘하다
+
+## remarques
+- Il + 3인칭 주어 표현 (claude)
+    - Il pleut (비가 오다)
+    - Il vente (바람이 불다)
+    - Il neige (눈이 오다)
+    - Il grêle (우박이 오다)
+    - Il gèle (얼다, 동결되다)
+    - Il tonne (천둥이 치다)
+- Il y a ~ 표현 (claude)
+    - Il y a du vent (바람)
+    - Il y a des nuages (구름)
+    - Il y a du soleil (햇빛)
+    - Il y a du brouillard (안개)
+    - Il y a de la pluie (비)
+    - Il y a de la neige (눈)
+    - Il y a de la grêle (우박)
+    - Il y a du tonnerre (천둥)
+- 철자가 헷갈리는 단어들
+    - un nuage (구름)
+    - la neige (눈)
+    - Il neige (눈이 오다)
+    - nager (수영하다)
+- 사계절에서 봄만 au가 쓰이는 건 그냥 외워야 할 것 같다. 네 계절 모두 남성명사이고, 맨앞에 모음이 나오는지 여부는 관련이 없다, 라고 생각했으나, 맨 앞의 모음여부와는 관련있을 것 같다. (claude가 또 이상한 답변을 해서 넘어갈 뻔했다.) printemps만 유일하게 자음으로 시작하며 au이다. 마치 à le를 축약할 때 자음으로 시작하는 명사면 au로 쓰고 모음으로 시작하는 명사면 a l'를 쓰듯, 자음으로 시작하는 계절명인 봄은 au printemps이고, 모음으로 시작하는 계절명은 en été, en automne, en hiver이다.
+- le lundi가 매주 월요일을 의미했듯, le matin도 '일반적인 아침'을 지칭한다. 비슷한 표현으로 tour les matins, chaque matin등의 표현이 쓰일 수 있다.
+
 →
 ←
