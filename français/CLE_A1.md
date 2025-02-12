@@ -2371,6 +2371,76 @@ avoir의 부정
 - 모든 일(deux, trois, ...), 모든 달 (janvier, février, ...), 모든 요일(lundi, mardi, ...)은 남성형으로 취급하여 la가 오는 일 없이 le가 온다.
 - 21번째는 vingt et unième로 쓴다.
 
+# 29. Il est cinq heures.
 
+## L'heure : "il est" + heures
+
+- exemples:
+    - Il est cinq heures.
+    - Il est cinq heures dix.
+    - Il est cinq heures et quart.
+    - Il est cinq heures et demie.
+    - Il est six heures moins dix.
+    - Il est six heures moins le quart.
+- On indique les minutes après l'heure :
+    - 17h 05 : cinq heures cinq.
+    - 17h 10 : cinq heures dix.
+    - 17h 15 : cinq heures et quart.
+    - 17h 20 : cinq heures vingt.
+    - 17h 25 : cinq heures vingt-cinq.
+    - 17h 30 : cinq heures et demie.
+    - 17h 35 : six heures moins vingt-cinq.
+    - 17h 40 : six heures moins vingt.
+    - 17h 45 : six heures moins le quart.
+    - 17h 50 : six heures moins dix.
+    - 17h 55 : six heures moins cinq.
+    - 18h 00 : six heures.
+    - 12 h : midi
+    - 0 h : minuit
+- Pour les horaires officels, on dit
+    - le matin      | six heures du matin
+    - l'après-midi  | six heures de l'après-midi
+    - le soir       | huit heures du soir
+- Pour indiquer une heure précise on utilise "a" :
+    - J'ai rendez-vous à midi cinq.
+    - Je termine à six heures.
+- Pour demander l'heure, on dit :
+    - Quelle heure est-il?
+
+## exercices
+
+1. Posez des questions et répondez.
+- Quelle heure est-il?
+    - 07h 30 : Il est sept heures et demie.
+    - 08h 00 : Il est huit heures.
+    - 09h 30 : Il est neuf heures et demie.
+    - 10h 15 : Il est dix heures et quart.
+    - 17h 45 : Il est dix-huit heures moins le quart.
+
+2. Complétez en donnant des informations sur votre pays.
+- Dans mon pays, l'école commence à huit heures trente et elle finit trois heures et demie de l'après-midi.
+- Les bureaux ouvrent à huit heures du matin et ils ferment à sept heures du soir.
+- On déjeune à midi et on dîne à sept heures.
+<!-- - Il y a des séances de cinéma -->
+
+<!-- 3. Que regardent le Français à la télévision? Qu'est-ce qu'on regarde dans votre pays? -->
+
+4. Transformez, selon le modèle. Continuez.
+- Il y a un bateau à huit heures du matin.
+- Il y a un bateau à onze heures du soir.
+- Il y a un bateau à trois heures de l'après-midi.
+- Il y a un bateau à cinq heures du matin.
+- Il y a un bateau à dix heures du soir.
+
+5. Comparez l'heure à Paris, à Rio, à Tokyo.
+- Quand il est huit heures du matin à Paris, il est quatre heures à Rio du petit matin et il est quatre heures de l'après-midi à Tokyo.
+- Quand il est trois heures de l'après-midi à Paris, il est onze heures du matin à Rio et il est onze heures du soir à Tokyo.
+- Quand il est onze heures du soir à Paris, il est sept heures du soir à Rio et il est sept heures du matin à Tokyo.
+
+## vocabulaires
+- horaire : n.m.
+- donnant : donner의 participe présent
+- séance : n.f. 회합, 회의
+- petit matin : 새벽
 →
 ←
