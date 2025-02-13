@@ -2585,5 +2585,126 @@ Le matin, c'est le printemps et il fait frais.
 - 사계절에서 봄만 au가 쓰이는 건 그냥 외워야 할 것 같다. 네 계절 모두 남성명사이고, 맨앞에 모음이 나오는지 여부는 관련이 없다, 라고 생각했으나, 맨 앞의 모음여부와는 관련있을 것 같다. (claude가 또 이상한 답변을 해서 넘어갈 뻔했다.) printemps만 유일하게 자음으로 시작하며 au이다. 마치 à le를 축약할 때 자음으로 시작하는 명사면 au로 쓰고 모음으로 시작하는 명사면 a l'를 쓰듯, 자음으로 시작하는 계절명인 봄은 au printemps이고, 모음으로 시작하는 계절명은 en été, en automne, en hiver이다.
 - le lundi가 매주 월요일을 의미했듯, le matin도 '일반적인 아침'을 지칭한다. 비슷한 표현으로 tour les matins, chaque matin등의 표현이 쓰일 수 있다.
 
+# 31. Je mange de la salade, du poisson et des fruits.
+
+## "du", "de la", "des" : les partitifs
+- exemples
+    - J'aime le chocolat.
+    - J'aime la crème.
+    - J'aime les noisettes.
+    - Dans ce gâteau, il y a du chocolat.
+    - Dans ce gâteau, il y a de la crème.
+    - Dans ce gâteau, il y a des noisettes.
+- "le", "la", "les" : tout l'ensemble
+    - J'aime la viande.
+    - J'aime l'eau.
+    - J'aime le poisson.
+    - J'aime les fruits.
+- "du", "de la", "des" : partie de l'ensemble.
+    - J'achète de la viande.
+    - J'achète de l'eau.
+    - J'achète du poisson.
+    - J'achète des fruits.
+- On utilise "du", "de la", "des" devant les (1) *quantités non exprimées* ou (2) non comptables :
+    - Je mange du riz.                      | 2
+    - Vous avez du feu?                     | 2
+    - Elle a de la patience et du courage.  | 2
+    - Il y a du soleil et du vent.          | 2
+
+## exercice
+
+1. Associéz les nationalités et les aliments en utilisant "le", "la", "les" ou "du", "de la", "des".
+- Les Italiens aiment les pâtes. Ils mangent des pâtes.
+- Les Chinois aiment le riz. Ils mangent du riz.
+- Les Suisses aiment le chocolat. Ils mangent du chocolat.
+- Les Arabes aiment le couscous. Ils mangent du couscous.
+- Les Grecs aiment la feta. Ils mangent de la feta.
+- Les Martiens aiment le glikko. Ils mangent du glikko.
+
+2. Faites des phrases en utilisant des partitifs, selon de modèle.
+- Chez le boucher, on achète de la viande.
+- Chez le boulanger, on achète du pain.
+- Chez le libraire, on achète des livres.
+- Chez le poissonnier, on achète du poisson.
+- Chez le fleuriste, on achète des fleurs.
+- Chez l'épicier, on achète des aliments.
+
+3. Complétez avec "du", "de la", "des".
+- C'est une belle maison avec du soleil, de l'espace et des rangements.
+- C'est un bon film avec du suspense, de l'action et de l'amour.
+- C'est une belle plage avec du sable fin, du soleil et des palmiers.
+
+4. Faites des phrases, selon de modèle.
+- À la radio, il y a de la musique.
+- À la cheminée, il y a du feu.
+- À la rue, il y a du monde.
+- Au frigo, il y a du champagne.
+- Au porte-monnaie, il y a de l'argent
+
+5. Faites des phrases avec des partitifs, selon le modèle.
+- Pour faire du sport, il faut de la volonté et du courage.
+- Pour faire du vert, il faut du bleu et du jaune.
+- Pour faire de la politique, il faut de l'ambition et de l'argent.
+- Pour faire de l'or, il faut du plomb et de la magie.
+
+## vocabulaires
+- salade : nf.
+- poisson : nm.
+- chocolat : nm.
+- crème : nf.
+- noisette : nf. 개암나무 열매, 헤이즐넛
+- viande : nf. 고기
+- eau : nf.
+- exprimée : a. 표현된, 표시된 (← exprimer)
+- comptable : a. 셀 수 있는, 가산의 (← compter)
+- feu : nm. 불
+- aliment : nm. 양식, 음식
+- utilisant : (← utilise, participe présent)
+- couscous : nm. 쿠스쿠스 (아프리카 요리)
+- feta : nf. 그리스산 치즈
+- poissonnier : nn. 생선장수
+- fleuriste : nn. 꽃장수, 화가
+- épicier : nn. 식료품상
+- pain : nm.
+- livre : nm.
+- espace : nm. 공간
+- rangement : nm. 정돈, 정리, 정렬, 배치, 배열
+- suspense : nm.
+- action : nf.
+- amour : nm.
+- sable : nm.
+- sable fin : 고운 모래
+- palmier : nm. 종려나무
+- radio : nf.
+- cheminée : nf. 벽난로, 굴뚝
+- rue : nf.
+- frigo : nm.
+- porte-monnaie : nm. 동전지갑 (portefeuille : (지폐)지갑, monnaie / feuille : 동전 / 지폐)
+- champagne : nm. 샴페인
+- argent : nm. 돈, 은
+- monde : nm. 세상 사람, 많은 사람들
+- musique : nf.
+- volonté : nf. 의지, 뜻
+- courage : nm. 용기
+- polititque : nf. 정치
+- or : nm. 금
+- plomb : nm. 납, 추
+- magie : nf. 마법
+
+## remarques
+- 관사의 종류 (내 나름대로의 정리)
+    - 부정관사 : 셀 수 있는 명사 & 불특정한 대상
+        - article indéfnis
+        - un, une, des
+    - 정관사 : 특정한 대상, 해당 개념 전체
+        - article définis
+        - le, la, l', les
+    - 부분관사 : 셀 수 없는 명사, 셀 수 있는 명사이지만 몇 개 인지 모를 때
+        - article partitif
+        - du, de la, des
+- 본문 다시 정리
+    - 개념 전체를 지칭할 때는 정관사를 쓰고, 전체 중 일부를 지칭할 때는 부분관사를 쓴다.
+    - 특정되지 않는 양을 지칭하거나 셀 수 없는 명사에 대해서도 부분관사를 쓴다.
+
 →
 ←
