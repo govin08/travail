@@ -2706,5 +2706,217 @@ Le matin, c'est le printemps et il fait frais.
     - 개념 전체를 지칭할 때는 정관사를 쓰고, 전체 중 일부를 지칭할 때는 부분관사를 쓴다.
     - 특정되지 않는 양을 지칭하거나 셀 수 없는 명사에 대해서도 부분관사를 쓴다.
 
+# 32. un litre de lait, beaucoup de beurre, pas de farine.
+
+## "un kilo de", "beacoup de", "pas de" : la quantité exprimée
+
+- exemples
+    - de l'eau      | Un verre d'eau
+    - de la farine  | Un kilo de la farine
+    - du soleil     | Pas de soleil
+- "de" remplace "du", "de la", "des" avec :
+    - les quantités exprimées :
+        - un kilo de sucre
+        - cent grammes de sucre
+        - trois morceaux de sucre
+    - la quantité zéro :
+        - pas de sucre
+        - plus de sucre
+            - Je n'ai plus de sucre (나는 더이상 설탕이 없다.)
+        - jamais de sucre
+    - autres expressions de quantité
+        - beaucoup de sucre
+        - un peu de sucre
+        - assez de sucre
+    - Ne dites pas :
+        - beaucoup des livres
+        - pas du sel
+- résumé : "du", "de la", "des" ou "de"?
+    - quantité non exprimée | partitif  | Question : - Quoi
+    - quantité exprimée     | de        | Question : - Combien?
+
+## exercices
+
+1. Complétez librement.
+- Un kilo de farine
+- deux cents grammes de sel
+- une tasse de café
+- un carnet de dessin
+- beaucoup de sucre
+- un peu de pain
+- trois litres de bière
+- deux tranches de jambon
+- un verre de vin
+- un morceau de viande
+- un bouquet de fleurs
+- un paquet de lettres
+
+2. Faites des phrases avec "du", "de la", "des" ou "de", selon de modèle.
+- Il y a du lait dans une bouteille de lait.
+- Il y a du sucre dans un paquet de sucre.
+- Il y a de la moutarde dans un pot de moutarde.
+- Il y a des pommes de terre dans le sac de pommes de terre.
+- Il y a des bonbons dans le paquet de bonbons.
+
+3. Posez des questions et répondez à la forme négative.
+- 1
+    - Vous mangez du poisson?
+    - Non, je ne mange pas de poisson.
+- 2
+    - Vous mangez de la viande?
+    - Non, je ne mange jamais de viande.
+- 3
+    - Vous mangez des légumes?
+    - Non, je ne mange plus de légumes.
+- 4
+    - Vous mangez du jambon?
+    - Non, je ne mange pas de jambon.
+
+4. Faites des phrases avec "du", "de la", ""des" ou "de".
+- Ils mangent du pain, du fromage, des œufs et des légumes.
+- Ils ne mangent pas de viande, pas de poisson et pas de charcuterie.
+
+5. Faites des phrases avec "trop de" ou "pas assez de", selon le modèle. Continuez librement.
+- Dans mon appartement, il y a trop de bruit et il n'y a pas assez de lumière.
+- Dans ces spaghettis, il y a trop de sel et il n'y a pas assez de sauce.
+- Dans mon entreprise, il y a trop de travail et il n'y a pas assez de vacances.
+- À la télévision, il y a trop de monde et il n'y a pas assez de nature.
+
+6. Donnez une liste de produit, sans la quantité puis avec la quantité, selon le modèle.
+- Dans le placard,
+    - Quoi?
+        - Il y a du sucre, de la viande, du lait et des carottes.
+    - Combien?
+        - Il y a un kilo de sucre, un morceau de viande, beaucoup de lait et un sac de carottes.
+
+## vocabulaires
+- beurre : nm. 버터
+- farine : nf. 분말, 밀가루
+- verre : nm. 유리, 컵
+- morceau : nm. 덩어리
+- tasse : nf. 잔, 찻잔
+- carnet : nm. 수첩, 통장
+- tranche : nf. 얇은 조각, 슬라이스
+- un carnet de dessin : 데생 화첩
+- bouquet : nm. 다발, 묶음
+- paquet : nm. 보따리, 소포, 뭉치, 더미
+- médicament : nm.
+- sucre : nm.
+- jambon : nm.
+- moutarde : nf. 겨자
+- pot : nm.
+- pomme : nf.
+- sac : nm.
+- bonbon : nm.
+- charcuterie : nf. 돼지고기
+- spaghetti : nm. (복수)스파게티
+- produit : nm. 생산물
+
+# 33. plus grand que, moins grand que, aussi grand que.
+
+## la comparaison
+- exemples
+    - Jim est plus grand que Joe.   | Joe est moins grand que Jim.
+    - Jim est plus gros que Joe.    | Joe est moins gros que Jim.
+    - Jim est plus fort que Joe.    | Joe est aussi beau que Jim.
+- On place "plus", "moins", "aussi" devant l'adjectif, "que" après l'adjectif :
+    - Jim est plus sympathique que Joe.
+    - Jim est moins sympathique que Joe.
+    - Jim est aussi sympathique que Joe.
+- On place "plus", "moins", "aussi" devant l'adverbe, "que" après l'adverbe :
+    - Jim bouge plus vite que Joe.
+    - Jim bouge moins vite que Joe.
+    - Jim bouge aussi vite que Joe.
+- Comparatifs particuliers
+    - "bon", "meilleur"
+        - Le café français est bon.
+        - Le café martien est meilleur.
+    - "bien", "mieux"
+        - Woody danse bien.
+        - Fred danse mieux.
+    - "que" devient "qu'" devant une voyelle :
+        - Je travaille plus qu'avant.
+
+## exercices
+1. Complétez les phrases avec "plus ... que", "moins ... que". Faites l'élision si c'est nécessaire.
+- L'argent est plus précieux que le cuivre, mais moins précieux que l'or.
+- Une voiture est moins rapide qu'un train, mais plus rapide qu'un vélo.
+- Le coton est plus léger que le lin, mais moins léger que la soie.
+- Au printemps, il fait moins chaud qu'en été mais il fait plus chaud qu'en hiver.
+
+2. Imaginez des publicités avec "plus" et "moins". Accordez les adjectifs.
+- Une nouvelle voiture
+    - Elle est plus silencieuse.
+    - Elle est moins chère.
+    - Elle est plus confortable.
+    - Elle est plus élégante.
+- Un nouvel ordinateur
+    - Il est plus petit.
+    - Il est plus rapide.
+    - Il est plus puissant.
+    - Il est moins lourd.
+
+4. Maintenant et avant : comprenez selon le modèle. Accordez les adjectifs.
+- Les voyages sont plus sûrs qu'avant et ils durent moins longtemps.
+- Les voitures sont plus silencieuses qu'avant et elles roulent plus vite.
+- Les sportifs courent plus vite qu'avant et ils sautent plus haut.
+- Les gens sont plus grands qu'avant et ils vivent plus longtemps.
+
+5. Complétez avec les verbes et "meilleur(e)(s)" ou "mieux".
+- 1
+    - Le vin français est bon.
+    - Le vin martien est meilleur.
+    - En France, on mange bien.
+    - Sur Mars, on mange mieux.
+- 2
+    - Les pâtes au beurre sont bonnes.
+    - Les pâtes au fromage sont meilleures
+    - Zaza cuisin bien.
+    - Bip cuisin mieux.
+- 3
+    - Cathy travaille bien.
+    - Keiko travaille mieux.
+    - Les résultats de Cathy sont bons.
+    - Les résultats de Keiko sont meilleurs.
+
+## vocabulaires
+- fort : a. 힘쎈, 강한
+- bouger : vi. 이동하다, 움직이다
+- précieux : a. 값비싼, 귀중한
+- cuivre : nm. 구리
+- léger : a. 가벼운, 얇은
+- coton : nm. 솜, 면
+- lin : nm. 아마, 리넨
+- soie : nm. 명주, 비단
+- publicité : nf. 광고
+- silencieux : a. 고요한
+- puissant : a. 권력있는, 유력한, 강대한
+- lourd : a. 무거운, 중량의
+- drôle : a. 우스운
+- maintenant : 이제부터는
+- sûr : a. 믿을만한, 자신있는, 확실한, 안전한
+- longtemps : 오랫동안
+- haut : 높은, 높이
+- durer : vi. 지속되다, 계속되다 (→ durent)
+- rouler : vi 굴러가다 (→ roulent)
+- sportif : n. 운동가, 스포츠맨
+- courir : vi. 뛰다, 달리다 (→ courent)
+- sauter : vi. 뛰어오르다 (→ sautent)
+- vivre : vi. 살다, 살아있다 (→ vivent)
+- pâte : nf.
+- beurre : nm.
+- résultat : nm. 결과
+
+## remarques
+- comparatifs particuliers
+    - bon의 비교급은 meilleur ← adjectif
+    - bien의 비교급은 mieux ← adverbe
+    - mauvais의 비교급은 pire ← adjectif
+    - mal의 비교급은 pis ← adverbe
+- 직물의 무게
+    - 비단(soie) < 면(coton) < 리넨(lin)
+- 여성형 형용사
+    - silencieux → silencieuse
+    - cher → chère
 →
 ←
