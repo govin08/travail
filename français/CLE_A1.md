@@ -3030,5 +3030,121 @@ Le matin, c'est le printemps et il fait frais.
     - 영어의 비교급에서 가산-불가산명사에 상관없이 more / less가 쓰이는 것과 같이 프랑스어에서도 가산-불가산명사에 상관없이 plus de, moins de가 쓰인다. (claude).
 - Max a autant d'argent que Jean.에서는 비교대상이 주어였다. Sur terre, il y a à peu près autant d'hommes que de femmes.에서는 비교대상이 autant de 뒤의 명사였다. 이 때에는 que와 뒤의 명사 사이에 de가 꼭 붙는다. (claude, 다른 예문)
 
+# exercices récapitulatifs
+
+1. Les nombres. Attribuez des mesures en mètres. / Continuez librement.
+- Une girafe mesure environ cinq mètres.
+- Une baleine mesure environ quinze mètres.
+- Un nouveau-né mesure environ cinquante centimètres.
+- Une main d'adulte mesure environ vingt centimètres.
+- La tour Eiffel mesure environ trois cent dix mètres.
+- Une piscine olympique mesure environ cinquante mètres.
+- Le mont Blanc mesure environ cinq mille huit cent huit mètres.
+- La statue de la Liberté mesure environ trente trois mètres.
+
+2. Les nombres, les jours. / Classez.
+- les jours de la semaine
+    - lundi : C'est le premier jour de la semaine.
+    - mardi : C'est le deuxième jour de la semaine.
+    - jeudi : C'est le quatrième jour de la semaine.
+- les mois de l'année
+    - janvier : C'est le premier mois de l'année.
+    - mars : C'est le troisième mois de l'année.
+    - mai : C'est le cinquième mois de l'année.
+
+3. Les nombres, l'heure. / Associez les heures et les émissions. Continuez.
+- 1
+    - C'est la première émission.
+    - Il est sept heures trente.
+- 2
+    - C'est le journal télévisé.
+    - Il est une heure de l'après-midi.
+- 3
+    - C'est la météo.
+    - Il est neuf heures quarante-cinq du soir.
+- 4
+    - C'est la dernière émission.
+    - Il est dix heures du soir.
+
+4. Comparatifs : "plus", "moins", "aussi", "autant". / Faites des phrases selon le modèle.
+- Il fait plus chaud à Rome qu'à Prague et Marseille.
+- Le vin est aussi cher que la bière et il est moins cher que le Coca.
+- Février a moins de jours que mars et mai.
+- Dans la salle A, il y a plus d'élèves que dans la salle B, et il y a autant d'élèves que dans la salle C.
+- La salle A est plus spacieuse que la salle B et la salle C.
+
+5. Partitifs, comparatifs. Décrivez et comparez.
+- L'été et l'hiver
+    - Il y a plus de soleil en été qu'en hiver.
+    - La longueur des journées est plus longue en été qu'en hiver.
+    - Il y a plus de lumière en été qu'en hiver.
+    - Il y a plus de nuages en hiver qu'en été.
+    - Il y a plus de vent en hiver qu'en été.
+- Un fast-food et un restaurant
+    - Dans un fast-food, le nombre de plats est plus élevé que dans un restaurant.
+    - Dans un fast-food, la qualité est pire que dans un restaurant.
+    - Dans un fast-food, le confort des sièges est pire que dans un restaurant.
+    - Dans un fast-food, le prix est plus bas que dans un restaurant.
+    - Dans un fast-food, il y a plus de bruit que dans un restaurant.
+    - Dans un fast-food, il y a plus de monde que dans un restaurant.
+
+## vocabulaires
+- girafe : nm. 
+- baleine : nf. 고래
+- nouveau-né : nm. 신생아
+- main : nf.
+- piscine : nf.
+- mont : nm. 산
+- émission : nf. 방송
+- télévisé : a. TV로 방송된 (← téléviser)
+- météo : nf. 일기예보
+- longueur : nf. 길이
+- siège : nm. 의자, 좌석
+- confort : nm. 안락, 쾌적
+- prix : nm.
+- bas : a. 낮은
+
+## remarques
+- nouveau의 변화형
+    - nouveau : ms.
+    - nouveaux : mp.
+    - nouvelle : fs.
+    - nouvelles : fp.
+
+# bilan n.4
+
+1. Complétez avec "il est", "il fait", "en", "du", "de la", "des", "pas de", des comparatifs et des superlaatifs.
+- Quand il est sept heures à Paris, il est midi à New York.
+- À Moscou, en juillet, il fait très chaud.
+- À midi, je bois du vin, mon mari boit de la bière, mes enfants boivent de l'eau.
+- Le matin, je mange des biscottes avec un peu de confiture.
+- Dans mon appartement, il y a du soleil et de l'espace mais il y a beaucoup de bruit.
+- Dans une station-service, on trouve de l'essence mais aussi des biscuits, du café et des revues.
+- Si vous avez de la tension, ne mangez pas de sel et ne buvez pas de café.
+- Cathy mesure 1,70m. Paul aussi : Cathy est aussi grande que Paul.
+- Jean a 300 disques. Max aussi : Jean a autant de disques que Max.
+- Il fait plus froid en hiver qu'en été.
+- La nature est plus polluée qu'avant.
+- L'autruche est l'oiseau le plus grand du monde. Le colibri est l'oiseau le plus petit.
+
+2. Complétez.
+Mon fils.
+
+- Mon fils n'aime pas les bonbons.
+- Il préfère le saucisson.
+- À la sortie de l'école, il mange du fromage ou des olives noires et beaucoup de pain, mais il ne mange jamais de biscuit.
+- Le soir, il aime manger des pâtes avec de la sauce tomate et du parmesan.
+- Il aime aussi la glace à la vanille.
+
+## vocabulaires
+- revue : nf. 잡지
+- tension : nf. 혈압, 고혈압
+- autruche : nf. 타조
+- colibri : nm. 벌새
+- saucisson : nm. 큰 소시지, 순대
+- sauce : nf.
+- parmesan : n. 파마산 치즈
+- vanille : nf. 바닐라
+
 →
 ←
