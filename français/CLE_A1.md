@@ -2871,8 +2871,8 @@ Le matin, c'est le printemps et il fait frais.
 - 2
     - Les pâtes au beurre sont bonnes.
     - Les pâtes au fromage sont meilleures
-    - Zaza cuisin bien.
-    - Bip cuisin mieux.
+    - Zaza cuisine bien.
+    - Bip cuisine mieux.
 - 3
     - Cathy travaille bien.
     - Keiko travaille mieux.
@@ -2918,5 +2918,117 @@ Le matin, c'est le printemps et il fait frais.
 - 여성형 형용사
     - silencieux → silencieuse
     - cher → chère
+
+# 34. plus (de), moins (de), autant (de)
+
+## la comparaison de quantités
+- exemples
+    - Max gagne plus que Jean.
+    - Max gagne moins que Jean.
+    - Max gagne autant que Jean.
+    - Max a plus d'argent que Jean.
+    - Max a moins d'argent que Jean.
+    - Max a autant d'argent que Jean.
+- comparer des quantités, on utilise "plus", "moins", "autant" :
+    - (derrière un verbe,)
+        - Max travaille plus que Jean.
+        - Max travaille moins que Jean.
+        - Max travaille autant que Jean.
+    - devant un nom, on ajoute "de":
+        - Max a plus de travail.
+        - Max a moins d'argent.
+        - Max a autant de vacances que Jean.
+
+## le superatif : on place "le", "la", "les" devant les comparatifs.
+- exemples
+    - C'est le restaurant le plus confortable.
+    - C'est le restaurant le moins cher.
+    - C'est le restaurant le meilleur.
+- Pour préciser, on utilise "de" + nom
+    - C'est le meilleur restaurant de la ville.
+
+## exercices
+
+1. Comparez, en utilisant "plus", "moins", "autant", selon le modèle. Commentez.
+- Les hommes lisent moins que les femmes.
+- Les enfants dorment plus que les adultes.
+- Les infirmières gagnent moins que les mannequins.
+- L'essence pollue moins que le diesel.
+- Les jeunes fument autant que les vieux.
+
+2. Comparez le nouveau quartier et l'ancien. Comparez deux quartiers de votre ville.
+- Dans mon nouveau quartier :
+    - il y a plus de magasins et moins de cinémas qu'avant.
+    - il y a plus de jardins et plus de fast-foods qu'avant.
+    - il y a moins de tours et moins de monuments qu'avant.
+    - il y a autant de voitures et autant de bruit qu'avant.
+
+3. Complétez avec "plus de ... que", "moins de ... que", "autant de ... que".
+- Les enfants mangent plus de sucre que les adultes.
+- À New York, il y a plus de gratte-ciel que à Paris.
+- Dans les campagnes, il y a moins de voitures que dans les villes.
+- Il y a moins de calories dans les légumes que dans la viande.
+- Sur terre, il y a à peu près autant d'hommes que de femmes.
+
+4. Faites des superlatifs, selon le modèle.
+- François est le plus jeune.
+- Max est le plus vieux.
+- Didier est le plus grand.
+- Max est le plus petit.
+- Didier est le plus lourd.
+- Max est le plus léger.
+- Max gagne le mieux.
+- Didier gagne le plus mal.
+- Didier travaille le plus longtemps.
+- Max travaille le plus brièvement.
+
+## vocabulaires
+- gagner : vt. 벌다, 따다, 얻다
+- infirmièr : n. 간호사
+- mannequins : nm. 마네킹, 패션모델
+- polluer : vt. 오염시키다
+- essence : nf. 휘발유, 가솔린
+- tour : nf. 탑, 고층건물
+- gratte-ciel : nm. 마천루
+- à peu près : 얼추, 대략, 거의
+- sur terre : 현실에는, 세상에는
+- poids : nm. 무게, 중량, 질량
+- lourd : a. 무거운
+- léger : a. 가벼운
+- brièvement : 간단히, 짤막하게
+
+## remarques
+- 비교급 한번에 정리 (plus, moins aussi-autant의 세 형태 x 형용사, 부사, 명사, 동사의 네 품사)
+    - 형용사
+        - Il est plus grand que son frère.
+        - Il est moins grand que son frère.
+        - Il est aussi grand que son frère.
+    - 부사
+        - Elle court plus vite que moi.
+        - Elle court moins vite que moi.
+        - Elle court aussi vite que moi.
+    - 명사
+        - J'ai plus de livres que toi.
+        - J'ai moins de livres que toi.
+        - J'ai autant de livres que toi.
+    - 동사
+        - Je dors plus que toi.
+        - Je dors moins que toi.
+        - Je dors autant que toi.
+
+- 내가 느끼기에, 이 단원은 명사와 동사에 대한 비교급에 대해 다루는 것처럼 보인다. 그런데 이 단원에서 선택한 제목은 "양의 비교"이라서 내 인식과는 잘 맞지 않는 것처럼 보인다.
+
+- 최상급과 BAGS
+
+    다음의 두 문장
+    - C'est le restaurant le meilleur.
+    - C'est le meilleur restaurant de la ville.
+
+    에서 형용사 meilleur는 BAGS에 속하므로 명사를 앞에서 수식하는 것이 원칙상 맞을 것이다. 그런데 첫번째 예문에서는 뒤에서, 두번째 예문에서는 앞에서 수식했다. claude의 말에 따르면 두 표현 모두 틀렸다고 볼 수는 없으며, 그래도 구태여 따지자면 C'est le meilleur restaurant.가 더 일반적으로 쓰인다고 한다.
+
+- 가산-불가산명사와 plus de / moins de
+    - 영어의 비교급에서 가산-불가산명사에 상관없이 more / less가 쓰이는 것과 같이 프랑스어에서도 가산-불가산명사에 상관없이 plus de, moins de가 쓰인다. (claude).
+- Max a autant d'argent que Jean.에서는 비교대상이 주어였다. Sur terre, il y a à peu près autant d'hommes que de femmes.에서는 비교대상이 autant de 뒤의 명사였다. 이 때에는 que와 뒤의 명사 사이에 de가 꼭 붙는다. (claude, 다른 예문)
+
 →
 ←
