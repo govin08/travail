@@ -32,7 +32,6 @@ def collect_rects():
         print(pos)
         capture = ImageGrab.grab(bbox=tuple(pos))
         filename = str(num) + '_' + timestamp
-        # capture.save(f'./captured_rects/{filename}.png')
         path_img = os.path.join(path_root, "0212_ban_vpn", "captured_rects", "{filename}.png")
         capture.save(path_img)
         print(filename)
