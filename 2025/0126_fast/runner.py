@@ -41,3 +41,4 @@ keyboard.add_hotkey('F9', select_zerg)
 keyboard.add_hotkey('F12', collect_rects)
 
 keyboard.wait()  # 프로그램이 계속 실행되도록 유지
+
