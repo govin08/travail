@@ -3321,9 +3321,11 @@ Mon fils.
 
 Mon ami Yvan
 
-Il a vingt ans et il vit encore chez ses parents. La nuit Yvan est réceptionniste dans un hôtel. Quand il rentre chez lui, vers six heures du matin, il est fatigué et il dort toute la matinée. Je rencontre Yvan vers trois heures de l'après-midi, quand il sort de chez lui pour prendre un café. J'aime bien discuter avec lui. Il a beaucoup de projets et il a beaucoup de courage : en plus de son travail, il suit des cours de théâtre car il veut être acteur. Pendant ses vacances, il part en tournée avec un petite troupe de théâre.
+Il a vingt ans et il vit encore chez ses parents. La nuit Yvan est réceptionniste dans un hôtel. Quand il rentre chez lui, vers six heures du matin, il est fatigué et il dort toute la matinée. Je rencontre Yvan vers trois heures de l'après-midi, quand il sort de chez lui pour prendre un café. J'aime bien discuter avec lui. Il a beaucoup de projets et il a beaucoup de courage : en plus de son travail, il suit des cours de théâtre car il veut être acteur. Pendant ses vacances, il part en tournée avec une petite troupe de théâtre.
 
 ## vocabulaires
+- consonne : nf. 자음
+- voyelle : nf. 모음
 - tomber : vi. 넘어지다, 죽다, 탈락하다
 - suivre : vt, vp. 뒤따라가다, 추적하다
 - vivre : vi, vt. 살다, 생활하다
@@ -3347,6 +3349,129 @@ Il a vingt ans et il vit encore chez ses parents. La nuit Yvan est réceptionnis
     - partir는 어디 멀리 갈때, 좀 길게 갈 때 쓰인다.
         - That’s because partir is more indefinite. You’re going somewhere further away, and for a long time.
     - [Sortir vs Partir: How to say “I’m leaving” in French](https://www.commeunefrancaise.com/blog/sortir-vs-partir)
+
+# 37. J'écris, vous écrivez ...
+
+## les verbes en "-re" à deux formes (type "écrire")
+
+- exemples
+    - écrire (+v)
+        - j'écris       | tu écris      | il écrit      | nous écrivons     | vous écrivez      | ils écrivent
+- Au pluriel, on ajoute une consonne.
+    - décrire (+v)
+        - je décris     | tu décris     | il décrit     | nous décrivons    | vous décrivez     | ils décrivent
+    - inscrire (+v)
+        - j'inscris     | tu inscris    | il inscrit    | nous inscrivons   | vous inscrivez    | ils inscrivent
+    - lire (+s)
+        - je lis        | tu lis        | il lit        | nous lisons       | vous lisez        | ils lisent
+    - interdire (+s)
+        - j'interdis    | tu interdis   | il interdit   | nous interdisons  | vous interdisez   | ils interdisent
+    - plaire (+s)
+        - je plais      | tu plais      | il plaît      | nous plaisons     | vous plaisez      | ils plaisent
+    - conduire (+s)
+        - je conduis    | tu conduis    | il conduit    | nous conduisons   | vous conduisez    | ils conduisent
+    - construire (+s)
+        - je construis  | tu construis  | il construit  | nous construisons | vous construisez  | ils construisent
+    - traduire (+s)
+        - je traduis    | tu traduis    | il traduit    | nous traduisons   | vous traduisez    | ils traduissent
+    - détruire (+s)
+        - je détruis    | tu détruis    | il détruit    | nous détruisons   | vous détruisez    | ils détruisent
+    - mettre (+t)
+        - je mets       | tu mets       | il met        | nous mettons      | vous mettez       | ils mettent
+    - battre (+t)
+        - je bats       | tu bats       | il bat        | nous battons      | vous battez       | ils battent
+    - permettre (+t)
+        - je permets    | tu permets    | il permet     | nous permettons   | vous permettez    | ils permettent
+    - promettre (+t)
+        - je promets    | tu promets    | il promet     | nous promettons   | vous promettez    | ils promettent
+    - répondre (+d)
+        - je réponds    | tu réponds    | il répond     | nous répondons    | vous répondez     | ils répondent
+    - entendre (+d)
+        - j'entends     | tu entends    | il entend     | nous entendons    | vous entendez     | ils entendent
+    - attendre (+d)
+        - j'attends     | tu attends    | il attend     | nous attendons    | vous attendez     | ils attendent
+    - vendre (+d)
+        - je vends      | tu vends      | il vend       | nous vendons      | vous vendez       | ils vendent
+    - perdre (+d)
+        - je perds      | tu perds      | il perd       | nous perdons      | vous perdez       | ils perdent
+    - descendre (+d)
+        - je descends   | tu descends   | il descend    | nous descendons   | vous descendez    | ils descendent
+
+## exercices
+
+1. Répondez aux questions au choix.
+- Vous écrivez avec un crayon ou avec un stylo?
+- J'écris avec un stylo.
+- Vous écrivez en français ou en anglais?
+- J'écris en français.
+- Vous écrivez sur une feuille ou un cahier?
+- J'écris sur une feuille.
+- Vous lisez des journaux ou des magazines?
+- Je lis des magazines.
+- Vous lisez avec des lunettes ou sans lunettes?
+- Je lis avec des lunettes.
+
+2. Complétez avec les verbes conjugués.
+- Quand vous lisez en français, vous traduisez tous les mots?
+- Les promoteurs détruisent les vieux quartiers et ils construisent des bureaux.
+- Anna écrit un journal de voyage où elle décrit tout ce qu'elle voit.
+- Pendant que Max conduit, Léo lit des guides touristiques.
+
+3. Complétez, selon le modèle.
+- Vous attendez le bus?
+- Non, j'attends un taxi.
+- Vous vendez des légumes?
+- Non, je vends des fruits.
+- Vous descendez en ascenseur?
+- Non, je descends à pied.
+- Vous mettez un pull vert?
+- Non, je mets un pull bleu.
+- Vous attendez une lettre?
+- Non, j'attends un colis.
+
+4. Transformez le texte, selon le modèle.
+- On décrit la vie dans notre pays.
+- Nous décrivons la vie dans notre pays.
+- On répond aux questions.
+- Nous répondons aux questions.
+- On lit des articles de journaux.
+- Nous lisons des articles de journaux.
+- On traduit des mots.
+- Nous traduisons des mots.
+- On écrit des résumés.
+- Nous écrivons des résumés.
+
+## vocabulaires
+
+- muet / sonore : 묵음 / 소리 냄
+- inscire : vt.  기입하다, 기재하다, 새기다
+- interdire : vt. 막다, 금지하다, 방해하다
+- plaire : vt. 마음에 들다, 환심을 사다
+- construire : vt. 건축하다, 제조하다, 구성하다
+- permettre : vt. 허용하다
+- promettre : vt. 약속하다, 예고하다
+- perdre : vt. 잃다, 상실하다
+- feuille : nf. 종이, 지폐, 나뭇잎
+- conjugué : 변화된 (conjuguer의 participe passé)
+- traduire : vt. 번역하다
+- promoteur : n. 주동자, 발기인, 장려자
+- journal : nm. 일기, 신문
+- détruire : vt. 파괴하다
+- touristique : a. 관광에 관한
+- colis : nm. 꾸러미, 소포
+
+
+## remarques
+
+- (추정) 현재시제 2인칭 동사는 s로 끝나고 3인칭 동사는 t로 끝나거나 s로 끝나지 않는 경우가 많다. 한편 1인칭 동사는 s로 끝나는 경우도 있고 s 없이 끝나는 경우도 있다. (단, 절대 t로 끝나지는 않는다.) 그걸 가르는 건 1군이냐 2군이냐일 수 있을 것 같다.
+    - 1군(-er) : 현재시제 1인칭 동사가 s없이 끝난다.
+        - je mange, je parle, je danse
+    - 2군(-ir, -re)
+        - je grandis, je grossis, je vieillis (chapitre 35)
+        - je pars, je dors, je sers (chapitre 36)
+        - j'écris, je lis, je mets, je réponds (chapitre 37)
+
+
 
 →
 ←
