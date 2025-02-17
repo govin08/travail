@@ -2708,7 +2708,7 @@ Le matin, c'est le printemps et il fait frais.
 
 # 32. un litre de lait, beaucoup de beurre, pas de farine.
 
-## "un kilo de", "beacoup de", "pas de" : la quantité exprimée
+## "un kilo de", "beaucoup de", "pas de" : la quantité exprimée
 
 - exemples
     - de l'eau      | Un verre d'eau
@@ -3257,6 +3257,96 @@ Mon fils.
     - menu는 코스요리 전체, carte는 단품
     - While both 'menu' and 'carte' are part of restaurant terminology, 'menu' implies a set meal at a set price, whereas 'carte' provides a broader choice where dishes are individually priced and customers can compose their own meal.
 - 동사 grandir는 grandis, grandissez로 대별되는 두 동사형으로 나뉘어진다. 이러한 동사를 2군(à deux formes, le deuxième groupe)이라고 부른다. 이와 같은 분류에 대해서는 [위키피디아 페이지](https://fr.wikipedia.org/wiki/Conjugaison_des_verbes_du_deuxi%C3%A8me_groupe)도 있다. 이 책에서는 네 장에 걸쳐 2군 동사에 대해 배운다.
+
+# 36. Je pars, vous partez ...
+
+## les verbes en "-ir" à deux formes (type "partir")
+
+- exemples
+    - partir (-t)
+        - je pars       | tu pars       | il part       | nous partons  | vous partez   | ils partent
+- Au singulier, la consonne finale tombe
+    - sortir (-t)
+        - je sors       | tu sors       | il sort       | nous sortons  | vous sortez   | ils sortent
+    - sentir (-t)
+        - je sens       | tu sens       | il sent       | nous sentons  | vous sentez   | ils sentent
+    - dormir (-m)
+        - je dors       | tu dors       | il dort       | nous dormons  | vous dormez   | ils dorment
+    - servir (-v)
+        - je sers       | tu sers       | il sert       | nous servons  | vous servez   | ils servent
+    - vivre (-v)
+        - je vis        | tu vis        | il vit        | nous vivons   | vous vivez    | ils vivent
+    - suivre (-v)
+        - je suis       | tu suis       | il suit       | nous suivons  | vous suivez   | ils suivent
+
+## exercices
+
+1. Répondez aux questions, au choix.
+- 1
+    - Vous partez en Italie ou en Espagne?
+    - Je pars en Italie.
+- 2
+    - Vous partez en avion ou en voiture?
+    - Je pars en avion.
+- 3
+    - Vous partez en juin ou en juillet?
+    - Je pars en juillet.
+- 4
+    - Vous dormez à Nice ou à Gênes?
+    - Je dors à Gênes.
+- 5
+    - Vous dormez à l'hôtel ou chez des amis?
+    - Je dors à l'hôtel.
+
+2. Complétez avec les verbes ci-dessous, selon le modèle.
+- partir
+    - Je pars en vacances en juin.
+    - Vous partez en vacances en août.
+- sortir
+    - Je sors tous les vendredis soir.
+    - Vous sortez tous les vendredis soir.
+- dormir
+    - Je dors 7 heures par nuit.
+    - Vous dormez 7 heures par nuit.
+- vivre
+    - Je vis en France.
+    - Vous vivez en France.
+- suivre
+    - Je suis des cours d'anglais.
+    - Vous suivez des cours d'anglais.
+
+<!-- 3. Complétez avec les terminaisons des verbes, puis complétez les phrases. -->
+
+4. Complétez avec les verbes manquant.
+
+Mon ami Yvan
+
+Il a vingt ans et il vit encore chez ses parents. La nuit Yvan est réceptionniste dans un hôtel. Quand il rentre chez lui, vers six heures du matin, il est fatigué et il dort toute la matinée. Je rencontre Yvan vers trois heures de l'après-midi, quand il sort de chez lui pour prendre un café. J'aime bien discuter avec lui. Il a beaucoup de projets et il a beaucoup de courage : en plus de son travail, il suit des cours de théâtre car il veut être acteur. Pendant ses vacances, il part en tournée avec un petite troupe de théâre.
+
+## vocabulaires
+- tomber : vi. 넘어지다, 죽다, 탈락하다
+- suivre : vt, vp. 뒤따라가다, 추적하다
+- vivre : vi, vt. 살다, 생활하다
+- perdre : vt, vi 잃다, 상실하다
+- Gênes : 제노바
+- au choix : 마음대로, 의향대로
+- ci-dessous : 아래에 표시한 대로, 이하에
+- discuter : v. 논의하다, 토론하다
+- car : 왜냐하면, 이니까
+- tournée : nf. 순회공연, 왕진, 순시
+- troupe : nf. 집단, 일행 
+
+## remarques
+- partir와 leave
+    - ~을 향해 떠나다 : partir pour / à / en = leave for
+    - ~로부터 떠나다 : partir de = leave from
+- sortir와 partir
+    - 거의 같은 의미이지만 약간의 차이가 있다.
+    - sortir는 어느 곳에서 나온다, 라는 의미로 많이 쓰인다.
+        - in French, when we’re talking about leaving a room, it’s much more natural to use sortir instead of partir.
+    - partir는 어디 멀리 갈때, 좀 길게 갈 때 쓰인다.
+        - That’s because partir is more indefinite. You’re going somewhere further away, and for a long time.
+    - [Sortir vs Partir: How to say “I’m leaving” in French](https://www.commeunefrancaise.com/blog/sortir-vs-partir)
 
 →
 ←
