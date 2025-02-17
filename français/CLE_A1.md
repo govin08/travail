@@ -3146,5 +3146,117 @@ Mon fils.
 - parmesan : n. 파마산 치즈
 - vanille : nf. 바닐라
 
+# 35. Je grandis, vous grandissez ...
+
+## les verbes en "-ir" à deux formes (pluriel en "-iss")
+- exemples
+    - grandir (a. grand) :
+        - je grandis    | tu grandis    | il grandit    | nous grandissons  | vous grandissez   | ils grandissent
+- Le "i" du singulier devient "iss" au pluriel :
+    - grossir (a. gros)
+        - je grossis    | tu grossis    | il grossit    | nous grossissons  | vous grossissez   | ils grossissent
+- Ces verbes se forment souvent sur un adjectif et expriment une transformation :
+    - vieillir (a. vieille)
+        - je vieillis   | tu vieillis   | il vieillit   | nous vieillissons | vous vieillissez  | ils vieillissent
+    - rougir (a. rouge)
+        - je rougis     | tu rougis     | il rougit     | nous rougissons   | vous rougissez    | ils rougissent
+    ---
+    - brunir (a. brun)
+        - je brunis     | tu brunis     | il brunit     | nous brunissons   | vous brunissez    | ils brunissent
+    - maigrir (a. maigre)
+        - je maigris    | tu maigris    | il maigrit    | nous maigrissons  | vous maigrissez   | ils maigrissent
+    - pâlir (a. pâle)
+        - je pâlis      | tu pâlis      | il pâlit      | nous pâlissons    | vous pâlissez     | ils pâlissent
+    - jaunir (a. jaune)
+        - je jaunis     | tu jaunis     | il jaunit     | nous jaunissons   | vous jaunissez    | ils jaunissent
+    - fleurir (n. fleur)
+        - je fleuris    | tu fleuris    | il fleurit    | nous fleurissons  | vous fleurissez   | ils fleurissent
+- Autres verbes fréquents :
+    - finir
+        - je finis      | tu finis      | il finit      | nous finissons    | vous finissez     | ils finissent
+    - choisir
+        - je choisis    | tu choisis    | il choisit    | nous choisissons  | vous choisissez   | ils choisissent
+    - guérir
+        - je guéris     | tu guéris     | il guérit     | nous guérissons   | vous guérissez    | ils guérissent
+    - applaudir
+        - j'applaudis   | tu applaudis  | il applaudit  | nous applaudissons| vous applaudissez | ils applaudissent
+    - ralentir
+        - je ralentis   | tu ralentis   | il ralentit   | nous ralentissons | vous ralentissez  | ils ralentissent
+    ---
+    - réfléchir
+        - je réfléchis  | tu réfléchis  | il réfléchit  | nous réfléchissons| vous réfléchissez | ils réfléchissent
+    - atterrir
+        - j'atterris    | tu atterris   | il atterrit   | nous atterrissons | vous atterrissez  | ils atterrissent
+    - réunir
+        - je réunis     | tu réunis     | il réunit     | nous réunissons   | vous réunissez    | ils réunissent
+
+## à l'écrit, ces verbes se terminent par : 
+- singulier : -is, -is, -it
+- pluriel   : -issons, -issez, -issent
+
+## exercices
+
+1. Complétez puis mettez au pluriel.
+- 1
+    - En été, je brunis et je maigris.
+    - En été, nous brunissons et nous maigrissons.
+- 2
+    - En hiver, je grossis et je pâlis.
+    - En hiver, nous grossissons et nous pâlissons
+- 3
+    - En automne, mon rosier jaunit, au printemps, il fleurit.
+    - En automne, mes rosiers jaunissent, au printemps, ils fleurissent.
+
+2. Complétez avec le verbe "finir" puis "choisir".
+- 1
+    - Vous finissez à six heures?
+    - Non, je finis à cinq heures.
+    - Vous finissez avant Paul?
+    - Non, je finis après Paul.
+    - Vous finissez tard?
+    - Non, je finis tôt.
+- 2
+    - Vous choisissez le menu?
+    - Non, je choisis la carte.
+    - Vous choisissez du vin blanc?
+    - Non, je choisis du vin rouge.
+    - Vous choisissez une tarte?
+    - Non, je choisis une glace.
+
+3. Complétez avec "finir", "choisir", "réfléchir".
+- Je réfléchis, je choisis une réponse, je finis l'exercice.
+- Il réfléchit, il choisit une réponse, il finit l'exercice.
+- Vous réfléchissez, vous choisissez une réponse, vous finissez l'exercice.
+
+4. Complétez selon le modèle.
+- Les enfants grandissent et les parents vieillissent.
+- Quand le pilote atterrit en douceur, les voyageurs applaudissent.
+- De temps en temps, nous nous réunissons et nous réfléchissons ensemble.
+- Roberto réfléchit longtemps quand il choisit ses cravates.
+
+## vocabulaires
+- guérir : v. 고치다, 치료하다, 진정시키다
+- ralentir : v. 늦추다, 지연시키다
+- brunir : 갈색으로 물들이다, 햇볕에 몸을 그을리다
+- pâlir : 창백해지다
+- rosier : nm. 장미나무 (rose : nf. 장미)
+- jaune : 노랗게 되다
+- fleurir : 꽃이 피다
+- tarte : nf. 타르트, 잼, 파이
+- réfléchir : vi. 숙고하다, 반사하다, 곰곰이 생각하다
+- atterrir : vi. 착륙하다, 상륙하다 (atterrage : nm. 상륙지)
+- pilote : nm. 조종사
+- douceur : nf. 단 맛, 단 것, 과자, 감미로움, 부드러움, 완만함
+- en douceur : 조용히, 슬그머니, 부드럽게
+- réunir : vt. 결합하다, vp. 모이다
+- de temps en temps : 때떄로, 이따금
+- cravate : nf. 넥타이
+
+## remarques
+- [menu vs carte](https://www.linguno.com/wordComparison/fra/menu-carte/)
+    - menu는 코스요리 전체, carte는 단품
+    - While both 'menu' and 'carte' are part of restaurant terminology, 'menu' implies a set meal at a set price, whereas 'carte' provides a broader choice where dishes are individually priced and customers can compose their own meal.
+- 동사 grandir는 grandis, grandissez로 대별되는 두 동사형으로 나뉘어진다. 이러한 동사를 2군(à deux formes, le deuxième groupe)이라고 부른다. 이와 같은 분류에 대해서는 [위키피디아 페이지](https://fr.wikipedia.org/wiki/Conjugaison_des_verbes_du_deuxi%C3%A8me_groupe)도 있다. 이 책에서는 네 장에 걸쳐 2군 동사에 대해 배운다.
+
 →
 ←
