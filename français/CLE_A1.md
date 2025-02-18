@@ -3471,7 +3471,7 @@ Il a vingt ans et il vit encore chez ses parents. La nuit Yvan est réceptionnis
 
 # 38. Je sais, je connais. Je crois, je vois.
 
-## Cas particuliers de verbes à deux formes
+## cas particuliers de verbes à deux formes
 
 - exemples
     - Elle sait écrire.
@@ -3566,58 +3566,77 @@ Mes enfants Luc et Thomas croient encore au Père Noël. Tous les ans, ils mette
 - 일기장에 남긴 메모
     35장때부터 시작된 동사변화형에 대해 복습하면서 connaître와 savoir가 어떤 범주에 속하는지 살펴보자.
 
-    chapitre 35 (2ème groupe)
-    - grossir (+ss)
-        - je grossis    | tu grossis    | il grossit    | nous grossissons  | vous grossissez   | ils grossissent
+# un récapitulatif de cette partie
+chapitre 35 (2ème groupe, -ir)
+- +ss (adjectif, nom)
+  - grandir     je grandis      tu grandis      il grandit      nous grandissons    vous grandissez     ils grandissent
+  - grossir     je grossis      tu grossis      il grossit      nous grossissons    vous grossissez     ils grossissent
+  - vieillir    je vieillis     tu vieillis     il vieillit     nous vieillissons   vous vieillissez    ils vieillissent
+  - rougir      je rougis       tu rougis       il rougit       nous rougissons     vous rougissez      ils rougissent
+  - brunir      je brunis       tu brunis       il brunit       nous brunissons     vous brunissez      ils brunissent
+  - maigrir     je maigris      tu maigris      il maigrit      nous maigrissons    vous maigrissez     ils maigrissent
+  - pâlir       je pâlis        tu pâlis        il pâlit        nous pâlissons      vous pâlissez       ils pâlissent
+  - jaunir      je jaunis       tu jaunis       il jaunit       nous jaunissons     vous jaunissez      ils jaunissent
+  - fleurir     je fleuris      tu fleuris      il fleurit      nous fleurissons    vous fleurissez     ils fleurissent
+- +ss
+  - finir       je finis        tu finis        il finit        nous finissons      vous finissez       ils finissent
+  - choisir     je choisis      tu choisis      il choisit      nous choisissons    vous choisissez     ils choisissent
+  - guérir      je guéris       tu guéris       il guérit       nous guérissons     vous guérissez      ils guérissent
+  - applaudir   j'applaudis     tu applaudis    il applaudit    nous applaudissons  vous applaudissez   ils applaudissent
+  - ralentir    je ralentis     tu ralentis     il ralentit     nous ralentissons   vous ralentissez    ils ralentissent
+  - réfléchir   je réfléchis    tu réfléchis    il réfléchit    nous réfléchissons  vous réfléchissez   ils réfléchissent
+  - atterrir    j'atterris      tu atterris     il atterrit     nous atterrissons   vous atterrissez    ils atterrissent
+  - réunir      je réunis       tu réunis       il réunit       nous réunissons     vous réunissez      ils réunissent
 
-    chapitre 36 (2ème groupe)
-    - partir (-t)
-        - je pars       | tu pars       | il part       | nous partons      | vous partez       | ils partent
-    - dormir (-m)
-        - je dors       | tu dors       | il dort       | nous dormons      | vous dormez       | ils dorment
-    - servir (-v)
-        - je sers       | tu sers       | il sert       | nous servons      | vous servez       | ils servent
+chapitre 36 (2ème groupe, -ir)
+- -t
+  - partir      je pars         tu pars         il part         nous partons        vous partez         ils partent
+  - sortir      je sors         tu sors         il sort         nous sortons        vous sortez         ils sortent
+  - sentir      je sens         tu sens         il sent         nous sentons        vous sentez         ils sentent
+- -m
+  - dormir      je dors         tu dors         il dort         nous dormons        vous dormez         ils dorment
+- -v
+  - servir      je sers         tu sers         il sert         nous servons        vous servez         ils servent
+  - vivre       je vis          tu vis          il vit          nous vivons         vous vivez          ils vivent
+  - suivre      je suis         tu suis         il suit         nous suivons        vous suivez         ils suivent
 
-    chapitre 37 (2ème groupe)
-    - écrire (+v)
-        - j'écris       | tu écris      | il écrit      | nous écrivons     | vous écrivez      | ils écrivent
-    - lire (+s)
-        - je lis        | tu lis        | il lit        | nous lisons       | vous lisez        | ils lisent
-    - mettre (+t)
-        - je mets       | tu mets       | il met        | nous mettons      | vous mettez       | ils mettent
-    - répondre (+d)
-        - je réponds    | tu réponds    | il répond     | nous répondons    | vous répondez     | ils répondent
+chapitre 37 (2ème groupe, -re)
+- +v
+  - écrire      j'écris         tu écris        il écrit        nous écrivons       vous écrivez        ils écrivent
+  - décrire     je décris       tu décris       il décrit       nous décrivons      vous décrivez       ils décrivent
+  - inscrire    j'inscris       tu inscris      il inscrit      nous inscrivons     vous inscrivez      ils inscrivent
+- +s
+  - lire        je lis          tu lis          il lit          nous lisons         vous lisez          ils lisent
+  - interdire   j'interdis      tu interdis     il interdit     nous interdisons    vous interdisez     ils interdisent
+  - plaire      je plais        tu plais        il plaît        nous plaisons       vous plaisez        ils plaisent
+  - conduire    je conduis      tu conduis      il conduit      nous conduisons     vous conduisez      ils conduisent
+  - construire  je construis    tu construis    il construit    nous construisons   vous construisez    ils construisent
+  - traduire    je traduis      tu traduis      il traduit      nous traduisons     vous traduisez      ils traduissent
+  - détruire    je détruis      tu détruis      il détruit      nous détruisons     vous détruisez      ils détruisent
+- +t
+  - mettre      je mets         tu mets         il met          nous mettons        vous mettez         ils mettent
+  - battre      je bats         tu bats         il bat          nous battons        vous battez         ils battent
+  - permettre   je permets      tu permets      il permet       nous permettons     vous permettez      ils permettent
+  - promettre   je promets      tu promets      il promet       nous promettons     vous promettez      ils promettent
+- +d
+  - répondre    je réponds      tu réponds      il répond       nous répondons      vous répondez       ils répondent
+  - entendre    j'entends       tu entends      il entend       nous entendons      vous entendez       ils entendent
+  - attendre    j'attends       tu attends      il attend       nous attendons      vous attendez       ils attendent
+  - vendre      je vends        tu vends        il vend         nous vendons        vous vendez         ils vendent
+  - perdre      je perds        tu perds        il perd         nous perdons        vous perdez         ils perdent
+  - descendre   je descends     tu descends     il descend      nous descendons     vous descendez      ils descendent
 
-    chapitre 38 (2ème groupe)
-    - connaître
-        - je connais    | tu connais    | il connaît    | nous connaissons  | vous connaissez   | ils connaissent
-    - savoir
-        - je sais       | tu sais       | il sait       | nous savons       | vous savez        | ils savent
-    - croire
-        - je crois      | tu crois      | il croit      | nous croyons      | vous croyez       | ils croient
-    - voir
-        - je vois       | tu vois       | il voit       | nous voyons       | vous voyez        | ils voient
+chapitre 38 (2ème groupe)
+- particuliers
+  - connaître   je connais      tu connais      il connaît      nous connaissons    vous connaissez     ils connaissent
+  - savoir      je sais         tu sais         il sait         nous savons         vous savez          ils savent
+  - croire      je crois        tu crois        il croit        nous croyons        vous croyez         ils croient
+  - voir        je vois         tu vois         il voit         nous voyons         vous voyez          ils voient
 
-    그러면 connaître는 grossir와 비슷한 사례라고 봐야겠네.
-    복수변화형에서 ss가 들어가니까.
-    물론 grandir, grossir, rougir등의 특성과 살짝 다르다고 봐야 할거야.
-    savoir는 écrire와 비슷하다고 여겨져.
-    복수변화형에서 v가 들어가니까.
-    어쨋든 둘다 기존의 형태와는 다른 특이한 형태라는 게 느껴지네.
-    croire와 voir는 복수변화형에서 y가 들어간다는 점에서 기존 형태와 대별돼.
-    voir가 savoir와 비슷하게 생겼음에도 그 변화형은 완전히 다르다는 점도 주목할 만해.
+# 39. Je bois, vous vuvez, ils boivent.
 
-    38장의 네 동사를 다시 쓰면
-    - connaître (+ss)
-        - je connais    | tu connais    | il connaît    | nous connaissons  | vous connaissez   | ils connaissent
-    - savoir (+v)
-        - je sais       | tu sais       | il sait       | nous savons       | vous savez        | ils savent
-    - croire (+y)
-        - je crois      | tu crois      | il croit      | nous croyons      | vous croyez       | ils croient
-    - voir (+y)
-        - je vois       | tu vois       | il voit       | nous voyons       | vous voyez        | ils voient
+## les verbes en "-ir", "-re", "-oir" à trois formes (type "boire")
 
-    로 설명할 수도 있겠지.
 
 →
 ←
