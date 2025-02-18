@@ -3460,9 +3460,7 @@ Il a vingt ans et il vit encore chez ses parents. La nuit Yvan est réceptionnis
 - touristique : a. 관광에 관한
 - colis : nm. 꾸러미, 소포
 
-
 ## remarques
-
 - (추정) 현재시제 2인칭 동사는 s로 끝나고 3인칭 동사는 t로 끝나거나 s로 끝나지 않는 경우가 많다. 한편 1인칭 동사는 s로 끝나는 경우도 있고 s 없이 끝나는 경우도 있다. (단, 절대 t로 끝나지는 않는다.) 그걸 가르는 건 1군이냐 2군이냐일 수 있을 것 같다.
     - 1군(-er) : 현재시제 1인칭 동사가 s없이 끝난다.
         - je mange, je parle, je danse
@@ -3471,7 +3469,155 @@ Il a vingt ans et il vit encore chez ses parents. La nuit Yvan est réceptionnis
         - je pars, je dors, je sers (chapitre 36)
         - j'écris, je lis, je mets, je réponds (chapitre 37)
 
+# 38. Je sais, je connais. Je crois, je vois.
 
+## Cas particuliers de verbes à deux formes
+
+- exemples
+    - Elle sait écrire.
+    - Elle connaît l'alphabet.
+    - Vous savez dessiner.
+    - Vous connaissez la perspective.
+- "connaître" et "savoir"
+    - connaître (+ss)
+        - je connais    | tu connais    | il connaît    | nous connaissons  | vous connaissez   | ils connaissent
+    - "connaître" + nom
+        - Elle connaît l'alphabet.
+        - Il connaît le code de la route.
+    - savoir (+v)
+        - je sais       | tu sais       | il sait       | nous savons       | vous savez        | ils savent
+    - "savoir" + verbe
+        - Elle sait lire.
+        - Il sait conduire.
+    - "savoir" = connaissance apprise, "pouvoir" = possibilité, capacité
+        - Je sais lire.
+        - Je peux lire sans lunettes.
+- "croire" et "voir"
+    - croire (+y)
+        - je crois      | tu crois      | il croit      | nous croyons      | vous croyez       | ils croient
+    - voir (+y)
+        - je vois       | tu vois       | il voit       | nous voyons       | vous voyez        | ils voient
+
+## exercices
+
+2. "savoir". Complétez. Mettez au pluriel.
+- Un enfant sait marcher vers un an.
+- Les enfants savent marcher vers un an.
+- Il sait parler vers deux ans.
+- Ils savent parler vers deux ans.
+- Il sait compter vers quatre ans.
+- Ils savent compter vers quatre ans.
+- Il sait lire vers six ans.
+- Ils savent lire vers six ans.
+
+3. "savoir" et "connaître". Complétez
+- Elle sait utiliser un ordinateur mais elle ne connaît pas l'informatique.
+- Est-ce que tu connais l'adresse de Max? / Oui, je sais où il habite.
+- Tu sais parler espagnol? / Non, je sais dire seulement hombre.
+- Je ne connais pas le frère de Zoé, mais je sais qu'il est très beau.
+
+4. "voir" et "croire". Complétez.
+- voir
+    - Tu vois cette lumière bleue dans le ciel : c'est un satellite.
+    - Si vous voyez un taxi, appelez-le.
+    - Les animaux voient moins de couleurs que nous.
+    - Je vois mal sans mes lunettes.
+- croire
+    - Quelle est la nationalité de Max? / Je crois qu'il est anglais.
+    - Vous croyez qu'il va pleuvoir?
+    - Les bouddhistes croient à la réincarnation.
+    - Tu crois que les Martiens existent?
+
+5. Complétez avec les verbes manquants.
+
+Le père Noël
+
+Mes enfants Luc et Thomas croient encore au Père Noël. Tous les ans, ils mettent leurs chaussures devant la cheminée et ils attendent avec impatience la nuit. Tous les ans, ils sortent dans le jardin lorsqu'ils entendent un bruit de clochettes. Quand nous voyons leurs petits visages émerveillés devant les cadeaux, nous croyons nous aussi que le vieil homme existe. Un service de la poste répond depuis quelques années aux lettres que les enfants écrivent. Alors, c'est normal, Luc et Thomas croient seulement ce qu'ils voient.
+
+## vocabulaires
+- cas : nm. 경우, 사례
+- perspective : nf. 원근법
+- apprise : a. 배운 (← apprendre)
+- le code de la route : 도로교통법, 교통규칙
+- connaissance : nf. 앎, 지식, 조예
+- compter : vt. 세다
+- informatique : nf. 정보과학, 정보처리기술, a. 정보과학의
+- hombre : 스페인어에서 "사람"이라는 뜻.
+- appelez-le : 그것을 불러
+- pleuvoir : vi. 비가 내리다
+- bouddhiste : n. 불자, 불교신자
+- couleur : nf.
+- existent : ← exister
+- père noël : 산타클로스
+- tous les ans : 매년
+- impatience : nf. 참을성없음, 초조, 안달
+- cheminée : nf. 굴뚝
+- lorsque : ~할 때
+- clochette : nf. 작은 종, 방울
+- émerveiller : vt. 감탄하게 하다 (→ émerveillé)
+- depuis : 이래로
+- sortir dans : ~으로 나가다
+- nous aussi : 우리도 역시
+- depuis quelques années : 몇 년 전부터
+- ce que : 영어에서의 what
+
+## remarques
+- connaître 다음에는 명사, savoir 다음에는 동사 원형이 온다는 설명만 있다. 하지만 연습문제 3에서 보듯 savoir 뒤에 관계절(où, que)이 올 수도 있다.
+- 일기장에 남긴 메모
+    35장때부터 시작된 동사변화형에 대해 복습하면서 connaître와 savoir가 어떤 범주에 속하는지 살펴보자.
+
+    chapitre 35 (2ème groupe)
+    - grossir (+ss)
+        - je grossis    | tu grossis    | il grossit    | nous grossissons  | vous grossissez   | ils grossissent
+
+    chapitre 36 (2ème groupe)
+    - partir (-t)
+        - je pars       | tu pars       | il part       | nous partons      | vous partez       | ils partent
+    - dormir (-m)
+        - je dors       | tu dors       | il dort       | nous dormons      | vous dormez       | ils dorment
+    - servir (-v)
+        - je sers       | tu sers       | il sert       | nous servons      | vous servez       | ils servent
+
+    chapitre 37 (2ème groupe)
+    - écrire (+v)
+        - j'écris       | tu écris      | il écrit      | nous écrivons     | vous écrivez      | ils écrivent
+    - lire (+s)
+        - je lis        | tu lis        | il lit        | nous lisons       | vous lisez        | ils lisent
+    - mettre (+t)
+        - je mets       | tu mets       | il met        | nous mettons      | vous mettez       | ils mettent
+    - répondre (+d)
+        - je réponds    | tu réponds    | il répond     | nous répondons    | vous répondez     | ils répondent
+
+    chapitre 38 (2ème groupe)
+    - connaître
+        - je connais    | tu connais    | il connaît    | nous connaissons  | vous connaissez   | ils connaissent
+    - savoir
+        - je sais       | tu sais       | il sait       | nous savons       | vous savez        | ils savent
+    - croire
+        - je crois      | tu crois      | il croit      | nous croyons      | vous croyez       | ils croient
+    - voir
+        - je vois       | tu vois       | il voit       | nous voyons       | vous voyez        | ils voient
+
+    그러면 connaître는 grossir와 비슷한 사례라고 봐야겠네.
+    복수변화형에서 ss가 들어가니까.
+    물론 grandir, grossir, rougir등의 특성과 살짝 다르다고 봐야 할거야.
+    savoir는 écrire와 비슷하다고 여겨져.
+    복수변화형에서 v가 들어가니까.
+    어쨋든 둘다 기존의 형태와는 다른 특이한 형태라는 게 느껴지네.
+    croire와 voir는 복수변화형에서 y가 들어간다는 점에서 기존 형태와 대별돼.
+    voir가 savoir와 비슷하게 생겼음에도 그 변화형은 완전히 다르다는 점도 주목할 만해.
+
+    38장의 네 동사를 다시 쓰면
+    - connaître (+ss)
+        - je connais    | tu connais    | il connaît    | nous connaissons  | vous connaissez   | ils connaissent
+    - savoir (+v)
+        - je sais       | tu sais       | il sait       | nous savons       | vous savez        | ils savent
+    - croire (+y)
+        - je crois      | tu crois      | il croit      | nous croyons      | vous croyez       | ils croient
+    - voir (+y)
+        - je vois       | tu vois       | il voit       | nous voyons       | vous voyez        | ils voient
+
+    로 설명할 수도 있겠지.
 
 →
 ←
