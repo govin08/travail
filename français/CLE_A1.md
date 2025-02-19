@@ -3373,7 +3373,7 @@ Il a vingt ans et il vit encore chez ses parents. La nuit Yvan est réceptionnis
     - construire (+s)
         - je construis  | tu construis  | il construit  | nous construisons | vous construisez  | ils construisent
     - traduire (+s)
-        - je traduis    | tu traduis    | il traduit    | nous traduisons   | vous traduisez    | ils traduissent
+        - je traduis    | tu traduis    | il traduit    | nous traduisons   | vous traduisez    | ils traduisent
     - détruire (+s)
         - je détruis    | tu détruis    | il détruit    | nous détruisons   | vous détruisez    | ils détruisent
     - mettre (+t)
@@ -3566,77 +3566,332 @@ Mes enfants Luc et Thomas croient encore au Père Noël. Tous les ans, ils mette
 - 일기장에 남긴 메모
     35장때부터 시작된 동사변화형에 대해 복습하면서 connaître와 savoir가 어떤 범주에 속하는지 살펴보자.
 
-# un récapitulatif de cette partie
-chapitre 35 (2ème groupe, -ir)
-- +ss (adjectif, nom)
-  - grandir     je grandis      tu grandis      il grandit      nous grandissons    vous grandissez     ils grandissent
-  - grossir     je grossis      tu grossis      il grossit      nous grossissons    vous grossissez     ils grossissent
-  - vieillir    je vieillis     tu vieillis     il vieillit     nous vieillissons   vous vieillissez    ils vieillissent
-  - rougir      je rougis       tu rougis       il rougit       nous rougissons     vous rougissez      ils rougissent
-  - brunir      je brunis       tu brunis       il brunit       nous brunissons     vous brunissez      ils brunissent
-  - maigrir     je maigris      tu maigris      il maigrit      nous maigrissons    vous maigrissez     ils maigrissent
-  - pâlir       je pâlis        tu pâlis        il pâlit        nous pâlissons      vous pâlissez       ils pâlissent
-  - jaunir      je jaunis       tu jaunis       il jaunit       nous jaunissons     vous jaunissez      ils jaunissent
-  - fleurir     je fleuris      tu fleuris      il fleurit      nous fleurissons    vous fleurissez     ils fleurissent
-- +ss
-  - finir       je finis        tu finis        il finit        nous finissons      vous finissez       ils finissent
-  - choisir     je choisis      tu choisis      il choisit      nous choisissons    vous choisissez     ils choisissent
-  - guérir      je guéris       tu guéris       il guérit       nous guérissons     vous guérissez      ils guérissent
-  - applaudir   j'applaudis     tu applaudis    il applaudit    nous applaudissons  vous applaudissez   ils applaudissent
-  - ralentir    je ralentis     tu ralentis     il ralentit     nous ralentissons   vous ralentissez    ils ralentissent
-  - réfléchir   je réfléchis    tu réfléchis    il réfléchit    nous réfléchissons  vous réfléchissez   ils réfléchissent
-  - atterrir    j'atterris      tu atterris     il atterrit     nous atterrissons   vous atterrissez    ils atterrissent
-  - réunir      je réunis       tu réunis       il réunit       nous réunissons     vous réunissez      ils réunissent
-
-chapitre 36 (2ème groupe, -ir)
-- -t
-  - partir      je pars         tu pars         il part         nous partons        vous partez         ils partent
-  - sortir      je sors         tu sors         il sort         nous sortons        vous sortez         ils sortent
-  - sentir      je sens         tu sens         il sent         nous sentons        vous sentez         ils sentent
-- -m
-  - dormir      je dors         tu dors         il dort         nous dormons        vous dormez         ils dorment
-- -v
-  - servir      je sers         tu sers         il sert         nous servons        vous servez         ils servent
-  - vivre       je vis          tu vis          il vit          nous vivons         vous vivez          ils vivent
-  - suivre      je suis         tu suis         il suit         nous suivons        vous suivez         ils suivent
-
-chapitre 37 (2ème groupe, -re)
-- +v
-  - écrire      j'écris         tu écris        il écrit        nous écrivons       vous écrivez        ils écrivent
-  - décrire     je décris       tu décris       il décrit       nous décrivons      vous décrivez       ils décrivent
-  - inscrire    j'inscris       tu inscris      il inscrit      nous inscrivons     vous inscrivez      ils inscrivent
-- +s
-  - lire        je lis          tu lis          il lit          nous lisons         vous lisez          ils lisent
-  - interdire   j'interdis      tu interdis     il interdit     nous interdisons    vous interdisez     ils interdisent
-  - plaire      je plais        tu plais        il plaît        nous plaisons       vous plaisez        ils plaisent
-  - conduire    je conduis      tu conduis      il conduit      nous conduisons     vous conduisez      ils conduisent
-  - construire  je construis    tu construis    il construit    nous construisons   vous construisez    ils construisent
-  - traduire    je traduis      tu traduis      il traduit      nous traduisons     vous traduisez      ils traduissent
-  - détruire    je détruis      tu détruis      il détruit      nous détruisons     vous détruisez      ils détruisent
-- +t
-  - mettre      je mets         tu mets         il met          nous mettons        vous mettez         ils mettent
-  - battre      je bats         tu bats         il bat          nous battons        vous battez         ils battent
-  - permettre   je permets      tu permets      il permet       nous permettons     vous permettez      ils permettent
-  - promettre   je promets      tu promets      il promet       nous promettons     vous promettez      ils promettent
-- +d
-  - répondre    je réponds      tu réponds      il répond       nous répondons      vous répondez       ils répondent
-  - entendre    j'entends       tu entends      il entend       nous entendons      vous entendez       ils entendent
-  - attendre    j'attends       tu attends      il attend       nous attendons      vous attendez       ils attendent
-  - vendre      je vends        tu vends        il vend         nous vendons        vous vendez         ils vendent
-  - perdre      je perds        tu perds        il perd         nous perdons        vous perdez         ils perdent
-  - descendre   je descends     tu descends     il descend      nous descendons     vous descendez      ils descendent
-
-chapitre 38 (2ème groupe)
-- particuliers
-  - connaître   je connais      tu connais      il connaît      nous connaissons    vous connaissez     ils connaissent
-  - savoir      je sais         tu sais         il sait         nous savons         vous savez          ils savent
-  - croire      je crois        tu crois        il croit        nous croyons        vous croyez         ils croient
-  - voir        je vois         tu vois         il voit         nous voyons         vous voyez          ils voient
-
 # 39. Je bois, vous vuvez, ils boivent.
 
 ## les verbes en "-ir", "-re", "-oir" à trois formes (type "boire")
+- exemples
+    - je bois du café.
+    - ils boivent de la bière.
+    - Vous buvez de l'eau.
+- boire (boi, buv, boiv)
+    - je bois       tu bois         il boit         nous buvons             vous buvez              ils boivent
+- recevoir (çoi, ce, çoiv)
+    - je reçois     tu reçois       il reçoit       nous recevons           vous recevez            ils reçoivent
+- prendre (-n, -nn)
+    - je prends     tu prends       il prend        nous prenons            vous prenez             ils prennent
+- apprendre (-n, -nn)
+    - j'apprends    tu apprends     il apprend      nous apprenons          vous apprenez           ils apprennent
+- comprendre (-n, -nn)
+    - je comprends  tu comprends    il comprend     nous comprenons         vous comprenez          ils comprennent
+- venir (ien, -n, -ienn)
+    - je viens      tu viens        il vient        nous venons             vous venez              ils viennent
+- devenir (ien, -n, -ienn)
+    - je deviens    tu deviens      il devient      nous devenons           vous devenez            ils deviennent
+- revenir (ien, -n, -ienn)
+    - je reviens    tu reviens      il revient      nous revenons           vous revenez            ils reviennent
+- tenir
+    - je tiens      tu tiens        il tient        nous tenons             vous tenez              ils tiennent
+- souvenir
+    - je souviens   tu souviens     il souvient     nous souvenons          vous souvenez           ils souviennent
 
+## exercices
+<!-- 1. Complétez avec le verbe "boire", selon le modèle.
+- Le matin, je bois du café.
+- Mes enfants boivent du chocolat.
+- À midi, je bois -->
+
+2. Conjuguez le verbe "prendre", selon le modèle.
+- Je prends le RER.
+- Tu prends le bus.
+- Mike prend le train.
+- Nous prenons le métro.
+- Vous prenez le tramway.
+- Mes parents prennent le taxi.
+
+3. Complétez avec "prendre", "apprendre" et "comprendre"
+- Vous prenez le bus ou le train?
+- Je prends le bus. Mes amis prennent le train.
+- Vous apprenez l'anglais ou le français?
+- J'apprends l'anglais. Mes sœurs apprennent le français.
+- Vous comprenez tout ou presque tout?
+- Je comprends tout. Mes parents comprennent presque tout.
+
+4. Complétez avec les verbes "venir", "devenir", "revenir" et "tenir".
+- Je viens du sud de la France, mon mari vient de Bretagne.
+- Quand on chauffe la cire, elle devient molle.
+- Attendez-moi : je reviens dans cinq minutes!
+- La statue de la Liverté tient un flambeau dans la main.
+- Ils sont partis en vacances il y a dix jours et ils reviennent aujourd'hui.
+
+## vocabulaires
+- devenir : vi. 되다, 변화하다
+- revenir : vi. 다시 오다, 돌아오다, 복귀하다
+- tenir : vt. 잡다, 쥐다, 고정시키다, 유지하다
+- souvenir : vp. 기억하다, nm. 기억
+- boisson : nf. 음료
+- moyen : nm. 수단, 방법
+- RER : 수도권 고속전철(réseau express régional)
+- presque : 거의
+- chauffer : vt. 데우다, 가열하다
+- cire : nf. 밀랍, 왁스
+- molle : a. 무른, 부드러운 (→ mou)
+- flambeau : nm. 촛대, 횃불
+
+# 40. Je veux partir! Je peux partir? Je dois partir ...
+
+## les verbes en "-oir" à trois formes (suivis d'un infinitif)
+- exemples
+    - Il veut attraper le bus.
+    - Il peut arriver à temps.
+    - Il doit courir.
+- vouloir (eu, oul, eul) : intention, désir
+    - je veux       tu veux     il veut     nous voulons        vous voulez         ils veulent
+- pouvoir (eu, ouv, euv) : possibilté en général
+    - je peux       tu peux     il peut     nous pouvons        vous pouvez         ils peuvent
+- devoir (-v, oiv) : obligation en général
+    - je dois       tu dois     il doit     nous devons         vous devez          ils doivent
+- "il faut" est l'équivalent de "on doit" (nécessité générale)
+    - Il faut manger pour vivre.
+    - On doit manger pour vivre.
+
+## exercices
+
+1. Complétez avec le verbe "vouloir".
+- Pour les vacances
+    - Je veux aller à la campagne.
+    - Mon mari veut aller à la montagne.
+    - Mon fils veut aller au bord de la mer.
+    - Mes filles veulent aller à Paris.
+- Désirs
+    - Max et Léa veulent se marier.
+    - Emma veut devenir actrice.
+    - Jean veut changer de voiture.
+    - Nous voulons changer d'appartement.
+
+2. "pouvoir". Complétez.
+- Sylvestre est très fort : il peut soulever deux cents kilos.
+- Certains moines peuvent rester plusieurs jours sans manger.
+- Je ne peux pas fermer cette fenêtre. / Est-ce que vous pouvez m'aider?
+- Est-ce que je peux essayer cette robe? / Bien sûr, vous pouvez aller dans la cabine 2.
+- Il y a trop de bruit dans cette salle : je ne peux pas travailler.
+
+3. "devoir". Complétez.
+- Je suis fatigué. Je dois dormir.
+- Il est trop gros. Il doit maigrir.
+- Tu es trop maigre. Tu dois manger.
+- Je n'ai pas d'argent. Je dois aller à la banque.
+- Nous sommes pressés. Nous devons partir.
+- Vous êtes en avance. Vous devez attendre.
+
+<!-- 4. "On peut", "on ne peut pas", "on doit(il faut)". Décrivez. Continuez. -->
+
+5. Faites des phrases avec "pouvoir", "devoir", "vouloir"
+- On ne peut pas fumer dans un restaurant, on doit aller en terrasse.
+- On peut voter à dix-huit ans, mais on doit être inscrit à la mairie.
+- Si tu veux être musclé, tu dois faire du sport.
+- Si vous voulez faire des progrès, vous devez travailler.
+
+## vocabulaires
+- infinitif : 부정사, 동사원형
+- attraper : vt. 잡다
+- à temps : 늦지 않게, 정시에
+- désir : nm. 욕구, 희망, 바람
+- au bord de : ~의 근처에
+- marier : vp. 결혼하다
+- fort : a. 힘쎈, 강한
+- soulever : vt. 들어올리다
+- moine : nm. 수도사, 수도자
+- fermer : vt. 닫다 (↔ ouvrrir, fermé ↔ ouvre)
+- essayer : vt. 입어보다
+- cabine : nf. 선실, 작은 공간, 승무원실, 객실, 방
+- cabine d'essayage : 탈의실
+- pressé : a. 급한, 바쁜 (← presser)
+- avance : nf. 전진
+- en avance : 일찍
+- à l'heure : 정각에, 정시에
+- terrasse : nf. 테라스
+- incrit : 
+- mairie : nf. 시장직
+- musclé : a. 근육이 발달한 (← muscler)
+- progrès : nm. 발전, 진전
+- faire du progrès : 발전(진전)이 있다.
+- inscrit : 등록된 (inscrire의 participe passé)
+
+# 41. Je fais du tennis. Tu fais la cuisine.
+
+## les verbe "faire" : activités
+- exemples
+    - Je fais de la natation.
+    - Je fais du tennis.
+    - Je fais les courses.
+    - Je fais la cuisine.
+- "faire" + de activité sportive
+    - exemples :
+        - Je fais de la natation.
+        - Je fais de la gymnastique.
+        - Je fais du judo.
+        - Je fais du basket.
+    - "jouer à" + sports d'équipe et jeux
+        - Je joue au football.
+        - Je joue au scrabble.
+    - "jouer de" + instrument de musique
+        - Je joue du piano.
+        - Je joue du saxo.
+- "faire" + travaux de la maison
+    - Je fais le ménage.
+    - Tu fais la vaisselle.
+
+## "faire" et "dire" : ont une conjugaison irrégulière.
+- faire         je fais         tu fais         il fait         nous faisons        vous faites         ils font
+- dire          je dis          tu dis          il dit          nous disons         vous dites          ils disent
+
+# exercice
+
+1. Faites des phrases avec le verbe "faire" + sport, selon le modèle.
+- Lucile et Simon font de la natation.
+- Quentin et Carole font du judo.
+- Thomas et Clément font de l'escalade.
+- Estelle fait du tennis.
+- Patrick fait de la danse.
+
+2. Complétez avec "faire"ou "jouer" et les prépositions "à" ou "de".
+Chère Maman,
+
+Je m'amuse ici : le matin je fais du jogging avec papy. Après, je joue au football avec les enfants du village. L'après-midi, je fais du tennis avec Benoît et le soir, nous jouons aux cartes ou nous jouons au scrabble. Quelquefois Benoît joue de la guitare, papy joue de l'accordéon et moi je joue du tambour. C'est rigolo! À bientôt. Grosses bises.
+
+4. Complétez avec les verbes "faire" ou "dire" et les prépositions manquantes.
+- Vous faites du rugby ou du football? / Je fais du football.
+- Vous dites "madame" à votre professeur ou vous l'appelez par son prénom?
+- Nous faisons du ski à Zakopane, nos amis font du ski à Innsbruck.
+- Pour dire "merci", on dit "aligato" en japonais.
+- Les Français disent "à vos souhaits" quand quelqu'un éternue.
+
+## vocabulaires
+- natation : nf. 헤엄, 수영 (← nager)
+- faire les courses : 장을 보다
+- gymnastique : nf. 체조
+- judo : nm.
+- travaux : travail의 복수형
+- jeu : 경기 (pl : jeux)
+- scrabble : nm. 글자맞추기 놀이
+- saxo : nm. 색소폰
+- ménage : nm. 집안일
+- vaisselle : nf. 식기류, 설거지하기
+- escalade : nf. 등반
+- danse : nf. 무용, 춤
+- jogging : nm.
+- papy : 할아버지 (← papi)
+<!-- - benoît : a. 친절한 -->
+- quelquefois : 때때로, 이따금, 가끔
+- accordéon : nm. 아코디언
+- tambour : nm. 북
+- rigolo : a. 우스운, 기묘한
+- préposition : 전치사
+- souhait : nm. 소원, 소망
+- À vos souhaits : 시원하겠네
+- quelqu'un : 어떤 사람
+- éternuer : vi. 재채기하다
+
+## remarques
+- 정리하면
+    - (개인) 스포츠 : faire de
+    - 팀스포츠 : jouer à
+    - 놀이 : jouer à
+    - 악기 : jouer de
+
+# un récapitulatif de cette partie
+chapitre 35 (deux formes, -ir)
+- +ss (adjectif, nom)
+    - grandir       je grandis      tu grandis      il grandit      nous grandissons    vous grandissez     ils grandissent
+    - grossir       je grossis      tu grossis      il grossit      nous grossissons    vous grossissez     ils grossissent
+    - vieillir      je vieillis     tu vieillis     il vieillit     nous vieillissons   vous vieillissez    ils vieillissent
+    - rougir        je rougis       tu rougis       il rougit       nous rougissons     vous rougissez      ils rougissent
+    - brunir        je brunis       tu brunis       il brunit       nous brunissons     vous brunissez      ils brunissent
+    - maigrir       je maigris      tu maigris      il maigrit      nous maigrissons    vous maigrissez     ils maigrissent
+    - pâlir         je pâlis        tu pâlis        il pâlit        nous pâlissons      vous pâlissez       ils pâlissent
+    - jaunir        je jaunis       tu jaunis       il jaunit       nous jaunissons     vous jaunissez      ils jaunissent
+    - fleurir       je fleuris      tu fleuris      il fleurit      nous fleurissons    vous fleurissez     ils fleurissent
+- +ss
+    - finir         je finis        tu finis        il finit        nous finissons      vous finissez       ils finissent
+    - choisir       je choisis      tu choisis      il choisit      nous choisissons    vous choisissez     ils choisissent
+    - guérir        je guéris       tu guéris       il guérit       nous guérissons     vous guérissez      ils guérissent
+    - applaudir     j'applaudis     tu applaudis    il applaudit    nous applaudissons  vous applaudissez   ils applaudissent
+    - ralentir      je ralentis     tu ralentis     il ralentit     nous ralentissons   vous ralentissez    ils ralentissent
+    - réfléchir     je réfléchis    tu réfléchis    il réfléchit    nous réfléchissons  vous réfléchissez   ils réfléchissent
+    - atterrir      j'atterris      tu atterris     il atterrit     nous atterrissons   vous atterrissez    ils atterrissent
+    - réunir        je réunis       tu réunis       il réunit       nous réunissons     vous réunissez      ils réunissent
+
+chapitre 36 (deux formes, -ir)
+- -t
+    - partir        je pars         tu pars         il part         nous partons        vous partez         ils partent
+    - sortir        je sors         tu sors         il sort         nous sortons        vous sortez         ils sortent
+    - sentir        je sens         tu sens         il sent         nous sentons        vous sentez         ils sentent
+- -m
+    - dormir        je dors         tu dors         il dort         nous dormons        vous dormez         ils dorment
+- -v
+    - servir        je sers         tu sers         il sert         nous servons        vous servez         ils servent
+    - vivre         je vis          tu vis          il vit          nous vivons         vous vivez          ils vivent
+    - suivre        je suis         tu suis         il suit         nous suivons        vous suivez         ils suivent
+
+chapitre 37 (deux formes, -re)
+- +v
+    - écrire        j'écris         tu écris        il écrit        nous écrivons       vous écrivez        ils écrivent
+    - décrire       je décris       tu décris       il décrit       nous décrivons      vous décrivez       ils décrivent
+    - inscrire      j'inscris       tu inscris      il inscrit      nous inscrivons     vous inscrivez      ils inscrivent
+- +s
+    - lire          je lis          tu lis          il lit          nous lisons         vous lisez          ils lisent
+    - interdire     j'interdis      tu interdis     il interdit     nous interdisons    vous interdisez     ils interdisent
+    - plaire        je plais        tu plais        il plaît        nous plaisons       vous plaisez        ils plaisent
+    - conduire      je conduis      tu conduis      il conduit      nous conduisons     vous conduisez      ils conduisent
+    - construire    je construis    tu construis    il construit    nous construisons   vous construisez    ils construisent
+    - traduire      je traduis      tu traduis      il traduit      nous traduisons     vous traduisez      ils traduisent
+    - détruire      je détruis      tu détruis      il détruit      nous détruisons     vous détruisez      ils détruisent
+- +t
+    - mettre        je mets         tu mets         il met          nous mettons        vous mettez         ils mettent
+    - battre        je bats         tu bats         il bat          nous battons        vous battez         ils battent
+    - permettre     je permets      tu permets      il permet       nous permettons     vous permettez      ils permettent
+    - promettre     je promets      tu promets      il promet       nous promettons     vous promettez      ils promettent
+- +d
+    - répondre      je réponds      tu réponds      il répond       nous répondons      vous répondez       ils répondent
+    - entendre      j'entends       tu entends      il entend       nous entendons      vous entendez       ils entendent
+    - attendre      j'attends       tu attends      il attend       nous attendons      vous attendez       ils attendent
+    - vendre        je vends        tu vends        il vend         nous vendons        vous vendez         ils vendent
+    - perdre        je perds        tu perds        il perd         nous perdons        vous perdez         ils perdent
+    - descendre     je descends     tu descends     il descend      nous descendons     vous descendez      ils descendent
+
+chapitre 38 (deux formes)
+- particuliers
+    - connaître     je connais      tu connais      il connaît      nous connaissons    vous connaissez     ils connaissent
+    - savoir        je sais         tu sais         il sait         nous savons         vous savez          ils savent
+    - croire        je crois        tu crois        il croit        nous croyons        vous croyez         ils croient
+    - voir          je vois         tu vois         il voit         nous voyons         vous voyez          ils voient
+
+chapitre 39 (trois formes, -ir, -re, -oir)
+- oi, uv, oiv
+    - boire         je bois         tu bois         il boit         nous buvons         vous buvez          ils boivent
+- çoi, ce, çoiv
+    - recevoir      je reçois       tu reçois       il reçoit       nous recevons       vous recevez        ils reçoivent
+- -n, -nn
+    - prendre       je prends       tu prends       il prend        nous prenons        vous prenez         ils prennent
+    - apprendre     j'apprends      tu apprends     il apprend      nous apprenons      vous apprenez       ils apprennent
+    - comprendre    je comprends    tu comprends    il comprend     nous comprenons     vous comprenez      ils comprennent
+- ien, -n, ienn
+    - venir         je viens        tu viens        il vient        nous venons         vous venez          ils viennent
+    - devenir       je deviens      tu deviens      il devient      nous devenons       vous devenez        ils deviennent
+    - revenir       je reviens      tu reviens      il revient      nous revenons       vous revenez        ils reviennent
+    - tenir         je tiens        tu tiens        il tient        nous tenons         vous tenez          ils tiennent
+    - souvenir      je souviens     tu souviens     il souvient     nous souvenons      vous souvenez       ils souviennent
+
+chapitre 40 (trois formes, -oir)
+- eu, ou
+    - vouloir       je veux         tu veux         il veut         nous voulons        vous voulez         ils veulent
+    - pouvoir       je peux         tu peux         il peut         nous pouvons        vous pouvez         ils peuvent
+- v, oiv
+    - devoir        je dois         tu dois         il doit         nous devons         vous devez          ils doivent
+
+chapitre 41 (conjugaison irrégulière)
+    - faire         je fais         tu fais         il fait         nous faisons        vous faites         ils font
+    - dire          je dis          tu dis          il dit          nous disons         vous dites          ils disent
 
 →
 ←
