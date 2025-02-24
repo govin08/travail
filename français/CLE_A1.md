@@ -3995,7 +3995,7 @@ chapitre 42
 
 2. Les verbes au présent. / Complétez.
 - Je bois de la bière.
-- Elle lit le russe ?
+- Elle apprend le russe ?
 - Ils écrivent des cartes postales.
 - Tu fais du judo?
 - On va au cinéma.
@@ -4020,6 +4020,7 @@ chapitre 42
 ## vocabulaires
 - bois : nm. 숲, 삼림
 - roller : nm. 롤러스케이트
+- roman :  nm. 소설, 장편소설
 - vaisselle : nf. 식기류
 - ceinture : nf. 허리띠
 - lait : nm. 
@@ -4032,6 +4033,42 @@ chapitre 42
 - obtenir : vt. 획득하다
 - augmentation : 증가, 증대, (임금)인상
 - logement : nm. 거주, 주거, 집, 숙소
+
+# bilan n.5
+
+1. Complétez avec les verbes manquants. Faites l'élision si c'est nécessaire.
+- Je finis à 19 h, le directeur finit à 18 h, les secrétaires finissent à 17 h.
+- Nous partons en vacances en août, et vous? / Moi, je pars en juillet, mais mon mari part en août.
+- J'écris avec un stylo noir, vous écrivez avec un stylo bleu, le professeur écrit avec un stylo rouge.
+- Je fais du basket. Ma sœur fait du tennis. Mes frères font du judo.
+- Tous les jours, je vais au bureau en voiture.
+- La nuit, je rentre à 6 h. Mon mari rentre à 8 h. Les enfants rentrent à 10 h.
+- Vous devez partir à midi? / Non, je dois partir à deux heures.
+- Vous prenez une aspirine quand vous avez mal à la tête? / Non, je bois une tisane.
+- Qu'est-ce que vous mangez comme entrée? / Je mange des huîtres et mes enfants mangent des crevettes en sauce.
+- Si tu veux maigrir, tu dois faire un régime!
+- Qu'est-ce que vous faites quand il fait très chaud?
+- Est-ce que je peux fermer la fenêtre? / Bien sûr, vous pouvez fermer la fenêtre!
+
+2. Révision des verbes au présent. Complétez avec les verbes manquants.
+
+Chère Julia.
+
+Je reçois ta lettre aujourd'hui et je réponds tout de suite à ta question. Oui, la maison est grande et on peut dormir tous ici. (mais on doit apporter des duvets : la nuit, il fait froid). La maison est très agréable : on voit la mer par les fenêtres et on entend le bruit des vagues. Si tu veux d'autres détails, tu peux téléphoner ici après six heures. J'attends votre visite avec impatience! À bientôt, Chloé.
+
+## vocabulaires
+- tisane : nf. 탕약
+- comme : ~로서
+- huître : 굴
+- crevette : nf. 작은 새우
+- tout de suite : 즉시, 지체없이, 바로
+- question : nf.
+- apporter : vt. 가져오다
+- duvet : nm. 솜털, 침낭
+- vague : a. 불분명한, 희미한
+- détail : nm. 상세, 세부
+- visite : nf. 방문, 내방
+
 
 →
 ←
