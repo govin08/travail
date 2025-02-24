@@ -3745,7 +3745,7 @@ Mes enfants Luc et Thomas croient encore au Père Noël. Tous les ans, ils mette
 - faire         je fais         tu fais         il fait         nous faisons        vous faites         ils font
 - dire          je dis          tu dis          il dit          nous disons         vous dites          ils disent
 
-# exercice
+## exercice
 
 1. Faites des phrases avec le verbe "faire" + sport, selon le modèle.
 - Lucile et Simon font de la natation.
@@ -3798,6 +3798,94 @@ Je m'amuse ici : le matin je fais du jogging avec papy. Après, je joue au footb
     - 팀스포츠 : jouer à
     - 놀이 : jouer à
     - 악기 : jouer de
+
+# 42. Je vais à Rome, Tu vas à Londres ...
+
+## Le verbe "aller" : conjugaison au présent
+- exemples
+    - Je vais     à la plage.
+    - Tu vas      à la plage.
+    - Il va       à la plage.
+    - Nous allons à la plage.
+    - Vous allez  à la plage.
+    - Ils vont    à la plage.
+- "aller" est, en général, suivi d'un lieu :
+    - exemples :
+        - Je vais     à Paris.
+        - Tu vas      à la plage.
+        - Il va       au cinéma.
+        - Nous allons en France.
+        - Vous allez  au Maroc.
+        - Ils vont    chez des amis.
+    - "à" indique le lieu où on est, mais aussi le lieu où on va :
+        - Je suis à Milan.
+        - Je vais à Rome.
+    - Avec une personne, on utilise "chez"
+        - Je vais chez Paul.
+        -         chez des amis.
+- "en train", "en avion", "à pied"
+    - "en" + moyen de transport (fermé en général)
+        - Je vais à Rome en train.
+                         en voiture.
+                         en avion.
+        - Je vais au bureau à pied.
+                            à bicycle.
+                            à cheval.
+
+## exercices
+
+1. Répondez aux questions, selon le modèle.
+- Vous allez à Varsovie ou à Poznan?
+- Je vais à Poznan.
+- Vous allez à la mer ou à la montagne?
+- Je vais à la montagne.
+- Vous allez au cinéma ou au théâtre?
+- Je vais au théâtre.
+- Vous allez au restaurant ou à la cafétéria?
+- Je vais à la cafétéria.
+- Vous allez en Espagne ou au Portugal?
+- Je vais en Espagne.
+- Vous allez à Grenade ou à Cordoue?
+- Je vais à Cordoue.
+
+2. Complétez selon le modèle. Donnez votre emploi du temps.
+- Emploi du temps
+    - Le matin, je vais à l'université.
+    - À midi, je vais à la cafétéria.
+    - L'après-midi, je vais chez Marie.
+    - À dix-huit heures, je vais à la piscine.
+    - Le soir, je vais au cinéma.
+- Emploi du temps (moi)
+    - Le matin, je vais à la poste.
+    - À onze heures, je vais chez le dentiste.
+    - À midi, je vais à mon appartement pour prendre le déjeuner.
+    - À dix-huit heures et demie, je vais au rez-de-chaussée pour vendre une chose.
+
+4. Complétez avec "aller" et "à", "à la", "au", "à l'" ou "chez".
+- Quand je vais à Paris, je vais à l'hôtel Luxor.
+- Quand tu vas à la mer, tu vas au camping des Mimosas.
+- Quand Jean va à la montagne, il va chez son ami Pierrot.
+- Quand mes enfants vont à la campagne, ils vont chez leur oncle Pierre.
+- Quand Julia va à Venise, elle va à la pension "Flora".
+- Quand nous allons à Londres, nous allons à l'auberge "Sweet Shadow".
+
+5. Complétez, selon le modèle.
+- Je vais au bureau en voiture.
+- Tu vas à la piscine en métro.
+- Elle va à Lisbonne en train.
+- Nous allons au Brésil en avion.
+- Vous allez en Pologne en car.
+- Elles vont à l'école à pied.
+
+## vocabulaires
+- moyen : nm. 수단, 방법
+- théâtre : nm. 연극, 극장, 공연
+- cafétéria : nf. 간이식당
+- emploi : nm. 사용, 용도, 사용법
+- camping : nm. 캠핑, 캠핑장
+- auberge : nf. 고급 음식점
+- Pologne : 폴란드
+- école : nf.
 
 # un récapitulatif de cette partie
 chapitre 35 (deux formes, -ir)
@@ -3889,9 +3977,14 @@ chapitre 40 (trois formes, -oir)
 - v, oiv
     - devoir        je dois         tu dois         il doit         nous devons         vous devez          ils doivent
 
-chapitre 41 (conjugaison irrégulière)
+chapitre 41
+- conjugaison irrégulière
     - faire         je fais         tu fais         il fait         nous faisons        vous faites         ils font
     - dire          je dis          tu dis          il dit          nous disons         vous dites          ils disent
+
+chapitre 42
+- va-, all-, vont
+    - aller         je vais         tu vas          il va           nous allons         vous allez          ils vont
 
 →
 ←
