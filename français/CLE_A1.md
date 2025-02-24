@@ -3983,8 +3983,55 @@ chapitre 41
     - dire          je dis          tu dis          il dit          nous disons         vous dites          ils disent
 
 chapitre 42
-- va-, all-, vont
+- conjugaison irrégulière
     - aller         je vais         tu vas          il va           nous allons         vous allez          ils vont
+    - avoir         j'ai            tu as           il a            nous avons          vous avez           ils ont
+
+# exercices récapitulatifs
+
+1. Les verbes au présent. / Mettez au pluriel.
+- Théo est sportif, il a 16 ans et il fait plus de dix heures de sport par semaine. Le mercredi, il va à la piscine, le samedi, il fait du football, le dimanche matin, il met un jogging et il part toute la matinée dans les bois. Tous les matins, il prend des vitamines et il va au lycée en rollers.
+- Théo et Léo sont sportifs, ils ont 16 ans et ils font plus de dix heures de sport par semaine. Le mercredi, ils vont à la piscine, le samedi, ils font du football, le dimanche matin, ils mettent un jogging et ils partent toute la matinée dans les bois. Tous les matins, ils prennent des vitamines et ils vont au lycée en rollers.
+
+2. Les verbes au présent. / Complétez.
+- Je bois de la bière.
+- Elle lit le russe ?
+- Ils écrivent des cartes postales.
+- Tu fais du judo?
+- On va au cinéma.
+- Elles lisent des romans?
+- Il prend le métro.
+- Nous faisons la vaisselle.
+- Je pars en avion.
+
+3. Les verbes au présent. / Complétez, selon le modèle.
+- Quand je sors, je prends mon parapluie.
+- Quand je lis, je mets mes lunettes.
+- Quand je conduis, je mets ma ceinture.
+- Quand je bois du lait, je dors mieux la nuit.
+
+4. "je vais" et "je veux". / Completez.
+- Je vais chez le coiffeur parce que je veux changer de coiffure.
+- Je vais faire un régime parce que je veux perdre du poids.
+- Je veux obtenir une augmentation et je vais rencontrer le directeur.
+- Je veux trouver un logement plus grand : je vais avoir un bébé dans un mois.
+
+
+## vocabulaires
+- bois : nm. 숲, 삼림
+- roller : nm. 롤러스케이트
+- vaisselle : nf. 식기류
+- ceinture : nf. 허리띠
+- lait : nm. 
+- coiffeur : 이발사, 미용사
+- coiffure : nf. 모자, 머리장식, 머리손질, 이발
+- faire un régime : 다이어트하다
+- régime : 체제, 제도, 식이요법, 다이어트
+- perdre du poids : 살을 빼다
+- poids : nm. 무게, 중량, 질량
+- obtenir : vt. 획득하다
+- augmentation : 증가, 증대, (임금)인상
+- logement : nm. 거주, 주거, 집, 숙소
 
 →
 ←
