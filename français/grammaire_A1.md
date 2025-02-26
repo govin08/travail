@@ -4069,6 +4069,99 @@ Je reçois ta lettre aujourd'hui et je réponds tout de suite à ta question. Ou
 - détail : nm. 상세, 세부
 - visite : nf. 방문, 내방
 
+# 43. Je vais manger. Tu vas manger. ...
+
+## Le futur proche
+- exemples
+    - Il traverse.
+    - Il va traverser.
+    - Elle mange.
+    - Elle va manger.
+- Formation = "aller" + infinitif
+    - Je travaille.     Je vais travailler.
+    - Tu travailles.    Tu vas travailler.
+    - Il travaille.     Il va trvailler.
+    - Nous travaillons. Nous avons travailler.
+    - Vous travaillez.  Vous avez travailler.
+    - Ils travaillent.  Ils vont travailler.
+- Le futur proche est très fréquent. Il indique :
+    - Un événement immédiat ou prévisible :
+        - Attention : tu vas tomber.
+        - Le ciel est gris : il va pleuvoir.
+    - Des changement à venir :
+        - Mon fils va prtir à l'étranger.
+        - Ma fille va avoir un bébé.
+
+## exercices
+
+1. Mettez au futur proche.
+- Je commence à huit heures.
+- Je vais commencer à huit heures.
+- Je déjeune à midi.
+- Je vais déjeuner à midi.
+- Je termine à six heures.
+- Je vais terminer à six heures.
+- Je rentre à sept heures.
+- Je vais rentrer à sept heures.
+- Je dîne à huit heures.
+- Je vais dîner à huit heures.
+
+2. Max va partir en voyage : mettez dans l'ordre.
+- Il va faire sa valise.
+- Il va aller à l'aéroport.
+- Il va enregistrer ses bagages.
+- Il va prendre l'avion.
+
+3. Mettez au futur proche, selon le modèle.
+- Ils vont partir en week-end au bord de la mer.
+- Ils vont prendre le train à six heures.
+- Ils vont arriver vers neuf heures.
+- Ils vont laisser les bagages à l'hôtel.
+- Ils vont boire un café sur le port.
+- Ils vont louer un bateau.
+- Ils vont visiter la côte.
+- Ils vont rentrer à l'hôtel.
+
+4. Faites des phrases selon le modèle.
+- Nous avons faim ; nous allons manger.
+- Nous avons sommeil ; nous allons dormir.
+- Nous avons soif ; nous allons boire.
+- Nous avons chaud ; nous allons aller à la plage.
+
+4. Complétez avec le verbe "entrer" et un futur proche, selon le modèle.
+- Elle entre dans un restaurant : elle va manger.
+- Tu entres dans un cinéma : tu vas voir un film.
+- Nous entrons dans une banque : nous allons retirer de l'argent.
+- Ils entrent dans une école de langues : ils vont suivre des cours.
+- Vous entrez dans un supermarché : vous allez faire le marché.
+
+## vocabulaires
+- traverser : vt. 건너다, 횡단하다
+- événement : nm. 사건
+- immédiat : a. 직접적인, 잇닿은, 근접한, 당장의
+- prévisible : a. 예측될 수 있는, 예상할 수 있는, 예측가능한
+- tomber : vi. 넘어지다, 쓰러지다, 죽다
+- gris : a. 회색의
+- étranger : a. 외국의, 이방인의
+- à venir : 앞으로 다가올, 미래의
+- valise : nf. (sac : nm.)
+- faire sa valise : 짐을 꾸리다, 떠날 준비를 하다
+- enregistrer : 기입하다, 기록하다
+- bagage : nm. 
+- enregistrer ses bagages : 탁송하다, 수하물을 맡기다
+- au bord de : ~의 근처에
+- laisser : vt. vp. 남기다, 맡기다, 놓아두다
+- port : nm. 항구
+- louer : 세놓다, 세들다, 임대하다
+- côte : nf. 언덕, 해안, 연안
+- voir un film : 영화를 보다
+- banque : nf.
+- retirer : vt. 인출하다 vp. 퇴직하다
+- retirer de l'argent : 돈을 인출하다
+- suivre un cours : 강의를 듣다, 수강하다
+- faire son marché : 장을 보다
+- supermarché : nm.
+
 
 →
 ←
