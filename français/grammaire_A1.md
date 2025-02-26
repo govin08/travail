@@ -4162,6 +4162,109 @@ Je reçois ta lettre aujourd'hui et je réponds tout de suite à ta question. Ou
 - faire son marché : 장을 보다
 - supermarché : nm.
 
+# 44. J'ai mangé. Tu as mangé. ...
 
+##  le passé composé avec "avoir" : les verbes en "-er"
+- exemples
+    - Il achète du pain.
+    - Il a acheté du pain.
+    - Elle mange une pomme.
+    - Elle a mangé une pomme.
+- On utilise le passé composé pour raconter des actions et des événements passés :
+    - En 1995, j'ai gagné au Loto.
+    - L'année dernière, j'ai acheté une voiture.
+    - Hier, il a neigé.
+- Formation : "avoir" + participe en "-é"
+    - Je mange.         J'ai mangé.
+    - Tu manges.        Tu as mangé.
+    - Il mange.         Il a mangé.
+    - Nous mangeons.    Nous avons mangé.
+    - Vous mangez.      Vous avez mangé.
+    - Ils mangent.      Ils ont mangé.
+
+## exercices
+
+1. Mettez au passé composé.
+- En général, je dîne chez moi.
+- Hier, j'ai dîné au restaurant.
+- Le soir, souvent, je mange des pâtes.
+- La nuit dernière, j'ai mangé de la pizza.
+- D'habitude, je regarde la 2e chaîne.
+- Lundi dernier, j'ai regardé la chaîne publique.
+- D'habitude, je travaille jusqu'à cinq heures.
+- Hier, j'ai travaillé jusqu'à neuf heures.
+- En général, je passe la soirée avec Mike.
+- Hier, j'ai passé la soirée avec des amis.
+
+2. Complétez selon le modèle.
+- J'ai dîné dans un restaurant chinois.
+- Mike a dîné dans un restaurant grec.
+- J'ai mangé du canard laqué.
+- Il a mangé de la moussaka.
+- J'ai invité Michèle.
+- Il a invité Élisabeth.
+- J'ai payé cent euros.
+- Il a payé deux cents euros.
+- J'ai laissé cinq euros de pourboire.
+- Il a laissé dix euros de pourboire.
+
+3. Lisez puis mettez au passé.
+- Aujourd'hui
+    - Je commence à travailler à neuf heures.
+    - Je travaille jusqu'à midi.
+    - À midi, j'achète un sandwich.
+    - Je mange dans le jardin.
+    - Je marche.
+    - Je fume une cigarette.
+    - Je regarde les vitrines.
+    - Je téléphone à Dorota.
+    - Je recommence le travail à deux heures.
+    - Je termine à six heures.
+    - Je passe la soirée avec Dorota.
+    - Nous écoutons des disques.
+    - Nous dansons.
+    - Nous jouons au poker.
+- Hier
+    - J'ai commencé à travailler à neuf heures.
+    - J'ai travaillé jusqu'à midi.
+    - À midi, j'ai acheté un sandwich.
+    - J'ai mangé dans le jardin.
+    - J'ai marché.
+    - J'ai fumé une cigarette.
+    - J'ai regardé les vitrines.
+    - J'ai téléphoné à Dorota.
+    - J'ai recommencé le travail à deux heures.
+    - J'ai terminé à six heures.
+    - J'ai passé la soirée avec Dorota.
+    - Nous avons écouté des disques.
+    - Nous avons dansé.
+    - Nous avons joué au poker.
+
+4. Complétez avec les verbes au passé composé.
+- Hier matin, j'ai rencontré Stella au marché.
+- Hier soir, tu as regardé un film à la télé.
+- La semaine dernière, vous avez visité le musée du Louvre.
+- L'année dernière, nous avons passé nos vacances en Espagne.
+- En 2020, ils ont gagné 15000 euros à la loterie.
+- Hier soir, nous avons écouté des disques des Beatles.
+
+## vocabulaires
+- raconter : vt. 말하다, 이야기하다, 묘사하다, 서술하다
+- loto : nm. 복권 (loterie : nf. 복권)
+- pizza : nf.
+- canard : nm. 오리
+- laquer : vt. 옻칠을 하다, 래커를 칠하다 vp. 매니큐어를 바르다, 헤어스프레이를 뿌리다
+- canard laqué : 북경오리
+- moussaka : nf. 발칸반도의 전통요리 (가지, 고기, 계란가루, 토마토 등)
+- pourboire : nm. 팁, 행하, 수고비
+- vitrine : nf. 진열창, 쇼윈도
+
+## remarques
+- acheter   j'achète        tu achètes      il achète       nous achetons       vous achetez        ils achètent
+- rècap : "faire" et "jouer"
+    - faire du sport / basket / tennis / ski
+    - jouer au football / scrabble / poker
+    - jouer du piano / saxo
+    - faire le mènage / la vaisselle
 →
 ←
