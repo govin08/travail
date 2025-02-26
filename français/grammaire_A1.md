@@ -1757,7 +1757,7 @@ bilan : 결산
     - Non, il n'y a pas de moustiques.
 
 
-## vocabulaire
+## vocabulaires
 - bord : n.m. 가, 가장자리, 테두리
 - rive : n.f. 강의 연안, 하안 (c.f. rivière)
 - pièce : n.f. 방
@@ -4375,6 +4375,178 @@ Je reçois ta lettre aujourd'hui et je réponds tout de suite à ta question. Ou
 
 # 45. J'ai vu. J'ai mis. J'ai fait. ...
 
+## le passé composé avec "avoir" : les verbes en "-ir", "-re", "-oir"
+- exemples
+    - Il a vu un moustique.
+    - Il a mis sa chaise sur le lit.
+    - Il a pris sa chaussure.
+    - Il a perdu l'équilibre.
+- participes passés en "-u"
+    - boire         j'ai bu
+    - lire          j'ai lu
+    - voir          j'ai vu
+
+    - attendre      j'ai attendu
+    - entendre      j'ai entendu
+    - répondre      j'ai répondu
+    - perdre        j'ai perdu
+
+    - recevoir      j'ai reçu
+    - courir        j'ai couru
+    
+    - devoir        j'ai dû
+    - pouvoir       j'ai pu
+    - vouloir       j'ai voulu
+- participes passés en "-i"
+    - finir         j'ai fini
+    - dormir        j'ai dormi
+    - sourire       j'ai souri
+- participes passés en "-is"
+    - prendre       j'ai pris
+    - apprendre     j'ai appris
+    - comprendre    j'ai compris
+    - mettre        j'ai mis
+- participes passés en "-it"
+    - dire          j'ai dit
+    - écrire        j'ai écrit
+- autres cas
+    - faire         j'ai fait
+    - être          j'ai été
+    - avoir         j'ai eu
+
+## exercices
+1. Mettez au passé composé, selon le modèle.
+- Je dors jusqu'à midi.
+- J'ai dormi jusqu'à midi.
+- Je bois un café.
+- J'ai bu un café.
+- Je lis le journal.
+- J'ai lu le journal.
+- Je mets un jogging.
+- J'ai mis un jogging.
+- Je fais le tour du parc.
+- J'ai fait le tour du parc.
+- Je prends une douche.
+- J'ai pris une douche.
+- J'écris à mes amis.
+- J'ai écrit à mes amis.
+
+2. Transformez au passé composé.
+- présent
+    - Ivan lit le journal.
+    - Il voit une offre d'emploi intéressante.
+    - Il écrit une lettre.
+    - Il reçoit une réponse.
+    - Il a un rendez-vous
+    - Il met une cravate.
+    - Il prend un taxi.
+    - Il voit le chef du personnel.
+    - Il répond à des dizaines de questions.
+    - Il a une réponse positive.
+    - Il boit du champagne avec ses amis.
+- passé composé
+    - Ivan a lu le journal.
+    - Il a vu une offre d'emploi intéressante.
+    - Il a écrit une lettre.
+    - Il a reçu une réponse.
+    - Il a eu un rendez-vous.
+    - Il a mis une cravate.
+    - Il a pris un taxi.
+    - Il a vu le chef du personnel.
+    - Il a répondu à des dizaines de questions.
+    - Il a eu une réponse positive.
+    - Il a bu du champagne avec ses amis.
+
+3. Complétez avec des verbes au passé composé. Imaginez d'autres situations.
+- Au lieu de verser l'eau dans la théière, j'ai versé l'eau dans la boîte à thé.
+- Au lieu de mettre de l'huile dans la poêle, j'ai mis du liquide vaisselle.
+- Au lieu de prendre les clés du bureau, j'ai pris les clés de la cave.
+- Au lieu de dire "Bonjour, monsieur" au boucher, j'ai dit "Bonjour, madame."
+- Au lieu de mettre du sel dans le riz, j'ai mis du sucre en poudre.
+- Au lieu de prendre mon sac, j'ai pris la poubelle.
+
+4. Complétez avec des verbes au passé composé.
+
+Dans le métro
+- Senji a vu Keiko dans le métro.
+- Keiko a souri à Senji.
+- Tout de suite, Senji a compris.
+- Alors, pour retrouver Keiko, Senji a pris et a repris le métro.
+- Il a appris des poésies, il a écrit des mélodies.
+- Un jour, dans le métro, il a revu Keiko.
+- Il a couru et il a dit.
+- "Je vous aime! Je m'appelle Senji."
+- Simplement elle a répondu : "Bonjour Senji, je suis Keiko."
+
+## vocabulaires
+- sourire : vi. 미소짓다, 웃다
+- jogging : nm. (운동선수용) 겉옷, 츄리닝
+- faire le tour : 한바퀴 돌다
+- prendre une douche : 샤워하다
+- offre : nf. 제시, 제안, 제공
+- emploi : nm. 사용, 용도, 일자리, 직장
+- offre d'emploi : 구인
+- rendez-vous : nm.
+- cravate : nf. 넥타이
+- chef du personnel : 인사과장
+- dizaine : 대략 열 개, 대략 10
+- verser : vt. 따르다
+- théière : 차 끓이는 그릇, 다기, 찻주전자
+- au lieu de : ~대신에
+- huile : nf. 기름
+- poêle : nf. 프라이팬, 팬, nm. 난로, 스토브
+- liquide vaisselle : 주방용 세제
+- cave : nf. 지하실, 지하저장고
+- boucher : n. 정육점 주인
+- en poudre : 분말형태의
+- sucre en poudre : 슈가 파우더
+- poubelle : nf. 쓰레기통, 휴지통
+- métro : nm.
+- tout de suite : 즉시, 지체없이, 바로
+- retrouver : vt. 다시 발견하다, 찾아내다
+- poésie : nf. (문학 장르으로서의) 시, 시작품
+- mélodie : nf. 멜로디, 가락, 선율, 음악성
+- un jour : 어느 날 (one day)
+- simplement : 단순하게, 꾸밈없이, 단지
+- revoir : vt. 다시 만나다, 다시 보다, 돌아오다
+
+# 46. Il est arrivé. Elle est partie.
+
+## Le passé composé avec "être"
+- exemples
+    - Il est venu de Digne.
+    - Il est arrivé.
+    - Il est monté.
+    - Il est entré.
+    - Il est resté.
+    - Il est sorti.
+    - Il est descendu.
+    - Il est tombé
+    - Il est parti.
+    - Il est allé à Gap.
+    - Il est passé.
+    - Il est retourné.
+    - Il est né en 1888.
+    - Il est mort en 1978.
+- Les verbes du type "arriver / partir" s'utilisent avec "être".
+    - Ces verbes indiquent un changement de lieu :
+        - arriver / partir              il est arrivé / il est parti
+        - entrer / sortir               il est entré / il est sorti
+        - monter / descendre / tomber   il est monté / il est descendu / il est tombé
+        - naître / mourir               il est né / il est mort
+        - passer                        il est passé
+        - retourner                     il est retourné
+    - "rester" s'utilise avec "être" : il est resté
+    - En tout : 14 verbes (+ les composés : rentrer, devenir, repartir, ...).
+    - "marcher", "courir", "sauter", etc. (mouvement simple), s'utilisent avec "avoir".
+- Le participe passé s'accorde avec le sujet du verbe "être" :
+    - Il est arrivé.
+    - Elle est arrivée.
+    - Il est entré.
+    - Elle est entrée.
+
+## vocabulaires
+- sauter : 뛰어오르다, 뛰어넘다, 오르다
 
 # Les conjugaisons des verbes au présent avec leurs participes passés
 chapitre 35 (deux formes, -ir)
@@ -4445,6 +4617,7 @@ chapitre 38 (deux formes)
     - savoir      je sais       tu sais       il sait       nous savons         vous savez        ils savent        j'ai su
     - croire      je crois      tu crois      il croit      nous croyons        vous croyez       ils croient       j'ai cru
     - voir        je vois       tu vois       il voit       nous voyons         vous voyez        ils voient        j'ai vu
+    - revoir      je revois     tu revois     il revoit     nous revoyons       vous revoyez      ils revoient      j'ai revu
 
 chapitre 39 (trois formes, -ir, -re, -oir)
 - oi, uv, oiv
