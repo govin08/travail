@@ -3887,7 +3887,7 @@ Je m'amuse ici : le matin je fais du jogging avec papy. Après, je joue au footb
 - Pologne : 폴란드
 - école : nf.
 
-# un récapitulatif de cette partie
+# Les conjugaisons des verbes au présent
 chapitre 35 (deux formes, -ir)
 - +ss (adjectif, nom)
     - grandir       je grandis      tu grandis      il grandit      nous grandissons    vous grandissez     ils grandissent
@@ -3986,6 +3986,112 @@ chapitre 42
 - conjugaison irrégulière
     - aller         je vais         tu vas          il va           nous allons         vous allez          ils vont
     - avoir         j'ai            tu as           il a            nous avons          vous avez           ils ont
+
+
+<!-- # un récapitulatif de cette partie
+chapitre 35 (deux formes, -ir)
+- +ss (adjectif, nom)
+    - grandir     je grandis    tu grandis    il grandit    nous grandissons    vous grandissez   ils grandissent   j'ai grandi
+    - grossir     je grossis    tu grossis    il grossit    nous grossissons    vous grossissez   ils grossissent   j'ai grossi
+    - vieillir    je vieillis   tu vieillis   il vieillit   nous vieillissons   vous vieillissez  ils vieillissent  j'ai vieilli
+    - rougir      je rougis     tu rougis     il rougit     nous rougissons     vous rougissez    ils rougissent    j'ai rougi
+    - brunir      je brunis     tu brunis     il brunit     nous brunissons     vous brunissez    ils brunissent    j'ai bruni
+    - maigrir     je maigris    tu maigris    il maigrit    nous maigrissons    vous maigrissez   ils maigrissent   j'ai maigri
+    - pâlir       je pâlis      tu pâlis      il pâlit      nous pâlissons      vous pâlissez     ils pâlissent     j'ai pâli
+    - jaunir      je jaunis     tu jaunis     il jaunit     nous jaunissons     vous jaunissez    ils jaunissent    j'ai jauni
+    - fleurir     je fleuris    tu fleuris    il fleurit    nous fleurissons    vous fleurissez   ils fleurissent   j'ai fleuri
+- +ss
+    - finir       je finis      tu finis      il finit      nous finissons      vous finissez     ils finissent     j'ai fini
+    - choisir     je choisis    tu choisis    il choisit    nous choisissons    vous choisissez   ils choisissent   j'ai choisi
+    - guérir      je guéris     tu guéris     il guérit     nous guérissons     vous guérissez    ils guérissent    j'ai guéri
+    - applaudir   j'applaudis   tu applaudis  il applaudit  nous applaudissons  vous applaudissez ils applaudissent j'ai applaudi
+    - ralentir    je ralentis   tu ralentis   il ralentit   nous ralentissons   vous ralentissez  ils ralentissent  j'ai ralenti
+    - réfléchir   je réfléchis  tu réfléchis  il réfléchit  nous réfléchissons  vous réfléchissez ils réfléchissent j'ai réfléchi
+    - atterrir    j'atterris    tu atterris   il atterrit   nous atterrissons   vous atterrissez  ils atterrissent  j'ai atterri
+    - réunir      je réunis     tu réunis     il réunit     nous réunissons     vous réunissez    ils réunissent    j'ai réuni
+
+chapitre 36 (deux formes, -ir)
+- -t
+    - partir      je pars       tu pars       il part       nous partons        vous partez       ils partent       je suis parti 
+    - sortir      je sors       tu sors       il sort       nous sortons        vous sortez       ils sortent       je suis sorti
+    - sentir      je sens       tu sens       il sent       nous sentons        vous sentez       ils sentent       j'ai senti
+- -m
+    - dormir      je dors       tu dors       il dort       nous dormons        vous dormez       ils dorment       j'ai dormi
+- -v
+    - servir      je sers       tu sers       il sert       nous servons        vous servez       ils servent       j'ai servi
+    - suivre      je suis       tu suis       il suit       nous suivons        vous suivez       ils suivent       j'ai suivi
+    - vivre       je vis        tu vis        il vit        nous vivons         vous vivez        ils vivent        j'ai vécu
+
+chapitre 37 (deux formes, -re)
+- +v
+    - écrire      j'écris       tu écris      il écrit      nous écrivons       vous écrivez      ils écrivent      j'ai écrit
+    - décrire     je décris     tu décris     il décrit     nous décrivons      vous décrivez     ils décrivent     j'ai décrit
+    - inscrire    j'inscris     tu inscris    il inscrit    nous inscrivons     vous inscrivez    ils inscrivent    j'ai inscrit
+- +s
+    - lire        je lis        tu lis        il lit        nous lisons         vous lisez        ils lisent        j'ai lu
+    - interdire   j'interdis    tu interdis   il interdit   nous interdisons    vous interdisez   ils interdisent   j'ai interdit
+    - plaire      je plais      tu plais      il plaît      nous plaisons       vous plaisez      ils plaisent      j'ai plu
+    - conduire    je conduis    tu conduis    il conduit    nous conduisons     vous conduisez    ils conduisent    j'ai conduit
+    - construire  je construis  tu construis  il construit  nous construisons   vous construisez  ils construisent  j'ai construit
+    - traduire    je traduis    tu traduis    il traduit    nous traduisons     vous traduisez    ils traduisent    j'ai traduit
+    - détruire    je détruis    tu détruis    il détruit    nous détruisons     vous détruisez    ils détruisent    j'ai détruit
+- +t
+    - mettre      je mets       tu mets       il met        nous mettons        vous mettez       ils mettent       j'ai mis
+    - battre      je bats       tu bats       il bat        nous battons        vous battez       ils battent       j'ai battu
+    - permettre   je permets    tu permets    il permet     nous permettons     vous permettez    ils permettent    j'ai permis
+    - promettre   je promets    tu promets    il promet     nous promettons     vous promettez    ils promettent    j'ai promis
+- +d
+    - répondre    je réponds    tu réponds    il répond     nous répondons      vous répondez     ils répondent     j'ai répondu
+    - entendre    j'entends     tu entends    il entend     nous entendons      vous entendez     ils entendent     j'ai entendu
+    - attendre    j'attends     tu attends    il attend     nous attendons      vous attendez     ils attendent     j'ai attendu
+    - vendre      je vends      tu vends      il vend       nous vendons        vous vendez       ils vendent       j'ai vendu
+    - perdre      je perds      tu perds      il perd       nous perdons        vous perdez       ils perdent       j'ai perdu
+    - descendre   je descends   tu descends   il descend    nous descendons     vous descendez    ils descendent    j'ai descendu
+- +(muet)
+    - rire        je ris        tu ris        il rit        nous rions          vous riez         ils rient         j'ai ri
+    - sourire     je souris     tu souris     il sourit     nous sourions       vous souriez      ils sourient      j'ai souri
+
+chapitre 38 (deux formes)
+- particuliers
+    - connaître   je connais    tu connais    il connaît    nous connaissons    vous connaissez   ils connaissent   j'ai connu
+    - savoir      je sais       tu sais       il sait       nous savons         vous savez        ils savent        j'ai su
+    - croire      je crois      tu crois      il croit      nous croyons        vous croyez       ils croient       j'ai cru
+    - voir        je vois       tu vois       il voit       nous voyons         vous voyez        ils voient        j'ai vu
+
+chapitre 39 (trois formes, -ir, -re, -oir)
+- oi, uv, oiv
+    - boire       je bois       tu bois       il boit       nous buvons         vous buvez        ils boivent       j'ai bu
+- çoi, ce, çoiv
+    - recevoir    je reçois     tu reçois     il reçoit     nous recevons       vous recevez      ils reçoivent     j'ai reçu
+- -n, -nn
+    - prendre     je prends     tu prends     il prend      nous prenons        vous prenez       ils prennent      j'ai pris
+    - apprendre   j'apprends    tu apprends   il apprend    nous apprenons      vous apprenez     ils apprennent    j'ai appris
+    - comprendre  je comprends  tu comprends  il comprend   nous comprenons     vous comprenez    ils comprennent   j'ai compris
+- ien, -n, ienn
+    - venir       je viens      tu viens      il vient      nous venons         vous venez        ils viennent      je suis venu
+    - devenir     je deviens    tu deviens    il devient    nous devenons       vous devenez      ils deviennent    je suis devenu
+    - revenir     je reviens    tu reviens    il revient    nous revenons       vous revenez      ils reviennent    je suis revenu
+    - tenir       je tiens      tu tiens      il tient      nous tenons         vous tenez        ils tiennent      j'ai tenu
+    - souvenir    je souviens   tu souviens   il souvient   nous souvenons      vous souvenez     ils souviennent   je suis souvenu
+    - courir      je cours      tu cours      il court      nous courons        vous courez       ils courent       j'ai couru
+
+chapitre 40 (trois formes, -oir)
+- eu, ou
+    - vouloir     je veux       tu veux       il veut       nous voulons        vous voulez       ils veulent       j'ai voulu
+    - pouvoir     je peux       tu peux       il peut       nous pouvons        vous pouvez       ils peuvent       j'ai pu
+- v, oiv
+    - devoir      je dois       tu dois       il doit       nous devons         vous devez        ils doivent       j'ai dû
+
+chapitre 41
+- conjugaison irrégulière
+    - faire       je fais       tu fais       il fait       nous faisons        vous faites       ils font          j'ai fait
+    - dire        je dis        tu dis        il dit        nous disons         vous dites        ils disent        j'ai dit
+
+chapitre 42
+- conjugaison irrégulière
+    - aller       je vais       tu vas        il va         nous allons         vous allez        ils vont          je suis allé
+    - avoir       j'ai          tu as         il a          nous avons          vous avez         ils ont           j'ai eu
+    - être        je suis       tu es         il est        nous sommes         vous êtes         ils sont          j'ai été -->
 
 # exercices récapitulatifs
 
@@ -4266,5 +4372,115 @@ Je reçois ta lettre aujourd'hui et je réponds tout de suite à ta question. Ou
     - jouer au football / scrabble / poker
     - jouer du piano / saxo
     - faire le mènage / la vaisselle
+
+# 45. J'ai vu. J'ai mis. J'ai fait. ...
+
+
+# Les conjugaisons des verbes au présent avec leurs participes passés
+chapitre 35 (deux formes, -ir)
+- +ss (adjectif, nom)
+    - grandir     je grandis    tu grandis    il grandit    nous grandissons    vous grandissez   ils grandissent   j'ai grandi
+    - grossir     je grossis    tu grossis    il grossit    nous grossissons    vous grossissez   ils grossissent   j'ai grossi
+    - vieillir    je vieillis   tu vieillis   il vieillit   nous vieillissons   vous vieillissez  ils vieillissent  j'ai vieilli
+    - rougir      je rougis     tu rougis     il rougit     nous rougissons     vous rougissez    ils rougissent    j'ai rougi
+    - brunir      je brunis     tu brunis     il brunit     nous brunissons     vous brunissez    ils brunissent    j'ai bruni
+    - maigrir     je maigris    tu maigris    il maigrit    nous maigrissons    vous maigrissez   ils maigrissent   j'ai maigri
+    - pâlir       je pâlis      tu pâlis      il pâlit      nous pâlissons      vous pâlissez     ils pâlissent     j'ai pâli
+    - jaunir      je jaunis     tu jaunis     il jaunit     nous jaunissons     vous jaunissez    ils jaunissent    j'ai jauni
+    - fleurir     je fleuris    tu fleuris    il fleurit    nous fleurissons    vous fleurissez   ils fleurissent   j'ai fleuri
+- +ss
+    - finir       je finis      tu finis      il finit      nous finissons      vous finissez     ils finissent     j'ai fini
+    - choisir     je choisis    tu choisis    il choisit    nous choisissons    vous choisissez   ils choisissent   j'ai choisi
+    - guérir      je guéris     tu guéris     il guérit     nous guérissons     vous guérissez    ils guérissent    j'ai guéri
+    - applaudir   j'applaudis   tu applaudis  il applaudit  nous applaudissons  vous applaudissez ils applaudissent j'ai applaudi
+    - ralentir    je ralentis   tu ralentis   il ralentit   nous ralentissons   vous ralentissez  ils ralentissent  j'ai ralenti
+    - réfléchir   je réfléchis  tu réfléchis  il réfléchit  nous réfléchissons  vous réfléchissez ils réfléchissent j'ai réfléchi
+    - atterrir    j'atterris    tu atterris   il atterrit   nous atterrissons   vous atterrissez  ils atterrissent  j'ai atterri
+    - réunir      je réunis     tu réunis     il réunit     nous réunissons     vous réunissez    ils réunissent    j'ai réuni
+
+chapitre 36 (deux formes, -ir)
+- -t
+    - partir      je pars       tu pars       il part       nous partons        vous partez       ils partent       je suis parti 
+    - sortir      je sors       tu sors       il sort       nous sortons        vous sortez       ils sortent       je suis sorti
+    - sentir      je sens       tu sens       il sent       nous sentons        vous sentez       ils sentent       j'ai senti
+- -m
+    - dormir      je dors       tu dors       il dort       nous dormons        vous dormez       ils dorment       j'ai dormi
+- -v
+    - servir      je sers       tu sers       il sert       nous servons        vous servez       ils servent       j'ai servi
+    - suivre      je suis       tu suis       il suit       nous suivons        vous suivez       ils suivent       j'ai suivi
+    - vivre       je vis        tu vis        il vit        nous vivons         vous vivez        ils vivent        j'ai vécu
+
+chapitre 37 (deux formes, -re)
+- +v
+    - écrire      j'écris       tu écris      il écrit      nous écrivons       vous écrivez      ils écrivent      j'ai écrit
+    - décrire     je décris     tu décris     il décrit     nous décrivons      vous décrivez     ils décrivent     j'ai décrit
+    - inscrire    j'inscris     tu inscris    il inscrit    nous inscrivons     vous inscrivez    ils inscrivent    j'ai inscrit
+- +s
+    - lire        je lis        tu lis        il lit        nous lisons         vous lisez        ils lisent        j'ai lu
+    - interdire   j'interdis    tu interdis   il interdit   nous interdisons    vous interdisez   ils interdisent   j'ai interdit
+    - plaire      je plais      tu plais      il plaît      nous plaisons       vous plaisez      ils plaisent      j'ai plu
+    - conduire    je conduis    tu conduis    il conduit    nous conduisons     vous conduisez    ils conduisent    j'ai conduit
+    - construire  je construis  tu construis  il construit  nous construisons   vous construisez  ils construisent  j'ai construit
+    - traduire    je traduis    tu traduis    il traduit    nous traduisons     vous traduisez    ils traduisent    j'ai traduit
+    - détruire    je détruis    tu détruis    il détruit    nous détruisons     vous détruisez    ils détruisent    j'ai détruit
+- +t
+    - mettre      je mets       tu mets       il met        nous mettons        vous mettez       ils mettent       j'ai mis
+    - battre      je bats       tu bats       il bat        nous battons        vous battez       ils battent       j'ai battu
+    - permettre   je permets    tu permets    il permet     nous permettons     vous permettez    ils permettent    j'ai permis
+    - promettre   je promets    tu promets    il promet     nous promettons     vous promettez    ils promettent    j'ai promis
+- +d
+    - répondre    je réponds    tu réponds    il répond     nous répondons      vous répondez     ils répondent     j'ai répondu
+    - entendre    j'entends     tu entends    il entend     nous entendons      vous entendez     ils entendent     j'ai entendu
+    - attendre    j'attends     tu attends    il attend     nous attendons      vous attendez     ils attendent     j'ai attendu
+    - vendre      je vends      tu vends      il vend       nous vendons        vous vendez       ils vendent       j'ai vendu
+    - perdre      je perds      tu perds      il perd       nous perdons        vous perdez       ils perdent       j'ai perdu
+    - descendre   je descends   tu descends   il descend    nous descendons     vous descendez    ils descendent    j'ai descendu
+- +(muet)
+    - rire        je ris        tu ris        il rit        nous rions          vous riez         ils rient         j'ai ri
+    - sourire     je souris     tu souris     il sourit     nous sourions       vous souriez      ils sourient      j'ai souri
+
+chapitre 38 (deux formes)
+- particuliers
+    - connaître   je connais    tu connais    il connaît    nous connaissons    vous connaissez   ils connaissent   j'ai connu
+    - savoir      je sais       tu sais       il sait       nous savons         vous savez        ils savent        j'ai su
+    - croire      je crois      tu crois      il croit      nous croyons        vous croyez       ils croient       j'ai cru
+    - voir        je vois       tu vois       il voit       nous voyons         vous voyez        ils voient        j'ai vu
+
+chapitre 39 (trois formes, -ir, -re, -oir)
+- oi, uv, oiv
+    - boire       je bois       tu bois       il boit       nous buvons         vous buvez        ils boivent       j'ai bu
+- çoi, ce, çoiv
+    - recevoir    je reçois     tu reçois     il reçoit     nous recevons       vous recevez      ils reçoivent     j'ai reçu
+- -n, -nn
+    - prendre     je prends     tu prends     il prend      nous prenons        vous prenez       ils prennent      j'ai pris
+    - apprendre   j'apprends    tu apprends   il apprend    nous apprenons      vous apprenez     ils apprennent    j'ai appris
+    - comprendre  je comprends  tu comprends  il comprend   nous comprenons     vous comprenez    ils comprennent   j'ai compris
+- ien, -n, ienn
+    - venir       je viens      tu viens      il vient      nous venons         vous venez        ils viennent      je suis venu
+    - devenir     je deviens    tu deviens    il devient    nous devenons       vous devenez      ils deviennent    je suis devenu
+    - revenir     je reviens    tu reviens    il revient    nous revenons       vous revenez      ils reviennent    je suis revenu
+    - tenir       je tiens      tu tiens      il tient      nous tenons         vous tenez        ils tiennent      j'ai tenu
+    - souvenir    je souviens   tu souviens   il souvient   nous souvenons      vous souvenez     ils souviennent   je suis souvenu
+    - courir      je cours      tu cours      il court      nous courons        vous courez       ils courent       j'ai couru
+
+chapitre 40 (trois formes, -oir)
+- eu, ou
+    - vouloir     je veux       tu veux       il veut       nous voulons        vous voulez       ils veulent       j'ai voulu
+    - pouvoir     je peux       tu peux       il peut       nous pouvons        vous pouvez       ils peuvent       j'ai pu
+- v, oiv
+    - devoir      je dois       tu dois       il doit       nous devons         vous devez        ils doivent       j'ai dû
+
+chapitre 41
+- conjugaison irrégulière
+    - faire       je fais       tu fais       il fait       nous faisons        vous faites       ils font          j'ai fait
+    - dire        je dis        tu dis        il dit        nous disons         vous dites        ils disent        j'ai dit
+
+chapitre 42
+- conjugaison irrégulière
+    - aller       je vais       tu vas        il va         nous allons         vous allez        ils vont          je suis allé
+    - avoir       j'ai          tu as         il a          nous avons          vous avez         ils ont           j'ai eu
+    - être        je suis       tu es         il est        nous sommes         vous êtes         ils sont          j'ai été
+
+
 →
 ←
