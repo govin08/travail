@@ -4882,6 +4882,99 @@ chapitre 42
     - avoir       j'ai          tu as         il a          nous avons          vous avez         ils ont           j'ai eu
     - être        je suis       tu es         il est        nous sommes         vous êtes         ils sont          j'ai été
 
+# 47. Quand j'étais petit, j'avais un chien. ...
+
+## l'imparfait
+- exemples
+    - Je suis gros.         J'étais mince.
+    - J'ai une voiture.     J'avais un vélo.
+    - J'habite à Paris.     J'habitais à Gap.
+- L'imparfait exprime des habitudes passées :
+    - J'habite à Paris.     J'habitais à Nice.
+    - Je suis avocat.       J'étais étudiant.
+    - J'ai une voiture.     J'avais un vélo.
+- Conjugaison
+    - Formation : on remplace la finale de "vous" au présent par :
+        - "verbe"       je "-ais"       tu "-ais"       il "-ait"       nous "-ions"        vous "-iez"     ils "-aient"
+    - exemples
+        - habiter       j'habitais      tu habitais     il habitait     nous habitions      vous habitiez   ils habitaient
+        - prendre       je prenais      tu prenais      il prenait      nous prenions       vous preniez    ils prenaient
+        - boire         je buvais       tu buvais       il buvait       nous buvions        vous buviez     ils buvaient
+        - finir         je finissais    tu finissais    il finissait    nous finissions     vous finissiez  ils finissaient
+        - croire        je croyais      tu croyais      il croyait      nous croyions       vous croyiez    ils croyaient
+        - faire         je faisais      tu faisais      il faisait      nous faisions       vous faisiez    ils faisaient
+        - dire          je disais       tu disais       il disait       nous disions        vous disiez     ils disaient
+        - avoir         j'avais         tu avais        il avait        nous avions         vous aviez      ils avaient
+        - être          j'étais         tu étais        il était        nous étions         vous étiez      ils étaient
+        - aller         j'allais        tu allais       il allait       nous allions        vous alliez     ils allaient
+    - verbes en "-ger"
+        - manger        je mangeais     tu mangeais     il mangeait     nous mangeions      vous mangeiez   ils mangeaient
+        - voyager       je voyageais    tu voyageais    il voyageait    nous voyageions     vous voyageiez  ils voyageaient
+    - verbes en "-cer"
+        - commencer     je commençais   tu commençais   il commençait   nous commencions    vous commenciez ils commençaient
+        - placer        je plaçais      tu plaçais      il plaçait      nous placions       vous placiez    ils plaçaient
+
+## exercices
+1. Mettez à l'imparfait, selon le modèle.
+- J'habite en France.
+- J'habitais en Angleterre.
+- Je travaille à Paris.
+- Je travaillais à Londres.
+- Je parle français.
+- Je parlais seulement anglais.
+- Je regarde la télévision française.
+- Je regardais la BBC.
+- Je mange des croissants.
+- Je mangeais des œufs au bacon.
+- Je bois du café.
+- Je buvais du thé.
+
+2. Complétez les phases, selon le modèle. Donnez des exemples personnels.
+- Quand j'étais petit :
+    - Je voulais être vétérinaire, ma sœur voulait être pilote, mes cousines voulaient être actrices.
+    - Je faisais de l'escalade, elle faisait du tennis, ils faisaient de la danse.
+    - J'aimais les animaux, elle aimait les voitures, ils aimaient les poupées.
+    - Je croyais au Père Noël, elle croyait aux trölls, ils croyaient aux fées.
+    - Je lisais "Boule et Bill", elle lisait "Tintin", ils lisaient Andersen.
+
+3. Complétez avec les finales de l'imparfait.
+- liser         je lisais       tu lisais       il lisait       nous lisions        vous lisiez         ils lisaient
+- regarder      je regardais    tu regardais    il regardait    nous regardions     vous regardiez      ils regardaient
+- vouloir       je voulais      tu voulais      il voulait      nous voulions       vous vouliez        ils voulaient
+- dire          je disais       tu disais       il disait       nous disions        vous disiez         ils disaient
+- pleuvoir                                      il pleuvait
+- faire         je faisais      tu faisais      il faisait      nous faisons        vous faisiez        ils faisaient
+- prendre       je prenais      tu prenais      il prenait      nous prenions       vous preniez        ils prenaient
+- chanter       je chantais     tu chantais     il chantait     nous chantions      vous chantiez       ils chantaient
+- être          j'étais         tu étais        il était        nous étions         vous étiez          ils étaient
+- dormir        je dormais      tu dormais      il dormait      nous dormions       vous dormiez        ils dormaient
+- avoir         j'avais         tu avais        il avait        nous avions         vous aviez          ils avaient
+
+4. "il y a" / "il y avait" : faites des phrases au présent et à l'imparfait. Continuez.
+- Maintenant il y a un parking, avant il y avait une place.
+- Maintenant il y a un supermarché, avant il y avait une épicerie.
+- Maintenant il y a des immeubles modernes, avant il y avait des vieilles maisons.
+- Maintenant il y a un petit square, avant il y avait un grand jardin.
+
+## vocabulaires
+- habitude : nf.
+- avocat : n. 변호사
+- remplace : vt. 갈다, 교체하다
+- seulement : 단지, 오직
+- vétérinaire : n. 수의사
+- escalade : nf. 등반
+- poupée : nf. 인형
+- tröll : (트롤?)
+- fée : nf. 요정
+- parking : nm.
+- supermarché : nm.
+- épicerie : nf. 식료품점
+- immeuble : nm.
+- square : nm.
+- jardin : nm.
+
+## remarques
+- 책에서는 vous의 현재형 어간을 가져와 변형하라고 되어 있다. 반면, [지름길 프랑스어 : L'imparfait (반과거)](https://www.shortcut-french.com/grammar/imparfait/)에서는 nous의 현재동사를 활용하라고 하고 있다. 내 생각에도 nous가 더 일관적인 것처럼 보인다. faire, dire는 nous의 현재동사 활용을 사용하면 예외가 없다.
 
 →
 ←
