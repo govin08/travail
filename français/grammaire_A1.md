@@ -4545,8 +4545,234 @@ Dans le métro
     - Il est entré.
     - Elle est entrée.
 
+## exercices
+1. Mettez au passé composé. Changez les horaires.
+- D'habitude, Max part à 8 heures.
+- Hier, il est parti à 9 heures.
+- D'habitude, le bus arrive à 8 h 10.
+- Hier, il est arrivé à 8 h et demie.
+- En général, le facteur passe à 10 heures.
+- Hier, il est passé à midi.
+- En général, le professeur reste jusqu'à 18 heures.
+- Hier, il est resté jusqu'à 22 heures.
+- Normalement, la comtesse sort vers 17 heures.
+- Hier, elle est sortie tôt.
+
+2. Complétez avec les verbes au passé. Accordez si c'est nécessaire.
+- Abel
+    - Abel est allé à Rio.
+    - Il est parti en avion.
+    - Il est monté sur le Pain de sucre.
+    - Il est resté quinze jours à Rio.
+    - Il est rentré.
+- Clara
+    - Clara est allée en Sicile.
+    - Elle est partie en train.
+    - Elle est montée sur l'Etna.
+    - Elle est restée un mois en Sicile.
+    - Elle est rentrée avant-hier.
+
+3. Complétez avec des verbes au passé composé.
+- Le train est parti à 10 h et arrivé à midi.
+- L'ascenseur est monté au 30e étage, puis descendu au sous-sol
+- Le voleur est entré par la fenêtre, puis sorti par la port.
+- Picasso est né en 1881 et mort en 1973
+
+4. Mettez le texte au passé composé.
+- présent
+    - Monsieur Dumas arrive au bureau vers 8 h.
+    - Il entre par la porte de service.
+    - Il descend au sous-sol.
+    - Il sort avec une grosse valise.
+    - Il va à la gare.
+    - Il revient vers 9 h.
+    - Il entre par la porte principale.
+    - Il monte en ascenseur.
+    - À 10 h, une voiture de police arrive.
+    - L'inspecteur Henri sort de la voiture et il entre dans l'immeuble.
+    - Il monte au 5e étage.
+    - Il sort vers midi avec monsieur Dumas.
+    - Il va au commissariat.
+    - Puis, il remonte dans sa voiture, il va à la consigne de la gare, il va à l'aéroport, il part pour Miami.
+- passé composé
+    - Monsieur Dumas est arrivé au bureau vers 8 h.
+    - Il est entré par la porte de service.
+    - Il est descendu au sous-sol.
+    - Il est sorti avec une grosse valise.
+    - Il est allé à la gare.
+    - Il est revenu vers 9 h.
+    - Il est entré par la porte principale.
+    - Il est monté en ascenseur.
+    - À 10 h, une voiture de police est arrivée.
+    - L'inspecteur Henri est sorti de la voiture et il est entré dans l'immeuble.
+    - Il est monté au 5e étage.
+    - Il est sorti vers midi avec monsieur Dumas.
+    - Il est allé au commissariat.
+    - Puis, il est remonté dans sa voiture, il est allé à la consigne de la gare, il est allé à l'aéroport, il est parti pour Miami.
+
+5. Imaginez un article de journal sur une grande voyageuse.
+- Gaston Bonod
+    - Il est né en 1905.
+    - Il est mort en 1992.
+    - Il est allé en Chine et au Népal.
+    - Il est monté sur l'Himalaya.
+    - Il est descendu dans le cratère de l'Etna.
+- Ma mère
+    - Elle est née en 1958.
+    - Elle a visité l'Italie et elle est allée à Assise.
+    - Elle est montée sur le Subasio.
+    - Elle est restée environ une semaine là-bas.
+
 ## vocabulaires
 - sauter : 뛰어오르다, 뛰어넘다, 오르다
+- facteur : n. 우체부, 화물담당
+- Normalement : 정상적으로, 보통으로
+- comtesse : nf. 백작부인, 여백작 (comte : 백작)
+- Sicile : 시칠리아 (섬, 이탈리아)
+- avant-hier : 그저께
+- ascenseur : nm. 승강기, 엘레베이터
+- sous-sol : 지하층 (참고 : rez-de-chaussée)
+- voleur : nm. 도둑, 사기꾼, 새
+- la porte de service : 뒷문
+- la porte principale : 정문
+- inspecteur : 검사관, 수사관, 검열관
+- commissariat : 경찰서 (= commissariat de police)
+- consigne : 수하물 보관소
+- voyageur : 여행자, 승객, 나그네 (f. voyageuse)
+- cratère : nm. 분화구
+
+## le passé composé avec "être" (suite)
+- verbes de type "arriver / partir" : conjugaison complète
+    - exemples
+        - je suis parti(e)
+        - tu es parti(e)
+        - il est parti
+        - elle est partie
+        - on est parti(e)(s)
+        - nous sommes parti(e)s
+        - vous êtes parti(e)s
+        - ils sont partis
+        - elles sont parties
+    - suivis d'un complément d'objet, ces verbes se construisent avec "avoir" :
+        - Elle est sortie.
+        - Elle a sorti le chien.
+        - Elle est entrée.
+        - Elle a entré la voiture.
+        - Elle est descendue.
+        - Elle a descendu la poubelle.
+- les verbes pronominaux se construisent avec "être".
+    - les pronoms se placent devant le verbe "être"
+        - je me suis levé(e)
+        - tu t'es levé(e)
+        - il s'est levé
+        - elle s'est levée
+        - on s'est levé(e)(s)
+        - nous nous sommes levé(e)s
+        - vous vous êtes levé(e)s
+        - ils se sont levés
+        - elles se sont levées
+    - Le participe passé s'accorde avec le sujet du verbe "être" :
+        - Il est parti.
+        - Elle est partie.
+        - Ils sont partis.
+        - Elles sont parties.
+        - Il s'est levé.
+        - Elle s'est levée.
+        - Ils se sont levés.
+        - Elles se sont levées.
+
+## exercices (suite)
+
+1. Continuez au passé composé. Complétez librement.
+- Je suis allé à la montagne.
+- Tu es allée à la mer.
+- Elle est partie en avion.
+- Il est parti en car.
+- Nous sommes arrivés le matin.
+- Vous êtes arrivées ce soir.
+- Ils sont montés sur le mont Blanc.
+- Elles sont montées sur le mont Halla.
+- On est revenu à pied.
+- Ils sont revenus en métro.
+
+2. "être" ou "avoir" : complétez au passé composé.
+- Ils ont passé les vacances à Côme et ils sont passés par la Suisse.
+- Ils sont sortis de la voiture et ils ont sorti les bagages du coffre.
+- Ils ont rentré la voiture au garage et ils sont rentrés dans la maison.
+- Ils ont monté l'escalier à pied et ils sont montés àu huitième étage.
+- Ils sont descendus à la cave et ils ont descendu la poubelle.
+
+3. "être" ou "avoir" : complétez au passé composé.
+- Les gangsters sont entrés par la porte et ils sont sortis par la fenêtre.
+- Les enfants sont arrivés de l'école et ils ont sorti tous les jouets.
+- Jean est descendu à la cave et il est monté au grenier.
+- Carlo est sorti de la voiture et il a monté les valises à l'étage.
+- Anne a rentré la voiture et elle a sorti la poubelle.
+
+4. Répondez au passé composé.
+- Ce matin, Vous vous êtes levé(e) tôt?
+- Oui, je me suis levé(e) tôt.
+- Hier soir, vous vous êtes couché(e) tard?
+- Oui, je me suis couché(e) tard.
+- Vous vous êtes endormi(e) tout de suite?
+- Oui, je me suis endormi(e) tout de suite.
+- Samedi dernier, vous vous êtes reposé(e)?
+- Oui, je me suis reposé(e).
+- Dimanche dernier, vous vous êtes promené(e)?
+- Oui, je me suis promené(e).
+
+5. Décrivez les actions au passé composé:
+- Des voyageurs dans un train de nuit
+    - Ils sont allés à la gare.
+    - Ils sont montés dans le train.
+    - Ils se sont installés.
+    - Ils se sont levés.
+    - Ils se sont déshabillés.
+    - Ils se sont couchés.
+    - Ils se sont réveillés.
+- Deux jeunes filles avant une fête.
+    - Elles se sont lavées.
+    - Elles se sont habillées.
+    - Elles se sont maquillées.
+    - Elles se sont coiffées.
+    - Elles se sont parfumées.
+    - Elles sont parties.
+
+## vocabulaires (suite)
+- complément d'objet : 목적어
+- complément d'objet direct : 직접목적어 (COD)
+- Côme : 코모 (이탈리아)
+- coffre : n.m. 궤, 함, 상자, 냉동고, 금고
+- escalier : nm. 계단
+- gangster : nm.
+- grenier : nm. 곡식창고
+- endormir : vt. 재우다, 잠들게하다, vp. 잠들다, 영면하다
+- reposer : vi. 쉬다, vt. 쉬게하다, vp. 쉬다
+- promener : vt. 산책시키다, vp. 산책하다
+- installer : vp. 자리잡다
+- déshabiller : vt. 옷을 벗기다, vp. 옷을 벗다 (↔ habiller)
+- réveiller : vt. 잠을 깨우다, vp. 잠에서 깨다 (참고 : lever)
+- laver : vt. 세탁하다, 세척하다, 씻어내다, vp. 몸을 씻다
+- maquiller : vt. 화장시키다, vp. 화장하다
+- coiffer : vt. 덮다, 모자를 씌우다, vp. 모자를 쓰다, 머리를 하다
+- 
+
+## remarques (suite)
+- un complément d'objet는 목적어이다. 사전적으로 objet가 목적어이고 complément가 보어인 것과는 별개로 un complément d'objet 자체가 목적어이다. 목적어에는 직접목적어(complément d'objet direct ; COD)와 간접목적어(complément d'objet indirect ; COI)로 나뉘며 이 chapitre의 문맥에서 말하는 목적어는 COD이다.
+- exercice 1의 3번에서 le matin, ce soir가 쓰였다.
+    - gpt에 의하면 le matin은 "오늘 아침" 또는 "매 아침마다"의 두 의미로 모두 쓰일 수 있다고 한다.
+    - 하지만 le lundi는 오로지 "매주 월요일"로 쓰이지 "이번 주 월요일"로 쓰이지는 않는다고 한다.
+    - 이번 주 월요일을 지칭할 때는 ce lundi이 있다. 이것은 ce soir, ce matin과 비슷한 맥락이다.
+- exercice 2가 매우 헷갈린다.
+    - 자동사 - être  - sont - 성수일치 있음
+    - 타동사 - avoir - ont  - 성수일치 없음
+- exercice 3의 헷갈리는 문장 해석
+    - Les enfants sont arrivés de l'école et ils ont sorti tous les jouets.
+    - 아이들이 학교에서 (집으로) 돌아와서 장난감을 모두 꺼냈다.
+    - Carlo est sorti de la voiture et il a monté les valises à l'étage.
+    - 카를로는 차에서 나와 가방을 윗층으로 올렸다.
+    - Anne a rentré la voiture et elle a sorti la poubelle.
+    - 앤은 차를 들여왔고 쓰레기통을 꺼냈다.
 
 # Les conjugaisons des verbes au présent avec leurs participes passés
 chapitre 35 (deux formes, -ir)
@@ -4610,10 +4836,12 @@ chapitre 37 (deux formes, -re)
 - +(muet)
     - rire        je ris        tu ris        il rit        nous rions          vous riez         ils rient         j'ai ri
     - sourire     je souris     tu souris     il sourit     nous sourions       vous souriez      ils sourient      j'ai souri
+    - mourir      je meurs      tu meurs      il meurt      nous mourons        vous mourez       ils mourent       je suis mort
 
 chapitre 38 (deux formes)
 - particuliers
     - connaître   je connais    tu connais    il connaît    nous connaissons    vous connaissez   ils connaissent   j'ai connu
+    - naître      je nais       tu nais       il naît       nous naissons       vous naissez      ils naissent      je suis né
     - savoir      je sais       tu sais       il sait       nous savons         vous savez        ils savent        j'ai su
     - croire      je crois      tu crois      il croit      nous croyons        vous croyez       ils croient       j'ai cru
     - voir        je vois       tu vois       il voit       nous voyons         vous voyez        ils voient        j'ai vu
