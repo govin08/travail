@@ -4973,6 +4973,128 @@ chapitre 42
 - square : nm.
 - jardin : nm.
 
+# 48. Quand je serai grand, je serai président.
+
+## le futur simple
+- exemples
+    - Je suis au bureau.    Je serai à la plage.
+    - Je lis des rapports.  Je lirai des romans.
+    - Il fait froid.        Il fera chaud.
+- Le futur simple exprime des projets une réalité future :
+    - J'habite dans une grande ville.   J'habiterai à la campagne.
+    - Je suis comptable.                Je serai agriculteur.
+    - J'ai un petit studio.             J'aurai une grande maison.
+- Conjugaison
+    - formation : le futur simple se forme sur le "r" de l'infinitif
+        - "verbe"       je "-ai"        tu "-as"        il "-a"         nous "-ons"         vous "-ez"      ils "-ont"
+    - exemples :
+        - habiter       je habiterai    tu habiteras    il habitera     nous habiterons     vous habiterez  ils habiteront
+        - parler        je parlerai     tu parleras     il parlera      nous parlerons      vous parlerez   ils parleront
+        - manger        je mangerai     tu mangeras     il mangera      nous mangerons      vous mangerez   ils mangeront
+        - boire         je boirai       tu boiras       il boira        nous boirons        vous boirez     ils boiront
+        - dire          je dirai        tu diras        il dira         nous dirons         vous direz      ils diront
+        - grandir       je grandirai    tu grandiras    il grandira     nous grandirons     vous grandirez  ils grandiront
+        - finir         je finirai      tu finiras      il finira       nous finirons       vous finirez    ils finiront
+        - partir        je partirai     tu partiras     il partira      nous partirons      vous partirez   ils partiront
+        - vivre         je vivrai       tu vivras       il vivra        nous vivrons        vous vivrez     ils vivront
+        - écrire        j'écrirai       tu écriras      il écrira       nous écrirons       vous écrirez    ils écriront
+        - lire          je lirai        tu liras        il lira         nous lirons         vous lirez      ils liront
+        - conduire      je conduirai    tu conduiras    il conduira     nous conduirons     vous conduirez  ils conduiront
+        - mettre        je mettrai      tu mettras      il mettra       nous mettrons       vous mettrez    ils mettront
+        - répondre      je répondrai    tu répondras    il répondra     nous répondrons     vous répondrez  ils répondront
+        - rire          je rirai        tu riras        il rira         nous rirons         vous rirez      ils riront
+        - prendre       je prendrai     tu prendras     il prendra      nous prendrons      vous prendrez   ils prendront
+    - cas particuliers :
+        - être          je serai        tu seras        il sera         nous serons         vous serez      ils seront
+        - avoir         j'aurai         tu auras        il aura         nous aurons         vous aurez      ils auront
+        - faire         je ferai        tu feras        il fera         nous ferons         vous ferez      ils feront
+        - aller         j'irai          tu iras         il ira          nous irons          vous irez       ils iront
+        - venir         je viendrai     tu viendras     il viendra      nous viendrons      vous viendrez   ils viendront
+        - voir          je verrai       tu verras       il verra        nous verrons        vous verrez     ils verront
+        - mourir        je mourrai      tu mourras      il mourra       nous mourrons       vous mourrez    ils mourront
+        - connaître     je connaîtrai   tu connaîtras   il connaîtra    nous connaîtrons    vous connaîtrez ils connaîtront
+        - savoir        je saurai       tu sauras       il saura        nous saurons        vous saurez     ils sauront
+        - recevoir      je recevrai     tu recevras     il recevra      nous recevrons      vous recevrez   ils recevront
+        - vouloir       je voudrai      tu voudras      il voudra       nous voudrons       vous voudrez    ils voudront
+        - pouvoir       je pourrai      tu pourras      il pourra       nous pourrons       vous pourrez    ils pourront
+        - devoir        je devrai       tu devras       il devra        nous devrons        vous devrez     ils devront
+
+## exercices
+1. Mettez au futur simple. Continuez librement
+- J'habite dans une grande ville.
+- J'habiterai en Provence.
+- Je travaille 12 heures par jour.
+- Je travaillerai 8 heures par jour.
+- Je mange des produits surgelés.
+- Je mangerai de bons plats.
+- J'ai un appartement moderne.
+- J'aurai une maison
+- Je vois des tours par ma fenêtre.
+- Je verrai le Mont Blanc par ma fenêtre.
+- Il fait presque toujours froid.
+- Il fera beau.
+- Je suis pâle et fatigué.
+- Je serai content et heureux.
+
+2. Mettez au futur simple. Continuez librement.
+- Demain, comme d'habitude, je me lèverai.
+- Je me laverai.
+- Je prendrai le métro.
+- J'irai au boulot et je sourirai.
+- Je mangerai.
+- Je me coucherai.
+- Je pleurerai.
+
+3. Complétez les prédictions d'un sorcier indien du 12e siécles. Continuez
+- Un jour, les hommes voleront dans le ciel dans des oiseaux de fer qui feront un bruit de tonnerre.
+- 어느 날, 사람들이 천둥소리를 내는 강철새를 타고 하늘을 날 것이다.
+- Ils traverseront les mers et ils iront jusqu'au bout de la terre.
+- 그들은 대양을 가르고 땅 끝에 갈 것이다.
+- Ils habiteront dans des maisons hautes comme des montagnes où le soleil brillera même la nuit.
+- 그들은 산처럼 높은 집에 살 것이며 빛은 밤에도 밝을 것이다.
+- Ils feront du feu sans bois.
+- 그들은 나무 없이도 불을 피울 수 있을 것이다.
+- Ils parleront dans des cornes et, même sans crier, on les entendra de très loin.
+- 그들은 뿔같은 것에 대고 말할 것이며 소리를 지르지 않아도 아주 멀리서 들을 수 있을 것이다.
+- Les hommes passeront leurs nuits à regarder dans des boîtes noires des esprits qui se battront sans cesse.
+- 사람들은 밤마다 검은 상자 속에서 끊임없이 싸우는 형체들을 바라볼거야.
+
+4. Complétez avec des verbes au futur simple. Continuez librement.
+- Quand je reviendrai en France, j'amènerai ma fille.
+- Quand tu trouveras cette lettre, je serai loin.
+- Quand vous viendrez chez nous, on mangera dans le jardin.
+- Quand tu auras 18 ans, tu passeras le permis de conduire.
+- Quand il fera chaud, nous irons à la plage.
+
+## vocabulaires
+- rapport : 보고, 보고서
+- comptable : n. 회계원, a. 회계의, 회계업무의
+- agriculteur : n. 농민, 농업인
+- studio : nm. 단칸 아파트
+- surgelé : a. 냉동된
+- produit surgelé : 냉동식품
+- presque : 거의, 대부분
+- mont : nm.
+- comme d'habitude : 여느 때처럼
+- boulot : nm. 일 (=travail)
+- pleurer : vi. 눈물을 흘리다.
+- sorcier : n. 마술사, 마법사
+- siécle : nm. 세기
+- fer : nm. 쇠, 철
+- tonnerre : nm. 천둥
+- bout : nm. 끝
+- le bout de la terre : 땅끝
+- briller : vi. 빛나다, 반짝이다
+- feu : nm. 불
+- faire du feu : 불을 피우다
+- bois : n.m. 삼림, 숲, 나무
+- corne : n.f. 뿔
+- loin : 멀리
+- esprit : 입김, 영, 유령, 혼백
+- cesse : 중지, 휴지
+- amener : vt. 데리고 가다, 데리고 오다
+- passer : vt. (시험을) 치르다
+
 ## remarques
 - 책에서는 vous의 현재형 어간을 가져와 변형하라고 되어 있다. 반면, [지름길 프랑스어 : L'imparfait (반과거)](https://www.shortcut-french.com/grammar/imparfait/)에서는 nous의 현재동사를 활용하라고 하고 있다. 내 생각에도 nous가 더 일관적인 것처럼 보인다. faire, dire는 nous의 현재동사 활용을 사용하면 예외가 없다.
 
