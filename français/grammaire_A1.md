@@ -4973,6 +4973,9 @@ chapitre 42
 - square : nm.
 - jardin : nm.
 
+## remarques
+- 책에서는 vous의 현재형 어간을 가져와 변형하라고 되어 있다. 반면, [지름길 프랑스어 : L'imparfait (반과거)](https://www.shortcut-french.com/grammar/imparfait/)에서는 nous의 현재동사를 활용하라고 하고 있다. 내 생각에도 nous가 더 일관적인 것처럼 보인다. faire, dire는 nous의 현재동사 활용을 사용하면 예외가 없다.
+
 # 48. Quand je serai grand, je serai président.
 
 ## le futur simple
@@ -5095,8 +5098,111 @@ chapitre 42
 - amener : vt. 데리고 가다, 데리고 오다
 - passer : vt. (시험을) 치르다
 
+# 49. Je mange, j'ai mangé, je vais manger, je mangeais, je mangerai
+
+## le présent, le passé, le futur (résumé)
+- exemples
+    - imparfait         Avant, j'habitais à Kobé.
+    - passé composé     En 1995, j'ai déménagé.
+    - présent           Maintenant, j'habite à Osaka.
+    - futur proche      Bientôt, je vais déménager.
+    - futur simple      Plus tard, j'habiterai à Tokyo.
+- les temps simples expriment des habitudes, des situations :
+    - J'habite à Osaka.
+    - Je suis étudiant.
+    - J'ai une moto.
+    - J'habitais à Kobe.
+    - Je étais lycéen.
+    - J'avais un vélo.
+    - J'habiterai à Tokyo.
+    - Je serai diplomate.
+    - J'aurai une Volvo.
+- le passé compose et le futur proche expriment des événements, des changements :
+    - En 1995, j'ai démengé.
+    - Je suis allé à Paris.
+    - Le mois prochain, je ais déménager.
+    - Je vais aller à Bruxelles.
+- le passé composé et l'imparfait
+    - le passé composé reconte un succession d'événements :
+        - Il est arrivé.
+        - Apres, il a pris un taxi.
+        - Apres, il est allé à l'hôtel.
+    - l'imparfait décrit une situation, sans changement de temps.
+        - Quand il est arrivé, il pleuvait.
+        - Il était fatigué.
+        - C'était la nuit.
+
+## exercices
+1. Transformez à l'imparfait et au futur simple, selon le modèle.
+- habiter
+    - Maintenant, j'habite à Rome.
+    - Avant, j'habitais à Milan.
+    - Plus tard, j'habiterai à Berlin.
+- être
+    - Maintenant, je suis lycéen.
+    - Avant, j'étais écolier.
+    - Plus tard, je serai étudiant.
+- parler
+    - Maintenant, je parle un peu français.
+    - Avant, je parlais très mal.
+    - Plus tard, je parlerai parfaitement.
+- avoir
+    - Maintenant, j'ai un appartement.
+    - Avant, j'avais un studio.
+    - Plus tard, j'aurai une maison.
+
+2. Complétez librement au futur simple. Continuez à toute les personnes.
+- Quand je serai grand, je serai professeur.
+- Quand Ada aura assez d'argent, elle fera un doctorat.
+- Quand il fera plus chaud, on cultivera des plantes.
+- Quand j'irai en France, je visiterai la Tour Eiffel.
+
+3. Completéz avec des verbes au présent puis à l'imparfait, selon le modèle.
+- M. Dupré sort à 11 h du matin.
+- M. Dupré sortait à 7 h du matin.
+- Il prend son café au "Monaco's".
+- Il prenait son café "Chez Lulu".
+- Il lit le Journal de Bourse.
+- Il lisait Paris-Turf.
+- Il joue au casino.
+- Il jouait au tiercé.
+- Il monte dans sa Rolls.
+- Il montait dans sa vieille Peugeot.
+- Il va à la plage.
+- Il allait au bureau.
+- Il se promène avec ses enfants.
+- Il se promenait avec son chien.
+
+4. Complétez aved des verbes au présent, à l'imparfait ou au passé composé.
+- acheter
+    - Avant, j'achetais mes habits chez "Spring".
+    - Un jour, j'ai acheté mes habits par correspondance.
+    - Maintenant, j'achète toujours mes habits par correspondance.
+- boire
+    - Avant, Léa buvait du café "Latazza".
+    - Un jour, elle a bu du café "Kawa".
+    - Maintenant, elle boit du café "Kawa".
+- aller
+    - Avant, nous allions à l'hôtel Tourista.
+    - Un jour, nous sommes allé(e)s à l'hôtel Panorama.
+    - Maintenant, nous allons à l'hôtel Panorama.
+
+## vocabulaires
+- déménager : vi. 이사하다
+- raconter : vt. 말하다, 이야기하다
+- écolier : n. 초등학생, 아이
+- faire un doctorat : 박사과정을 하다
+- cultiver : vt. 경작하다
+- tour : nf.
+- tiercé : 3연승식 경마
+- Bourse : nf. 증권거래소
+- monter : vt. (탈것에) 타다
+- habit : nm. 옷, 의상
+- par correspondance : 통신판매로
+
 ## remarques
-- 책에서는 vous의 현재형 어간을 가져와 변형하라고 되어 있다. 반면, [지름길 프랑스어 : L'imparfait (반과거)](https://www.shortcut-french.com/grammar/imparfait/)에서는 nous의 현재동사를 활용하라고 하고 있다. 내 생각에도 nous가 더 일관적인 것처럼 보인다. faire, dire는 nous의 현재동사 활용을 사용하면 예외가 없다.
+- 요약하면, 단순시제 (반과거, 단순현재, 단순미래)는 습관과 상황을 묘사하고, 복합과거와 근접미래는 사건과 변화를 묘사한다.
+
 
 →
 ←
