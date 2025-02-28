@@ -1649,7 +1649,7 @@ bilan : 결산
 - Où sont mes lunettes?     | Sur l'étagère.
 - Où est le programme-télé? | Sur la table.
 
-## vocabualaire
+## vocabulaires
 - espace : n.m. 공간
 - manège : n.m. 회전목마
 - autobus : n.m. 시내버스
@@ -2210,7 +2210,7 @@ avoir의 부정
         - cinq cent dix
         - six cent cinquante
 
-## exercice (1)
+## exercices (1)
 1. Écrivez et lisez les nombres de 1 à 10.
 - un, deux, trois, quatre, cinq, six, sept, huit, neuf, dix.
 
@@ -2611,7 +2611,7 @@ Le matin, c'est le printemps et il fait frais.
     - Elle a de la patience et du courage.  | 2
     - Il y a du soleil et du vent.          | 2
 
-## exercice
+## exercices
 
 1. Associéz les nationalités et les aliments en utilisant "le", "la", "les" ou "du", "de la", "des".
 - Les Italiens aiment les pâtes. Ils mangent des pâtes.
@@ -3745,7 +3745,7 @@ Mes enfants Luc et Thomas croient encore au Père Noël. Tous les ans, ils mette
 - faire         je fais         tu fais         il fait         nous faisons        vous faites         ils font
 - dire          je dis          tu dis          il dit          nous disons         vous dites          ils disent
 
-## exercice
+## exercices
 
 1. Faites des phrases avec le verbe "faire" + sport, selon le modèle.
 - Lucile et Simon font de la natation.
@@ -5202,6 +5202,105 @@ chapitre 42
 
 ## remarques
 - 요약하면, 단순시제 (반과거, 단순현재, 단순미래)는 습관과 상황을 묘사하고, 복합과거와 근접미래는 사건과 변화를 묘사한다.
+
+# exercices récapitulatifs
+
+1. La passé composé avec "être" et "avoir". / Transformez, selon le modèle. Continuez.
+- Il est né en 1970.
+- Il a passé son baccalauréat en 1988.
+- Il est parti pour l'Australie en 1989.
+- Il est resté 3 ans à Melbourne.
+- Il a passé une licence d'economie.
+- Il est rentré en France.
+- Il a fait un stage dans une entreprise.
+- Il s'est marié en 1993.
+- Il a eu une fille en 1994.
+- Il est entré dans la société Trenette en 1995.
+
+2. La passé composé et le futur proche. / Complétez. Continuer librement.
+- Nous avons visité Chambord.
+- Nous allons visiter Blois.
+- Le bateau est passé devant le Louvre.
+- Il va passer devant Notre-Dame.
+- Les enfants ont mangé un sandwich.
+- Ils vont manger une glace.
+- J'ai lu Anna Karenine.
+- Je vais lire Guerre et Paix.
+
+3. Le passé composé et l'imparfait. / Décrivez, racontez.
+- Avant, je ne fermais jamais ma porte à clé.
+- Un jour, des voleurs sont entrés par la porte.
+- Avant, Massimo était célibataire.
+- Un jour, il s'est marié.
+- Avant, ma mère ne conduisait pas.
+- Un jour, elle a pris son permis.
+- Avant, les Martiens ne connaissaient pas les Terriens.
+- Un jour, ils ont appris à parler la langue.
+
+## vocabulaires
+- baccalauréat : n. 바칼로레아
+- licence : nf. 학사
+- faire un stage : 수습하다, 수련하다, 강습받다, 실습을 나가다.
+- guerre : nf. 전쟁
+- paix : nf. 평화
+- voleur : n. 도둑
+- célibataire : a. 독신의
+- terrien : a. 지구의
+- permis : nm. 허가증, 운전면허증
+- constater : vt. 증명하다, 인정하다, 확인하다
+
+# bilan n.6
+
+1. Complétez avec des verbes au présent, au futur proche, au passé composé ou au futur simple.
+- Tu viens au café avec moi? / On va manger un sandwich et boire une bière.
+- Sylvie et Laurent vont déménager parce qu'ils vont avoir un bébé.
+- Samedi dernier, nous avons mangé un couscous, puis nous sommes allés au cinéma.
+- Hier soir, j'ai porté un imperméable et j'ai attendu sous la pluie pendant deux heures.
+- Est-ce que vous avez vu le film Le Bossu de Notre-Dame? / Non, mais j'ai lu le livre de Victor Hugo.
+- Hier, Max et Théo sont montés jusqu'au 3e étage de la tour Eiffel à pied et ils sont descendus.
+- Ce matin, Paul s'est levé tôt, il s'est rasé et il a sorti le chien.
+- Plus tard, quand Max aura 18 ans, il prendra le permis et ses parents lui donneront une voiture.
+- Dans deux mois, nous partirons en vacances : nous irons à la plage tous les jours et nous ferons du volley-ball sur le sable.
+- Avant, je buvais de la bière classique, un jour j'ai bu de la bière sans alcool, maintenant, je bois toujours de la bière sans alcool.
+- Quand j'étais petit, j'avais un chien qui était tout noir avec une tache blanche.
+- Ce matin, je me suis levé à 7 heures, je suis allé à l'aéroport en taxi et j'ai pris un avion pour Casablanca.
+
+2. Mettez les verbes soulignés au passé composé ou à l'imparfait.
+- présent
+    - Stella habite un petit village.
+    - Elle est très jolie.
+    - Elle chante tout le temps.
+    - Un jour, un homme arrive dans son village.
+    - C'est un grand photographe.
+    - Il est malade et il a besoin de se reposer.
+    - Il tombe amoureux de Stella.
+    - Il fait beaucoup de photos de la jeune fille.
+    - Elle devient célèbre dans le monde entier.
+- phrase alternée
+    - Stella habitait un petit village.
+    - Elle était très jolie.
+    - Elle chantait tout le temps.
+    - Un jour, un homme est arrivé dans son village.
+    - C'était un grand photographe.
+    - Il était malde et il avait besoin de se reposer.
+    - Il a tombé amoureux de Stella.
+    - Il a fait beaucoup de photos de la jeune fille.
+    - Elle a devient célèbre dans le monde entier.
+
+## vocabulaires
+- couscous : nm. 쿠스쿠스 (아프리카 요리)
+- imperméable : nm. 비옷, 레인코트
+- bossu : n. 꼽추, 곱사등이
+- raser : vt. vp. 면도하다
+- sable : nm. 모래, 모래밭
+- alcool : nm. 알코올
+- tache : nf. 점, 반점
+- souligner : vt. 밑줄을 긋다
+- photographe : n. 사진사
+- amoureux : 사랑하는
+- tomber amoureux : 사랑에 빠지다
+- faire de photos : 사진을 찍다
+- le monde entier : 온세상에
 
 
 →
