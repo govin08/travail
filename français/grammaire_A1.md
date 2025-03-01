@@ -5538,7 +5538,7 @@ chapitre 42
     - Quel âge avez-vous?
     - Quel jour sommes-nous?
     - C'est quoi?
-- 이 장에서 등장한 문장들중 자주 쓰이는 말도 다시 적어보자.
+- 이 장에서 등장한 문장들 중 자주 쓰이는 말도 다시 적어보자.
     - Qu'est-ce que tu fais?
     - Quelle heure est-il?
     - Quel temps fait-il?
@@ -5571,6 +5571,39 @@ chapitre 42
 - découvrir : 발견하다, 찾아내다
 - capitale : nf.
 - president : n.
+
+# 53. Il ne dit rien. Il ne sort jamais. Il ne rit plus.
+
+## la négation (2) : "ne ... rien", "ne ... jamais", "ne ... personne"
+- exemples
+    - Il ne dit rien.
+    - Il ne voit rien.
+    - Il n'entend rien.
+- la négation se place avant et après le verbe :
+    - "ne ... jamais"
+        - Elle ne sort jamais.
+        - Elle ne danse jamais.
+        - Elle ne rit jamais.
+    - "ne ... plus"
+        - Il ne fume plus.
+        - Il ne boit plus.
+        - Il ne sort plus.
+    - "ne ... rien"
+        - Je ne vois rien.
+        - Je n'entends rien.
+        - Je ne dis rien.
+    - "ne ... personne"
+        - Tu ne vois personne.
+        - 
+
+
+## remarques
+- 요약
+    - pas : 아니다
+    - jamais : 절대 아니다
+    - plus : (이제는) 더이상 ~ 아니다.
+    - rien : 아무, 아무것도
+    - personne : 아무도, 아무 사람도, 어떤 사람에게도 ~ 않다
 
 →
 ←
