@@ -5393,9 +5393,9 @@ chapitre 42
 - Le 1er juin. Je pars le ... mai!
 - Quand est-ce que tu pars?
 - Le 31. Et j'arrive le 1er à ...!
-- Quand est-ce que tu arrives?
+- Où est-ce que tu arrives?
 - Roissy. Je resterai ... jours à Paris.
-- Combien de jours est-ce qu tu restes?
+- Combien de jours est-ce que tu restes?
 - Deux jours. Et je reviendrai le ...
 - Quand est-ce que tu reviens?
 
@@ -5437,5 +5437,140 @@ chapitre 42
 - billet : nm. 티켓, 표, 지폐, 수표
 - durer : vi. 지속되다, 계속되다 (→ dure)
 - habituellement : 통상, 보통
+
+# 52. Qui habite ici? Qu'est-ce qu'il fait? Quelle est sa profession?
+
+## l'interrogation (3) : sur une personne ou une chose
+
+- exemples
+    - Quelle heure est-il à Rio?
+    - Quel temps fait-il?
+    - Qu'est-ce que tu fais en ce moment?
+    - Qu'est-ce que tu écoutes?
+    - Qui est avec toi?
+- "qui" remplace une personne :
+    - Qui habite ici?
+    - Qui cherchez-vous?
+- "que", "quoi", "qu'est-ce que" remplacement une chose :
+    - formel
+        - Que cherchez-vous?
+        - Que buvez-vous?
+    - courant
+        - Qu'est-ce que vous cherchez?
+        - Qu'est-ce que vous buvez?
+    - familier
+        - Vous cherchez quoi?
+        - Vous buvez quoi?
+- "quel(s)" et "quelle(s)" s'accordent avec le nom qu'ils accompagnent.
+    - Quel livre?
+    - Quels livres?
+    - Quelle voiture?
+    - Quelles voitures?
+
+## exercices
+
+1. Posez des questions avec "qui".
+- Quelqu'un habite ici?
+- Qui habite ici?
+- Quelqu'un travaille ici?
+- Qui travaille ici?
+- Vous cherchez quelqu'un?
+- Qui cherchez-vous?
+- Vous attendez quelqu'un?
+- Qui attendez-vous?
+
+2. Posez des question avec "qu'est-ce que" ou "que".
+- Vous buvez quelque chose?
+    - Que buvez-vous?
+    - Qu'est-ce que vous buvez?
+    - Vous buvez quoi?
+- Vous mangez quelque chose?
+    - Que mangez-vous?
+    - Qu'est-ce que vous mangez?
+    - Vous mangez quoi?
+- Vous cherchez quelque chose?
+    - Que cherchez-vous?
+    - Qu'est-ce que vous cherchez?
+    - Vous cherchez quoi?
+- Vous voulez quelque chose?
+    - Que voulez-vous?
+    - Qu'est-ce que vous voulez?
+    - Vous voulez quoi?
+- Vous attendez quelque chose?
+    - Qu'attendez-vous?
+    - Qu'est-ce que vous attendez?
+    - Vous attendez quoi?
+
+3. "quel(s)", "quelle(s)" : posez des questions.
+- Tu connais la nouvelle?
+    - Quelle nouvelle?
+- Tu n'as pas regardé l'émission?
+    - Quelle émission?
+- Le ministre est en prison!
+    - Quel ministre?
+- Ils ont retrouvé la valise!
+    - Quelle valise?
+- Les bijoux étaient faux!
+    - Quels bijoux?
+- Les photos étaient truquées.
+    - Quelles photos?
+
+4. Complétez avec "qu'est-ce que", "quel", "quelle"
+- Quelle est votre profession? Qu'est-ce que vous faites?
+- Quelle est votre adresse? Quel est votre âge?
+- Qu'est-ce que vous faites cet été? Quel est votre programme?
+- Quel est le menu aujourd'hui? Qu'est-ce qu'on mange?
+- Quel temps fait-il à Lisbonne? Qu'est-ce que j'emporte comme vêtement?
+
+5. Complétez avec "qui", "quel", "quelle".
+- Qui a découvert l'Amerique? / Christophe Colomb.
+- Quelle est la capitale du Brésil? / Bresilia.
+- Quel acteur a été president des Étas-Unis? / Ronald Reagan.
+- Quelle est la capitale de la Norvège? / Oslo.
+
+## remarques
+- exercice 3에 나오는 단어 nouvelle
+    - 명사로서 소식, 뉴스 라는 뜻이고 뉴스라는 뜻으로 쓰일 때에는 복수로 쓰인다.
+    - '새로운'이라는 뜻의 형용사 nouveau의 변화형과 그 스펠링이 겹친다 : nouveau (nouvel) / nouveaux / nouvelle / nouvelles
+- exercice 4의 마지막 문장 해석이 어려웠다. Qu'est-ce que j'emporte comme vêtement? 직역하면, 옷으로는 뭘 가져갈까요? 가 되고 의역하면 어떤 옷을 가져갈까요? 가 된다.
+- exercice 5의 세번쨰 문장 Quel acteur a été president des Étas-Unis? / Ronald Reagan.에서 Quel이 나온 이유는 acteur 때문인가? president 때문인가? → claude에 따르면 acteur 때문이다.
+- 이 장에서 등장한 문장은 아니지만, 꽤 자주 쓰이는 말로 다음과 같은 의문문들이 있다.
+    - Quel âge avez-vous?
+    - Quel jour sommes-nous?
+    - C'est quoi?
+- 이 장에서 등장한 문장들중 자주 쓰이는 말도 다시 적어보자.
+    - Qu'est-ce que tu fais?
+    - Quelle heure est-il?
+    - Quel temps fait-il?
+
+## vocabulaires
+- profession : nf. 직업 (=métier)
+- heure : nf.
+- Quelle heure est-il? : (현재 시간을 물어보는 말)
+- temps : nm.
+- Quel temps fait-il? : (현재 날씨를 물어보는 말)
+- Qu'est-ce que tu fais? : 너 지금 뭐해?
+- formel : a. 형식적인 (↔ familier)
+- courant : a. 달리는, (물이) 흐르는듯한
+- accompagner : vt. 동반하다, 수행하다, 동시에 일어나다
+- quelqu'un : 어떤 사람, 누군가
+- nouvelle : nf. 소식, 소문, (복수)뉴스, 보도
+- émission : nf.
+- ministre : nm.
+- prison : nf. 감옥, 교도소
+- en prison : 수감되다
+- bijou : nm.
+- faux : a. 잘못된, 거짓된
+- photo : nf.
+- truquer : a. 속임수를 쓰다, 위조하다, 속이다 (→ truqué)
+- adresse : nf.
+- âge : nm.
+- programme : nm.
+- menu : nm. (carte : f.)
+- emporter : vt. 가지고 가다
+- découvrir : 발견하다, 찾아내다
+- capitale : nf.
+- president : n.
+
 →
 ←
