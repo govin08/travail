@@ -5270,7 +5270,7 @@ chapitre 42
 - J'étudie le français depuis 1 an.
 - J'ai acheté mon livre il y a 6 mois.
 - Je partirai en vacances dans 5 mois.
-- J'ai fait trois exercice en 2 heures.
+- J'ai fait trois exercices en 2 heures.
 
 ## remarques
 - depuis는 "시점/시각"과 쓰이기도 하고 "시간"과 쓰이기도 한다.
@@ -5289,6 +5289,7 @@ chapitre 42
 - en의 설명이 잘 와닿지 않는다. 네이버 사전의 "(소요 기간) ... 걸려서"이라는 설명이 가장 정확할 듯도 하다. 본문에 나타난 예시에 대한 해석은 다음과 같이 될 것이다.
   - 나는 8시간동안 여행했다.
   - 나는 3일 만에 모든 것을 끝냈다.
+- court(짧은)은 명사를 앞에서 수식하는 형용사이다. 이것은 BAGS(beauty, age, goodness, size) 중 size에 해당된다고 할 수 있어서 명사를 앞에서 수식할 수 있다. 비슷한 형용사로 long이 있다.
 - exercice 3의 문장 J'ai la même montre depuis trois ans.는 청자와 같은 시계를 3년동안 가지고 있었다는 뜻은 아니다. 한 시계를 (바꾸지 않고) 3년동안 사용했다는 뜻이다.
 - exercice 5는 진도를 한참 앞질러가있다. 관계대명사, 수동태, 과거분사의 성/수 일치 등 아직 배우지 않은 건데도 막 나오고 있다. 내가 어려워하는 건 당연하다. 그래도 하나하나씩 보자.
     - Les agriculteurs soignent leurs récoltes depuis des mois mais un orage peut tout détruire en quelques minutes.
@@ -5325,6 +5326,116 @@ chapitre 42
 - semer : vt. 씨를 뿌리다, 파종하다, vp. 파종되다
 - semé : a. 뿌려진
 - radis : nm. 라디 (무의 일종)
-couvre
+
+# 51. Où? Quand? Comment? Combien? Pourquoi?
+
+## l'interrogation (2) : sur le lieu, le temps, la manière
+- exemples
+    - Où allez-vous?
+    - Quand partez-vous?
+    - Comment partez-vous?
+    - Combien coûte le voyage?
+    - Pourquoi partez-vous?
+- "Où", "Quand", "Comment", "Combien", "Pourquoi"
+    - L'interrogatif est en début de phrase : on inverse le verbe et le sujet.
+        - lieu          Où allez-vous?                  À Milan.
+        - temps         Quand partez-vous?              Mardi.
+        - quantité      Combien partez-vous?            1000 F.
+        - manière       Comment partez-vous?            En train.
+        - Cause et but  Pourquoi partez-vous en train?  Parce que j'ai peur de l'avion.
+                                                        Pour voyager de nuit.
+    - En français familier, on place l'interrogatif à la fin, sans inversion :
+        - Vous allez où?
+        - Vous partez quand?
+
+## exercices
+
+1. Transformez selon le modèle avec "où", "quand", "comment"
+- Vous partez lundi ou mardi?
+- Quand partez-vous?
+- Vous allez à la mer ou à la montagne?
+- Où allez-vous?
+- Vous partez en car ou en train?
+- Comment partez-vous?
+- Vous revenez samedi ou dimanche?
+- Quand revenez-vous?
+
+2. Associez les questions et les réponses.
+- Où arrive le bus?
+- Sur la place.
+- Quand part le prochain bus?
+- À trois heures.
+- Combien coûte le billet?
+- 8 euros.
+- Combien de temps dure le voyage?
+- Moins d'une heure.
+
+3. "Où", "quand", "comment", "combien", "pourquoi"
+- Où habitez-vous?
+- J'habite à Lausanne.
+- Où travaillez-vous?
+- Je travaille dans une banque.
+- Quand partez-vous en vacances?
+- Je pars en septembre.
+- Où allez-vous habituellement?
+- Je vais toujours en Espagne.
+- Pourquoi partez-vous en juillet?
+- Je pars en juillet parce qu'il y a moins de monde.
+- Comment partez-vous?
+- Je pars en train ou en avion.
+- Combien de temps partez-vous?
+- Je pars quinze jours.
+
+4. Posez des question avec "où", "quand" et "combien". Continuez le dialogue.
+(La communication est mauvaise)
+- Allô? Michèle? J'arrive le ... juin!
+- Quand est-ce que tu arrives?
+- Le 1er juin. Je pars le ... mai!
+- Quand est-ce que tu pars?
+- Le 31. Et j'arrive le 1er à ...!
+- Quand est-ce que tu arrives?
+- Roissy. Je resterai ... jours à Paris.
+- Combien de jours est-ce qu tu restes?
+- Deux jours. Et je reviendrai le ...
+- Quand est-ce que tu reviens?
+
+## remarques
+- 의문사들의 대응관계는 다음과 같다.
+    - où        where           어디서
+    - quand     when            언제
+    - comment   how             어떻게
+    - combien   how many(much)  
+    - pourquoi  why             왜
+
+    육하원칙 중 네 개가 등장했다. 누가(who), 무엇을(what)은 아마 다음 장에 나올 것이다.
+
+- prochain은 명사 앞에서 수식할 수 있다. (뒤에서도 수식할 수 있다) 비슷한 형용사로 premier, dernier 등이 있다.
+    - prochain(e) : 경우에 따라 앞/뒤에서 수식하는 것으로 보임
+        - le prochain train 
+        - un jour prochain.
+        - Quand est-ce qu'est la prochaine réunion?
+        - Il rentrera l'année prochaine.
+    - dernier(dernière) : 경우에 따라 앞/뒤에서 수식하는 것으로 보임
+        - Il habite au dernier étage.
+        - l'année dernière, l'an dernier.
+        - C'est ta dernière chance. 
+        - un produit sorti la semaine dernière. 
+    - premier(première) : 항상 앞에서 수식
+        - premier ministre, le premier livre.
+        - Sa première dent est sortie.
+- il y a moins de monde : 사람들이 적다. 사람들의 왕래가 적다.
+- exercice 3의 마지막에서 Je pars quinze jours.는 내가 볼 때는 특이한 표현이다. 첫째로, quinze jours가 부사구처럼 쓰이고 있다. 둘째로, '15일 후에 떠나요'가 아니라 '15일간 떠나 있어요.' 이다. 원래 질문도 '며칠동안 떠나계십니까?'로 해석해야 한다고 한다.
+
+## vocabulaires
+- interrogation : n.f. 의문문
+- manière : nf. 방식, 방법, 수법
+- interrogatif : nm. 의문사
+- inverser : vt. 거꾸로 하다, 전도시키다
+- cause : nf. 원인, 이유, 동기
+- but : nm. 목적, 과녁, 표적, 목적지, 목표
+- familier : a. 허물없는, 격식을 차리지 않는
+- billet : nm. 티켓, 표, 지폐, 수표
+- durer : vi. 지속되다, 계속되다 (→ dure)
+- habituellement : 통상, 보통
 →
 ←
