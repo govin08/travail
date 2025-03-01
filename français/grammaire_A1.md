@@ -3988,111 +3988,6 @@ chapitre 42
     - avoir         j'ai            tu as           il a            nous avons          vous avez           ils ont
 
 
-<!-- # un récapitulatif de cette partie
-chapitre 35 (deux formes, -ir)
-- +ss (adjectif, nom)
-    - grandir     je grandis    tu grandis    il grandit    nous grandissons    vous grandissez   ils grandissent   j'ai grandi
-    - grossir     je grossis    tu grossis    il grossit    nous grossissons    vous grossissez   ils grossissent   j'ai grossi
-    - vieillir    je vieillis   tu vieillis   il vieillit   nous vieillissons   vous vieillissez  ils vieillissent  j'ai vieilli
-    - rougir      je rougis     tu rougis     il rougit     nous rougissons     vous rougissez    ils rougissent    j'ai rougi
-    - brunir      je brunis     tu brunis     il brunit     nous brunissons     vous brunissez    ils brunissent    j'ai bruni
-    - maigrir     je maigris    tu maigris    il maigrit    nous maigrissons    vous maigrissez   ils maigrissent   j'ai maigri
-    - pâlir       je pâlis      tu pâlis      il pâlit      nous pâlissons      vous pâlissez     ils pâlissent     j'ai pâli
-    - jaunir      je jaunis     tu jaunis     il jaunit     nous jaunissons     vous jaunissez    ils jaunissent    j'ai jauni
-    - fleurir     je fleuris    tu fleuris    il fleurit    nous fleurissons    vous fleurissez   ils fleurissent   j'ai fleuri
-- +ss
-    - finir       je finis      tu finis      il finit      nous finissons      vous finissez     ils finissent     j'ai fini
-    - choisir     je choisis    tu choisis    il choisit    nous choisissons    vous choisissez   ils choisissent   j'ai choisi
-    - guérir      je guéris     tu guéris     il guérit     nous guérissons     vous guérissez    ils guérissent    j'ai guéri
-    - applaudir   j'applaudis   tu applaudis  il applaudit  nous applaudissons  vous applaudissez ils applaudissent j'ai applaudi
-    - ralentir    je ralentis   tu ralentis   il ralentit   nous ralentissons   vous ralentissez  ils ralentissent  j'ai ralenti
-    - réfléchir   je réfléchis  tu réfléchis  il réfléchit  nous réfléchissons  vous réfléchissez ils réfléchissent j'ai réfléchi
-    - atterrir    j'atterris    tu atterris   il atterrit   nous atterrissons   vous atterrissez  ils atterrissent  j'ai atterri
-    - réunir      je réunis     tu réunis     il réunit     nous réunissons     vous réunissez    ils réunissent    j'ai réuni
-
-chapitre 36 (deux formes, -ir)
-- -t
-    - partir      je pars       tu pars       il part       nous partons        vous partez       ils partent       je suis parti 
-    - sortir      je sors       tu sors       il sort       nous sortons        vous sortez       ils sortent       je suis sorti
-    - sentir      je sens       tu sens       il sent       nous sentons        vous sentez       ils sentent       j'ai senti
-- -m
-    - dormir      je dors       tu dors       il dort       nous dormons        vous dormez       ils dorment       j'ai dormi
-- -v
-    - servir      je sers       tu sers       il sert       nous servons        vous servez       ils servent       j'ai servi
-    - suivre      je suis       tu suis       il suit       nous suivons        vous suivez       ils suivent       j'ai suivi
-    - vivre       je vis        tu vis        il vit        nous vivons         vous vivez        ils vivent        j'ai vécu
-
-chapitre 37 (deux formes, -re)
-- +v
-    - écrire      j'écris       tu écris      il écrit      nous écrivons       vous écrivez      ils écrivent      j'ai écrit
-    - décrire     je décris     tu décris     il décrit     nous décrivons      vous décrivez     ils décrivent     j'ai décrit
-    - inscrire    j'inscris     tu inscris    il inscrit    nous inscrivons     vous inscrivez    ils inscrivent    j'ai inscrit
-- +s
-    - lire        je lis        tu lis        il lit        nous lisons         vous lisez        ils lisent        j'ai lu
-    - interdire   j'interdis    tu interdis   il interdit   nous interdisons    vous interdisez   ils interdisent   j'ai interdit
-    - plaire      je plais      tu plais      il plaît      nous plaisons       vous plaisez      ils plaisent      j'ai plu
-    - conduire    je conduis    tu conduis    il conduit    nous conduisons     vous conduisez    ils conduisent    j'ai conduit
-    - construire  je construis  tu construis  il construit  nous construisons   vous construisez  ils construisent  j'ai construit
-    - traduire    je traduis    tu traduis    il traduit    nous traduisons     vous traduisez    ils traduisent    j'ai traduit
-    - détruire    je détruis    tu détruis    il détruit    nous détruisons     vous détruisez    ils détruisent    j'ai détruit
-- +t
-    - mettre      je mets       tu mets       il met        nous mettons        vous mettez       ils mettent       j'ai mis
-    - battre      je bats       tu bats       il bat        nous battons        vous battez       ils battent       j'ai battu
-    - permettre   je permets    tu permets    il permet     nous permettons     vous permettez    ils permettent    j'ai permis
-    - promettre   je promets    tu promets    il promet     nous promettons     vous promettez    ils promettent    j'ai promis
-- +d
-    - répondre    je réponds    tu réponds    il répond     nous répondons      vous répondez     ils répondent     j'ai répondu
-    - entendre    j'entends     tu entends    il entend     nous entendons      vous entendez     ils entendent     j'ai entendu
-    - attendre    j'attends     tu attends    il attend     nous attendons      vous attendez     ils attendent     j'ai attendu
-    - vendre      je vends      tu vends      il vend       nous vendons        vous vendez       ils vendent       j'ai vendu
-    - perdre      je perds      tu perds      il perd       nous perdons        vous perdez       ils perdent       j'ai perdu
-    - descendre   je descends   tu descends   il descend    nous descendons     vous descendez    ils descendent    j'ai descendu
-- +(muet)
-    - rire        je ris        tu ris        il rit        nous rions          vous riez         ils rient         j'ai ri
-    - sourire     je souris     tu souris     il sourit     nous sourions       vous souriez      ils sourient      j'ai souri
-
-chapitre 38 (deux formes)
-- particuliers
-    - connaître   je connais    tu connais    il connaît    nous connaissons    vous connaissez   ils connaissent   j'ai connu
-    - savoir      je sais       tu sais       il sait       nous savons         vous savez        ils savent        j'ai su
-    - croire      je crois      tu crois      il croit      nous croyons        vous croyez       ils croient       j'ai cru
-    - voir        je vois       tu vois       il voit       nous voyons         vous voyez        ils voient        j'ai vu
-
-chapitre 39 (trois formes, -ir, -re, -oir)
-- oi, uv, oiv
-    - boire       je bois       tu bois       il boit       nous buvons         vous buvez        ils boivent       j'ai bu
-- çoi, ce, çoiv
-    - recevoir    je reçois     tu reçois     il reçoit     nous recevons       vous recevez      ils reçoivent     j'ai reçu
-- -n, -nn
-    - prendre     je prends     tu prends     il prend      nous prenons        vous prenez       ils prennent      j'ai pris
-    - apprendre   j'apprends    tu apprends   il apprend    nous apprenons      vous apprenez     ils apprennent    j'ai appris
-    - comprendre  je comprends  tu comprends  il comprend   nous comprenons     vous comprenez    ils comprennent   j'ai compris
-- ien, -n, ienn
-    - venir       je viens      tu viens      il vient      nous venons         vous venez        ils viennent      je suis venu
-    - devenir     je deviens    tu deviens    il devient    nous devenons       vous devenez      ils deviennent    je suis devenu
-    - revenir     je reviens    tu reviens    il revient    nous revenons       vous revenez      ils reviennent    je suis revenu
-    - tenir       je tiens      tu tiens      il tient      nous tenons         vous tenez        ils tiennent      j'ai tenu
-    - souvenir    je souviens   tu souviens   il souvient   nous souvenons      vous souvenez     ils souviennent   je suis souvenu
-    - courir      je cours      tu cours      il court      nous courons        vous courez       ils courent       j'ai couru
-
-chapitre 40 (trois formes, -oir)
-- eu, ou
-    - vouloir     je veux       tu veux       il veut       nous voulons        vous voulez       ils veulent       j'ai voulu
-    - pouvoir     je peux       tu peux       il peut       nous pouvons        vous pouvez       ils peuvent       j'ai pu
-- v, oiv
-    - devoir      je dois       tu dois       il doit       nous devons         vous devez        ils doivent       j'ai dû
-
-chapitre 41
-- conjugaison irrégulière
-    - faire       je fais       tu fais       il fait       nous faisons        vous faites       ils font          j'ai fait
-    - dire        je dis        tu dis        il dit        nous disons         vous dites        ils disent        j'ai dit
-
-chapitre 42
-- conjugaison irrégulière
-    - aller       je vais       tu vas        il va         nous allons         vous allez        ils vont          je suis allé
-    - avoir       j'ai          tu as         il a          nous avons          vous avez         ils ont           j'ai eu
-    - être        je suis       tu es         il est        nous sommes         vous êtes         ils sont          j'ai été -->
-
 # exercices récapitulatifs
 
 1. Les verbes au présent. / Mettez au pluriel.
@@ -4832,11 +4727,13 @@ chapitre 37 (deux formes, -re)
     - attendre    j'attends     tu attends    il attend     nous attendons      vous attendez     ils attendent     j'ai attendu
     - vendre      je vends      tu vends      il vend       nous vendons        vous vendez       ils vendent       j'ai vendu
     - perdre      je perds      tu perds      il perd       nous perdons        vous perdez       ils perdent       j'ai perdu
-    - descendre   je descends   tu descends   il descend    nous descendons     vous descendez    ils descendent    j'ai descendu
-- +(muet)
+    - descendre   je descends   tu descends   il descend    nous descendons     vous descendez    ils descendent    je suis descendu
+- +r
     - rire        je ris        tu ris        il rit        nous rions          vous riez         ils rient         j'ai ri
     - sourire     je souris     tu souris     il sourit     nous sourions       vous souriez      ils sourient      j'ai souri
     - mourir      je meurs      tu meurs      il meurt      nous mourons        vous mourez       ils mourent       je suis mort
+    - courir      je cours      tu cours      il court      nous courons        vous courez       ils courent       j'ai couru
+    - couvrir     je couvre     tu couvres    il couvre     nous couvrons       vous couvrez      ils couvrent      j'ai couvert
 
 chapitre 38 (deux formes)
 - particuliers
@@ -4862,7 +4759,6 @@ chapitre 39 (trois formes, -ir, -re, -oir)
     - revenir     je reviens    tu reviens    il revient    nous revenons       vous revenez      ils reviennent    je suis revenu
     - tenir       je tiens      tu tiens      il tient      nous tenons         vous tenez        ils tiennent      j'ai tenu
     - souvenir    je souviens   tu souviens   il souvient   nous souvenons      vous souvenez     ils souviennent   je suis souvenu
-    - courir      je cours      tu cours      il court      nous courons        vous courez       ils courent       j'ai couru
 
 chapitre 40 (trois formes, -oir)
 - eu, ou
@@ -5302,6 +5198,133 @@ chapitre 42
 - faire de photos : 사진을 찍다
 - le monde entier : 온세상에
 
+# 50. il y a deux ans, pendant deux ans, depuis deux ans, dans deux ans.
 
+## "il y a", "pendant", "depuis", "dans" : préposition de temps
+
+- exemples
+  - Il est parti il y a deux jours.
+  - Il arrivera dans deux jours.
+  - Il a dormi pendant quatre heures.
+  - Il marche depuis deux heures.
+- "depuis" : durée qui continue
+  - "depuis" + présent
+  - Je suis professeur depuis 1995.
+  - Je travaille depuis huit heures.
+- "pendant" : durée finie et limitée
+  - "pendant" + passé composé
+  - J'ai été secrétaire pendant 6 jours.
+  - J'ai dormi pendant 4 heures.
+- "il y a" : moment dans le passé
+  - J'ai passé le bac il y a trois ans.
+  - Je suis arrivé il y a dix jours.
+- "dans" : moment dans le futur
+  - Je passerai la licence dans six mois.
+  - Je partirai dans trois semaines.
+- "en" : courte quantité de temps utilisé
+  - J'ai fait le voyage en 8 heures.
+  - J'ai tout fini en 3 jours.
+
+## exercices
+1. Complétez avec un verbe au présent et "depuis".
+- Je suis professeur depuis 1985.
+- Michaël habite en Australie depuis vingt ans.
+- Anne parle avec Sophie depuis deux heures.
+- Nous attendons le bus depuis une demi-heure.
+
+2. Complétez avec "depuis" ou "pendant". Continuez librement.
+(Sopie a 17 ans. Elle partage les intérêts de sa mère à son âge.)
+- Sophie étudie le russe depuis deux ans.
+- Sa mère a étudié le russe pendant cinq ans.
+- Elle a un correspondant à Moscou depuis six mois.
+- Sa mère a été un correspondant à Saint-Pétersbourg pendant un an.
+- Elle joue du piano depuis trois ans.
+- Sa mère a joué du piano pendant quinze ans.
+- Elle fait de la danse depuis huit ans.
+- Sa mère a fait de la danse pendant dix ans.
+
+3. Complétez avec "depuis" ou "il y a". Donnez des informations personnelles.
+- J'habite à Paris depuis vingt ans.
+- J'étudie le français depuis un an.
+- J'ai commencé il y a un an.
+- J'ai acheté ce livre il y a deux mois.
+- J'ai la même montre depuis trois ans.
+- J'habite à Séoul depuis dix-huit ans.
+- J'étudie le français depuis environ quinze mois.
+- J'ai appris Python il y a cinq ans.
+- J'ai acheté ce livre il y a six mois.
+- J'ai le même clavier depuis un an.
+
+4. Faite des phrases avec "il y a" ou "dans".
+- Mes parents sont partis il y a dix jours. Ils rentreront dans une semaine.
+- Le cours a commencé il y a deux mois. Il finira dans un mois.
+- L'avion est arrivé il y a trois heures. Il repartira dans deux heures.
+- Max et Léa se sont rencontrés il y a quatre ans. Ils se marieront dans un an.
+
+5. Complétez avec "pendant", "il y a", "dans" ou "en".
+- Les agriculteurs soignent leurs récoltes depuis des mois mais un orage peut tout détruire en quelques minutes.
+- En ce moment, c'est la fin de l'hiver, les arbres sont nus mais dans trois mois, ils seront couverts de fleurs.
+- Si tout va bien, les graines qu'ils ont semées depuis deux mois donneront des radis dans une semaine.
+
+6. Complétez librement avec "depuis", "il y a", "dans" ou "en".
+- J'étudie le français depuis 1 an.
+- J'ai acheté mon livre il y a 6 mois.
+- Je partirai en vacances dans 5 mois.
+- J'ai fait trois exercice en 2 heures.
+
+## remarques
+- depuis는 "시점/시각"과 쓰이기도 하고 "시간"과 쓰이기도 한다.
+  - Je t'attends depuis deux heures. : 두 시간 전부터 (시간)
+  - depuis des siècles : 여러 세기 전부터 (시간)
+  - J’apprends le français depuis trois ans. 3년 전부터 (시간)
+  - depuis l'âge de douze : 12살 부터 (시각/시점)
+  - depuis le 15 mars : 3월 15일부터 (시각/시점)
+  - depuis son accident : 사고 이후로 (시각/시점)
+  - Je suis enroué depuis hier. : 어제부터 (시각/시점)
+- 각 표현 별 시제
+  - depuis  : présent → since
+  - pendant : passé composé (다른 시제들도 사용 가능) → for, during
+  - il y a  : passé → ago
+  - dans    : futur → in
+- en의 설명이 잘 와닿지 않는다. 네이버 사전의 "(소요 기간) ... 걸려서"이라는 설명이 가장 정확할 듯도 하다. 본문에 나타난 예시에 대한 해석은 다음과 같이 될 것이다.
+  - 나는 8시간동안 여행했다.
+  - 나는 3일 만에 모든 것을 끝냈다.
+- exercice 3의 문장 J'ai la même montre depuis trois ans.는 청자와 같은 시계를 3년동안 가지고 있었다는 뜻은 아니다. 한 시계를 (바꾸지 않고) 3년동안 사용했다는 뜻이다.
+- exercice 5는 진도를 한참 앞질러가있다. 관계대명사, 수동태, 과거분사의 성/수 일치 등 아직 배우지 않은 건데도 막 나오고 있다. 내가 어려워하는 건 당연하다. 그래도 하나하나씩 보자.
+    - Les agriculteurs soignent leurs récoltes depuis des mois mais un orage peut tout détruire en quelques minutes.
+        - 농민들은 몇 달 전부터 수확물들을 가꾸지만 폭풍우가 오면 몇 분만에 모든 것이 파괴될 수 있다.
+        - 단어들이 좀 어려워서 그렇지 어려운 문법구조는 없다.
+    - En ce moment, c'est la fin de l'hiver, les arbres sont nus mais dans trois mois, ils seront couverts de fleurs.
+        - 지금은 겨울이 끝나가는 시기이고 나무들은 헐벗었지만 3달 후에는 꽃으로 뒤덮일 것이다.
+        - nus는 형용사 nu의 변형이다. 과거분사에서 유래한 것이 아닌 순수한 형용사이다.
+        - couverts는 과거분사 couvert의 변형이고 이것의 원형은 couvrir이다. **수동태**가 쓰였다. 수동태시 과거분사가 나오고 과거분사는 동사에 성수일치시킨다.
+    - Si tout va bien, les graines qu'ils ont semées depuis deux mois donneront des radis dans une semaine.
+        - 만약 모든 게 잘 돌아간다면, 농민들이 두 달 전에 뿌린 씨앗들이 일주일 후에는 무를 안겨줄 것이다.
+        - qu'ils에서 que는 관계대명사이다. 선행사는 les graines이다. 그리고 ils는 les agriculteurs를 가리킨다.
+        - semées는 과거분사 semé의 변형이고 이것의 원형은 semer이다. 복합과거가 쓰였다. **직접목적어가 동사 앞에 위치할 때는 과거분사가 그 직접목적어와 성수일치시킨다**는 규칙이 적용되었다. 즉, semées의 직접목적어는 que=les graines 이것은 semées보다 앞에 나왔다. 따라서 semées는 les graines 성수일치되어 semées의 형태가 된 것이다.
+
+## vocabulaires
+- préposition : 전치사
+- court : a. 짧은 (f. courte)
+- enroué : a. 걸걸한, 목이 쉰
+- secrétaire : n. 비서, 조수, 서기
+- bac → bacaalauréat
+- licence : nf. 학사
+- demie-heure : nf. 반시간
+- correspondant : n. 서신교환자, 펜팔상대, 전화상대
+- partager : 나누다, 분배하다, 공유하다
+- partager un intérêt : 같은 관심거리를 갖고 있다.
+- soigner : vt. 마음을 쓰다, 가꾸다
+- récolte : nf. 수확, 수확물
+- orage : nm. 뇌우, 폭풍우
+- en ce moment : 현재, 지금
+- nu : a. 벌거벗은, 나체의, 노출된
+- couvert : a. 뒤덮인, 옷을 입은 (← couvre)
+- grain : nm. 낟알, 곡물, 곡식
+- graine : nf. 씨, 씨앗, 종자
+- semer : vt. 씨를 뿌리다, 파종하다, vp. 파종되다
+- semé : a. 뿌려진
+- radis : nm. 라디 (무의 일종)
+couvre
 →
 ←
