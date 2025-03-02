@@ -1120,7 +1120,7 @@ J'ai un fils. Il s'appelle Thibaud. Il a huit ans. Il a un très bon copain qui 
 - à peu près : 거의, 대략
 - mannequin : n.m. 마네킹
 - cartable : n.m. 책가방
-- voix : n.m 목소리, 음성
+- voix : n.f 목소리, 음성
 
 ## remarques
 - avoir 동사의 여섯가지 변형들은 모두 모음으로 시작한다. 따라서, 부정형을 만들 때 n'(n + l'apostrophe)형태가 항상 나타난다.
@@ -5261,10 +5261,18 @@ chapitre 42
 - L'avion est arrivé il y a trois heures. Il repartira dans deux heures.
 - Max et Léa se sont rencontrés il y a quatre ans. Ils se marieront dans un an.
 
-5. Complétez avec "pendant", "il y a", "dans" ou "en".
+5*. Complétez avec "pendant", "il y a", "dans" ou "en".
 - Les agriculteurs soignent leurs récoltes depuis des mois mais un orage peut tout détruire en quelques minutes.
 - En ce moment, c'est la fin de l'hiver, les arbres sont nus mais dans trois mois, ils seront couverts de fleurs.
 - Si tout va bien, les graines qu'ils ont semées depuis deux mois donneront des radis dans une semaine.
+
+5. Complétez avec "il y a", "depuis", "dans", "pendant" ou "en".
+- Je suis arrivée à Paris il y a un mois.
+- J'ai d'abord habité chez mon amie espagnole, Ines, pendant quinze jours.
+- Ines parle bien français : elle habite ici depuis trois ans et elle travaille dans une agence immobilière depuis neuf mois.
+- Grâce à elle, j'ai trouvé un petit studio tout près de l'université : je fais le trajet à pied en dix minutes.
+- Les cours commenceront seulement dans une semaine.
+- C'est super.
 
 6. Complétez librement avec "depuis", "il y a", "dans" ou "en".
 - J'étudie le français depuis 1 an.
@@ -5291,7 +5299,7 @@ chapitre 42
   - 나는 3일 만에 모든 것을 끝냈다.
 - court(짧은)은 명사를 앞에서 수식하는 형용사이다. 이것은 BAGS(beauty, age, goodness, size) 중 size에 해당된다고 할 수 있어서 명사를 앞에서 수식할 수 있다. 비슷한 형용사로 long이 있다.
 - exercice 3의 문장 J'ai la même montre depuis trois ans.는 청자와 같은 시계를 3년동안 가지고 있었다는 뜻은 아니다. 한 시계를 (바꾸지 않고) 3년동안 사용했다는 뜻이다.
-- exercice 5는 진도를 한참 앞질러가있다. 관계대명사, 수동태, 과거분사의 성/수 일치 등 아직 배우지 않은 건데도 막 나오고 있다. 내가 어려워하는 건 당연하다. 그래도 하나하나씩 보자.
+- exercice 5*는 진도를 한참 앞질러가있다. 관계대명사, 수동태, 과거분사의 성/수 일치 등 아직 배우지 않은 건데도 막 나오고 있다. 내가 어려워하는 건 당연하다. 그래도 하나하나씩 보자. 사실 이 exercice 는 내 교재(3e édition)에는 없고 이전 버전의 교재(pdf 파일)에 있던 문제이다. 그래서 정답은 알 수 없다.
     - Les agriculteurs soignent leurs récoltes depuis des mois mais un orage peut tout détruire en quelques minutes.
         - 농민들은 몇 달 전부터 수확물들을 가꾸지만 폭풍우가 오면 몇 분만에 모든 것이 파괴될 수 있다.
         - 단어들이 좀 어려워서 그렇지 어려운 문법구조는 없다.
@@ -5326,6 +5334,14 @@ chapitre 42
 - semer : vt. 씨를 뿌리다, 파종하다, vp. 파종되다
 - semé : a. 뿌려진
 - radis : nm. 라디 (무의 일종)
+- d'abord : 우선, 앞서, 먼저
+- agence : nf. 대리점, 대행사무소, 중개사무소
+- agence immobilière : 부동산 중개소, 복덕방
+- grâce : 은혜, 친절, 은총
+- grâce à : ~ 덕분에, 덕택에
+- près : ~의 가까이에
+- trajet : 도정, 여정
+- faire le trajet : 가다, 통학하다, 통근하다
 
 # 51. Où? Quand? Comment? Combien? Pourquoi?
 
@@ -5408,6 +5424,10 @@ chapitre 42
     - pourquoi  why             왜
 
     육하원칙 중 네 개가 등장했다. 누가(who), 무엇을(what)은 아마 다음 장에 나올 것이다.
+
+- Quand와 Combien de temps는 미묘하게 다르다.
+    - Quand : "언제"라는 뜻이다. 시각을 물어본다.
+    - Combien de temps : "얼마나 오래"라는 뜻이다. 시간(지속시간)을 물어본다.
 
 - prochain은 명사 앞에서 수식할 수 있다. (뒤에서도 수식할 수 있다) 비슷한 형용사로 premier, dernier 등이 있다.
     - prochain(e) : 경우에 따라 앞/뒤에서 수식하는 것으로 보임
@@ -5594,8 +5614,91 @@ chapitre 42
         - Je ne dis rien.
     - "ne ... personne"
         - Tu ne vois personne.
-        - 
+        - Tu n'invites personne.
+        - Tu n'aimes personne.
 
+- "personne" et "rien", sujets d'un verbe, sont seulement suivis par "ne":
+    - Personne ne parle.
+    - Rien ne bouge.
+    - Personne n'est venu.
+
+## exercices
+1. Faites des phrases avec "ne ... jamais".
+- Sur Mars, il pleut tout le temps.
+- Dans le Sahara, il ne pleut jamais.
+- La Jaconde, elle sourit tout le temps.
+- Buster Keaton, il ne sourit jamais.
+- La cigale, elle chante tout le temps.
+- La fourmi, elle ne chante jamais.
+- La fourmi, elle travaille tout le temps.
+- La cigale, elle ne travaille jamais.
+
+2. Le ganster Toto Moka est maintenant en prison. Faites des phrases avec "ne ... plus".
+- Il jouait au poker.
+- Il ne joue plus au poker.
+- Il dansait le mambo.
+- Il ne danse plus le mambo.
+- Il fumait le cigare.
+- Il ne fume plus le cigare.
+- Il jouait au casino.
+- Il ne joue plus au casino.
+- Il buvait du champagne.
+- Il ne boit plus de champagne.
+- Il se cachait. La police le cherchait.
+- Il ne se cache plus. La police ne le cherche plus.
+
+3. Répondez avec "personne ... ne" et "rien ... ne".
+- La professeur (à voix haute)
+    - Tout le monde est d'accord?
+    - Tout le monde a compris?
+    - Tout est clair?
+    - Tout le monde a fait les exercices?
+    - Tout est très facile?
+- Les élèves (à voix basse)
+    - Personne n'est d'accord.
+    - Personne n'a compris.
+    - Rien n'est clair.
+    - Personne n'a fait les exercices.
+    - Rien n'est facile.
+
+4. Transformez avec "ne ... rien", "ne ... personne", "rien ... ne", "personne ... ne".
+- Dans le noir
+    - Là : je vois quelque chose!
+    - Je ne vois rien.
+    - Écoute : j'entends quelque chose!
+    - Je n'entends rien.
+    - Regarde : je vois quelqu'un!
+    - Je ne vois personne.
+    - Quelque chose bouge!
+    - Rien ne bouge.
+    - Quelqu'un a crié!
+    - Personne n'a crié.
+
+5. Complétez le texte avec "ne ... rien", "ne ... personne".
+- Au marché aux puces
+    - Léa achète beaucoup de choses. Moi, je n'achète rien.
+    - Elle trouve beaucoup de choses. Moi, je ne trouve rien.
+    - Elle rencontre beaucoup de gens. Moi, je ne rencontre personne.
+
+## vocabulaires
+- bouger : vi. 움직이다.
+- La Joconde : 모나리자 그림
+- Busker Keaton : 미국의 배우, 영화인
+- cigale : nf. 매미
+- fourmi : nf. 개미
+- mambo : nf. 맘보(춤)
+- cigare : nm. 여송연, 엽궐련, 시가
+- police : nf.
+- cacher : vt. 감추다
+- voix : nf. 목소리, 음성
+- bas : a. 낮은 (f. basse, haute ↔ basse)
+- d'accorder : 동의하는, 괜찮은
+- clair : a. 밝은, 환한, (글 따위가) 이해하기 쉬운, 분명한
+- tout le monde : 모든 사람들, 누구나
+- là : (감탄사, 부사) 저기
+- crier : 고함치다, 울다, 큰 소리로 말하다
+- puce : nf. 벼룩
+- marché aux puces : 벼룩시장
 
 ## remarques
 - 요약
@@ -5604,6 +5707,45 @@ chapitre 42
     - plus : (이제는) 더이상 ~ 아니다.
     - rien : 아무, 아무것도
     - personne : 아무도, 아무 사람도, 어떤 사람에게도 ~ 않다
+
+- "personne" et "rien", sujets d'un verbe, sont seulement suivis par "ne" 라는 문장에서 동격과 수동태가 쓰였다. sujets d'un verbe는 "personne" et "rien"와 동격인 것이다. A suit B면 A가 B를 뒤따른다 라는 의미겠지만, 여기서는 수동태가 쓰였으므로 sujets이 ne에 의해 뒤따름당하는 것이다. 따라서 ne가 sujets을 뒤따르는 것이고 즉 sujets ne의 형태가 된다. 다시 말해, rien ne, personne ne가 되는 것이다.
+
+- exercice 2의 다섯번째 문장
+    - 부정을 나타낼 때의 plus와 부분관사(partitif)가 결합할 때는 조심해야 한다. 이것은 32장에 나왔었다.
+    - 예시
+        - pas de    sucre
+        - plus de   sucre
+        - jamais de sucre
+    - exercice 2에서
+        - Il ne boit plus du champagne. (ne dites pas)
+        - Il ne boit plus de champagne. (dites)
+    - 이것은 다음 장 (54장)에 더 자세히 설명된다.
+
+- exercice 2의 여섯번째 문장들
+    - Il ne se cache plus.
+    - La police ne le cherche plus.
+    - 설명 1 (내 설명)
+        - 대명동사 se cache와 목적어가 포함된 동사 le cherche는 하나의 동사로 취급한다. 따라서 ne와 plus 사이에 그 동사들(두 단어 동사들)이 들어가게 된다.
+    - 설명 2 (claude)
+        - 동사 앞에 오는 대명사들(재귀대명사 se, 직접목적어 대명사 le/la 등)은 "ne"와 동사 사이에 위치한다.
+
+- tout le monde는 모든 사람들, 누구나라는 뜻이다. 이것은 tous les mondes로 절대 쓰지 않는다.
+
+- d'accord
+    - 이것은 형용사이다. 동의하는, 찬성하는 이라는 뜻이다.
+    - d'accorder같은 동사는 존재하지 않는다. 즉 d'accordent, d'accordons 같은 동사변화는 없다. 가끔 예문에서 d'accorder같은 표현이 나오긴 하는데 그건 단지 de와 accorder가 결합한 것이다.
+    - Notre société a la mauvaise habitude d'accorder trop d'importance à la croissance quantitative sans se préoccuper du développement qualitatif.
+        - habitude de + accorder
+
+# 54. Il n'a pas mangé. Il n'est pas sorti.
+
+## la négation et l'interrogation au passé composé
+
+## vocabulaires
+
+- faire le lit : 침대를 정돈하다
+- ranger : 정리하다
+- arroser : 물을 주다, 적시다, 관개하다
 
 →
 ←
