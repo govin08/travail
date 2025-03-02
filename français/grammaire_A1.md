@@ -5626,7 +5626,7 @@ chapitre 42
 1. Faites des phrases avec "ne ... jamais".
 - Sur Mars, il pleut tout le temps.
 - Dans le Sahara, il ne pleut jamais.
-- La Jaconde, elle sourit tout le temps.
+- La Joconde, elle sourit tout le temps.
 - Buster Keaton, il ne sourit jamais.
 - La cigale, elle chante tout le temps.
 - La fourmi, elle ne chante jamais.
@@ -5705,7 +5705,7 @@ chapitre 42
     - pas : 아니다
     - jamais : 절대 아니다
     - plus : (이제는) 더이상 ~ 아니다.
-    - rien : 아무, 아무것도
+    - rien : 아무, 아무것도, 전혀
     - personne : 아무도, 아무 사람도, 어떤 사람에게도 ~ 않다
 
 - "personne" et "rien", sujets d'un verbe, sont seulement suivis par "ne" 라는 문장에서 동격과 수동태가 쓰였다. sujets d'un verbe는 "personne" et "rien"와 동격인 것이다. A suit B면 A가 B를 뒤따른다 라는 의미겠지만, 여기서는 수동태가 쓰였으므로 sujets이 ne에 의해 뒤따름당하는 것이다. 따라서 ne가 sujets을 뒤따르는 것이고 즉 sujets ne의 형태가 된다. 다시 말해, rien ne, personne ne가 되는 것이다.
@@ -5740,12 +5740,112 @@ chapitre 42
 # 54. Il n'a pas mangé. Il n'est pas sorti.
 
 ## la négation et l'interrogation au passé composé
+- exemples
+    - Il a fait son lit.
+    - Il n'a pas fait sont lit.
+    - Il a rangé ses livres.
+    - Il n'a pas rangé ses livres.
+    - Il a arrosé les fleurs.
+    - Il n'a pas arrosé les fleurs.
+    - Il est sorti.
+    - Il n'est pas sorti.
+    - Est-ce qu'il a travaille?
+    - Est-ce qu'il a dormi?
+
+- "la négation" se place avant et après le verbe conjué :
+    - exemples :
+        - Je n'ai pas mangé.
+        - Tu n'as pas travaillé.
+        - Elle n'est pas sortie.
+        - Nous ne sommes jamais partis.
+        - Vous n'avez rien vu.
+        - Ils ne sont plus revenus.
+    - "ne ... personne" : "personne" se place après le participe passé :
+        - Nous n'avons vu personne.
+    - À la forme négative, "du", "de la", "des" deviennent "de".
+        - Vous avez déjà fait du ski?
+        - Non, je n'ai jamais de ski.
+
+- "l'interrogation"
+    - avec intonation
+        - Il a travaille?
+        - Il a dormi?
+    - avec "est-ce que"
+        - Est-ce qu'il a travaille?
+        - Est-ce qu'il a dormi?
+
+## exercices
+1. Répondez à la forme négative.
+
+Fin de journée
+- Le facteur est passé?
+- Non, il n'est pas passé.
+- Jean a téléphoné?
+- Non, il n'a pas téléphoné.
+- Les enfants ont dîne?
+- Non, ils n'ont pas dîné.
+- La femme de ménage est venue?
+- Non, elle n'est pas venue.
+- Le chien est sorti?
+- Non, il n'est pas sorti.
+
+2. Complétez à la forme affirmative, puis négative.
+- J'ai visité le Louvre, mais je n'ai pas visité Notre-Dame.
+- J'ai dormi à l'hôtel Tourista, mais je n'ai pas dormi au Ritz.
+- J'ai bu du vin rouge, mais je n'ai pas bu de champagne.
+- J'ai vu La Joconde, mais je n'ai pas vu Sophie Marceau
+- Je suis allé à Versailles, mais je ne suis pas allé à DisneyLand.
+
+3. Posez des questions et répondez avec "ne ... jamais".
+- Vous avez déjà lu des livres de Tolstoï?
+- Non, je n'ai jamais lu de livres de Tolstoï.
+- Vous avez vu les ballets du Bolchoï?
+- Non, je n'ai jamais vu les ballets du Bolchoï.
+- Vous avez bu de la bière chinoise?
+- Non, je n'ai jamais bu de bière chinoise.
+- Vous avez dormi dans un hamac?
+- Non, je n'ai jamais dormi dans un hamac.
+- Vous avez conduit une Cadillac?
+- Non, je n'ai jamais conduit une Cadillac.
+- Vous avez fait des choux à la crème?
+- Non, je n'ai jamais fait de choux à la crème.
+- Vous avez écrit des poèmes?
+- Non, je n'ai jamais écrit de poèmes.
+- Vous avez dit "Je vous aime"?
+- Non, je n'ai jamais dit "Je vous aime".
+
+4. Complétez avec "ne ... rien", "ne ... jamais".
+
+Robinson a vu un bateau.
+- Il a crié quelque chose, mais ils n'ont rien entendu.
+- Il a fait des signaux, mais ils n'ont rien vu.
+- Il a envoyé des messages, mais ils n'ont rien reçu.
+- Il a attendu longtemps, mais ils ne sont jamais revenus.
+
 
 ## vocabulaires
-
 - faire le lit : 침대를 정돈하다
 - ranger : 정리하다
 - arroser : 물을 주다, 적시다, 관개하다
+- déjà : 이미, 앞서, 벌써
+- facteur : n. 우체부, 화물담당
+- femme de ménage : 하녀, 가정부, 가사도우미
+- Sophie Marceau : 소피 마르소
+- hamac : nm. 해먹
+- chou : nm. 양배추 (pl. choux)
+- choux à la crème : 슈크림
+- poème : 시(작품) (poésie : 문학장르로서의 시)
+- signal : 신호, 몸짓, 지시, 표지 (pl. signaux)
+- envoyer : 보내다, 부치다
 
+## remarques
+- "la négation" se place avant et après le verbe conjué라는 문장에서 le verbe conjué는 '활용된 동사'라는 뜻으로 mangé가 아닌 ai를 뜻하는 것 같다. 문맥상으로도 그렇고, claude에 문의한 결과로도 그렇다. mangé가 동사원형 manger를 변형(conjuer)한 결과라는 의미에서 mangé를 뜻하는 줄 알았는데 아니었다. 설명에 le verbe conjué라는 표현 말고 조동사라고 썼으면 헷갈리지 않을텐데.
+- pas, jamais, plus, rien과는 달리 personne의 위치가 뒤로 간다는 점은 납득도 가고 흥미롭다. 하지만 비슷하게 rien도 뒤로 가는 경우가 있다고 봐야 하지 않나? 하지만 claude에 따르면 rien은 제 위치가 맞다고 한다.
+    - Vous n'avez rien vu. (dites)
+    - Vous n'avez vu rien. (ne dites pas)
+- 부분관사(partitif ; du, de la, de'l, des)가 부정문에서 de로 바뀐다는 설명이 명시적으로 나오고 있다. (53. remarques 참고)
+- exercice 4
+    - rien은 아무것도, 아무, 전혀, 라는 의미이다. 따라서 목적어가 필요한 타동사 entendre, voir, recevoir에 쓰이기 적절하고, 목적어가 필요없는 자동사 revenir에는 부적절하다.
+    - jamais는 네 군데 모두 쓰일 수 있으나 entendre, voir, recevoir는 rien이 더 적절하다.
 →
 ←
