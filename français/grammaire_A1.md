@@ -5594,8 +5594,13 @@ chapitre 42
         - Je ne dis rien.
     - "ne ... personne"
         - Tu ne vois personne.
-        - 
+        - Tu n'invites personne.
+        - Tu n'aimes personne.
 
+- "personne"et "rien", sujets d'un verbe, sont seulement suivis par "ne" :
+    - Personne ne parle.
+    - Rien ne bouge
+    - Personne n'est venu.
 
 ## remarques
 - 요약
