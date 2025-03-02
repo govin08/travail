@@ -5822,7 +5822,6 @@ Robinson a vu un bateau.
 - Il a envoyé des messages, mais ils n'ont rien reçu.
 - Il a attendu longtemps, mais ils ne sont jamais revenus.
 
-
 ## vocabulaires
 - faire le lit : 침대를 정돈하다
 - ranger : 정리하다
@@ -5847,5 +5846,85 @@ Robinson a vu un bateau.
 - exercice 4
     - rien은 아무것도, 아무, 전혀, 라는 의미이다. 따라서 목적어가 필요한 타동사 entendre, voir, recevoir에 쓰이기 적절하고, 목적어가 필요없는 자동사 revenir에는 부적절하다.
     - jamais는 네 군데 모두 쓰일 수 있으나 entendre, voir, recevoir는 rien이 더 적절하다.
+
+# exercices récapitulatifs
+
+1. "où", "sur" et "dans". Préposition de lieu. / Posez des questions. Répondez.
+- Où sont les invités?
+- Ils sont sur la terrasse.
+- Où est le champagne?
+- Il est dans le frigo.
+- Où est le poulet?
+- Il est dans le four.
+- Où sont mes lunettes?
+- Elles sont sur ton nez.
+
+2. "Quel", "quelle", "où", "quand", "qu'est-ce que". / Posez des questions.
+- Je ne suis pas français.
+- Quelle est votre nationalité?
+- Je ne suis pas professeur.
+- Quel est votre métier? (Quelle est votre profession?)
+- Nous ne sommes pas le 8 mai.
+- Quel jour sommes-nous?
+- Je n'habite pas à Paris.
+- Où habitez-vous?
+- Je ne pars pas demain.
+- Quand partez-vous?
+- Je ne bois pas de café le matin.
+- Qu'est-ce que vous buvez le matin? (Que buvez-vous le matin?, Vous buvez quoi, le matin?)
+- Il n'est pas midi.
+- Quelle heure est-il?
+
+3. "Ne ... jamais". / Caractérisez des personnes selon le modèle.
+- Catherine
+    - Elle ne met jamais de robe.
+    - Elle ne porte jamais de rouge.
+    - Elle ne mange jamais de tomates
+- Élisabeth
+    - Elle ne met jamais de pantalon.
+    - Elle ne porte jamais de jaune.
+    - Elle ne mange jamais de pâte.
+
+4. Le passé composé : affirmation et négation. / Complétez.
+
+Elle n'est pas au rendez-vous.
+- Elle a oublié notre rendez-vous!
+- Elle s'est trompée de bar.
+- Elle n'a pas reçu mon message.
+- Elle a perdu l'adresse.
+- Elle n'a pas trouvé de place pour se garer
+- Elle a eu un accident.
+
+5. Le passé composé, "ne ... pas", "ne ... jamais", "ne ... rien", "ne ... personne". / Transformez.
+- Toto Moka : un espion?
+    - Il a travaillé pour la CIA.
+    - Il a rencontré monsieur X.
+    - Il a volé quelque chose au ministeré de la Défense.
+    - Il a caché quelque chose dans son jardin.
+    - Il a tué quelqu'un.
+- Il est suspecté. Il nie.
+    - Je n'ai jamais travaillé pour la CIA!
+    - Je n'ai rencontré personne.
+    - Je n'ai rien volé au ministeré de la Défense.
+    - Je n'ai rien caché dans son jardon.
+    - Je n'ai tué personne.
+
+## vocabulaires
+- les invités : 초청객들
+- poulet : nm. 병아리, 식용 닭
+- four : nm. 화덕, 오븐
+- terrasse : nf. 테라스
+- lunettes : nf.
+- nez : nm.
+- tromper : vp. 잘못하다, 실수하다, 오해하다
+- gare : vp. 대다, 주차하다, 정박하다
+- espion : n. 간첩, 스파이
+- ministère : nm 정부 부처, 부서
+- le ministeré de la Défense : 국방부
+- voler : vt 훔치다 vi. 날다
+- tuer : vt. 죽이다, 죽게 하다
+- suspecter : vt. 의심하다
+- nier : vt. 부정하다, 부인하다
+
 →
 ←
