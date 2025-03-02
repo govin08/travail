@@ -1120,7 +1120,7 @@ J'ai un fils. Il s'appelle Thibaud. Il a huit ans. Il a un très bon copain qui 
 - à peu près : 거의, 대략
 - mannequin : n.m. 마네킹
 - cartable : n.m. 책가방
-- voix : n.m 목소리, 음성
+- voix : n.f 목소리, 음성
 
 ## remarques
 - avoir 동사의 여섯가지 변형들은 모두 모음으로 시작한다. 따라서, 부정형을 만들 때 n'(n + l'apostrophe)형태가 항상 나타난다.
@@ -5261,10 +5261,18 @@ chapitre 42
 - L'avion est arrivé il y a trois heures. Il repartira dans deux heures.
 - Max et Léa se sont rencontrés il y a quatre ans. Ils se marieront dans un an.
 
-5. Complétez avec "pendant", "il y a", "dans" ou "en".
+5*. Complétez avec "pendant", "il y a", "dans" ou "en".
 - Les agriculteurs soignent leurs récoltes depuis des mois mais un orage peut tout détruire en quelques minutes.
 - En ce moment, c'est la fin de l'hiver, les arbres sont nus mais dans trois mois, ils seront couverts de fleurs.
 - Si tout va bien, les graines qu'ils ont semées depuis deux mois donneront des radis dans une semaine.
+
+5. Complétez avec "il y a", "depuis", "dans", "pendant" ou "en".
+- Je suis arrivée à Paris il y a un mois.
+- J'ai d'abord habité chez mon amie espagnole, Ines, pendant quinze jours.
+- Ines parle bien français : elle habite ici depuis trois ans et elle travaille dans une agence immobilière depuis neuf mois.
+- Grâce à elle, j'ai trouvé un petit studio tout près de l'université : je fais le trajet à pied en dix minutes.
+- Les cours commenceront seulement dans une semaine.
+- C'est super.
 
 6. Complétez librement avec "depuis", "il y a", "dans" ou "en".
 - J'étudie le français depuis 1 an.
@@ -5291,7 +5299,7 @@ chapitre 42
   - 나는 3일 만에 모든 것을 끝냈다.
 - court(짧은)은 명사를 앞에서 수식하는 형용사이다. 이것은 BAGS(beauty, age, goodness, size) 중 size에 해당된다고 할 수 있어서 명사를 앞에서 수식할 수 있다. 비슷한 형용사로 long이 있다.
 - exercice 3의 문장 J'ai la même montre depuis trois ans.는 청자와 같은 시계를 3년동안 가지고 있었다는 뜻은 아니다. 한 시계를 (바꾸지 않고) 3년동안 사용했다는 뜻이다.
-- exercice 5는 진도를 한참 앞질러가있다. 관계대명사, 수동태, 과거분사의 성/수 일치 등 아직 배우지 않은 건데도 막 나오고 있다. 내가 어려워하는 건 당연하다. 그래도 하나하나씩 보자.
+- exercice 5*는 진도를 한참 앞질러가있다. 관계대명사, 수동태, 과거분사의 성/수 일치 등 아직 배우지 않은 건데도 막 나오고 있다. 내가 어려워하는 건 당연하다. 그래도 하나하나씩 보자. 사실 이 exercice 는 내 교재(3e édition)에는 없고 이전 버전의 교재(pdf 파일)에 있던 문제이다. 그래서 정답은 알 수 없다.
     - Les agriculteurs soignent leurs récoltes depuis des mois mais un orage peut tout détruire en quelques minutes.
         - 농민들은 몇 달 전부터 수확물들을 가꾸지만 폭풍우가 오면 몇 분만에 모든 것이 파괴될 수 있다.
         - 단어들이 좀 어려워서 그렇지 어려운 문법구조는 없다.
@@ -5326,6 +5334,14 @@ chapitre 42
 - semer : vt. 씨를 뿌리다, 파종하다, vp. 파종되다
 - semé : a. 뿌려진
 - radis : nm. 라디 (무의 일종)
+- d'abord : 우선, 앞서, 먼저
+- agence : nf. 대리점, 대행사무소, 중개사무소
+- agence immobilière : 부동산 중개소, 복덕방
+- grâce : 은혜, 친절, 은총
+- grâce à : ~ 덕분에, 덕택에
+- près : ~의 가까이에
+- trajet : 도정, 여정
+- faire le trajet : 가다, 통학하다, 통근하다
 
 # 51. Où? Quand? Comment? Combien? Pourquoi?
 
@@ -5408,6 +5424,10 @@ chapitre 42
     - pourquoi  why             왜
 
     육하원칙 중 네 개가 등장했다. 누가(who), 무엇을(what)은 아마 다음 장에 나올 것이다.
+
+- Quand와 Combien de temps는 미묘하게 다르다.
+    - Quand : "언제"라는 뜻이다. 시각을 물어본다.
+    - Combien de temps : "얼마나 오래"라는 뜻이다. 시간(지속시간)을 물어본다.
 
 - prochain은 명사 앞에서 수식할 수 있다. (뒤에서도 수식할 수 있다) 비슷한 형용사로 premier, dernier 등이 있다.
     - prochain(e) : 경우에 따라 앞/뒤에서 수식하는 것으로 보임
@@ -5594,21 +5614,234 @@ chapitre 42
         - Je ne dis rien.
     - "ne ... personne"
         - Tu ne vois personne.
-        - Tu n'invites personne.
-        - Tu n'aimes personne.
+        - 
 
-- "personne"et "rien", sujets d'un verbe, sont seulement suivis par "ne" :
-    - Personne ne parle.
-    - Rien ne bouge
-    - Personne n'est venu.
 
 ## remarques
 - 요약
     - pas : 아니다
     - jamais : 절대 아니다
     - plus : (이제는) 더이상 ~ 아니다.
-    - rien : 아무, 아무것도
+    - rien : 아무, 아무것도, 전혀
     - personne : 아무도, 아무 사람도, 어떤 사람에게도 ~ 않다
+
+- "personne" et "rien", sujets d'un verbe, sont seulement suivis par "ne" 라는 문장에서 동격과 수동태가 쓰였다. sujets d'un verbe는 "personne" et "rien"와 동격인 것이다. A suit B면 A가 B를 뒤따른다 라는 의미겠지만, 여기서는 수동태가 쓰였으므로 sujets이 ne에 의해 뒤따름당하는 것이다. 따라서 ne가 sujets을 뒤따르는 것이고 즉 sujets ne의 형태가 된다. 다시 말해, rien ne, personne ne가 되는 것이다.
+
+- exercice 2의 다섯번째 문장
+    - 부정을 나타낼 때의 plus와 부분관사(partitif)가 결합할 때는 조심해야 한다. 이것은 32장에 나왔었다.
+    - 예시
+        - pas de    sucre
+        - plus de   sucre
+        - jamais de sucre
+    - exercice 2에서
+        - Il ne boit plus du champagne. (ne dites pas)
+        - Il ne boit plus de champagne. (dites)
+    - 이것은 다음 장 (54장)에 더 자세히 설명된다.
+
+- exercice 2의 여섯번째 문장들
+    - Il ne se cache plus.
+    - La police ne le cherche plus.
+    - 설명 1 (내 설명)
+        - 대명동사 se cache와 목적어가 포함된 동사 le cherche는 하나의 동사로 취급한다. 따라서 ne와 plus 사이에 그 동사들(두 단어 동사들)이 들어가게 된다.
+    - 설명 2 (claude)
+        - 동사 앞에 오는 대명사들(재귀대명사 se, 직접목적어 대명사 le/la 등)은 "ne"와 동사 사이에 위치한다.
+
+- tout le monde는 모든 사람들, 누구나라는 뜻이다. 이것은 tous les mondes로 절대 쓰지 않는다.
+
+- d'accord
+    - 이것은 형용사이다. 동의하는, 찬성하는 이라는 뜻이다.
+    - d'accorder같은 동사는 존재하지 않는다. 즉 d'accordent, d'accordons 같은 동사변화는 없다. 가끔 예문에서 d'accorder같은 표현이 나오긴 하는데 그건 단지 de와 accorder가 결합한 것이다.
+    - Notre société a la mauvaise habitude d'accorder trop d'importance à la croissance quantitative sans se préoccuper du développement qualitatif.
+        - habitude de + accorder
+
+# 54. Il n'a pas mangé. Il n'est pas sorti.
+
+## la négation et l'interrogation au passé composé
+- exemples
+    - Il a fait son lit.
+    - Il n'a pas fait sont lit.
+    - Il a rangé ses livres.
+    - Il n'a pas rangé ses livres.
+    - Il a arrosé les fleurs.
+    - Il n'a pas arrosé les fleurs.
+    - Il est sorti.
+    - Il n'est pas sorti.
+    - Est-ce qu'il a travaille?
+    - Est-ce qu'il a dormi?
+
+- "la négation" se place avant et après le verbe conjué :
+    - exemples :
+        - Je n'ai pas mangé.
+        - Tu n'as pas travaillé.
+        - Elle n'est pas sortie.
+        - Nous ne sommes jamais partis.
+        - Vous n'avez rien vu.
+        - Ils ne sont plus revenus.
+    - "ne ... personne" : "personne" se place après le participe passé :
+        - Nous n'avons vu personne.
+    - À la forme négative, "du", "de la", "des" deviennent "de".
+        - Vous avez déjà fait du ski?
+        - Non, je n'ai jamais de ski.
+
+- "l'interrogation"
+    - avec intonation
+        - Il a travaille?
+        - Il a dormi?
+    - avec "est-ce que"
+        - Est-ce qu'il a travaille?
+        - Est-ce qu'il a dormi?
+
+## exercices
+1. Répondez à la forme négative.
+
+Fin de journée
+- Le facteur est passé?
+- Non, il n'est pas passé.
+- Jean a téléphoné?
+- Non, il n'a pas téléphoné.
+- Les enfants ont dîne?
+- Non, ils n'ont pas dîné.
+- La femme de ménage est venue?
+- Non, elle n'est pas venue.
+- Le chien est sorti?
+- Non, il n'est pas sorti.
+
+2. Complétez à la forme affirmative, puis négative.
+- J'ai visité le Louvre, mais je n'ai pas visité Notre-Dame.
+- J'ai dormi à l'hôtel Tourista, mais je n'ai pas dormi au Ritz.
+- J'ai bu du vin rouge, mais je n'ai pas bu de champagne.
+- J'ai vu La Joconde, mais je n'ai pas vu Sophie Marceau
+- Je suis allé à Versailles, mais je ne suis pas allé à DisneyLand.
+
+3. Posez des questions et répondez avec "ne ... jamais".
+- Vous avez déjà lu des livres de Tolstoï?
+- Non, je n'ai jamais lu de livres de Tolstoï.
+- Vous avez vu les ballets du Bolchoï?
+- Non, je n'ai jamais vu les ballets du Bolchoï.
+- Vous avez bu de la bière chinoise?
+- Non, je n'ai jamais bu de bière chinoise.
+- Vous avez dormi dans un hamac?
+- Non, je n'ai jamais dormi dans un hamac.
+- Vous avez conduit une Cadillac?
+- Non, je n'ai jamais conduit une Cadillac.
+- Vous avez fait des choux à la crème?
+- Non, je n'ai jamais fait de choux à la crème.
+- Vous avez écrit des poèmes?
+- Non, je n'ai jamais écrit de poèmes.
+- Vous avez dit "Je vous aime"?
+- Non, je n'ai jamais dit "Je vous aime".
+
+4. Complétez avec "ne ... rien", "ne ... jamais".
+
+Robinson a vu un bateau.
+- Il a crié quelque chose, mais ils n'ont rien entendu.
+- Il a fait des signaux, mais ils n'ont rien vu.
+- Il a envoyé des messages, mais ils n'ont rien reçu.
+- Il a attendu longtemps, mais ils ne sont jamais revenus.
+
+## vocabulaires
+- faire le lit : 침대를 정돈하다
+- ranger : 정리하다
+- arroser : 물을 주다, 적시다, 관개하다
+- déjà : 이미, 앞서, 벌써
+- facteur : n. 우체부, 화물담당
+- femme de ménage : 하녀, 가정부, 가사도우미
+- Sophie Marceau : 소피 마르소
+- hamac : nm. 해먹
+- chou : nm. 양배추 (pl. choux)
+- choux à la crème : 슈크림
+- poème : 시(작품) (poésie : 문학장르로서의 시)
+- signal : 신호, 몸짓, 지시, 표지 (pl. signaux)
+- envoyer : 보내다, 부치다
+
+## remarques
+- "la négation" se place avant et après le verbe conjué라는 문장에서 le verbe conjué는 '활용된 동사'라는 뜻으로 mangé가 아닌 ai를 뜻하는 것 같다. 문맥상으로도 그렇고, claude에 문의한 결과로도 그렇다. mangé가 동사원형 manger를 변형(conjuer)한 결과라는 의미에서 mangé를 뜻하는 줄 알았는데 아니었다. 설명에 le verbe conjué라는 표현 말고 조동사라고 썼으면 헷갈리지 않을텐데.
+- pas, jamais, plus, rien과는 달리 personne의 위치가 뒤로 간다는 점은 납득도 가고 흥미롭다. 하지만 비슷하게 rien도 뒤로 가는 경우가 있다고 봐야 하지 않나? 하지만 claude에 따르면 rien은 제 위치가 맞다고 한다.
+    - Vous n'avez rien vu. (dites)
+    - Vous n'avez vu rien. (ne dites pas)
+- 부분관사(partitif ; du, de la, de'l, des)가 부정문에서 de로 바뀐다는 설명이 명시적으로 나오고 있다. (53. remarques 참고)
+- exercice 4
+    - rien은 아무것도, 아무, 전혀, 라는 의미이다. 따라서 목적어가 필요한 타동사 entendre, voir, recevoir에 쓰이기 적절하고, 목적어가 필요없는 자동사 revenir에는 부적절하다.
+    - jamais는 네 군데 모두 쓰일 수 있으나 entendre, voir, recevoir는 rien이 더 적절하다.
+
+# exercices récapitulatifs
+
+1. "où", "sur" et "dans". Préposition de lieu. / Posez des questions. Répondez.
+- Où sont les invités?
+- Ils sont sur la terrasse.
+- Où est le champagne?
+- Il est dans le frigo.
+- Où est le poulet?
+- Il est dans le four.
+- Où sont mes lunettes?
+- Elles sont sur ton nez.
+
+2. "Quel", "quelle", "où", "quand", "qu'est-ce que". / Posez des questions.
+- Je ne suis pas français.
+- Quelle est votre nationalité?
+- Je ne suis pas professeur.
+- Quel est votre métier? (Quelle est votre profession?)
+- Nous ne sommes pas le 8 mai.
+- Quel jour sommes-nous?
+- Je n'habite pas à Paris.
+- Où habitez-vous?
+- Je ne pars pas demain.
+- Quand partez-vous?
+- Je ne bois pas de café le matin.
+- Qu'est-ce que vous buvez le matin? (Que buvez-vous le matin?, Vous buvez quoi, le matin?)
+- Il n'est pas midi.
+- Quelle heure est-il?
+
+3. "Ne ... jamais". / Caractérisez des personnes selon le modèle.
+- Catherine
+    - Elle ne met jamais de robe.
+    - Elle ne porte jamais de rouge.
+    - Elle ne mange jamais de tomates
+- Élisabeth
+    - Elle ne met jamais de pantalon.
+    - Elle ne porte jamais de jaune.
+    - Elle ne mange jamais de pâte.
+
+4. Le passé composé : affirmation et négation. / Complétez.
+
+Elle n'est pas au rendez-vous.
+- Elle a oublié notre rendez-vous!
+- Elle s'est trompée de bar.
+- Elle n'a pas reçu mon message.
+- Elle a perdu l'adresse.
+- Elle n'a pas trouvé de place pour se garer
+- Elle a eu un accident.
+
+5. Le passé composé, "ne ... pas", "ne ... jamais", "ne ... rien", "ne ... personne". / Transformez.
+- Toto Moka : un espion?
+    - Il a travaillé pour la CIA.
+    - Il a rencontré monsieur X.
+    - Il a volé quelque chose au ministeré de la Défense.
+    - Il a caché quelque chose dans son jardin.
+    - Il a tué quelqu'un.
+- Il est suspecté. Il nie.
+    - Je n'ai jamais travaillé pour la CIA!
+    - Je n'ai rencontré personne.
+    - Je n'ai rien volé au ministeré de la Défense.
+    - Je n'ai rien caché dans son jardon.
+    - Je n'ai tué personne.
+
+## vocabulaires
+- les invités : 초청객들
+- poulet : nm. 병아리, 식용 닭
+- four : nm. 화덕, 오븐
+- terrasse : nf. 테라스
+- lunettes : nf.
+- nez : nm.
+- tromper : vp. 잘못하다, 실수하다, 오해하다
+- gare : vp. 대다, 주차하다, 정박하다
+- espion : n. 간첩, 스파이
+- ministère : nm 정부 부처, 부서
+- le ministeré de la Défense : 국방부
+- voler : vt 훔치다 vi. 날다
+- tuer : vt. 죽이다, 죽게 하다
+- suspecter : vt. 의심하다
+- nier : vt. 부정하다, 부인하다
 
 →
 ←
