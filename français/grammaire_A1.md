@@ -4376,7 +4376,7 @@ Dans le métro
 ## vocabulaires
 - sourire : vi. 미소짓다, 웃다
 - jogging : nm. (운동선수용) 겉옷, 츄리닝
-- faire le tour : 한바퀴 돌다
+- faire le tour de : 일주하다, 한바퀴 돌다
 - prendre une douche : 샤워하다
 - offre : nf. 제시, 제안, 제공
 - emploi : nm. 사용, 용도, 일자리, 직장
@@ -5614,8 +5614,12 @@ chapitre 42
         - Je ne dis rien.
     - "ne ... personne"
         - Tu ne vois personne.
-        - 
-
+        - Tu n'invites personne.
+        - Tu n'aimes personne.
+- "personne" et "rien", sujets d'un verbe, sont seulement suivis par "ne" :
+    - Personne ne parle
+    - Rien ne bouge.
+    - Personne n'est venu.
 
 ## remarques
 - 요약
@@ -5843,5 +5847,151 @@ Elle n'est pas au rendez-vous.
 - suspecter : vt. 의심하다
 - nier : vt. 부정하다, 부인하다
 
-→
-←
+# bilan n.7
+
+1. Complétez avec "depuis", "pendant", "il y a", "en", "dans", des négations ou des questions.
+- Je travaille depuis dix ans et j'habite en France _depuis_ trois ans.
+- Je suis allée aux Étas-Unis _il y a_ un an et je suis restée à Los Angeles pendant six mois.
+- Nous nous sommes rencontrés _il y a_ dix ans. Nous nous sommes mariés _il y a_ sept ans et nous avons eu une fille _il y a_ quatre ans.
+- Rodrigo a fait tout le tour de l'Europe _en_ deux mois et il repartira pour le Brésil _dans_ une semaine.
+- Il a plu _pendant_ trois jours, mais _depuis_ hier, il fait très beau.
+- _Quelle est votre profession?_ / Je travaille dans une banque.
+- _Quand partez-vous en vacances?_ / Nous partons en vacances en août.
+- _Qu'est-ce que tu fais?_ / Je cherche mes lunettes.
+- Est-ce que vous connaissez quelqu'un à Rio? / Non, je _ne connais personne à Rio._
+- Tu as mangé quelque chose à midi? / Non, je _n'ai rien mangé à midi._
+- Est-ce que tu as rencontré quelqu'un dans le couloir? / Non, je _n'ai rencontré personne dans le couloir._
+- Vous avez déjà fait du judo? / Non, je _n'ai jamais fait de judo._
+
+2. Conjuguez les verbes manquants. Faites l'élision si c'est nécessaire.
+
+Ludwig Berg (compositeur)
+- Monsieur Berg, vous _habitez_ en France depuis plus de vingt ans, je crois?
+- Oui, je _vis_ ici depuis exactement vingt-deux ans.
+- Vous _avez reçu_ un Oscar pour la musique du film Gun 999, il y a deux ans, et vous _avez vendu_ trois millions de disques de votre album "Stellor" l'année dernière. Vos commentaires?
+- _J'ai écrit_ "Gun Melody" en deux jours et "Stellor" en deux semaines. J'ai _gagné_ plus d'argent en trois ans que depuis que je suis né. Vive le cinéma!
+- Quels sont vos projets?
+- Quand mon nouvel album _sortira_, dans un mois, je _partirai_ en vacances en Jamaïque pour un an.
+- La musique est votre seule passion?
+- Oui, à sept ans, _j'ai arrêté_ de fumer et _j'ai commencé_ le violoncelle.
+
+## vocabulaires
+- rencontrer : vt. (우연히) 만나다, 마주치다, (약속하여) 만나다, vp. (서로) 만나다, 서로 (생각, 감정이) 일치하다
+- faire le tour : (배가) 전복하다, 선회하다.
+- faire le tour de : 일주하다, 한바퀴 돌다
+- couloir : nm. 복도, 통로, 낭하, 넓은 복도, 로비
+- compositeur : n. 작곡가
+- exactement : 어김없이, 정확하게, 엄밀하게, 문자그대로
+- commentaire : nm. 주석, 설명, 논평, 해설, 언급
+- vif : a. 살아있는, 발랄한, 생기있는, nm. 급소, 핵심, 요점 (f. vive) → 하지만 여기 쓰인 vive는 형용사는 아니다.
+- vive : (감탄사) 만세
+- projet : nm. 계획
+- sortir : vi. (상품이) 출하되다, 발매되다, 출판하다
+- jamaïque : 자메이카
+- arrêter : vt. 가로막다, 중단하다, 중지하다, vi. 멈추다, 그치다
+- seul : a. 혼자인, 홀로인, 유일한, 고독한, 독특한
+- passion : nf. 정열, 열정, 흥분
+- violoncelle : n. 첼로
+
+## remarques
+1번문제
+- Nous nous sommes rencontrés _il y a_ dix ans. Nous nous sommes mariés _il y a_ sept ans et nous avons eu une fille _il y a_ quatre ans.
+    - 원래 문제에서는 Nous sommes mariés로 되어 있었다. 이건 오타인 것 같다. 물론 mariés를 형용사로 보면 nous sommes mariés라고 쓸 수 있지만 이것은 il y a sept ans가 과거의 특정시점을 나타내는 말이기 때문에 적절하지 않아보인다. 즉, 7년동안 결혼상태였다, 라는 뜻이 아니라 7년 전에 결혼했다, 라는 말이니 Nous nous sommes mariés가 맞을 것 같다.
+- Vous avez déjà fait du judo? / Non, je _n'ai jamais fait de judo._
+    - claude에 따르면 déjà가 포함되는 passé composé는 영어에서의 '현재완료 (경험) 구문'에 대응된다. 즉, passé composé가 영어의 과거시제에 대응되고 지속 혹은 현재완료의 의미도 조금 포함되지만 déjà가 붙으면 경험 여부를 묻는 현재완료 구문에 대응된다. 이 때의 déjà는 영어에서의 ever에 대응시킬 수 있을 것이다.
+    - 이 때에 부정형의 답변은 pas 대신 jamais를 사용한다. 이는 ever에 대한 부정형의 답이 never인 것을 생각해보면 자연스러워 보인다.
+        - passé composé + déjà → have you ever ...?
+        - déjà → ever
+        - jamais → never
+
+2번 문제
+- vous _avez vendu_ trois millions de disques de votre album "Stellor" l'année dernière.
+    - l'année dernière는 '작년에'라는 뜻으로 해석될 수 있으며 이는 il y a (1년 전에)와는 그 의미가 미묘하게 다르다고 봐야 할 것이다.
+- J'ai _gagné_ plus d'argent en trois ans que depuis que je suis né.
+    - 이 문장에서 plus ... que ... 의 비교급이 쓰였다. 비교하는 두 대상은 두 시간대((최근의)3년, 지금까지 살아온 시간)이다.
+- Vive le cinéma!
+    - vive는 형용사 vif의 여성형인 줄 알았다. 그건 아니었다.
+    - 이 구문을 해석하는 방법은 내가 잏하기로는 두 가지이다.
+        - 정확하게는 subjonctif présent로 보는 것이다. 정확하게는 접속법의 현재 3인칭 단수라고 한다. 완전한 형태는 Que le cinéma vive가 될테지만 관용적으로 위와 같이 사용한다고 한다. 이에 관해서는 나중에 배울 때 공부해보면 되겠다.
+        - 대충 해석하자면 vive를 감탄사로 볼 수 있을 것 같다. 실제로 네이버 사전에도 vive는 감탄사라고 되어 있다.
+- nouveau의 변화형 : nouveau (nouvel) / nouveaux / nouvelle / nouvelles
+- Oui, à sept ans, _j'ai arrêté_ de fumer et _j'ai commencé_ le violoncelle.
+    - 해석하자면 7살 때 담배를 끊고 첼로를 시작했다는건데 상식적으로 말이 안된다. 이 작곡가는 농담을 하고 있는 것이다.
+    - 나는 이 문장에 imparfait을 적용하면 어떨까 하고 생각했다. 이에 대한 claude의 답변을 교재의 내용과 함께 조합하여 정리하면 다음과 같다.
+        - imparfait은 영어의 "was doing" 또는 "used to do"에 가깝다. 그러니까, 과거 시점에 어떤 습관이나 상황이 있을 때 쓰는 표현이다. 교재에서 les temps simple experiment des habitudes(습관), des **situations**(상황) 이라고 했었다. 그러니 여기에 어울리지 않는다.
+        - passé composé는 과거 사건을 일련의 사건을 순차적으로 나열할 때 적절하고 이 예문은 바로 그 경우에 해당한다. 영어의 "did"나 "have done"에 가깝다고 한다. 교재에서도 La passé composé (et le futur proche) expriment des **événements**, des changements라고 되어 있다.
+        - 그 차이를 명확하게 보여주는 설명은 교재에 있다. La passé composé raconte une **succession** d'événements. L'imparfait décrit une **situation**, sans changement de temps.
+
+# 55. Elle mange du poisson? / Oui, elle en mange.
+
+## le pronom "en"
+exemples
+- Il y a de la neige.
+- Il y en a sur les montagne.
+- Il y en a dans les arbres.
+- Il y en a un peu sur les arbres.
+- Il y en a beaucoup sur les toits.
+
+"En" remplace, en général, un nom précédé par "de". Il se place devant le verbe.
+
+"En" remplace les partitifs :
+- exemples
+    - Vous avez mangez de la salde?     Oui, j'en mange.
+    - Vous buvez du vin?                Oui, j'en bois.
+- "En" est nécessaire même quand la quantité est exprimée :
+    - Vous avez trois enfants?          Oui, j'en ai trois.
+                                        Oui, j'ai trois. (Ne dites pas)
+    - Il y a beaucoup d'étudiants?      Oui, il y en a beaucoup.
+                                        Oui, il y a beaucoup. (Ne dites pas)
+
+On utilise "en" dans les constructions avec "de" :
+- Vous parlez de votre travail?         Oui, j'en parle souvent.
+- Vous rêvez du grand amour?            Oui, j'en rêve.
+
+
+## vocabulaires
+- neige : nf. 눈 (nuage : nm. 구름, vent : nm. 바람)
+- toit : nm. 지붕
+- précéder : vt. 앞서다 (↔ suivre, succéder)
+- précédé : a. 앞선 (participe passé)
+- rêver : 공상에 빠지다, 몽상에 잠기다.
+- parler de / rêver de : ~에 대해 말하다, ~에 대해 꿈꾸다.
+    - Ne parlons pas du passé. 지난 일은 들추지 맙시다
+    - Ils ont parlé de la situation sociale. 그들은 사회 상황에 대해 이야기했다.
+    - Ils ont parlé des possibilités. 그들은 가능성에 대해 이야기했다.
+    - J'ai rêvé que je faisais du vélo sur la lune. 나는 달에서 자전거 타는 꿈을 꿨다.
+    - J'ai rêvé toute la nuit de mon pays. 나는 밤새도록 고향 꿈을 꾸었다.
+
+## remarques
+31, 32장과의 연관성
+- 31장에서 부분관사(partitif)에 대해 배웠는데 그것들은 du, de la, des, de l' 같은 것들이었다. 이것은 어떤 명사 앞에 붙이는 관사로서 그 명사의 양이 명확하지 않을 때 혹은 셀 수 없는 명사일 때 사용한다 (On utilise "du", "de la", "des" devant les quantités non exprimées ou non comptables)
+- 32장에서는 반대로, 명사의 양이 명확할 때에 대해 다룬다 (un kilo de, beaucoup de, pas de)
+- en은 부분관사를 대체한다고 했으므로 그 명사의 양이 명확하지 않은 경우에도 쓰이고, la quantité est exprimée 인 경우에도 쓰인다고 했으므로 그 명사의 양이 명확할 때에도 쓰이는 것이다.
+
+대표적인 두 예문
+- Vous avez mangez de la salde?     Oui, j'en mange.
+- Vous avez trois enfants?          Oui, j'en ai trois.
+- en이 동사 앞에 쓰인다.
+- 첫번째 예문에서 en은 de la salde를 의미할 것이다. 두번째에서 en은 enfants를 의미한다. 그리고 구체적인 수량을 나타내는 trois는 동사의 뒤에 왔다.
+
+parler, rêver 다음에는 일반적으로 명사가 올 수 있다. 아래는 rêver에 대한 예문들.
+- de와 함께  → COI. en으로 받을 수 있음
+    - 부분관사인 경우
+        - Il rêvait du sable chaud.         (그는 따뜻한 모래를 꿈꾸었다.)
+        - elle rêvait de la musique douce.  (그녀는 부드러운 음악을 꿈꾸었다.)
+    - 부분관사가 아닌 경우
+        - Je rêve de la maison parfaite.    (나는 완벽한 집을 꿈꾼다)
+        - Elle rêve des plages de Tahiti.   (그녀는 타히티의 해변을 꿈꾼다)
+        - Il rêve du succès.                (그는 성공을 꿈꾼다)
+        - Je rêve d'une vie meilleure.      (나는 더 나은 삶을 꿈꾼다)
+        - Je rêve de liberté.               (나는 자유를 꿈꾼다)
+- de 없이 → COD. en으로 받을 수 없음
+    - Elle a rêvé son ancien ami.           (그녀는 옛 친구를 꿈에서 보았다)
+    - Il a rêvé quelque chose d'étrange.    (그는 이상한 것을 꿈꾸었다)
+    - Nous avons rêvé le même rêve.         (우리는 같은 꿈을 꾸었다)
+- 이처럼, 동사의 목적어(명사)의 형태에 따라서 이후 그 명사를 받는 형태가 달라진다. 앞으로 이와 같은 내용을 계속 학습하는 것 같다.
+    - COI(de)인 경우 : en으로 받는다. → 55장
+    - COI(à)인 경우 : y로 받는다. → 56장
+    - COD인 경우 : le, la, les로 받는다. → 57장
+
+→ ← ↔
