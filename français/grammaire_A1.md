@@ -1309,7 +1309,7 @@ récapitulatif : a. 요점을 간추린, 요약하는 n. 요약
 - sandale : n.f.
 - restaurant : n.m.
 - cafétéria : n.f.
-- cantine : n.f. 구내식당, 간의식당
+- cantine : n.f. 구내식당, 간이식당
 
 # bilan n.2
 bilan : 결산
@@ -5948,6 +5948,60 @@ On utilise "en" dans les constructions avec "de" :
 - Vous parlez de votre travail?         Oui, j'en parle souvent.
 - Vous rêvez du grand amour?            Oui, j'en rêve.
 
+## exercices
+1. Faites des phrases avec "en", selon le modèle.
+
+Le matin :
+- Vous mangez des céréals?
+- Oui, j'en mange.
+- Vous buvez du thé?
+- Oui, j'en bois.
+- Vous mettez du lait?
+- Oui, j'en mets
+- Vous écoutez du jazz?
+- Oui, j'en écoute.
+- Vous faites de la gymnastique?
+- Oui, j'en fais
+
+2. Répondez avec "un", selon le modèle.
+- Katia mange de la salade?
+- Oui, elle en mange.
+- Ahmed mange du fromage?
+- Oui, il en mange.
+- Florence et Inès mangent des légumes?
+- Oui, ils en mangent.
+- Vous achetez du pain?
+- Oui, j'en achète.
+- Anna achète de la glace?
+- Oui, elle en achète.
+- Les enfants achètent des bonbons?
+- Oui, ils en achètent.
+
+3. Posez des questions. Répondez. Précisez "un peu", "très peu" ou "beaucoup"
+- Est-ce qu'il y a du lait?
+- Il y en a un peu.
+- Est-ce qu'il y a du beurre?
+- Il y en a très peu.
+- Est-ce qu'il y a de la salade?
+- Il y en a beaucoup.
+- Est-ce qu'il y a du fromage?
+- Il y en a un peu.
+- Est-ce qu'il y a de l'eau?
+- Il y en a très peu.
+
+4. Répondez. Précisez les quantités, selon le modèle.
+- Les hommes ont combien de dents?
+- Ils en ont trente-deux.
+- Les moustiques ont combien de pattes?
+- Ils en ont six.
+- Les chameaux ont combien de bosses?
+- Ils en ont deux.
+- Les chats ont combien de vies?
+- Ils en ont sept.
+- Mickey a combien de doigts?
+- Il en a quatre.
+- Il y a combien de cigarettes dans un paquet?
+- Il y en a vingt.
 
 ## vocabulaires
 - neige : nf. 눈 (nuage : nm. 구름, vent : nm. 바람)
@@ -5956,11 +6010,17 @@ On utilise "en" dans les constructions avec "de" :
 - précédé : a. 앞선 (participe passé)
 - rêver : 공상에 빠지다, 몽상에 잠기다.
 - parler de / rêver de : ~에 대해 말하다, ~에 대해 꿈꾸다.
-    - Ne parlons pas du passé. 지난 일은 들추지 맙시다
-    - Ils ont parlé de la situation sociale. 그들은 사회 상황에 대해 이야기했다.
-    - Ils ont parlé des possibilités. 그들은 가능성에 대해 이야기했다.
-    - J'ai rêvé que je faisais du vélo sur la lune. 나는 달에서 자전거 타는 꿈을 꿨다.
-    - J'ai rêvé toute la nuit de mon pays. 나는 밤새도록 고향 꿈을 꾸었다.
+- céréale : nf. 시리얼
+- gymnastique : nf. 체조, 체육
+- très peu : 아주 조금
+- lait, beurre, fromage : nm.
+- salade, eau : nf.
+- moustique : nm.
+- patte : nf. (동물의) 발, 다리
+- chameau : nm. 낙타
+- boss : nm. 꼭대기
+- doigt : nm. 손가락
+- paquet : nm. 보따리, 소포, 뭉치, 더미, (담배 따위의) 갑
 
 ## remarques
 31, 32장과의 연관성
@@ -5993,5 +6053,93 @@ parler, rêver 다음에는 일반적으로 명사가 올 수 있다. 아래는 
     - COI(de)인 경우 : en으로 받는다. → 55장
     - COI(à)인 경우 : y로 받는다. → 56장
     - COD인 경우 : le, la, les로 받는다. → 57장
+
+# 56. Je vais au cinéma. J'y vais à six heures.
+
+## le pronom "y"
+exemples
+- Je suis sur ma terrasse.
+- J'y mange.
+- J'y suis très souvent.
+- J'y travaille.
+- J'y lis.
+
+"y" évite de répéter un nom de lieu :
+- Je vais à la gare.            J'y vais en taxi.
+- Je vais en Espagne.           J'y vais en avion.
+- Je suis chez moi.             J'y suis jusqu'à six heures.
+- J'habite dans cette rue.      J'y habite depuis deux mois.
+
+"y" remplace "à" + un nom de chose :
+- Je pense à mon pays.          J'y pense souvent.
+- Elle croit à l'astrologie.    Elle y croit.
+
+## exercices
+1. Répondez aux questions, selon le modèle.
+- Vous allez à la montagne en été ou en hiver?
+- J'y vais en été.
+- Vous allez à la piscine le samedi ou le jeudi?
+- J'y vais le samedi.
+- Vous allez à la mer en juillet ou en août?
+- J'y vais en août.
+- Vous allez au cinéma le samedi ou le dimanche?
+- J'y vais le dimahche.
+- Vous allez au marché le mardi ou le jeudi?
+- J'y vais le mardi.
+
+2. Transformez selon le modèle.
+- Je vais au bureau en métro.
+- Moi, j'y vais en voiture.
+- Je déjeune à la cantine à midi.
+- Moi, j'y déjeune à une heure de l'après-midi.
+<!-- - Moi, j'y déjeune au restaurant. -->
+- Je vais à la piscine le mardi.
+- Moi, j'y vais le mercredi.
+- Je reste au bureau jusqu'à cinq heures.
+- Moi, j'y reste jusqu'à sept heures.
+- Je dîne "Chez Lulu" vers sept heures.
+- Moi, j'y dîne vers huit heures.
+
+3. Complétez selon le modèle en choisissant un moyen de transport.
+- Quand nous allons à la campagne, nous y allons en train.
+- Quand je vais chez ma mère, j'y vais en car.
+- Quand vous allez à Rome, est-ce que vous y allez en avion?
+- Quand nous allons en Espagne, nous y allons en bateau.
+- Quand ils vont à la mer, ils y vont en bus.
+- Quand elle va à l'école, elle y va en voiture.
+
+## vocabulaires
+- éviter : vt. 피하다, 모면하다
+- répéter : vt. 되풀이하다
+- astrologie : nm. 점성술
+- cinéma, marché : nm.
+- montagne, piscine, mer : nf.
+- cantine : nf. 구내식당, 간이식당
+- moyen : nm. 수단, 방법
+
+## remarques
+사실 앞의 명사를 받는것 (혹은 생략하는 것)은 나도 답안을 작성하면서 궁금했던 부분이다. 나는
+- Vous avez mangez de la salde?     Oui, je mange.
+와 같은 답을 종종 쓰곤 했던 것이다. 하지만 이건 틀렸다.
+- Vous avez mangez de la salde?     Oui, j'en mange.
+가 맞다. 마찬가지로
+- Je vais à la gare.                Je vais en taxi.
+는 틀렸다.
+- Je vais à la gare.                J'y vais en taxi.
+가 맞다.
+
+en과 y는 단순히 de와 à에 대응되는것은 아니다.
+첫째로, y는 à 말고도 sur, dans, chez 등에 대응되고 있다.
+더 중요하게도 둘째로, en은 문장의 목적어를 받을 때 쓰인다, 다만 de를 포함한 COI형 목적어 말이다.
+반면에 y는 장소를 나타내는 부사구를 받는다, 영어로 치면 there이 가장 적절하다.
+또는 à 뒤에 오는 일반적인 COI를 받는다.
+
+exercice 2의 두번째.
+- Je déjeune à la cantine à midi.       Moi, j'y déjeune à une heure de l'après-midi.
+                                        Moi, j'y déjeune au restaurant.
+지시문은 à를 두 개 포함하고 있다.
+자연스러운 답변이면서, 답지의 답과 비슷한 답변은 Moi, j'y déjeune à une heure de l'après-midi.이다. (답지의 답 : Moi, j'y vais à une heure.)
+즉, 첫번째 à 부분을 y로 받았다.
+나는 두번째 à 부분을 y로 받는 문장도 만들어보고 싶었고, 그것은 Moi, j'y déjeune au restaurant.이다. 하지만 cluade에 따르면 이건 어색한 답변이라고 한다.
 
 → ← ↔
