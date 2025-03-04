@@ -209,7 +209,6 @@ Une Martienne pressée écoute une boulangere bavarde.
         - un gâteau     | des gâteaux
 
 ## exercices
-
 1. Mettez les noms au pluriel
 - une voiture   | des voitures
 - un homme      | des hommes
@@ -324,7 +323,6 @@ Dans mon sac, il y a des livres, un ramen, une gamelle, des stylos et une paire 
     |féminin    |les            |           |
 
 ## exercices
-
 1. Complétez avec "un", "une" ou "le", "la". Présentez des rues, places, etc., de votre payes
 - un musée      | le musée Picasso          | le musée de dooly
 - un pont       | le pont de Arts           | le pont de 성수
@@ -434,7 +432,6 @@ Dans mon sac, il y a des livres, un ramen, une gamelle, des stylos et une paire 
         - les chaussures de l'enfant
 
 ## exercices
-
 1. Complétez librement en utilisant "à la", "à l'", "au"
 - À 8 heures, je suis à la maison.
 - À 9 heures, je suis au café.
@@ -598,7 +595,6 @@ Dans mon sac, il y a des livres, un ramen, une gamelle, des stylos et une paire 
         - ta erreur → ton erreur
 
 ## exercices
-
 1. Complétez avec "mon" ou "ma". Donnez des informations personnelles
 
 (교재)
@@ -715,7 +711,6 @@ Dans mon sac, il y a des livres, un ramen, une gamelle, des stylos et une paire 
         - ce homme → cet homme
 
 ## exercices
-
 1. Complétez avec "ce"ou "cette". Créez des phrases avec des adjectifs.
 - cette maison
 - cette place
@@ -829,7 +824,6 @@ Dans mon sac, il y a des livres, un ramen, une gamelle, des stylos et une paire 
     - J'ai une bonne voiture.
 
 ## exercices
-
 1. Donnez des informations personnelles à partir du modèle.
 - J'ai une voiture anglaise.        | Vous avez une voiture coréenne.
 - J'ai une télévision japonaise.    | Vous avez une télévision chinoise.
@@ -926,7 +920,6 @@ Dans mon sac, il y a des livres, un ramen, une gamelle, des stylos et une paire 
     - Il a cent ans.        | Il est vieux.
 
 ## exercices
-
 3. Associez les personnes et les âges, selon de modèle.
 - Max est footballeur professionnel.    | Il a vingt-cinq ans.
 - Paul est à la retraite.               | Il a soixante-cinq ans.
@@ -985,7 +978,6 @@ Dans mon sac, il y a des livres, un ramen, une gamelle, des stylos et une paire 
 - Dites : Vous avez chaud? | Ne dites pas : Vous êtes chaud.
 
 ## exercices
-
 1. Faites des phrases selon de modèle.
 - Il est chez le kiné parce qu'il a mal au dos.
 - Il est chez le dentiste parce qu'il a mal aux dents.
@@ -1083,7 +1075,6 @@ Dans mon sac, il y a des livres, un ramen, une gamelle, des stylos et une paire 
 - Est ce-qu'ils ont faim?       | Non, ils n'ont pas faim.
 
 ## exercices
-
 1. Complétez avec le verbe "avoir".
 - Paul a vingt ans.
 - Nous avons une maison de campagne.
@@ -1166,7 +1157,6 @@ J'ai un fils. Il s'appelle Thibaud. Il a huit ans. Il a un très bon copain qui 
     - J'ai la télévision (le téléphone, le gaz) → service
 
 ## exercices
-
 1. Mettez à la forme négative, selon de modèle.
 - Dans notre appartement            | Dans notre "maison de campagne"
 - Nous avons l'électricité.         | Nous n'avons pas d'électricité.
@@ -1507,7 +1497,6 @@ bilan : 결산
     - J'habite à Moscou.
 
 ## exercices
-
 1. Complétez avec "le"ou "la", puis "en"ou "au" suivis du nom de pays.
 - Ils aiment la Norvège.  | Ils habitent en Norvège.
 - Ils aiment la Pologne.  | Ils habitent en Pologne.
@@ -1707,7 +1696,6 @@ bilan : 결산
     - Non, il n'y a pas de fleurs.
 
 ## exercices
-
 1. Répondez aux questions en utilisant "il y a".
 - Dans votre salon, il y a canapé en tissu ou en cuir?
 - Dans mon salon, il y a un canapé en tissu.
@@ -1863,7 +1851,6 @@ bilan : 결산
     - Ce sont des valises.  | Elles sont grandes.
 
 ## exercices
-
 1. Compétez avec "c'est" ou "il est".
 - Il est norvégien.
 - C'est un étudiant.
@@ -1978,7 +1965,6 @@ bilan : 결산
     - C'est beau, les roses.    | Elles sont belles, ces roses.
 
 ## exercices
-
 1. Faites des commentaires selon le modèle.
 - Un paysage, c'est beau.
 - Un livre, c'est intéressant.
@@ -2211,6 +2197,7 @@ avoir의 부정
         - six cent cinquante
 
 ## exercices (1)
+
 1. Écrivez et lisez les nombres de 1 à 10.
 - un, deux, trois, quatre, cinq, six, sept, huit, neuf, dix.
 
@@ -2292,6 +2279,7 @@ avoir의 부정
         - Le mardi, je suis en forme.
 
 ## exercices (2)
+
 1. Situez les habitants de l'immeuble, selon le modèle.
 - Monsieur et madame Castelli habitent au cinquième étage.
 - Mademoiselle Maurel habite au quatrième étage.
@@ -2408,7 +2396,6 @@ avoir의 부정
     - Quelle heure est-il?
 
 ## exercices
-
 1. Posez des questions et répondez.
 - Quelle heure est-il?
     - 07h 30 : Il est sept heures et demie.
@@ -2612,7 +2599,6 @@ Le matin, c'est le printemps et il fait frais.
     - Il y a du soleil et du vent.          | 2
 
 ## exercices
-
 1. Associéz les nationalités et les aliments en utilisant "le", "la", "les" ou "du", "de la", "des".
 - Les Italiens aiment les pâtes. Ils mangent des pâtes.
 - Les Chinois aiment le riz. Ils mangent du riz.
@@ -2736,7 +2722,6 @@ Le matin, c'est le printemps et il fait frais.
     - quantité exprimée     | de        | Question : - Combien?
 
 ## exercices
-
 1. Complétez librement.
 - Un kilo de farine
 - deux cents grammes de sel
@@ -2948,7 +2933,6 @@ Le matin, c'est le printemps et il fait frais.
     - C'est le meilleur restaurant de la ville.
 
 ## exercices
-
 1. Comparez, en utilisant "plus", "moins", "autant", selon le modèle. Commentez.
 - Les hommes lisent moins que les femmes.
 - Les enfants dorment plus que les adultes.
@@ -3195,7 +3179,6 @@ Mon fils.
 - pluriel   : -issons, -issez, -issent
 
 ## exercices
-
 1. Complétez puis mettez au pluriel.
 - 1
     - En été, je brunis et je maigris.
@@ -3280,7 +3263,6 @@ Mon fils.
         - je suis       | tu suis       | il suit       | nous suivons  | vous suivez   | ils suivent
 
 ## exercices
-
 1. Répondez aux questions, au choix.
 - 1
     - Vous partez en Italie ou en Espagne?
@@ -3398,7 +3380,6 @@ Il a vingt ans et il vit encore chez ses parents. La nuit Yvan est réceptionnis
         - je descends   | tu descends   | il descend    | nous descendons   | vous descendez    | ils descendent
 
 ## exercices
-
 1. Répondez aux questions au choix.
 - Vous écrivez avec un crayon ou avec un stylo?
 - J'écris avec un stylo.
@@ -3499,7 +3480,6 @@ Il a vingt ans et il vit encore chez ses parents. La nuit Yvan est réceptionnis
         - je vois       | tu vois       | il voit       | nous voyons       | vous voyez        | ils voient
 
 ## exercices
-
 2. "savoir". Complétez. Mettez au pluriel.
 - Un enfant sait marcher vers un an.
 - Les enfants savent marcher vers un an.
@@ -3655,7 +3635,6 @@ Mes enfants Luc et Thomas croient encore au Père Noël. Tous les ans, ils mette
     - On doit manger pour vivre.
 
 ## exercices
-
 1. Complétez avec le verbe "vouloir".
 - Pour les vacances
     - Je veux aller à la campagne.
@@ -3746,7 +3725,6 @@ Mes enfants Luc et Thomas croient encore au Père Noël. Tous les ans, ils mette
 - dire          je dis          tu dis          il dit          nous disons         vous dites          ils disent
 
 ## exercices
-
 1. Faites des phrases avec le verbe "faire" + sport, selon le modèle.
 - Lucile et Simon font de la natation.
 - Quentin et Carole font du judo.
@@ -3833,7 +3811,6 @@ Je m'amuse ici : le matin je fais du jogging avec papy. Après, je joue au footb
                             à cheval.
 
 ## exercices
-
 1. Répondez aux questions, selon le modèle.
 - Vous allez à Varsovie ou à Poznan?
 - Je vais à Poznan.
@@ -4094,7 +4071,6 @@ Je reçois ta lettre aujourd'hui et je réponds tout de suite à ta question. Ou
         - Ma fille va avoir un bébé.
 
 ## exercices
-
 1. Mettez au futur proche.
 - Je commence à huit heures.
 - Je vais commencer à huit heures.
@@ -4184,7 +4160,6 @@ Je reçois ta lettre aujourd'hui et je réponds tout de suite à ta question. Ou
     - Ils mangent.      Ils ont mangé.
 
 ## exercices
-
 1. Mettez au passé composé.
 - En général, je dîne chez moi.
 - Hier, j'ai dîné au restaurant.
@@ -4650,7 +4625,6 @@ Dans le métro
 - laver : vt. 세탁하다, 세척하다, 씻어내다, vp. 몸을 씻다
 - maquiller : vt. 화장시키다, vp. 화장하다
 - coiffer : vt. 덮다, 모자를 씌우다, vp. 모자를 쓰다, 머리를 하다
-- 
 
 ## remarques (suite)
 - un complément d'objet는 목적어이다. 사전적으로 objet가 목적어이고 complément가 보어인 것과는 별개로 un complément d'objet 자체가 목적어이다. 목적어에는 직접목적어(complément d'objet direct ; COD)와 간접목적어(complément d'objet indirect ; COI)로 나뉘며 이 chapitre의 문맥에서 말하는 목적어는 COD이다.
@@ -5365,7 +5339,6 @@ chapitre 42
         - Vous partez quand?
 
 ## exercices
-
 1. Transformez selon le modèle avec "où", "quand", "comment"
 - Vous partez lundi ou mardi?
 - Quand partez-vous?
@@ -5488,7 +5461,6 @@ chapitre 42
     - Quelles voitures?
 
 ## exercices
-
 1. Posez des questions avec "qui".
 - Quelqu'un habite ici?
 - Qui habite ici?
@@ -5838,11 +5810,12 @@ Elle n'est pas au rendez-vous.
 - lunettes : nf.
 - nez : nm.
 - tromper : vp. 잘못하다, 실수하다, 오해하다
-- gare : vp. 대다, 주차하다, 정박하다
+- garer : vp. 대다, 주차하다, 정박하다
 - espion : n. 간첩, 스파이
 - ministère : nm 정부 부처, 부서
 - le ministeré de la Défense : 국방부
 - voler : vt 훔치다 vi. 날다
+- cacher : vt. 숨기다, vp. 숨다, 은신하다
 - tuer : vt. 죽이다, 죽게 하다
 - suspecter : vt. 의심하다
 - nier : vt. 부정하다, 부인하다
@@ -6108,6 +6081,18 @@ exemples
 - Quand ils vont à la mer, ils y vont en bus.
 - Quand elle va à l'école, elle y va en voiture.
 
+4. Répondez en utilisant "y", selon le modèle.
+- Que fait-on dans un bureau?
+- On y travaille.
+- Que fait on dans un restaurant?
+- On y mange.
+- Que fait on dans une chambre?
+- On y dort.
+- Que fait on dans un bar?
+- On y boit.
+- Que fait on sur le pont d'Avignon?
+- On y danse.
+
 ## vocabulaires
 - éviter : vt. 피하다, 모면하다
 - répéter : vt. 되풀이하다
@@ -6116,6 +6101,7 @@ exemples
 - montagne, piscine, mer : nf.
 - cantine : nf. 구내식당, 간이식당
 - moyen : nm. 수단, 방법
+- bar : nm.
 
 ## remarques
 사실 앞의 명사를 받는것 (혹은 생략하는 것)은 나도 답안을 작성하면서 궁금했던 부분이다. 나는
@@ -6132,7 +6118,7 @@ en과 y는 단순히 de와 à에 대응되는것은 아니다.
 첫째로, y는 à 말고도 sur, dans, chez 등에 대응되고 있다.
 더 중요하게도 둘째로, en은 문장의 목적어를 받을 때 쓰인다, 다만 de를 포함한 COI형 목적어 말이다.
 반면에 y는 장소를 나타내는 부사구를 받는다, 영어로 치면 there이 가장 적절하다.
-또는 à 뒤에 오는 일반적인 COI를 받는다.
+또는 꼭 장소를 나타내지 않더라도 à 뒤에 오는 일반적인 COI를 받는다.
 
 exercice 2의 두번째.
 - Je déjeune à la cantine à midi.       Moi, j'y déjeune à une heure de l'après-midi.
@@ -6141,5 +6127,145 @@ exercice 2의 두번째.
 자연스러운 답변이면서, 답지의 답과 비슷한 답변은 Moi, j'y déjeune à une heure de l'après-midi.이다. (답지의 답 : Moi, j'y vais à une heure.)
 즉, 첫번째 à 부분을 y로 받았다.
 나는 두번째 à 부분을 y로 받는 문장도 만들어보고 싶었고, 그것은 Moi, j'y déjeune au restaurant.이다. 하지만 cluade에 따르면 이건 어색한 답변이라고 한다.
+
+# 57. Il le regarde. Il la regarde. Il les regarde.
+
+## "le", "la", "les" : les pronoms compléments directs
+exemples
+- Il regarde le garçon
+- Il le regarde.
+- Il regarde la fille.
+- Il la regarde.
+- Il regarde les enfants.
+- Il les regarde.
+
+Pour éviter de répéter un nom complément, on utilise un pronom complément.
+- "le", "la", "les" remplacent des noms de personne, d'animal ou de chose.
+- exemples
+    - Il regarde le garçon.         Il le regarde.
+    - Il regarde le ciel.
+    - Il regarde la fille.          Il la regarde.
+    - Il regarde la fontaine.
+    - Il regarde les enfants.       Il les regarde.
+    - Il regrade les oiseaux.
+
+Les pronoms compléments se placent devant le verbe.
+- Il me   regarde.
+     toi
+     le
+     la
+- Il nous regarde.
+     vous
+     les
+
+## exercices
+1. Répondez aux questions avec "le", "l'", "la" ou "les"
+- Vous prenez le métro à huit heures?
+- Oui, je le prends à huit heures.
+- Vous lisez le journal dans le métro?
+- Oui, je le lis dans le métro.
+- Vous regardez la télé le soir?
+- Oui, je la regarde le soir.
+- Vous écoutez la radio le matin?
+- Oui, je l'écoute le matin.
+- Vous faites les exercices tout seul?
+- Oui, je les fais.
+
+2. Remplacez les noms par les pronoms "le", "la", "les".
+- Elle gare sa voiture dans la rue.
+- Elle la gare dans la rue.
+- Elle achète le journal dans un kiosque.
+- Elle l'achète dans un kiosque.
+- Elle ouvre son courrier dans l'ascenseur.
+- Elle l'ouvre dans l'ascenseur.
+- Elle enlève ses chaussures dans l'entrée.
+- Elle les enlève dans l'entrée.
+- Elle prépare le repas dans la cuisine.
+- Elle le prépare dans la cuisine.
+
+3. Transformez avec "le", "la" ou "l'" selon le modèle. Continuez librement.
+Un ticket de métro.
+- Je l'achète, je le composte, je le déchire et je le jette.
+
+Une chemise
+- Je la mets, je l'enlève, je la lave, je la repasse et je la range.
+
+4. Transformez avec "le", "la", "l'" ou "les". selon le modèle.
+
+L'actrice
+- On la maquille, on la coiffe, on l'habille et on l'interviewe.
+
+Les figurants
+- On les appelle, on les rassemble, on les dirige et on les aide.
+
+Le metteur en scène.
+- On l'écoute, on le respecte, on l'admire et on l'attend.
+
+5. Complétez selon le modèle.
+
+Les livres
+- Les écrivains les écrivent, les lecteurs les lisent.
+
+Le biberon
+- La maman le prépare, le bébé le fait.
+
+Le feu
+- Le pyromane l'allume, le pompier l'éteint.
+
+6. Complétez avec "le", "la", "les".
+
+La souris et le chat
+- Quand il la voit, il la poursuit.
+- Quand elle le voit, elle se cache.
+
+Paul et Marie
+- Quand il s'ennuie, il l'appelle.
+- Quand il l'entend, il se sent mieux.
+- Quand ils se voient, ils se disputent.
+
+## vocabulaires
+- fontaine : nf. 샘물, 샘
+- oiseau : nm.
+- tout seul : 완전히 혼자서
+- kiosque : nm. 가판대, 가두판매점, 정자
+- courrier : nm. 우편물, 편지
+- ascenseur / escalier : nm. 승강기, 엘레베이터 / n. 계단
+- enlever : vt. 없애다, 치우다, 제거하다, 삭제하다, *(옷을) 벗다*
+- chaussure / chaussette : nf. 신발, nf. 양말
+- repas / plat : nm. 식사 / nm. 요리
+- cuisine : nf.
+- ticket / billet : nm. / nm.
+- composter : vt. (자동개찰기로) 개찰하다, 소인을 찍다, 퇴비를 주다.
+- déchirer : vt. 찢다
+- jeter : vt. 던지다, 버리다
+- chemise : nf. 셔츠, 와이셔츠
+- repasser : v. 다림질하다, 다시 통과하다
+- maquiller : vt. 화장시키다, vp. 화장하다
+- coiffer : vt. 덮다, 모자를 씌우다, vp. 모자를 쓰다, 머리를 하다
+- habiller : vt. 옷을 입히다, vp. 옷을 입다
+- figurant : n. 단역, 엑스트라
+- rassembler : vt. 모이게 하다, 집결시키다, 모집하다, 수집하다, vp. 모이다, 집결하다
+- diriger : vt. 경영하다, 지휘하다
+- metteur en scène : 연출자, 연출가, 감독
+- écrivain : nf. 작가
+- lecteur : n. 독자, 열람자
+- biberon : nm. 수유기
+- pyromane : n. 방화광
+- allumer : vt. 불을 피우다
+- pompier : nm. 소방관
+- feu : nm. 불
+- souris : nf. 생쥐
+- poursuivre : vt. 뒤쫓다, 추격하다
+- cacher : vt. 숨기다, vp. 숨다, 은신하다
+- ennuyer : vt. 곤란하게 하다, 난처하게 하다, vp. 싫증나다, 지루하다
+- disputer : vt. 싸우다, 다투다, vp. 서로 말다툼하다
+
+## remarques
+- le, la와는 달리 les는 élision의 대상이 아니다.
+- 이 장에 나오는 불규칙 동사들
+    - acheter     j'achète      tu achètes    il achète     nous achetons       vous achetez      ils achètent      j'ai acheté
+    - jeter       je jette      tu jettes     il jette      nous jetons         vous jetez        ils jettent       j'ai jeté
+    - enlever     j'enlève      tu enlèves    il enlève     nous enlèvons       vous enlèvez      ils enlèvent      j'ai enlevé
+    - voir        je vois       tu vois       il voit       nous voyons         vous voyez        ils voyient       j'ai vu
 
 → ← ↔
