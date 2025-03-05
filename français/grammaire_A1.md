@@ -6569,5 +6569,47 @@ Photo de groupe
     - moi, toi, lui, elle
     - nous, vous, eux, elles
 
+# 60. L'homme qui passe ... . L'homme que je regarde ... .
+
+## "qui" et "que" : les relatifs simples
+
+exemples
+- La gondole qui passe est belle.
+- Le gondolier qui chante est beau.
+- La gondole que je filme est belle.
+- Le gondolier que je filme est beau.
+
+Pour relier plusieur phrases en une seule, on utilise des relatifs
+
+"Qui" remplace une personne ou une chose **sujet** du verbe :
+- Une gondole passe.        Cette gondole est belle.
+- La gondole qui passe est belle.
+- Un gondolier chante.      Ce gondolier est beau.
+- Le gondolier qui chante est beau.
+
+"Que" remplace une personne ou une chose "**complément** du verbe" :
+- Je filme une gondole.     Cette gondole est belle.
+- La gondole que je filme est belle.
+- Je filme un gondolier.    Ce gondolier est beau.
+- Le gondolier que je filme est beau.
+
+Cas le plus fréquent : "qui" + verbe, "que" + pronom :
+- La femme qui attend ...
+- La femme que tu attends ...
+
+## vocabulaires
+- gondole : nf. (베니스의) 곤돌라
+- gondolier : nm. 곤돌라 뱃사공
+- relier : vt. 연결하다, 연결짓다
+- en une seule : 단일한 형태로, 하나의 형태로
+
+## remarques
+beau의 변화형
+- ms. : beau, bel
+- mp. : beaux
+- fs. : belle
+- fp. : belles
+
+본문의 문장 해석 : 여러 개의 문장을 단일한 형태로 연결시키기 위해서 relatif를 사용한다.
 
 → ← ↔
