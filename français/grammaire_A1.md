@@ -209,6 +209,7 @@ Une Martienne pressée écoute une boulangere bavarde.
         - un gâteau     | des gâteaux
 
 ## exercices
+
 1. Mettez les noms au pluriel
 - une voiture   | des voitures
 - un homme      | des hommes
@@ -323,6 +324,7 @@ Dans mon sac, il y a des livres, un ramen, une gamelle, des stylos et une paire 
     |féminin    |les            |           |
 
 ## exercices
+
 1. Complétez avec "un", "une" ou "le", "la". Présentez des rues, places, etc., de votre payes
 - un musée      | le musée Picasso          | le musée de dooly
 - un pont       | le pont de Arts           | le pont de 성수
@@ -432,6 +434,7 @@ Dans mon sac, il y a des livres, un ramen, une gamelle, des stylos et une paire 
         - les chaussures de l'enfant
 
 ## exercices
+
 1. Complétez librement en utilisant "à la", "à l'", "au"
 - À 8 heures, je suis à la maison.
 - À 9 heures, je suis au café.
@@ -595,6 +598,7 @@ Dans mon sac, il y a des livres, un ramen, une gamelle, des stylos et une paire 
         - ta erreur → ton erreur
 
 ## exercices
+
 1. Complétez avec "mon" ou "ma". Donnez des informations personnelles
 
 (교재)
@@ -711,6 +715,7 @@ Dans mon sac, il y a des livres, un ramen, une gamelle, des stylos et une paire 
         - ce homme → cet homme
 
 ## exercices
+
 1. Complétez avec "ce"ou "cette". Créez des phrases avec des adjectifs.
 - cette maison
 - cette place
@@ -824,6 +829,7 @@ Dans mon sac, il y a des livres, un ramen, une gamelle, des stylos et une paire 
     - J'ai une bonne voiture.
 
 ## exercices
+
 1. Donnez des informations personnelles à partir du modèle.
 - J'ai une voiture anglaise.        | Vous avez une voiture coréenne.
 - J'ai une télévision japonaise.    | Vous avez une télévision chinoise.
@@ -920,6 +926,7 @@ Dans mon sac, il y a des livres, un ramen, une gamelle, des stylos et une paire 
     - Il a cent ans.        | Il est vieux.
 
 ## exercices
+
 3. Associez les personnes et les âges, selon de modèle.
 - Max est footballeur professionnel.    | Il a vingt-cinq ans.
 - Paul est à la retraite.               | Il a soixante-cinq ans.
@@ -978,6 +985,7 @@ Dans mon sac, il y a des livres, un ramen, une gamelle, des stylos et une paire 
 - Dites : Vous avez chaud? | Ne dites pas : Vous êtes chaud.
 
 ## exercices
+
 1. Faites des phrases selon de modèle.
 - Il est chez le kiné parce qu'il a mal au dos.
 - Il est chez le dentiste parce qu'il a mal aux dents.
@@ -1075,6 +1083,7 @@ Dans mon sac, il y a des livres, un ramen, une gamelle, des stylos et une paire 
 - Est ce-qu'ils ont faim?       | Non, ils n'ont pas faim.
 
 ## exercices
+
 1. Complétez avec le verbe "avoir".
 - Paul a vingt ans.
 - Nous avons une maison de campagne.
@@ -1157,6 +1166,7 @@ J'ai un fils. Il s'appelle Thibaud. Il a huit ans. Il a un très bon copain qui 
     - J'ai la télévision (le téléphone, le gaz) → service
 
 ## exercices
+
 1. Mettez à la forme négative, selon de modèle.
 - Dans notre appartement            | Dans notre "maison de campagne"
 - Nous avons l'électricité.         | Nous n'avons pas d'électricité.
@@ -1395,6 +1405,7 @@ bilan : 결산
     - Nice est loin de Brest.
 
 ## exercices
+
 1. Indiquez l'origine des personnages, selon le modèle.
 - Steve est anglais.    | Il est de Londres.
 - Giorgios est grec.    | Il est de Corfou.
@@ -1497,6 +1508,7 @@ bilan : 결산
     - J'habite à Moscou.
 
 ## exercices
+
 1. Complétez avec "le"ou "la", puis "en"ou "au" suivis du nom de pays.
 - Ils aiment la Norvège.  | Ils habitent en Norvège.
 - Ils aiment la Pologne.  | Ils habitent en Pologne.
@@ -1589,6 +1601,7 @@ bilan : 결산
     - La cour est derrière la maison.
 
 ## exercices
+
 1. Complétez avec "dans" ou "sur" / "sur"ou "sous".
 - Montez sur le manège:
     - dans une auto,
@@ -1696,6 +1709,7 @@ bilan : 결산
     - Non, il n'y a pas de fleurs.
 
 ## exercices
+
 1. Répondez aux questions en utilisant "il y a".
 - Dans votre salon, il y a canapé en tissu ou en cuir?
 - Dans mon salon, il y a un canapé en tissu.
@@ -1811,6 +1825,7 @@ bilan : 결산
 - Ce sont des roses.| Ce ne sont pas des roses.
 
 ## exercices
+
 5. Faites des phrases avec "c'est", "ce n'est pas" ou "ce ne sont pas". Continuez.
 - C'est un cahier.      | Ce n'est pas un livre.
 - C'est un crayon.      | Ce n'est pas un stylo.
@@ -1851,6 +1866,7 @@ bilan : 결산
     - Ce sont des valises.  | Elles sont grandes.
 
 ## exercices
+
 1. Compétez avec "c'est" ou "il est".
 - Il est norvégien.
 - C'est un étudiant.
@@ -1965,6 +1981,7 @@ bilan : 결산
     - C'est beau, les roses.    | Elles sont belles, ces roses.
 
 ## exercices
+
 1. Faites des commentaires selon le modèle.
 - Un paysage, c'est beau.
 - Un livre, c'est intéressant.
@@ -2396,6 +2413,7 @@ avoir의 부정
     - Quelle heure est-il?
 
 ## exercices
+
 1. Posez des questions et répondez.
 - Quelle heure est-il?
     - 07h 30 : Il est sept heures et demie.
@@ -2478,6 +2496,7 @@ avoir의 부정
     - en hiver
 
 ## exercices
+
 1. Décrivez le temps dans votre pays selon le modèle.
     - En France :
         - En août, il fait chaud.
@@ -2599,6 +2618,7 @@ Le matin, c'est le printemps et il fait frais.
     - Il y a du soleil et du vent.          | 2
 
 ## exercices
+
 1. Associéz les nationalités et les aliments en utilisant "le", "la", "les" ou "du", "de la", "des".
 - Les Italiens aiment les pâtes. Ils mangent des pâtes.
 - Les Chinois aiment le riz. Ils mangent du riz.
@@ -2722,6 +2742,7 @@ Le matin, c'est le printemps et il fait frais.
     - quantité exprimée     | de        | Question : - Combien?
 
 ## exercices
+
 1. Complétez librement.
 - Un kilo de farine
 - deux cents grammes de sel
@@ -2823,6 +2844,7 @@ Le matin, c'est le printemps et il fait frais.
         - Je travaille plus qu'avant.
 
 ## exercices
+
 1. Complétez les phrases avec "plus ... que", "moins ... que". Faites l'élision si c'est nécessaire.
 - L'argent est plus précieux que le cuivre, mais moins précieux que l'or.
 - Une voiture est moins rapide qu'un train, mais plus rapide qu'un vélo.
@@ -2933,6 +2955,7 @@ Le matin, c'est le printemps et il fait frais.
     - C'est le meilleur restaurant de la ville.
 
 ## exercices
+
 1. Comparez, en utilisant "plus", "moins", "autant", selon le modèle. Commentez.
 - Les hommes lisent moins que les femmes.
 - Les enfants dorment plus que les adultes.
@@ -3073,6 +3096,7 @@ Le matin, c'est le printemps et il fait frais.
     - Dans un fast-food, il y a plus de monde que dans un restaurant.
 
 ## vocabulaires
+- mesure : nf. 측량, 크기, 조치, 수단
 - girafe : nm. 
 - baleine : nf. 고래
 - nouveau-né : nm. 신생아
@@ -3179,6 +3203,7 @@ Mon fils.
 - pluriel   : -issons, -issez, -issent
 
 ## exercices
+
 1. Complétez puis mettez au pluriel.
 - 1
     - En été, je brunis et je maigris.
@@ -3263,6 +3288,7 @@ Mon fils.
         - je suis       | tu suis       | il suit       | nous suivons  | vous suivez   | ils suivent
 
 ## exercices
+
 1. Répondez aux questions, au choix.
 - 1
     - Vous partez en Italie ou en Espagne?
@@ -3380,6 +3406,7 @@ Il a vingt ans et il vit encore chez ses parents. La nuit Yvan est réceptionnis
         - je descends   | tu descends   | il descend    | nous descendons   | vous descendez    | ils descendent
 
 ## exercices
+
 1. Répondez aux questions au choix.
 - Vous écrivez avec un crayon ou avec un stylo?
 - J'écris avec un stylo.
@@ -3480,6 +3507,7 @@ Il a vingt ans et il vit encore chez ses parents. La nuit Yvan est réceptionnis
         - je vois       | tu vois       | il voit       | nous voyons       | vous voyez        | ils voient
 
 ## exercices
+
 2. "savoir". Complétez. Mettez au pluriel.
 - Un enfant sait marcher vers un an.
 - Les enfants savent marcher vers un an.
@@ -3575,6 +3603,7 @@ Mes enfants Luc et Thomas croient encore au Père Noël. Tous les ans, ils mette
     - je souviens   tu souviens     il souvient     nous souvenons          vous souvenez           ils souviennent
 
 ## exercices
+
 <!-- 1. Complétez avec le verbe "boire", selon le modèle.
 - Le matin, je bois du café.
 - Mes enfants boivent du chocolat.
@@ -3635,6 +3664,7 @@ Mes enfants Luc et Thomas croient encore au Père Noël. Tous les ans, ils mette
     - On doit manger pour vivre.
 
 ## exercices
+
 1. Complétez avec le verbe "vouloir".
 - Pour les vacances
     - Je veux aller à la campagne.
@@ -3725,6 +3755,7 @@ Mes enfants Luc et Thomas croient encore au Père Noël. Tous les ans, ils mette
 - dire          je dis          tu dis          il dit          nous disons         vous dites          ils disent
 
 ## exercices
+
 1. Faites des phrases avec le verbe "faire" + sport, selon le modèle.
 - Lucile et Simon font de la natation.
 - Quentin et Carole font du judo.
@@ -3811,6 +3842,7 @@ Je m'amuse ici : le matin je fais du jogging avec papy. Après, je joue au footb
                             à cheval.
 
 ## exercices
+
 1. Répondez aux questions, selon le modèle.
 - Vous allez à Varsovie ou à Poznan?
 - Je vais à Poznan.
@@ -4071,6 +4103,7 @@ Je reçois ta lettre aujourd'hui et je réponds tout de suite à ta question. Ou
         - Ma fille va avoir un bébé.
 
 ## exercices
+
 1. Mettez au futur proche.
 - Je commence à huit heures.
 - Je vais commencer à huit heures.
@@ -4160,6 +4193,7 @@ Je reçois ta lettre aujourd'hui et je réponds tout de suite à ta question. Ou
     - Ils mangent.      Ils ont mangé.
 
 ## exercices
+
 1. Mettez au passé composé.
 - En général, je dîne chez moi.
 - Hier, j'ai dîné au restaurant.
@@ -4285,6 +4319,7 @@ Je reçois ta lettre aujourd'hui et je réponds tout de suite à ta question. Ou
     - avoir         j'ai eu
 
 ## exercices
+
 1. Mettez au passé composé, selon le modèle.
 - Je dors jusqu'à midi.
 - J'ai dormi jusqu'à midi.
@@ -4416,6 +4451,7 @@ Dans le métro
     - Elle est entrée.
 
 ## exercices
+
 1. Mettez au passé composé. Changez les horaires.
 - D'habitude, Max part à 8 heures.
 - Hier, il est parti à 9 heures.
@@ -4785,6 +4821,7 @@ chapitre 42
         - placer        je plaçais      tu plaçais      il plaçait      nous placions       vous placiez    ils plaçaient
 
 ## exercices
+
 1. Mettez à l'imparfait, selon le modèle.
 - J'habite en France.
 - J'habitais en Angleterre.
@@ -4893,6 +4930,7 @@ chapitre 42
         - devoir        je devrai       tu devras       il devra        nous devrons        vous devrez     ils devront
 
 ## exercices
+
 1. Mettez au futur simple. Continuez librement
 - J'habite dans une grande ville.
 - J'habiterai en Provence.
@@ -5003,6 +5041,7 @@ chapitre 42
         - C'était la nuit.
 
 ## exercices
+
 1. Transformez à l'imparfait et au futur simple, selon le modèle.
 - habiter
     - Maintenant, j'habite à Rome.
@@ -5200,6 +5239,7 @@ chapitre 42
   - J'ai tout fini en 3 jours.
 
 ## exercices
+
 1. Complétez avec un verbe au présent et "depuis".
 - Je suis professeur depuis 1985.
 - Michaël habite en Australie depuis vingt ans.
@@ -5339,6 +5379,7 @@ chapitre 42
         - Vous partez quand?
 
 ## exercices
+
 1. Transformez selon le modèle avec "où", "quand", "comment"
 - Vous partez lundi ou mardi?
 - Quand partez-vous?
@@ -5461,6 +5502,7 @@ chapitre 42
     - Quelles voitures?
 
 ## exercices
+
 1. Posez des questions avec "qui".
 - Quelqu'un habite ici?
 - Qui habite ici?
@@ -5668,6 +5710,7 @@ chapitre 42
         - Est-ce qu'il a dormi?
 
 ## exercices
+
 1. Répondez à la forme négative.
 
 Fin de journée
@@ -5922,6 +5965,7 @@ On utilise "en" dans les constructions avec "de" :
 - Vous rêvez du grand amour?            Oui, j'en rêve.
 
 ## exercices
+
 1. Faites des phrases avec "en", selon le modèle.
 
 Le matin :
@@ -6048,6 +6092,7 @@ exemples
 - Elle croit à l'astrologie.    Elle y croit.
 
 ## exercices
+
 1. Répondez aux questions, selon le modèle.
 - Vous allez à la montagne en été ou en hiver?
 - J'y vais en été.
@@ -6159,6 +6204,7 @@ Les pronoms compléments se placent devant le verbe.
      les
 
 ## exercices
+
 1. Répondez aux questions avec "le", "l'", "la" ou "les"
 - Vous prenez le métro à huit heures?
 - Oui, je le prends à huit heures.
@@ -6267,5 +6313,261 @@ Paul et Marie
     - jeter       je jette      tu jettes     il jette      nous jetons         vous jetez        ils jettent       j'ai jeté
     - enlever     j'enlève      tu enlèves    il enlève     nous enlèvons       vous enlèvez      ils enlèvent      j'ai enlevé
     - voir        je vois       tu vois       il voit       nous voyons         vous voyez        ils voyient       j'ai vu
+
+# 58. Il lui parle. Il leur parle.
+
+## "lui" et "leur" : les pronoms compléments indirects
+
+exemples
+- Il parle à Max.
+- Il lui parle.
+- Il offre des fleurs à Katia.
+- Il lui offre des fleurs.
+- Il dit bonjour à ses amis.
+- Il leur dit bonjour.
+
+Avec les verbes qui se construisent avec "à" + nom de personne, on utilise "lui" ou "leur".
+- "lui" remplace un nom masculin ou féminin :
+    - Je téléphone à Pierre.        Je lui téléphone.
+    - Je téléphone à Marie.         Je lui téléphone.
+- "leur" remplace un nom pluriel :
+    - Je téléphone à mes cousins.   Je leur téléphone.
+    - Je téléphone à mes cousines.  Je leur téléphone.
+
+Les pronoms compléments indirects se placent devant le verbe :
+    - Paul me  téléphone.           Marie nous écrit.
+           te                             vous
+           lui                            leur
+    - Il me téléphone. (Dites)
+    - Il téléphone à moi. (Ne dites pas)
+
+Beaucoup de verbes de "communication" se construisent avec "à" :
+    - parler à      téléphoner à    dire à          donner à
+    - écrire à      répondre à      envoyer à       offrir à
+
+## exercices
+
+1. Répondez aux questions avec "lui" ou "leur".
+- Vous parlez à Julie?
+- Oui, je lui parle.
+- Vous parlez à Paul et Julie?
+- Oui, je leur parle.
+- Vous téléphonez à Teresa?
+- Oui, je lui téléphone.
+- Vous écrivez à Louis?
+- Oui, je lui écris.
+- Vous téléphonez à vos parents?
+- Oui, je leur téléphone.
+- Vous écrivez à vos amis?
+- Oui, je leur écris.
+
+2. Transformez, selon le modèle.
+
+Max est amoureux de Lola.
+- Il téléphone à Lola.
+- Il lui téléphone.
+- Il écrit à Lola.
+- Il lui écrit.
+- Il envoie mille messages à Lola.
+- Il lui envoie mille messages.
+- Il offre des fleurs à Lola.
+- Il lui offre des fleurs.
+- Il fait des cadeaux à Lola.
+- Il lui fait des cadeaux.
+
+3. Faites des textes avec "lui" puis "leurs"
+
+Fanny est malade.
+- Sa grand-mère lui fait un cadeau.
+- Elle lui raconte une histoire.
+- Elle lui donne un verre de lait.
+- Elle lui chante une chanson.
+
+Les enfants sont malades.
+- Leur grand-mère leur fait un cadeau.
+- Elle leur raconte une histoire.
+- Elle leur donne un verre de lait.
+- Elle leur chante une chanson.
+
+4. Écrivez un texte selon le modèle.
+- Dans l'avion, les hôtesses accueillent les passagers.
+- Elles leur disent bonjour.
+- Elles leur donnent des journaux.
+- Elles leur apportent des boissons.
+- Elles leur expliquent les mesures de sécurité.
+- Elles leur offrent des bonbons.
+- Elles leur vendent des produits hors taxe.
+- Elles leur souhaitent un bon séjour.
+
+5. Complétez avec "lui", "le" ou "l'"
+
+Le medicine reçoit le malade.
+- Il lui pose des questions.
+- Il l'examine, Il lui donne des médicaments.
+- Le malade l'écoute, il lui répond, il le paye, il le remercie, il lui dit "au revoir".
+
+## vocabulaires
+- faire un cadeau : 선물하다
+- texte : nm. 본문, 텍스트, 원고, 대사
+- histoire : nf. 역사, 이야기
+- verre : nm. 유리, 컵, 잔
+- boisson : nf 음료
+- mesure : nf. 측량, 크기, 조치, 수단
+- hors taxe : 면세점
+- souhaiter : 바라다, 희망하다
+- séjour : 체류, 투숙
+- hôte : 주인 (f. hôtesse)
+- accueillir : vt. 접대하다, 손님을 맞이하다
+- passager : 지나가는, 통과하는
+- remercier : vt. 감사하다
+
+## remarques
+leur는 소유사(possessif)를 배울 때 나왔었다. 복습하자면 다음과 같다. 즉 leurs는 pronom complément indirect로 쓰이지 않는다. (exercice 3 참고)
+- Je        :   mon     ma      mes
+- Tu        :   ton     ta      tes
+- Il/Elle   :   son     sa      ses
+- Nous      :   notre   notre   nos
+- Vous      :   votre   votre   vos
+- Ils/Elles :   leur    leur    leurs
+
+# 59. Moi, toi, lui
+
+## les pronoms toniques
+
+exemples
+- C'est toi?
+- Oui, c'est moi.
+
+Pour identifier une personne, on peut utiliser "c'est" + un pronom tonique :
+- C'est moi.            C'est nous.
+        toi.                  vous.
+        lui.                  eux.              Ce sont eux. (formel)
+        elle.                 elles.            Ce sont elles.
+
+Après une préposition, on utilise un pronom tonique :
+- Je travaille avec toi.
+               chez lui.
+               pour eux.
+- "C'est à" + pronom tonique exprime la possession.
+    - C'est à Max?          - Oui, c'est à lui.
+    - C'est à Leá?          - Oui, c'est à elle.
+
+Un pronom tonique peut renforcer un sujet :
+- exemples
+    - Moi, j'aime le bleu.
+    - Lui, il aime le vert.
+- Un pronom tonique n'est jamais directement sujet de la phrase
+    - Il est polonais. (Dites)
+    - Lui est polonais. (Ne dites pas)
+
+## exercices
+
+1. Répondez selon le modèle.
+- C'est ton père, sur cette photo?
+- Oui, c'est lui.
+- C'est ta mère, sur ce portrait?
+- Oui, c'est elle.
+- C'est toi, sur le journal?
+- Oui, c'est moi.
+- C'est Bip Blop, à la télévision?
+- Oui, c'est lui.
+
+2. Complétez(plusieurs possibilités).
+- C'est mon sac : il est à moi.
+- C'est ton livre : il est à toi.
+- C'est son vélo : il est à lui(elle).
+- C'est leur ballon : il est à eux(elles).
+
+3. Faites des phrases avec des prépositions et des pronoms toniques.
+- Je parle avec Katia.
+- Je parle avec elle.
+- Vous dînez chez monsieur Dubois.
+- Vous dînez chez lui.
+- Il travaille avec son frère.
+- Il travaille avec lui.
+- Elle dort chez ses amies.
+- Elle dort chez elles.
+- Nous partons sans les enfants.
+- Nous partons sans eux.
+
+4. Complétez selon le modèle.
+- Janush est polonais. Et Waldek?
+- Il est polonais, lui aussi.
+- Gilles est professeur. Et Patrick?
+- Il est professeur, lui aussi.
+- Zè est brésilien. Et Pelé? Et Gilmar?
+- Ils sont brésiliens, eux aussi.
+- Anne n'est pas français. Et Max?
+- Il n'est pas français, lui non plus.
+- Lisa n'est pas anglais. Et David?
+- Il n'est pas anglais, lui non plus.
+- Jean n'est pas riche. Et Marie?
+- Elle n'est pas riche, elle non plus.
+
+5. Complétez, selon le modèle.
+- Moi, je suis célibataire.
+- Toi, tu es marié.
+- Lui, il est anglais.
+- Elle, elle est français.
+- Nous, nous sommes fatigués.
+- Vous, vous êtes en forme!
+- Eux, ils sont courageux.
+- Elles, elles sont paresseuses.
+
+6. Placez les personnes selon le modèle.
+
+Photo de groupe
+- Toi, tu es à gauche.
+- Lui, il est derrière.
+- Elle, elle est au centre.
+- Eux, ils sont devant.
+- Vous, vous êtes là.
+- Moi, je suis ici.
+
+## vocabulaires
+- formel : a. 형식적인 (↔ familier)
+- renforcer : vt. 보강하다
+- directement : 직접, 바로
+- polonais : a. 폴란드의
+- photo / portrait : nf / nm.
+- sac / valise : nm. / nf.
+- vélo / voiture : nm. / nf.
+- non plus : ~도 또한 (긍정문의 aussi를 대신함)
+- célibataire : a. 독신의
+- être en forme : 건강(컨디션)이 좋다
+- courageux : a. 용감한, 담대한
+- paresseux : a. 게으른, 나태한
+- gauche : 비뚤어진, 뒤틀린, 서투른, 어색한, 부자연스러운.
+- à gauche : 왼쪽에
+- là : 거기, 여기
+
+## remarques
+헷갈리는 소유사와 강세형 대명사
+- son/sa: 단수 소유자가 단수 물건을 소유할 때 (son ballon/sa voiture = 그의/그녀의 공/차 [하나]) : C'est à lui/elle.
+- ses: 단수 소유자가 복수 물건을 소유할 때 (ses ballons/ses voitures = 그의/그녀의 공들/차들 [여러 개]) : C'est à lui/elle
+- leur: 복수 소유자가 단수 물건을 소유할 때 (leur ballon = 그들의 공 [하나]) : C'est à eux / elles.
+- leurs: 복수 소유자가 복수 물건을 소유할 때 (leurs ballons = 그들의 공들 [여러 개]) : C'est à eux / elles.
+
+지금까지 나온 대명사, 관사, 형용사 등 정리
+- les pronoms personnels (인칭대명사)
+    - je, tu, il, elle, on
+    - nous, vous, ils, elles
+- articles(관사)
+    - un, une, des : les articles indéfini (부정관사)
+    - le, la, les : les articles défini (정관사)
+    - du, de la, des : partitifs (부분관사)
+    - au, à la, aux
+- les possessifs (소유사)
+    - mon, ma, mes, ton, ta, tes, son, sa, ses, notre, nos, votre, vos, leur, leurs
+- les démonstratifs (지시사)
+    - ce, cet, cette, ces
+- les pronoms compléments
+    - en, y
+    - le, la, les : les pronoms compléments directs
+    - lui, leur : les pronoms compléments indirects
+- les pronoms toniques
+    - moi, toi, lui, elle
+    - nous, vous, eux, elles
+
 
 → ← ↔
