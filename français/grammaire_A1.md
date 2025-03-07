@@ -80,11 +80,11 @@ Une Martienne pressée écoute une boulangere bavarde.
 - remplacer : v. 갈다, 대체하다
 - rêveur : a. 꿈꾸는, 생각에 잠긴
 - séducteur : a. 유혹적인
-- meuble : n.m. 가구
-- divan : n.m. 긴 의자
-- fauteuil : n.m. 안락의자
-- aliment : n.m. 음식
-- disque : n.m. 음반
+- meuble : nm. 가구
+- divan : nm. 긴 의자
+- fauteuil : nm. 안락의자
+- aliment : nm. 음식
+- disque : nm. 음반
 - rencontre : n. 만남
 - connu : a. 유명한
 - pressé : a. 급한, 바쁜
@@ -157,30 +157,30 @@ Une Martienne pressée écoute une boulangere bavarde.
 
 ## vocabulaires (2)
 - imprévisible : a. 예측불능의
-- armoire : n.f. 장롱
+- armoire : nf. 장롱
 - indiquer : v. 가리키다, 표시하다
-- médicament : n.m. 약, 약제
-- couteau : n.m. 칼
-- aspirateur : n.m. 청소기
-- disquette : n.f. 디스켓
-- connaissance : n.f. 앎, 지식
-- sourire : n.m. 미소
-- peur : n.f. 공포, 두려움
-- valeur : n.f. 가치
-- chaleur : n.f. 열
+- médicament : nm. 약, 약제
+- couteau : nm. 칼
+- aspirateur : nm. 청소기
+- disquette : nf. 디스켓
+- connaissance : nf. 앎, 지식
+- sourire : nm. 미소
+- peur : nf. 공포, 두려움
+- valeur : nf. 가치
+- chaleur : nf. 열
 - gagner : v. 벌다, 얻다, 따다, 획득하다
-- soustraction : n.f. 뺄셈
-- fourchette : n.f. 포크
-- tablette : n.f. 선반
-- publicité : n.f. 광고, 선전
+- soustraction : nf. 뺄셈
+- fourchette : nf. 포크
+- tablette : nf. 선반
+- publicité : nf. 광고, 선전
 - ensoleillé : a. 햇볕이 드는, 양지바른
-- émission : n.f. 방송, 프로그램
+- émission : nf. 방송, 프로그램
 - manquant : a. 없는, 빠진
-- actualité : n.f. 현실
-- chômage : n.m. 휴업, 휴무, 실직
-- santé : n.f. 건강
-- bonté : n.f. 호의, 친절
-- gentillesse : n.f. 상냥함, 친절함.
+- actualité : nf. 현실
+- chômage : nm. 휴업, 휴무, 실직
+- santé : nf. 건강
+- bonté : nf. 호의, 친절
+- gentillesse : nf. 상냥함, 친절함.
 
 # 11. des arbres des fleurs, des oiseaux
 
@@ -264,26 +264,26 @@ Dans mon village, il y a des immeubles anciens. À côté de la gare, il y a des
 Dans mon sac, il y a des livres, un ramen, une gamelle, des stylos et une paire de baguettes.
 
 ## vocabulaires
-- choix : n.m. 선택
-- gaz : n.m. 가스, 기체, 증기
-- capitale : n.f. 수도, 중심지
-- épicerie : n.f. 향신료, 약제, 식료품
-- chaîne : n.f. 사슬, 채널
-- chaîne hi-fi : n.f. 오디오
-- tapis : n.m. 양탄자, 카펫
-- rideau : n.m. 커튼
-- vase : n.m. 꽃병
-- étagère : n.f. 선반
-- église : n.f. (가톨릭) 교회
-- fontaine : n.f. 샘물, 샘
-- parking : n.m. 주차장
+- choix : nm. 선택
+- gaz : nm. 가스, 기체, 증기
+- capitale : nf. 수도, 중심지
+- épicerie : nf. 향신료, 약제, 식료품
+- chaîne : nf. 사슬, 채널
+- chaîne hi-fi : nf. 오디오
+- tapis : nm. 양탄자, 카펫
+- rideau : nm. 커튼
+- vase : nm. 꽃병
+- étagère : nf. 선반
+- église : nf. (가톨릭) 교회
+- fontaine : nf. 샘물, 샘
+- parking : nm. 주차장
 
 ## remarques
 - boulanger는 제빵사라는 뜻으로 남성형 명사이고 이것의 여성형은 boulangere이다. boulangerie는 빵집이라는 뜻으로 여성형 명사이다.
-- ville : n.f.
-- village : n.m.
-- quartier : n.m.
-- chaussure, chaussette : n.f.
+- ville : nf.
+- village : nm.
+- quartier : nm.
+- chaussure, chaussette : nf.
 
 # 12. une tour, un pont, des bateaux, la tour, le pont, les bateaux
 
@@ -384,15 +384,15 @@ Dans mon sac, il y a des livres, un ramen, une gamelle, des stylos et une paire 
     - le vêtement
 
 ## vocabulaires
-- langue : n.f. 언어
-- tatouage : n.m. 문신
-- veste : n.f. 조끼, 저고리
-- cuir : n.m. 가죽
-- bois : n.m. 삼림, 숲, 나무
-- saison : n.f. 계절
-- animal : n.m.
-- chiffre : n.m. 숫자
-- voyant : n.f. 점쟁이
+- langue : nf. 언어
+- tatouage : nm. 문신
+- veste : nf. 조끼, 저고리
+- cuir : nm. 가죽
+- bois : nm. 삼림, 숲, 나무
+- saison : nf. 계절
+- animal : nm.
+- chiffre : nm. 숫자
+- voyant : nf. 점쟁이
 
 ## remarques
 - froid(추위)는 여성형 명사, chaleur(더위)는 남성형 명사
@@ -506,24 +506,24 @@ Dans mon sac, il y a des livres, un ramen, une gamelle, des stylos et une paire 
     - J'envoie une carte du musée Picasso.
 
 ## vocabulaires
-- thon : n.m. 다랑어, 참치
-- anchois : n.m. 멸치
-- voisin : n.m. 이웃 (f. voisine)
-- jouet : n.m. 장난감
-- coiffeur : n.f. 이발사, 미용사
-- écrivain : n.f. 작가
+- thon : nm. 다랑어, 참치
+- anchois : nm. 멸치
+- voisin : nm. 이웃 (f. voisine)
+- jouet : nm. 장난감
+- coiffeur : nf. 이발사, 미용사
+- écrivain : nf. 작가
 - la baguette du chef d'orchestra : 지휘자의 지휘봉
-- couronne : n.f. 관, 화관, 상
-- micro : n.m. 마이크
-- corne : n.f. 뿔
-- reine : n.f. 왕비, 왕후, 여왕
-- diable : n.m. 악마, 사탄
-- terre : n.f. 땅
+- couronne : nf. 관, 화관, 상
+- micro : nm. 마이크
+- corne : nf. 뿔
+- reine : nf. 왕비, 왕후, 여왕
+- diable : nm. 악마, 사탄
+- terre : nf. 땅
 - mouillé : a. 젖은, 축축한
-- goût : n.m. 미각, 입맛
-- lumière : n.f. 빛, 햇빛
-- odeur : n.f. 냄새, 향기
-- rire : n.m. 웃음
+- goût : nm. 미각, 입맛
+- lumière : nf. 빛, 햇빛
+- odeur : nf. 냄새, 향기
+- rire : nm. 웃음
 
 ## remarques
 - 따라서 des는 복수형부정관사로도 쓰이고 de + les의 의미로도 쓰인다.
@@ -652,35 +652,35 @@ Dans mon sac, il y a des livres, un ramen, une gamelle, des stylos et une paire 
 ## vocabulaires
 - châtain : a. 밤색의
 - convenable : a. 적절한, 예의바른
-- maillot : n.m. 속옷
+- maillot : nm. 속옷
 - maillot de bain : 수영복
-- serviette : n.f. 수건
-- shampooing : n.m. 샴푸, 샴푸로 머리감기
-- bonnet : n.m. 챙없는 모자
-- gomme : n.f. 고무, 지우개
-- règle : n.f. 규정, 규칙, 자
-- cahier : n.m. 공책
-- adresse : n.f.
-- visage : n.m. 얼굴
-- bouche : n.f. 입술
-- yeux : n.m. 두 눈 (복수형, 단수 → œil)
+- serviette : nf. 수건
+- shampooing : nm. 샴푸, 샴푸로 머리감기
+- bonnet : nm. 챙없는 모자
+- gomme : nf. 고무, 지우개
+- règle : nf. 규정, 규칙, 자
+- cahier : nm. 공책
+- adresse : nf.
+- visage : nm. 얼굴
+- bouche : nf. 입술
+- yeux : nm. 두 눈 (복수형, 단수 → œil)
 - cheveu : n.n. 머리털
-- main : n.f. 손
-- sourire : n.m. 미소
-- silhouette : n.f. 실루엣, 몸매, 형태
-- style : n.m.
-- tendresse : n.f. 다정함
-- nez : n.m. 코
-- oreille : n.f. 귀
-- démarche : n.f. 발걸음
+- main : nf. 손
+- sourire : nm. 미소
+- silhouette : nf. 실루엣, 몸매, 형태
+- style : nm.
+- tendresse : nf. 다정함
+- nez : nm. 코
+- oreille : nf. 귀
+- démarche : nf. 발걸음
 - ordonné : a. 정리된, 정돈된 (→ ordonner)
 - désordonné : a. 무질서한, 혼란스러운
 - rangée : a. 정리된, 정돈된 (→ ranger)
-- désordre : n.m. 뒤죽박죽, 혼란
+- désordre : nm. 뒤죽박죽, 혼란
 - bien fait : 잘 하다, 잘 되다 (→ mal fait)
 - repasser : v. 다림질하다, 다시 통과하다
 - froisser : v. 구기다
-- écriture : n.f. 문자
+- écriture : nf. 문자
 - lisible : a. 읽기 쉬운 (→ illisible)
 - sale : a. 더러운
 
@@ -779,26 +779,26 @@ Dans mon sac, il y a des livres, un ramen, une gamelle, des stylos et une paire 
 
 
 ## vocabulaires
-- sol : n.m. 땅바닥, 지면 (→ terre : n.f.)
+- sol : nm. 땅바닥, 지면 (→ terre : nf.)
 - proche : a. 인접한, 이웃한
 - lointain : a. 먼, 멀리 떨어진
-- fourmi : n.f. 개미
-- étoile : n.f. 별
+- fourmi : nf. 개미
+- étoile : nf. 별
 - en cours : 진행중인
 - accorder : v. 일치시키다
 - creer : v. 창조하다
-- glace :  n.f. 얼음
-- plat : n.m. 그릇
-- pull : n.m. 스웨터
-- chanson : n.f.
-- gâteau : n.m.
-- éscarpe : n.f. 스카프
-- verre : n.m. 유리 (bière : 맥주, vin : 와인)
+- glace :  nf. 얼음
+- plat : nm. 그릇
+- pull : nm. 스웨터
+- chanson : nf.
+- gâteau : nm.
+- éscarpe : nf. 스카프
+- verre : nm. 유리 (bière : 맥주, vin : 와인)
 - Cette chaise est libre? : 의자가 비어있나요?
 - À qui est cette écharpe? : 이 목도리는 누구 거에요?
 - Ce verre est à vous? : 이 잔이 당신 거에요?
-- hôtel : n.m.
-- aéroport : n.m.
+- hôtel : nm.
+- aéroport : nm.
 
 ## remarques
 - soir와 soirée 모두 '저녁'이라는 뜻이지만 뉘앙스가 살짝 다르고, soir은 남성명사, soirée는 여성명사이다.
@@ -866,7 +866,7 @@ Dans mon sac, il y a des livres, un ramen, une gamelle, des stylos et une paire 
 - appareil photo : 카메라
 - carte d'identité : 신분증
 - carte de crédit : 신용카드
-- salaire : n.m. 급여
+- salaire : nm. 급여
 - foncè : a. 어두운
 
 ## remarques
@@ -941,7 +941,7 @@ Dans mon sac, il y a des livres, un ramen, une gamelle, des stylos et une paire 
 - allongé : 긴, 길쭉한 (→ allonger)
 - carré : 네모난 (→ carrer)
 - roux : 다갈색의
-- retraite : n.f. 퇴직
+- retraite : nf. 퇴직
 - actuel : a. 현재의, 오늘날의
 - Miss Monde : 미스 월드, 국제 미인대회
 - ensuite : 그리고 나서
@@ -1024,24 +1024,24 @@ Dans mon sac, il y a des livres, un ramen, une gamelle, des stylos et une paire 
 
 ## vocabulaires
 - 얼굴, 머리, 목
-    - visage : n.m. 얼굴
-    - tête : n.f. 얼굴, 머리
-    - cou : n.m. 목 (구조, 근육)
-    - gorge : n.f. 목 (내부, 인후)
-    - dent : n.f. 치아, 이
-- dos : n.m. 등
+    - visage : nm. 얼굴
+    - tête : nf. 얼굴, 머리
+    - cou : nm. 목 (구조, 근육)
+    - gorge : nf. 목 (내부, 인후)
+    - dent : nf. 치아, 이
+- dos : nm. 등
 - 굶주림과 목마름
-    - faim : n.f. 굶주림, 허기, 기아
-    - soif : n.f. 목마름, 갈증
-- sensation : n.f. 감각, 느낌
-- sommeil : n.m. 잠, 수면
-- douleur : n.f. 고통, 아픔
+    - faim : nf. 굶주림, 허기, 기아
+    - soif : nf. 목마름, 갈증
+- sensation : nf. 감각, 느낌
+- sommeil : nm. 잠, 수면
+- douleur : nf. 고통, 아픔
 - 손, 팔, 발, 다리
-    - main : n.f. 손
-    - bras : n.m. 팔
-    - pied : n.m. 발
-    - jambe : n.f. 다리
-- manque : n.m. 결핍, 과실, 부족
+    - main : nf. 손
+    - bras : nm. 팔
+    - pied : nm. 발
+    - jambe : nf. 다리
+- manque : nm. 결핍, 과실, 부족
 - 더위, 추위
     - chaud : a. 더운, 따뜻한
     - froid : a. 추운
@@ -1049,18 +1049,18 @@ Dans mon sac, il y a des livres, un ramen, une gamelle, des stylos et une paire 
 - ophtalmo : n. 안과, 안과학 (ophtalmologue, ophtalmologie)
 - ci-dessous : 아래에 표시한 대로, 이하에
 - perdu : a. 잃은, 분실한 (→ perdre)
-- bain : n.m. 목욕, 욕조
+- bain : nm. 목욕, 욕조
 - faire les cources : 장을 보다
 - sirop : n. 시럽, 음료
 - vers 10 heures : 10시 경에
-- minuit : n.m. 자정
+- minuit : nm. 자정
 
 ## remarques
 - Ils ont faim에서 faims를 쓰지 않는 것이 특이해보인다. Ils ont froid도 마찬가지 → 해당 형용사들은 바꾸지 않는다. 관용구같이 쓰인다는 것이 클로드의 답변.
 - sont : être, ont : avoir
-- besoin : n.m. 필요
-- envie : n.f. 부러움, 선망
-- peur : n.f. 두려움
+- besoin : nm. 필요
+- envie : nf. 부러움, 선망
+- peur : nf. 두려움
 - montagne, mer는 둘다 여성 명사이다.
 
 # 19. j'ai, tu as, il a ...
@@ -1115,11 +1115,11 @@ J'ai un fils. Il s'appelle Thibaud. Il a huit ans. Il a un très bon copain qui 
 - Ils sont lycéens. Ils ont de gros cartables.
 
 ## vocabulaires
-- moto : n.f. 오토바이
-- interrogation : n.f. 의문문
+- moto : nf. 오토바이
+- interrogation : nf. 의문문
 - à peu près : 거의, 대략
-- mannequin : n.m. 마네킹
-- cartable : n.m. 책가방
+- mannequin : nm. 마네킹
+- cartable : nm. 책가방
 - voix : n.f 목소리, 음성
 
 ## remarques
@@ -1202,34 +1202,34 @@ J'ai un fils. Il s'appelle Thibaud. Il a huit ans. Il a un très bon copain qui 
     - Moi, J'ai un ordinateur, mais je n'ai pas la télévision.
 
 ## vocabulaires
-- electricité : n.f. 전기
-- photo : n.f.
-- numéo : n.m.
-- adresse : n.f.
-- clé : n.f. 열쇠
+- electricité : nf. 전기
+- photo : nf.
+- numéo : nm.
+- adresse : nf.
+- clé : nf. 열쇠
 - chapeau : n.m
-- cravate : n.f. 넥타이
-- lunette : n.f.
-- magnétoscope : n.m. 비디오 테이프 녹화기
+- cravate : nf. 넥타이
+- lunette : nf.
+- magnétoscope : nm. 비디오 테이프 녹화기
 - caméscope : 비디오 카메라
 - eau courante : 수도
 - gaz de ville : 도시가스
-- chauffage : n.m. 난방
+- chauffage : nm. 난방
 - chauffage central : 중앙 난방
-- panne : n.f. 고장, 정지
-- roue : n.f. 바퀴
-- secours : n.m. 도움, 지원
+- panne : nf. 고장, 정지
+- roue : nf. 바퀴
+- secours : nm. 도움, 지원
 - roue de secours : 스페어 타이어
-- lampe : n.f. 램프, 전등
-- poche : n.f. 포켓, 주머니
+- lampe : nf. 램프, 전등
+- poche : nf. 포켓, 주머니
 - lampe de poche : 손전등
-- allumette : n.f. 성냥
-- plan : n.m. 지도
-- région : n.f. 지역
+- allumette : nf. 성냥
+- plan : nm. 지도
+- région : nf. 지역
 - téléphon portable : 휴대폰
 - chaîne hi-fi : 오디오
-- permis : n.m. 허가증
-- balcon : n.m. 발코니
+- permis : nm. 허가증
+- balcon : nm. 발코니
 
 ## remarques
 - 책에는 camescope으로 네이버 사전에는 caméscope으로 되어 있음.
@@ -1290,26 +1290,26 @@ récapitulatif : a. 요점을 간추린, 요약하는 n. 요약
 - Tu manges au club-house avec ta famille.
 
 ## vocabulaires
-- manteau : n.m.
-- écharpe : n.f.
-- parapluie : n.m.
+- manteau : nm.
+- écharpe : nf.
+- parapluie : nm.
 - barbu : a. 수염이 있는
-- blouson : n.m. 잠바, 짧은 상의
-- moto : n.f.
+- blouson : nm. 잠바, 짧은 상의
+- moto : nf.
 - emporter : v. 가지고 가다
-- chéquier : n.m. 수표책 (수표용지를 철한 장부. 은행에서 당좌 예금자에게 내준다.)
+- chéquier : nm. 수표책 (수표용지를 철한 장부. 은행에서 당좌 예금자에게 내준다.)
 - chèque : n.m 수표
 - carte bleue : 직불카드, 현금카드
-- tête : n.f.
-- pharmacie : n.f.
-- boîte : n.f.
-- épicerie : n.f. 향신료, 식료품점
-- bouteille : n.f.
-- magasin : n.m.
-- sandale : n.f.
-- restaurant : n.m.
-- cafétéria : n.f.
-- cantine : n.f. 구내식당, 간이식당
+- tête : nf.
+- pharmacie : nf.
+- boîte : nf.
+- épicerie : nf. 향신료, 식료품점
+- bouteille : nf.
+- magasin : nm.
+- sandale : nf.
+- restaurant : nm.
+- cafétéria : nf.
+- cantine : nf. 구내식당, 간이식당
 
 # bilan n.2
 bilan : 결산
@@ -1337,17 +1337,17 @@ bilan : 결산
 
 
 ## vocabulaires
-- Italie : n.f. 이탈리아
-- hiver : n.m. 겨울
-- pluie : n.f. 비
-- nuage : n.m. 구름
-- ministre : n.m. 장관, 대신
-- culture : n.f. 경작, 농업, 문화
-- visage : n.m.
-- bouche : n.f.
-- yeux : n.m.
+- Italie : nf. 이탈리아
+- hiver : nm. 겨울
+- pluie : nf. 비
+- nuage : nm. 구름
+- ministre : nm. 장관, 대신
+- culture : nf. 경작, 농업, 문화
+- visage : nm.
+- bouche : nf.
+- yeux : nm.
 - Renault : 르노
-- grippe : n.f. 유행성 감기
+- grippe : nf. 유행성 감기
 - couramment : 유창하게
 - baby-sitter : 
 - institutrice : 여교사
@@ -1449,20 +1449,20 @@ bilan : 결산
     - J'habite loin de mer.
 
 ## vocabulaires
-- origine : n.f. 출신
+- origine : nf. 출신
 - Ceylan : 스리랑카
 - grec : a. 그리스의
 - Corfou : 케르키라 섬
-- ingénieur : n.m. 기술자, 기사
+- ingénieur : nm. 기술자, 기사
 - informaticien : n. 정보과학자, 정보처리 기술자
 - Aix : Aix-en-Provence : 엑상 프로방스
-- poste : n.f. 우체국 n.m. 근무소, 파출소
-- banque : n.f.
-- aéroport : n.m.
-- piscine : n.f.
-- supermarché : n.m.
-- cinéma : n.m.
-- hôtel : n.m.
+- poste : nf. 우체국 nm. 근무소, 파출소
+- banque : nf.
+- aéroport : nm.
+- piscine : nf.
+- supermarché : nm.
+- cinéma : nm.
+- hôtel : nm.
 
 ## remarques
 - "être à"는 현재 어디에 있다, 라는 의미인 반면 "être de"는 어디 출신이다 라는 의미이다. 이것은 "venir de"와 그 의미가 유사하다.
@@ -1546,11 +1546,11 @@ bilan : 결산
 
 - suivre : v. 뒤따라가다
 - suivis du nom de pays : 나라 이름에 따라서
-- Norvège  : n.f. 노르웨이
-- frontière : n.f. 경계, 국경
-- commune : n.f. 코뮌 (프랑스 최소 행정구)
-- Sahara occidental : n.m. 서사하라
-- Mauritanie : n.f. 모리타니
+- Norvège  : nf. 노르웨이
+- frontière : nf. 경계, 국경
+- commune : nf. 코뮌 (프랑스 최소 행정구)
+- Sahara occidental : nm. 서사하라
+- Mauritanie : nf. 모리타니
 - situer : v. 위치시키다, 설정하다
 - Le Conseil de l'Europe : 유럽평의회 (CoE, Council of Europe)
 - La Scala : 스칼라 극장
@@ -1652,26 +1652,26 @@ bilan : 결산
 - Où est le programme-télé? | Sur la table.
 
 ## vocabulaires
-- espace : n.m. 공간
-- manège : n.m. 회전목마
-- autobus : n.m. 시내버스
-- sable : n.m. 모래
-- parasol : n.m.
-- pin : n.m. 소나무, 소나무 목재
-- coffre : n.m. 궤, 함, 상자, 냉동고, 금고
-- portefeuille : n.m. 지갑
-- bougie : n.f. 초, 양초
-- étagère : n.f. 선반
-- poubelle : n.f. 쓰레기통, 휴지통
-- évier : n.m. 개수대, 배수구
-- guichet : n.m. 쪽문, 통로, 구멍
+- espace : nm. 공간
+- manège : nm. 회전목마
+- autobus : nm. 시내버스
+- sable : nm. 모래
+- parasol : nm.
+- pin : nm. 소나무, 소나무 목재
+- coffre : nm. 궤, 함, 상자, 냉동고, 금고
+- portefeuille : nm. 지갑
+- bougie : nf. 초, 양초
+- étagère : nf. 선반
+- poubelle : nf. 쓰레기통, 휴지통
+- évier : nm. 개수대, 배수구
+- guichet : nm. 쪽문, 통로, 구멍
 - caissièr : n. 현금출납계원, 회계원, 캐셔?
-- cinéaste : n.m. 영화인 (시나리오 작가·영화 감독·영화 제작 관계자)
-- locomotive : n.f. 기관차, 증기기관차
-- cour : n.f. 안마당, 안뜰
-- couvert : n.m. 식기
-- télécommande : n.m. 리모컨
-- pantoufle : n.f. 슬리퍼
+- cinéaste : nm. 영화인 (시나리오 작가·영화 감독·영화 제작 관계자)
+- locomotive : nf. 기관차, 증기기관차
+- cour : nf. 안마당, 안뜰
+- couvert : nm. 식기
+- télécommande : nm. 리모컨
+- pantoufle : nf. 슬리퍼
 - programme télé : TV 편성표
 
 # 24. Au bord de l'eau, il i a un éléphant. En Afrique, il y a des éléphants.
@@ -1760,25 +1760,25 @@ bilan : 결산
 
 
 ## vocabulaires
-- bord : n.m. 가, 가장자리, 테두리
-- rive : n.f. 강의 연안, 하안 (c.f. rivière)
-- pièce : n.f. 방
-- tissu : n.m. 직물, 피륙, 천
-- cuisine : n.f.
-- cuisinière : n.f. 요리용 화덕
+- bord : nm. 가, 가장자리, 테두리
+- rive : nf. 강의 연안, 하안 (c.f. rivière)
+- pièce : nf. 방
+- tissu : nm. 직물, 피륙, 천
+- cuisine : nf.
+- cuisinière : nf. 요리용 화덕
 - cuisinière électrique : 전기레인지
 - cuisinière à gaz : 가스레인지
-- salle : n.f.
-- baignoire : n.f. 욕조
-- mur : n.m. 담
-- verres : n.m. 유리
-- tiroir : n.m. 서랍
-- bibliothèque : n.f.
-- magazine : n.m.
-- pâtisserie : n.f.
+- salle : nf.
+- baignoire : nf. 욕조
+- mur : nm. 담
+- verres : nm. 유리
+- tiroir : nm. 서랍
+- bibliothèque : nf.
+- magazine : nm.
+- pâtisserie : nf.
 - plage de sable : 모래사장
-- ours : n.m. 곰
-- moustique : n.m. 모기
+- ours : nm. 곰
+- moustique : nm. 모기
 
 ## remarques
 - il y a에서 (출처 : claude)
@@ -1835,8 +1835,8 @@ bilan : 결산
 ## vocabulaires
 - guitariste : 기타연주자
 - roman : 장편소설, 소설
-- carte : n.f.
-- réseau : n.m. 그물, 망, 네트워크
+- carte : nf.
+- réseau : nm. 그물, 망, 네트워크
 
 ## remarques
 - est-ce que의 의미 (나의 추정 + claude)
@@ -1931,18 +1931,18 @@ bilan : 결산
     - Ils sont très petits.
 
 ## vocabulaires
-- sac : n.m.
-- valise : n.f.
+- sac : nm.
+- valise : nf.
 - norvégien : a. 노르웨이의
 - sérieux : a. 진지한
 - concierge : n. 관리인
 - la plage d'Ipanema : 브라질 리우데자네이루의 해변
 - linguiste : n. 언어학자
 - Algodoal : 브라질 pará 주의 환경보호지역 (아마존)
-- île : n.f. 섬
+- île : nf. 섬
 - sauvage : a. 야생의
-- colibri : n.m. 철새
-- oiseau : n.m.
+- colibri : nm. 철새
+- oiseau : nm.
 
 ## remarques
 - 직업에 대해 말할 때에는 Il/Elle est도 가능하고 C'est un/une도 가능하다.
@@ -2015,13 +2015,13 @@ bilan : 결산
 - Oui, c'est mignon, une petite fille.
 
 ## vocabulaires
-- commentaire : n.m. 주석, 설명, 해설, 언급
+- commentaire : nm. 주석, 설명, 해설, 언급
 - neutre : a. 중립의
 - exprimer : v. 표현하다, 나타내다
 - collectif : a. 공동의, 단체의 (f. collective)
 - parfumé : a. 향기나는
-- paysage : n.m. 경치, 풍경
-- moustique : n.m.
+- paysage : nm. 경치, 풍경
+- moustique : nm.
 - haut : a. 높은
 - désagréable : a. 불쾌감을 주는
 - mauvais : a. 나쁜
@@ -2029,14 +2029,14 @@ bilan : 결산
 - ennuyeux : a. 지루한
 - stressant : a. 스트레스를 유발하는
 - passionnant : a. 열광시키는, 감동적인
-- morue : n.f. (물고기) 대구
-- fraise : n.f. 딸기
-- sucre : n.m. 설탕, 당
+- morue : nf. (물고기) 대구
+- fraise : nf. 딸기
+- sucre : nm. 설탕, 당
 - coloré : a. 유색의, 원색의
 - sucré : a. 달콤한, 설탕을 넣은
 - doux : a. 단, 단맛이 나는, 심심한, 기분좋은, 부드러운 (f. douce)
 - léger : a. 가벼운, 얇은
-- bulle : n.f. 거품, 방울
+- bulle : nf. 거품, 방울
 - pratique : a. 실천적인, 실제적인, 실용적인
 
 ## remarques
@@ -2091,28 +2091,28 @@ bilan : 결산
 - C'est un stylo. Ce n'est pas un crayon. Il est bleu. Il n'est pas noir.
 
 ## vocabulaires
-- musée : n.m.
+- musée : nm.
 - sec : a. 건조한, 말린
-- dictionnaire : n.m.
-- muscadet : n.m. 포도나무 묘목
+- dictionnaire : nm.
+- muscadet : nm. 포도나무 묘목
 - connu : 유명한, 널리 알려진 (← connaître)
 - styliste : n. 문장가, 디자이너
-- vitrine : n.f. 진열창, 쇼윈도
-- chaussure : n.f.
-- truite : n.f. 송어
+- vitrine : nf. 진열창, 쇼윈도
+- chaussure : nf.
+- truite : nf. 송어
 - énorme : a. 거대한, 엄청난, 대단한
-- affiche : n.f. 벽보
-- tulipe : n.f.
-- forêt : n.f.
-- vipère : n.f. 살모사, 독사, 악인
-- gâteau : n.m.
-- raisin : n.m. 포도
-- reportage : n.m. 르포르타주, 탐방기사, 현장보도
-- journal : n.m.
-- pull : n.m.
-- soie : n.f. 명주, 비단
+- affiche : nf. 벽보
+- tulipe : nf.
+- forêt : nf.
+- vipère : nf. 살모사, 독사, 악인
+- gâteau : nm.
+- raisin : nm. 포도
+- reportage : nm. 르포르타주, 탐방기사, 현장보도
+- journal : nm.
+- pull : nm.
+- soie : nf. 명주, 비단
 - bon marché : 유리한 거래
-- studio : n.m.
+- studio : nm.
 
 ## remarques
 - "C'est un vin sec blanc."보다는 "C'est un vin blanc sec."이 맞다. "드라이한 백포도주"라는 의미로, 백포도주(vin blanc)는 붙여쓰는 게 자연스럽다. (내 추정 + claude)
@@ -2146,14 +2146,14 @@ bilan : 결산
 - Ce sont les paroles des chansons.
 
 ## vocabulaires
-- loch : n.m. 호수
+- loch : nm. 호수
 - Loch Ness : 네스호 (← 네스호의 괴물)
 - Ècosse : 스코틀랜드
-- serpent : n.m. 뱀
+- serpent : nm. 뱀
 - formidable : a. 무시무시한, 엄청난
-- statue : n.f.
-- écran : n.m. 스크린
-- parole : n.f. 말, 언사
+- statue : nf.
+- écran : nm. 스크린
+- parole : nf. 말, 언사
 
 ## remarques
 
@@ -2243,12 +2243,12 @@ avoir의 부정
 
 ## vocabulaires (1)
 - suivre : 뒤따르다 (→ suivi)
-- nombre : n.m.
-- chiffre : n.m.
-- centime : n.m.
-- monnaie : n.f. 금속화폐, 주화
-- billet : n.m. 지폐
-- pièce : n.f. 동전
+- nombre : nm.
+- chiffre : nm.
+- centime : nm.
+- monnaie : nf. 금속화폐, 주화
+- billet : nm. 지폐
+- pièce : nf. 동전
 
 ## remarques (1)
 - 잘 안외워지는 숫자들
@@ -2335,20 +2335,20 @@ avoir의 부정
 
 ## vocabulaires (2)
 - classer : v. 분류하다, 순위를 매기다, 등급을 매기다
-- classement : n.m. 분류, 순위, 등급
+- classement : nm. 분류, 순위, 등급
 - ajouter : v. 덧붙이다.
 - sauf : ~을 제외하고
 - être en forme : 건강(컨디션)이 좋다
-- étage : n.m.
-- personnage : n.m. 인물, 저명인사
-- époque : n.f. 시대
-- siècle : n.m. 세기
-- écrivain : n.m.
-- peintre : n.m.
-- cinéaste : n.m. 영화인
+- étage : nm.
+- personnage : nm. 인물, 저명인사
+- époque : nf. 시대
+- siècle : nm. 세기
+- écrivain : nm.
+- peintre : nm.
+- cinéaste : nm. 영화인
 - autrichien : a. 오스트리아의
-- permis : n.m. 허가증
-- marier : v.i. 결혼하다 v.t. 결혼시키다
+- permis : nm. 허가증
+- marier : vi. 결혼하다 vt. 결혼시키다
 - naître : v. 태어나다 (→ né : 남성형-단수 과거분사)
 
 ## remarques (2)
@@ -2443,9 +2443,9 @@ avoir의 부정
 - Quand il est onze heures du soir à Paris, il est sept heures du soir à Rio et il est sept heures du matin à Tokyo.
 
 ## vocabulaires
-- horaire : n.m.
+- horaire : nm.
 - donnant : donner의 participe présent
-- séance : n.f. 회합, 회의
+- séance : nf. 회합, 회의
 - petit matin : 새벽
 
 # 30. Il fait froid, en hiver. Il fait beau, en juillet.
@@ -2799,7 +2799,7 @@ Le matin, c'est le printemps et il fait frais.
 - beurre : nm. 버터
 - farine : nf. 분말, 밀가루
 - verre : nm. 유리, 컵
-- morceau : nm. 덩어리
+- morceau : nm. 덩어리, 조각
 - tasse : nf. 잔, 찻잔
 - carnet : nm. 수첩, 통장
 - tranche : nf. 얇은 조각, 슬라이스
@@ -4648,7 +4648,7 @@ Dans le métro
 - complément d'objet : 목적어
 - complément d'objet direct : 직접목적어 (COD)
 - Côme : 코모 (이탈리아)
-- coffre : n.m. 궤, 함, 상자, 냉동고, 금고
+- coffre : nm. 궤, 함, 상자, 냉동고, 금고
 - escalier : nm. 계단
 - gangster : nm.
 - grenier : nm. 곡식창고
@@ -4998,8 +4998,8 @@ chapitre 42
 - briller : vi. 빛나다, 반짝이다
 - feu : nm. 불
 - faire du feu : 불을 피우다
-- bois : n.m. 삼림, 숲, 나무
-- corne : n.f. 뿔
+- bois : nm. 삼림, 숲, 나무
+- corne : nf. 뿔
 - loin : 멀리
 - esprit : 입김, 영, 유령, 혼백
 - cesse : 중지, 휴지
@@ -5461,7 +5461,7 @@ chapitre 42
 - exercice 3의 마지막에서 Je pars quinze jours.는 내가 볼 때는 특이한 표현이다. 첫째로, quinze jours가 부사구처럼 쓰이고 있다. 둘째로, '15일 후에 떠나요'가 아니라 '15일간 떠나 있어요.' 이다. 원래 질문도 '며칠동안 떠나계십니까?'로 해석해야 한다고 한다.
 
 ## vocabulaires
-- interrogation : n.f. 의문문
+- interrogation : nf. 의문문
 - manière : nf. 방식, 방법, 수법
 - interrogatif : nm. 의문사
 - inverser : vt. 거꾸로 하다, 전도시키다
@@ -5899,7 +5899,7 @@ Ludwig Berg (compositeur)
 - compositeur : n. 작곡가
 - exactement : 어김없이, 정확하게, 엄밀하게, 문자그대로
 - commentaire : nm. 주석, 설명, 논평, 해설, 언급
-- vif : a. 살아있는, 발랄한, 생기있는, nm. 급소, 핵심, 요점 (f. vive) → 하지만 여기 쓰인 vive는 형용사는 아니다.
+- vif : a. 살아있는, 발랄한, 생기있는 (f. vive), nm. 급소, 핵심, 요점 → 하지만 여기 쓰인 vive는 형용사는 아니다.
 - vive : (감탄사) 만세
 - projet : nm. 계획
 - sortir : vi. (상품이) 출하되다, 발매되다, 출판하다
@@ -6597,11 +6597,75 @@ Cas le plus fréquent : "qui" + verbe, "que" + pronom :
 - La femme qui attend ...
 - La femme que tu attends ...
 
+## exercices
+
+1. Complétez avec "qui" ou "que", selon le modèle.
+- Le pull qui est en vitrine est très joli. Le pull que tu portes est très joli.
+- La femme qui passe est rousse. La femme que je regarde est rousse.
+- L'homme qui parle est journaliste. L'homme que j'écoute est journaliste.
+- La statue qui est sur la place est bizarre. La statue que je photographie est bizarre.
+- Le bus qui passe est le 27. Le bus que je prends est le 27.
+
+2. Transformez.
+
+Dans la rue
+- Une femme passe. Elle est blonde.         La femme qui passe est blonde.
+- Elle mange un gâteau. Il est énorme.      Le gâteau qu'elle mange est énorme.
+- Un bus arrive. Il est vide.               Le bus qui arrive est vide.
+- J'attends une amie. Elle est en retard.   L'amie que j'attends est en retard.
+
+3. Complétez puis transformez en utilisant "qui", "que" ou "qu'".
+- Je lis un livre qui est intéressant.              Le livre que je lis est intéressant.
+- Il fait des gâteaux qui sont délicieux.           Les gâteaux qu'il fait sont délicieux.
+- Elle peint des tableaux qui sont très beaux.      Les tableaux qu'elle peint sont très beaux.
+- Nous faisons des exercices qui sont difficiles.   Les exercices que nous faisons sont difficiles.
+- Tu invites des amis qui sont insupportables.      Les amis que tu invites sont insupportables.
+
+4. Complétez les devinettes avec "qui", et "que".
+
+Quel est l'oiseau
+qui vient des pays chauds,
+qui a un gros bec et des couleurs vives.
+que Frida Kahlo a souvent peint,
+qui répète des mots?
+
+-> Le perroquet (앵무새)
+
+Quelle est la chose
+qui est petite,
+qui est sucrée,
+que les enfants adorent,
+que les dentistes détestent?
+
+-> Le bonbon
+
+Quel est le personnage
+que Victor Hugo a créé,
+qui Disney a adapté,
+qui est bossu
+et qui est amoureux d'Esmeralda?
+
+-> Quasimodo
+
 ## vocabulaires
 - gondole : nf. (베니스의) 곤돌라
 - gondolier : nm. 곤돌라 뱃사공
 - relier : vt. 연결하다, 연결짓다
 - en une seule : 단일한 형태로, 하나의 형태로
+- vitrine : nf. 진열창, 쇼윈도
+- photographier : vt. 사진을 찍다
+- énorme : a. 거대한, 엄청난, 대단한
+- vide : a. 빈, 비어있는
+- insupportable : a. 참을 수 없는, 불쾌한
+- devinette : nf. 수수께끼
+- bec : nm. 부리
+- vif : a. 살아있는, 발랄한, 생기있는 (f. vive)
+- sucré : a. 달콤한, 설탕을 넣은
+- sucrer : vt 설탕을 넣다
+- personnage : nm. 인물, 저명인사
+- perroquet : nm. 앵무새
+- adapter : vt. 맞추다, 각색하다
+- bossu : n. 꼽추, 곱사등이, a. 곱추의, 곱사등이의
 
 ## remarques
 beau의 변화형
@@ -6611,5 +6675,125 @@ beau의 변화형
 - fp. : belles
 
 본문의 문장 해석 : 여러 개의 문장을 단일한 형태로 연결시키기 위해서 relatif를 사용한다.
+
+élision
+- qui는 élision되지 않는다.
+    - Je lis un livre qui est intéressant.
+- elle은 앞에서 élision되지만 뒤에서는 élision되지 않는다.
+    - Le gâteau qu'elle mange est énorme.
+    - Elle est en retard.
+
+# exercices récapitulatifs
+
+1. Verbes, partitifs, "en". / Faites des phrases selon le modèle.
+- Anna boit du café. Elle en boit six tasses par jour.
+- Les français mangent du pain. Ils en mangent 55 kilos par an.
+- Le bébé boit du lait. Il en boit 2 litres par jour.
+- Bruno fait de la gymnastique. Il en fait 4 heures par semaine.
+- Les étudiants font les exercices. Ils en font une dizaine par jour.
+
+2. Pronoms "y". / Faites des phrases avec un lieu, puis avec "y".
+- Je vais à la piscine. J'y vais à cinq heures.
+- Tu vas chez le dentiste. Tu y vas le matin.
+- Elle va à la montagne. Elle y va en février.
+- Vous allez en Espagne. Vous y allez en été.
+- Ils vont au cinéma. Ils y vont à 20 heures.
+- Nous allons chez mes parents. Nous y allons à Noël.
+
+3. Pronoms "le", "la", "les", "lui", "leur".
+- Karima            Je l'aime et je lui offre des fleurs.
+- Les voisins       Je les invite et je leur montre mon appartement.
+- Ma sœur           Je lui écris et je lui demande des nouvelles.
+- Ma fille          Je la lave, je l'habille, je la coiffe.
+- La psychanalystre Je lui parle et je lui raconte tout.
+
+4. Pronoms "le", "la", "les", questions. / Répondez et continuez le dialogue.
+- Où mettez-vous vos clés?          Je les mets dans ma poche.
+- Où accrochez-vous votre manteau?  Je l'accroche sur le portemanteau.
+- Où garez-vous votre voiture?      Je la gare dans le parking.
+- Où rangez-vous vos papiers?       Je les range dans le tiroir.
+- Où sont vos pantoufles?           Je les mets dans l'armoire.
+- Où achetez-vous votre journal?    Je l'achète au kiosque.
+
+5. Relatifs "qui", "que". / Complétez.
+
+Proverbes, citations, etc.
+- L'homme qui monte à cheval oublie Dieu. L'homme qui descend du cheval oublie le cheval.
+- Une vache qui mâche, c'est beau.
+- Les femmes que les hommes préfèrent sont les femmes qui aiment les hommes.
+
+## vocabulaires
+- tasse : nf. 잔, 찻잔
+- bébé : nm.
+- lait : nm.
+- gymnastique : nf. 체조, 체육
+- exercice : nm.
+- faire l'exercice : 연습하다, 연습문제를 풀다
+- dizaine : 대략 열 개, 대략 10
+- montagne : nf.
+- nouvelle : nf. 소식, 소문, (복수)뉴스, 보도
+- psychanalyste : n. 정신분석학자
+- poche : nf. 포켓, 주머니
+- manteau : nm.
+- accrocher : vt. (갈고리, 뾰족한 것 따위에) 걸다
+- portemanteau : n. 옷걸이
+- tiroir : nm. 서랍
+- pantoufle : nf. 실내화
+- armoire : nf.
+- vache : nf. 암소, 암소고기
+- mâcher : vt. 씹다, 저작하다
+
+# bilan n.8
+
+1. Complétez avec les pronoms et les verbes manquants.
+
+- Vous mettez du sucre dans votre café? / Oui, j'en mets deux morceaux, merci.
+- Est-ce qu'il y a du lait dans le frigo? / Oui, il y en a un litre.
+- Les enfants boivent du Coca-Cola à tous les repas. Ils en boivent beaucoup trop!
+- Tu vas chez le dentiste à cinq heures? / Non, j'y vais à 4 heures.
+- Melissa adore son petit frère : elle le regarde, elle le caresse, elle l'embrasse et elle lui parle tout le temps.
+- Vous écrivez à vos amis? / Oui, je leur écris et je leur téléphone très souvent.
+- Tu connais les voisins? / Oui, je les connais bien et je les invite souvent.
+- Le film qui passe à la télé est un film que j'ai vu au moins trois fois.
+- Êtes-vous déjà monté sur la tour Eiffel? / Oui, j'y suis monté l'année dernière.
+- Avez-vous déjà mangé du caviar? / Oui, j'en ai mangé une fois.
+- Est-ce que vous avez vu Max? / Oui, je l'ai vu et je lui ai parlé.
+- Est-ce que tu as pris les livres? / Oui, je les ai pris et je les ai mis dans mon sac.
+
+2. Complétez avec "qui", "que", "le", "les", "lui", "leur", "en" et "y".
+
+Le Bulgare
+- Il y avait dans mon village un homme _qui_ vivait seul avec son chien.
+- Cet homme _que_ tout le monde appelait "Le Bulgare" dormait le jour et vivait la nuit.
+- Il partait tous les soirs dans la campagne et il _y_ passait la nuit.
+- Le matin, quand j'allais à l'école, je _le_ rencontrais sur mon chemin.
+- Il portait toujours un gros sac gris _qui_ semblait très lourd.
+- Le Bulgare ramassait des racines, des plantes et des champignons et il _en_ vendait au marché.
+- Quand il trouvait des fraises des bois, il _en_ donnait toujours une partie aux enfants du village.
+- Il _leur_ distribuait aussi des noisettes et même des truffes.
+- On aimait bien le Bulgare, on _le_ suivait, on _lui_ posait des questions. C'était notre ami.
+
+## vocabulaires
+- morceau : nm. 덩어리, 조각
+- caresser : vt. 쓰다듬다, 어루만지다, 애무하다
+- passer : vi. vt. 상연되다, 출연하다
+- au moins : 적어도
+- moins : nm.
+- caviar : nm. 캐비어
+- bulgare : a. 불가리아의
+- tout le monde : 모든 사람들, 누구나
+- jour : nm. 낮 (↔ nuit)
+- vivre : vi. 살다, 생활하다
+- chemin : nm. 길, 도로, 여정, 경로
+- sembler : vi. ~처럼 보이다
+- lourd : a. 무거운
+- ramasser : vt. 뭉치다, 모으다, 수집하다
+- racine : nf. 뿌리
+- champignon : nm. 버섯
+- fraise : nf. 딸기
+- bois : nm. 삼림, 숲, 나무
+- fraises des bois : 산딸기
+- noisette : nf. 개암나무 열매, 헤이즐넛
+- truffe : nf. 송로버섯, 트러플
 
 → ← ↔
