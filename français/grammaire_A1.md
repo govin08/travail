@@ -1,4 +1,8 @@
 GRAMMAIRE PROGRESSIVE DU FRANÇAIS (A1)
+- CLE International의 책
+- 공부기간
+    - chapitre 01 ~ 09 : 2024년 중순, 말
+    - chapitre 10 ~ 60 : 2025. 1. 31 ~ 2025. 3. 7
 
 # 10. un homme, une femme, un arbre, une route
 
