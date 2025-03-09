@@ -138,15 +138,6 @@ remarques
     - C'était comment?
     - Qu'est-ce que vous avez fait? : 너는 (당신들은) 뭐했어?
 
-## exercice
-- Je m'appelle sunjoong.
-- J'ai plus de 35 ans et je suis célibataire.
-- J'habite dans 도봉구, Séoul.
-- J'ai une grande soeur et je n'ai pas de frère.
-- Ma soeur se marie l'année dernière.
-- Ma soeur et son mari habitent dans 성동구.
-- Je fais 1,77 mètre?
-
 ## Le polycopié (2)
 
 Les cheveux
@@ -160,6 +151,8 @@ Les cheveux
 - Il est blond : il a les cheveux blonds.
 - Il a les cheveux châtain.
 - Elle est rousse et il a les cheveux roux.
+- Il ne sont pas jeunes. Il a les cheveux gris, elle a les cheveux blancs.
+
 - long : a. 긴
 - frisé : a. 곱슬머리의
 - mi-long : a. 중간길이의, 중단발의
@@ -169,4 +162,72 @@ Les cheveux
 - brun : a. 갈색의 (foncé : 짙은, noir : 검은, marron : 밤색의)
 - blond : a. 금발의 (clair : 밝은)
 - châtain : a. entre blonds et bruns
-- roux
+- roux : a. 다갈색의, une coleur un peu rouge ou orange (f. rousse)
+- gris : a. 회색의
+- blanc : a. 흰색의 (f. blanche)
+
+Le visage
+- Il a les yeux bleus / verts / marrons / noirs ; ses yeux sont grands, petits.
+- Elle a des petites / grandes oreilles.
+- Son nez est fin / gros / fort ; elle a le nez fin / fort, elle a un gros / long / petit nez.
+- Sa bouche est fine / épaisse.
+- Il a une petite / grosse moustache / barbe.
+- Elle a le visage rond / ovale / long / petit.
+- Elle porte des lunettes. Il ne porte pas de lunettes.
+
+- yeux / œil : nmp. 두 눈 / nm. 한 눈
+- oreille : nf. 귀
+- nez : nm. 코
+- fin : a. 가는, 얇은
+- fort : a. 힘센, 강한, 튼튼한
+- bouche : nf. 입, 입술
+- épais : a. 두꺼운, 살찐
+- moustache : nf. 콧수염
+- barbe : nf. 수염
+- rond : a. 둥근
+- ovale : a. 달걀모양의
+- lunettes : nfp. 안경
+- dents : nfp. 이, 치아
+- sourcil : nm. 눈썹
+- front : nm. 이마
+- joue : nf. 볼, 뺨
+- menton : nm. 턱
+- cou : nm. 목, 경부 (gorge : nf. 목, 인후)
+
+L'allure
+- Elle est jolie. Il est beau. Elle est belle. Il est magnifique / superbe.
+- Elle a le teint clair / mat.
+- Elle a la peau claire / mate.
+- Il est laid, il a un vilain nez.
+- Il a des taches de rousseur.
+- Elle est noire. (elle a la peau noire, comme en Afrique.)
+
+- allure : nf. 외모, 외양
+- superbe : a. 화려한, 멋진
+- teint : nm. 얼굴빛, 안색
+- mat : a. 불투명한, 어두운
+- peau : nf. 피부, 살갗
+- laid : a. 못생긴, 추한
+- vilain : a. 보기 흉한, 못생긴
+- tache : nf. 점, 반점
+- rousseur : nf. 적갈색
+- tache de rousseur : 주근깨
+
+
+## exercice
+- Je m'appelle sunjoong(선중).
+- J'ai plus de 35 ans et je suis célibataire.
+- J'habite dans 도봉구, Séoul.
+- J'ai une grande soeur et je n'ai pas de frère.
+- Ma soeur se marie l'année dernière.
+- Ma soeur et son mari habitent dans 성동구.
+- J'ai les cheveux courts.
+- Mes cheveux et les yeux sont noirs.
+- J'ai les sourcils fins.
+- Je n'ai pas une moustache parse que je me raze chaque week-end.
+- Je porte des lunettes tout le temps.
+- Je fais 1,77 mètre, puis je suis de taille moyenne.
+- J'ai un peu rond et gros depuis que j'avais vingt huit ans.
+- Avant, j'avais mince.
+- Maintenent, je couvre tous les soirs dans le parc pour faire un régime.
+- 
