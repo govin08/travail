@@ -76,7 +76,6 @@ Pour aller plus loin
 ### Les photos de Noël.
 
 M : Maxime, T : Thomas
-
 - M : Tu veux regarder mes photos de Noël? 
 - T : D'accord.
 - M : Là, c'est mon père. Et à côté, c'est Sophie, ma jeune sœur.
@@ -101,7 +100,6 @@ vocabulaires
 ### Le mariage de Charlotte
 
 C : Cécile, A : Alice
-
 - C : Tu sais, samedi dernier. on est allés au mariage de ma nièce Charlotte, un mariage tout simple et très sympa.
 - A : Et son mari?
 - C : Il est adorable! Il s'appelle Christophe, il est québécois.
@@ -261,21 +259,20 @@ Expressions pour aller plus loin
 ### L'apparence physique
 
 A : Marion, B : Manuel
-
-A : Allô, Manuel, ça va? C'est Marion, tu ne me téléphones plus...
-B : Oui, c'est vrai, je suis très occupé en ce moment.
-A : Tu as beaucoup de travail?
-B : Eh, oui, comme d'habitude ... et j'ai une petite amie.
-A : Ah bon, elle est comment? Qu'est-ce qu'elle fait? Elle travaille avec toi?
-B : Non, je l'ai rencontrée il y a trois semaines chez des amis, en week-end. Elle est professeur d'italien. Elle est superbe.
-A : Allez, dis-moi, elle est comment : jeune, grande, petite, blonde, brune, rousse?
-B : Elle a entre 25 et 30 ans. Elle est de taille moyenne ; ses cheveux ne sont pas blonds, pas bruns non plus. Elle est magnifique!
-A : Dis donc, pas facile de l'imaginer ... je ne sais pas moi, elle est mince, plutôt sportive ou un peu ronde? Elle est jolie, laide? Elle porte des lunettes, elle a les cheveux courts, longs?
-B : Écoute, vraiment je ne peux pas dire : elle a de grands yeux verts, une belle bouche et de jolies dents, elle a un petit nez ; ses cheveux sont un peu bouclés. C'est une fille merveilleuse.
-A : Toi, tu es amoureux! Quand est-ce que tu me présentes cette beauté parfaite?
-B : Je ne sais pas, attends un peu ... elle est assez timide, et puis, il n'y a pas longtemps qu'on se connaît.
-A : Je vois, vous préférez rester tous les deux. Allez, je suis contente pour toi, mais appelle-moi plus souvent.
-B : D'accord. Et je te présente bientôt ma copine. Tu sais, elle s'appelle ... Angelina.
+- A : Allô, Manuel, ça va? C'est Marion, tu ne me téléphones plus...
+- B : Oui, c'est vrai, je suis très occupé en ce moment.
+- A : Tu as beaucoup de travail?
+- B : Eh, oui, comme d'habitude ... et j'ai une petite amie.
+- A : Ah bon, elle est comment? Qu'est-ce qu'elle fait? Elle travaille avec toi?
+- B : Non, je l'ai rencontrée il y a trois semaines chez des amis, en week-end. Elle est professeur d'italien. Elle est superbe.
+- A : Allez, dis-moi, elle est comment : jeune, grande, petite, blonde, brune, rousse?
+- B : Elle a entre 25 et 30 ans. Elle est de taille moyenne ; ses cheveux ne sont pas blonds, pas bruns non plus. Elle est magnifique!
+- A : Dis donc, pas facile de l'imaginer ... je ne sais pas moi, elle est mince, plutôt sportive ou un peu ronde? Elle est jolie, laide? Elle porte des lunettes, elle a les cheveux courts, longs?
+- B : Écoute, vraiment je ne peux pas dire : elle a de grands yeux verts, une belle bouche et de jolies dents, elle a un petit nez ; ses cheveux sont un peu bouclés. C'est une fille merveilleuse.
+- A : Toi, tu es amoureux! Quand est-ce que tu me présentes cette beauté parfaite?
+- B : Je ne sais pas, attends un peu ... elle est assez timide, et puis, il n'y a pas longtemps qu'on se connaît.
+- A : Je vois, vous préférez rester tous les deux. Allez, je suis contente pour toi, mais appelle-moi plus souvent.
+- B : D'accord. Et je te présente bientôt ma copine. Tu sais, elle s'appelle ... Angelina.
 
 vocabulaires
 - apparence : nf. 외모, 외양, 겉모습
@@ -371,6 +368,8 @@ vocabulaires
 
 ## Leçon 1. Quelle famille?
 
+Les Chedid, une famille d'artistes
+
 1c. Complétez les phrases à l'oral.
 - Louis et Marianne sont les parents d'Émilie, Matthieu, Joseph et Anna.
 - Louis est le fils de Louis Sélim.
@@ -392,6 +391,8 @@ vocabulaires
 - bande dessinée : 만화
 
 ## Leçon 2. La famille dans tous ses états
+
+Fratrie, quand tu nous tiens.
 
 Ce qui nous lie : De Cédric Klapisch
 - Jean revient en Bourgogne après dix ans d'absence.
@@ -425,6 +426,8 @@ vocabulaires
 - état : nm. 상태, 상황
 - être dans tous ses états : 어찌할 바를 모르다, 마음이 흔들리다, 우울하다
 - relater : vt. (문어체) 이야기하다
+- fratrie : nf. (한 가족의) 형제자매
+- tenir : vt. 붙잡다, 지배하다
 - lier : vt. 묶다, 매다, 연결하다, vp. 연결되다
 - séparer : vp. 분리되다, 헤어지다, 흩어지다, 떨어져나가다
 - occuper : vp. 종사하다, 돌보다, 관리하다
@@ -442,8 +445,9 @@ vocabulaires
 - passer : vp. 일어나다, 발생하다
 - arriver : vi. (사건 따위가) 일어나다, 발생하다
 
-
 remarques
+- Fratrie, quand tu nous tiens : 형제자매관계, 그것이 우리를 붙잡을 때
+- Ce qui nous lie : 우리를 연결하는 것
 - Leur père vient de mourir. 에서의 leur
     - 여기서는 소유사 (possessif)
     - Ils / Elles
@@ -465,16 +469,69 @@ remarques
 - J'ai plus de 35 ans et je suis célibataire.
 - J'habite dans 도봉구, Séoul.
 - J'ai une grande sœur et je n'ai pas de frère.
-- Ma sœur se marie l'année dernière.
+- Ma sœur s'est mariée l'année dernière.
 - Ma sœur et son mari habitent dans 성동구.
 - J'ai les cheveux courts.
 - Mes cheveux et les yeux sont noirs.
 - J'ai les sourcils fins.
-- Je n'ai pas une moustache parse que je me raze chaque week-end.
+- Je n'ai pas de moustache parce que je me rase chaque week-end.
 - Je porte des lunettes tout le temps.
-- Je fais 1,77 mètre, puis je suis de taille moyenne.
-- J'ai un peu rond et gros depuis que j'avais vingt huit ans.
-- Avant, j'avais mince.
-- Maintenent, je couvre tous les soirs dans le parc pour faire un régime.
+- Je fais 1,77 mètre, et je suis de taille moyenne.
+- Je suis un peu rond et gros depuis mes vingt-huit ans.
+- Avant, j'étais mince.
+- Maintenant, je cours tous les soirs dans le parc pour faire un régime.
+- Je suis curieux et introverti.
+
+# 3월 15일 수업
+
+## Leçon 3. Les grands événements de la vie
+
+Tous mes vœux de bonheur.
+- Félicitations aux mariés!!!
+- Ah, comme Mamie est mignonne avec sa robe cocktail!
+- Papi est bien chic avec sa chemise bleue.
+- C'est qui la grande fille aux cheveux roux, en robe longue et chaussures à talon?
+- La mariée est sublime!
+- Et Tomacs, quelle élégance!
+- Est-ce que je vois bien?
+- Sylvie porte un pantalon en jean et une veste?!
+
+vocabulaires
+- vœu : nm. 서원, 맹세, 서약, 기원 (pl : vœux)
+- bonheur : nm. 행복, 기쁨
+- félicitation : nf. (복수) 축하, 찬사, 칭찬
+- comme : (감탄사) 얼마나, 참으로
+- robe cocktail : 칵테일 드레스
+- chic : a. 근사한, 멋진
+- talon : nm. 뒤꿈치, 뒤축, 뒤굽
+- élégance : nf. 우아함, 고상함, 세련됨
+- sublime : 숭고한, 고상한, 탁월한
+- jean : nm. 청바지, 진
+
+remarques
+- Est-ce que je vois bien? : 내가 잘 보고 있는게 맞는걸까? 내 눈이 맞나?
+
+
+## Leçon 4. Joyeux anniversaire !
+
+On cherche un cadeau.
+
+A : Antoine, L : Lizzie
+- A : Salut, on organise une fête pour les 30 ans d'Aymé.
+- L : Quel cadeau on offre?
+- A : Il aime les vêtements.
+- L : Une carte-cadeau des Galeries Lafayette?
+- A : Bonne idée!
+- L : Moi, je ne suis pas d'accord. Aymé préfère les BD.
+- A : D'accord.
+- L : Je vais à la librairie. Je cherche une bonne BD.
+
+vocabulaires
+- joyeux : a. 즐거운, 기쁜, 유쾌한
+- cadeau : nm.
+- carte-cadeau : 상품권, 기프트 카드
+
+remarques
+- Galeries Lafayette : 프랑스의 백화점
 
 → ← ↔

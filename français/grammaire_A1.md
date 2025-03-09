@@ -5771,10 +5771,10 @@ Robinson a vu un bateau.
 - femme de ménage : 하녀, 가정부, 가사도우미
 - Sophie Marceau : 소피 마르소
 - hamac : nm. 해먹
-- chou : nm. 양배추 (pl. choux)
+- chou : nm. 양배추 (pl : choux)
 - choux à la crème : 슈크림
 - poème : 시(작품) (poésie : 문학장르로서의 시)
-- signal : 신호, 몸짓, 지시, 표지 (pl. signaux)
+- signal : 신호, 몸짓, 지시, 표지 (pl : signaux)
 - envoyer : 보내다, 부치다
 
 ## remarques
