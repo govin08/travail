@@ -15,7 +15,7 @@ Alliance Française(회현)에서의 프랑스어 수업
 
 # 3월 8일 수업
 
-## Le polycopié(1)
+## Le polycopié (1)
 
 ### 가족관계에 대한 다양한 표현들
 - père : nm. 아버지
@@ -128,7 +128,6 @@ vocabulaires
 - plaisir : 기쁨
 - faire plaisir : ~을 기쁘게 하다
 
-
 remarques
 - 발음이 헷갈리는 세 단어
     - mariage : nm. 결혼
@@ -146,4 +145,28 @@ remarques
 - J'ai une grande soeur et je n'ai pas de frère.
 - Ma soeur se marie l'année dernière.
 - Ma soeur et son mari habitent dans 성동구.
-- Je fais 1,77 metres?
+- Je fais 1,77 mètre?
+
+## Le polycopié (2)
+
+Les cheveux
+- Elle a les cheveux longs
+- Il a les cheveux frisés.
+- Il a les cheveux mi-longs.
+- Elle a les cheveux raides.
+- Il a les cheveux courts.
+- Il est chauve, il n'a plus de cheveux.
+- Elle est brune : elle a les cheveux bruns.
+- Il est blond : il a les cheveux blonds.
+- Il a les cheveux châtain.
+- Elle est rousse et il a les cheveux roux.
+- long : a. 긴
+- frisé : a. 곱슬머리의
+- mi-long : a. 중간길이의, 중단발의
+- raide : a. 생머리의, 뻣뻣한
+- court : a. 짧은
+- chauve : a. 대머리의
+- brun : a. 갈색의 (foncé : 짙은, noir : 검은, marron : 밤색의)
+- blond : a. 금발의 (clair : 밝은)
+- châtain : a. entre blonds et bruns
+- roux
