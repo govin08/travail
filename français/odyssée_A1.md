@@ -366,6 +366,68 @@ vocabulaires
 - président : n. 대통령, 의장, 회장
 - découvrir : vt. 발견하다, 알아내다
 
+## Le polycopié (4)
+
+L'accord des adjecifs : masculin → féminin
+- Dans la majorité des cas, il suffit d'ajouter un "-e" à l'adjectif au masculin pour former le féminin.
+    - un petit vélo → une petite voiture
+    - un vélo bleu → une voiture bleue
+- Si l'adjectif au masculin termine déjà par un "-e", il ne change pas au féminin.
+    - un quartier calme → une rue calme
+    - un pantalon rouge → une robe rouge
+- Certains adjectifs ont des terminaisons différentes au masculin et au féminin :
+    - italien → italienne
+    - bon → bonne
+    - ponctuel → ponctuelle : 시간을 잘 지키는
+    - étranger → étrangère
+    - discret → discrète : 신중한, 소박한, (수학)이산의
+    - muet → muette : 벙어리의, 무성의
+    - envieux → envieuse
+    - moqueur → moqueuse : 조롱하는
+    - provocateaur → provocatrice : 선동하는, 도전하는, 도발하는
+    - veuf → veuve
+    - beau → belle
+- Enfin, il existe des adjectifs irréguliers :
+    - bas → basse : 낮은, (소리가) 굵은
+    - blanc → blanche
+    - doux → douce : 단, 단맛이 나는, 부드러운
+    - épais → épaisse : 뚱뚱한, 살찐, 두꺼운
+    - faux → faisse : 잘못된, 거짓된
+    - fou → folle : 미친, 광적인
+    - frais → fraîche : 서늘한, 쌀쌀한, 찬
+    - public → publique
+    - roux → rousse : 다갈색의
+    - sec → sèche : (메)마른, 건조한, 말린
+    - turc → turque : 터키식의
+    - vieux → vieille
+
+L'accord des adjecifs : singulier → pluriel
+- Dans la majorité des cas, il suffit d'ajouter un "-s" à l'adjectif au singulier pour former le pluriel.
+    - un petit vélo → des petits vélos
+    - une voiture bleue → des voitures bleues
+- Si l'adjectif au singulier termine par un "-s" pi un "-x", il ne change pas au pluriel.
+    - un pantalon gris → des pantalons gris
+    - un vieux livre → des vieux livres
+- Certains adjectifs ont une forme irrégulière au masculin pluriel
+    - unc centre commercial → des centres commerciaux
+    - un nouveau message → des nouveaux messages
+
+Cas particuliers
+- Dans certain cas, les adjectifs de couleur sont invariables :
+    - si la couleur évoque une matière ou un objet
+        - des cravates orange
+    - si la couleur est précisée par un adjectif ou un nom
+        - des tables bleu ciel : 하늘색 테이블들
+    - si la couleur est exprimée par deux adjetifs
+        - une veste rose et blanc
+
+
+vocabulaires
+- suffire : vi. 충분하다
+- enfin : 마침내, 끝으로, 마지막으로
+- évoquer : vt. 회상하다, 상기하다, 떠올리다, 환기하다
+- matière : nf. 물질, 재료 (métier : nm. 직업)
+
 ## Leçon 1. Quelle famille?
 
 Les Chedid, une famille d'artistes
