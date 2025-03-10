@@ -368,7 +368,7 @@ vocabulaires
 
 ## Le polycopié (4)
 
-L'accord des adjecifs : masculin → féminin
+L'accord des adjectifs : masculin → féminin
 - Dans la majorité des cas, il suffit d'ajouter un "-e" à l'adjectif au masculin pour former le féminin.
     - un petit vélo → une petite voiture
     - un vélo bleu → une voiture bleue
@@ -384,7 +384,7 @@ L'accord des adjecifs : masculin → féminin
     - muet → muette : 벙어리의, 무성의
     - envieux → envieuse
     - moqueur → moqueuse : 조롱하는
-    - provocateaur → provocatrice : 선동하는, 도전하는, 도발하는
+    - provocateur → provocatrice : 선동하는, 도전하는, 도발하는
     - veuf → veuve
     - beau → belle
 - Enfin, il existe des adjectifs irréguliers :
@@ -392,7 +392,7 @@ L'accord des adjecifs : masculin → féminin
     - blanc → blanche
     - doux → douce : 단, 단맛이 나는, 부드러운
     - épais → épaisse : 뚱뚱한, 살찐, 두꺼운
-    - faux → faisse : 잘못된, 거짓된
+    - faux → fausse : 잘못된, 거짓된
     - fou → folle : 미친, 광적인
     - frais → fraîche : 서늘한, 쌀쌀한, 찬
     - public → publique
@@ -401,15 +401,15 @@ L'accord des adjecifs : masculin → féminin
     - turc → turque : 터키식의
     - vieux → vieille
 
-L'accord des adjecifs : singulier → pluriel
+L'accord des adjectifs : singulier → pluriel
 - Dans la majorité des cas, il suffit d'ajouter un "-s" à l'adjectif au singulier pour former le pluriel.
     - un petit vélo → des petits vélos
     - une voiture bleue → des voitures bleues
-- Si l'adjectif au singulier termine par un "-s" pi un "-x", il ne change pas au pluriel.
+- Si l'adjectif au singulier termine par un "-s" ou un "-x", il ne change pas au pluriel.
     - un pantalon gris → des pantalons gris
     - un vieux livre → des vieux livres
 - Certains adjectifs ont une forme irrégulière au masculin pluriel
-    - unc centre commercial → des centres commerciaux
+    - un centre commercial → des centres commerciaux
     - un nouveau message → des nouveaux messages
 
 Cas particuliers
@@ -418,15 +418,75 @@ Cas particuliers
         - des cravates orange
     - si la couleur est précisée par un adjectif ou un nom
         - des tables bleu ciel : 하늘색 테이블들
-    - si la couleur est exprimée par deux adjetifs
+    - si la couleur est exprimée par deux adjectifs
         - une veste rose et blanc
 
+La place des adjectifs
+- avant le nom
+    - Quelques adjectifs courts se placent devant le nom :
+        - beau, joli, petit, grand, gros, bon, mauvais, jeune, vieux, nouveau
+        - une vieille dame
+        - une mauvaise idée
+    - Attention! Devant un nom masculin singulier commençant par une voyelle ou un h muet
+        - beau → bel, nouveau → nouvel, vieux → vieil
+        - un vieil appartement
+    - L'adjectif numéral est toujours placé devant les autres adjectifs.
+        - les deux grandes tables basses
+- après le nom
+    - En général, l'adjectif qualificatif se place derrière le nom.
+        - un homme rusé
+        - une fille calme
+        - des livres neufs
+    - Les adjectifs longs, de nationalité, de forme ou de couleur se placent toujours derrière le nom.
+        - un restaurant italien
+        - une rue tranquille
+        - des tables bleues
+- particularités
+    - certains adjectifs changent de sens selon s'ils sont placés avant ou après le nom
+        - (le adjectif : avant / après)
+        - ancien : 예전의 / 오래된, 낡은
+            - mon ancienne maison : 내가 예전에 살던 집
+            - une maison ancienne : 오래된 집
+        - cher : 친애하는 / 비싼
+            - cher ami, chère amie : 친애하는 친구, 사랑하는 친구
+            - un livre cher, une maison chère : 비싼 책, 비싼 집
+        - curieux : 신기한, 희한한, 궁금한 / 호기심이 있는
+            - une curieuse histoire (=une histoire étrange) : 신기한 이야기
+            - un homme curieux : 호기심이 있는 남자
+        - dernier : 마지막의, 최근의, 최신의 / 지난
+            - la dernière semaine du mois : 이 달의 마지막 주
+            - la semaine dernière : 지난주
+        - différent : 여러, 다양한 / 다른
+            - différentes opinions 다양한 의견들
+            - des opinions différentes : 다른 의견들
+        - pauvre : 불쌍한 / 가난한
+            - le pauvre homme : 불쌍한 남자
+            - une personne pauvre : 가난한 사람
+        - propre : 자기 자신의, 본인의 / 깨끗한
+            - ma propre maison : 나의 집
+            - une maison propre : 깨끗한 집
+        - seul : 유일한 / 혼자의
+            - le seul problème : 유일한 문제
+            - voix seule : 독창, 솔로
+            - Il est seul à la maison. 그는 집에 홀로 있다.
+        - petit : (추상적으로) 작은 / (크기가) 작은
+            - un petit problème : 작은 문제
+            - La maison est petite. 그 집은 작다
+        - grand : (추상적으로) 큰 / (크기가) 큰
+            - un grand écrivain : 대작가
+            - L'appartement est grand : 그 아파트는 크다.
 
 vocabulaires
 - suffire : vi. 충분하다
 - enfin : 마침내, 끝으로, 마지막으로
 - évoquer : vt. 회상하다, 상기하다, 떠올리다, 환기하다
 - matière : nf. 물질, 재료 (métier : nm. 직업)
+- bleu ciel : 하늘색의
+- dame : nf. 부인, 아내
+- numéral : a. 수의, 수를 나타내는
+- adjectif qualificatif : 품질형용사, (grammaire) Adjectif attribuant une qualité à un syntagme nominal.
+- sens : nm. 뜻, 의미
+- selon : ~에 따라
 
 ## Leçon 1. Quelle famille?
 
