@@ -586,24 +586,6 @@ remarques
     - Ils ont : [ɔ̃] 발음, [일 종]
     - Ils sont : [sɔ̃]발음, [일 송]
 
-## exercice
-- Je m'appelle sunjoong(선중).
-- J'ai plus de 35 ans et je suis célibataire.
-- J'habite dans 도봉구, Séoul.
-- J'ai une grande sœur et je n'ai pas de frère.
-- Ma sœur s'est mariée l'année dernière.
-- Ma sœur et son mari habitent dans 성동구.
-- J'ai les cheveux courts.
-- Mes cheveux et les yeux sont noirs.
-- J'ai les sourcils fins.
-- Je n'ai pas de moustache parce que je me rase chaque week-end.
-- Je porte des lunettes tout le temps.
-- Je fais 1,77 mètre, et je suis de taille moyenne.
-- Je suis un peu rond et gros depuis mes vingt-huit ans.
-- Avant, j'étais mince.
-- Maintenant, je cours tous les soirs dans le parc pour faire un régime.
-- Je suis curieux et introverti.
-
 # 3월 15일 수업
 
 ## Leçon 3. Les grands événements de la vie
