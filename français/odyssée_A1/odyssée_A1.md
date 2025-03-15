@@ -605,7 +605,7 @@ vocabulaires
 - bonheur : nm. 행복, 기쁨
 - félicitation : nf. (복수) 축하, 찬사, 칭찬
 - comme : (감탄사) 얼마나, 참으로
-- robe cocktail : 칵테일 드레스
+- robe cocktail : 칵테일 드레스, 파티 드레스
 - chic : a. 근사한, 멋진
 - talon : nm. 뒤꿈치, 뒤축, 뒤굽
 - élégance : nf. 우아함, 고상함, 세련됨
