@@ -37,13 +37,13 @@ Si elle pleure souvent pendant des jours entiers, c'est parce qu'elle ne possèd
 - désirer : vt. 원하다, 바라다
 
 Un soir, son mari rentre à la maison très heureux.
-> Matilde, regarde, j'ai quelque chose pour toi!
+> Mathilde, regarde, j'ai quelque chose pour toi!
 
-Matilde lit :
+Mathilde lit :
 > Le ministre de l'instruction publique et madame George Ramponneau invitent Mr et Mme Loisel.
 > À venir passer la soirée dans les appartements officiels du ministre, ce lundi 18 janvier.
 
-Triste, Matilde dit à M. Loisel:
+Triste, Mathilde dit à M. Loisel:
 > Je ne peux pas y aller.
 
 - heureux가 여기서는 부사처럼 쓰였다. 나는 heureux가 수식하는 게 maison이 아닐가 했다. claude의 답변은 son mari를 수식한다고 한다.
@@ -84,7 +84,7 @@ Il se sent un peu coupable parce qu'il ne gagne pas assez d'argent pour offrir d
 
 Soudain, il se tait. Mathilde, sa belle Mathilde, pleure.
 Deux grosses larmes descendent lentement de ses yeux vers sa bouche.
-> Que se passe-t-il, Matilde?
+> Que se passe-t-il, Mathilde?
 > Pourquoi pleures-tu?
 - soudain : 즉시, 곧, 갑자기
 - taire : vt. 말하지 않다, vp. 침묵하다 (→ tait)
@@ -102,7 +102,7 @@ Elle sèche ses larmes, contrôle son émotion et lui répond calmement:
 - comme : (접속사) ~이기 때문에
 
 Monsieur Loisel est très triste.
-> Matilde, combien coûte une robe convenable mais bon marché? demande le brave homme.
+> Mathilde, combien coûte une robe convenable mais bon marché? demande le brave homme.
 - convenable : a. 적절한, 알맞은
 - brave : 용감한, (명사앞) 친절한, 선량한, 정직한
 
@@ -115,6 +115,107 @@ Enfin, elle se décide à répondre avec hésitation:
 > Avec quatre cents francs, je peux trouver une robe correcte.
 - décider : vt. 결정하다, 결심하다
 - correcte : a. 옳은, 정확한
-- 
 
+M. Loisel devient très pâle car c'est le prix du fusil qu'il rêve de s'acheter.
+Mais il aime beaucoup sa femme.
+"Oublions le fusil!", pense-t-il.
+> D'accord. Je te donne quatre cents francs pour t'acheter une nouvelle robe mais j'espère qu'elle sera très belle! dit-il à Mathilde.
+- car : 왜냐하면
+- fusil : nm. 총, 소총
+- Oublions le fusil!은 allons-y처럼 1인칭 복수 동사이며, 이것은 명령어에 쓰인다. e.g. Mangeons (먹자), Partons maintenant (당장 떠나자)
+- 마지막 문장에서 elle은 마틸드가 아니라 드레스를 의미한다.
+
+Le jour de la fête approche.
+Sa robe est prête mais Madame Loisel est triste, inquiète.
+- inquiéter : vt. 불안하게 만들다
+- inquiet : a. 불안한, 안달하는 (f. inquiète)
+
+Un soir, son mari lui dit:
+> Que se passe-t-il? Tu es bizarre depuis trois jours.
+
+Elle lui répond:
+> Je n'ai pas de bijoux.
+> Je vais avoir l'air pauvre.
+> Je crois que je préfère ne pas aller à cette fête.
+- avoir air ~ : ~처럼 보이다
+- pauvre가 여기서는 '가난한'으로 쓰였다. 앞 설명 참고
+
+Monsieur Loisel est désolé.
+Il lui répond:
+> Tu vas mettre un collier de fleurs.
+> C'est très chic à cette saison.
+> Pour 10 francs, tu peux avoir deux ou trois roses magnifiques.
+- désolé : a. 애석한, 유감스러운, 가슴아픈
+- collier : nm. 목걸이
+
+Mathilde n'est pas convaincue.
+> Non, je ne veux pas y aller.
+> Il n'y a rien de plus horrible que d'avoir l'air pauvre au milieu de femme riches!
+- convaincue : a. 확신하는, 믿어 의심치 않는
+- au millieu de : ~의 한가운데
+
+Soudain son mari a une idée:
+> Va chez ton amie madame Forestier et demande-lui de te prêter des bijoux.
+> C'est une bonne amie, elle va sans doute accepter
+- prêter : vt. 빌려주다
+- doute : nm. 의심, 회의
+- sans doute : 아마, 틀림없이
+
+Mathilde pousse un cri de joie:
+> C'est vrai, quelle bonne idée
+- pousser : vt. 밀다, 몰다, 추진하다
+- cri : nm. 외침, 고함
+- pousser un cri : 비명을 지르다, 외치다, 소리치다
+- idée : nf.
+
+Le lendemain, elle va chez son amie et lui raconte son histoire.
+- lendemain : 다음날, 이튿날
+
+Madame Forestier ouvre la porte de son armoire, prend un grand coffret, l'apporte, l'ouvre et dit à madame Loisel:
+> Choisis, ma chère.
+- coffre : nm. 궤, 함, 상자, 냉동고, 금고 ; belle boîte.
+
+Mathilde voit d'abord des bracelets, puis des colliers de perle, des chaînes en or, des pierreries, des boucles d'oreilles, etc.
+Elle essaye toutes les parures devant le miroir, hésite, veut toutes les garder.
+Elle demande toujours:
+> Tu n'as rien d'autre?
+> Mais si. Cherche. Je ne sais pas ce que tu veux.
+- bracelet : nm. 팔찌
+- perle : nf. 진주
+- chaîne : nf. 사슬, 끈
+- pierreries : nf. (복수) 보석들
+- boucle : nf. 버클, 고리
+- des boucles d'oreilles : 귀걸이
+- parure : nf. 몸치장, 화장, 장식, 장신구, 장신구 세트
+- garder : vt. 지키다, 보호하다, 돌보다, 보살피다
+- toujours : 계속해서
+- Mais si는 부정의문문에 대한 긍정적인 반응이다(chat gpt).
+- cherche는 cherches에서 s가 떼어진 단어로, 명령어에서 흔히 보이는 형태이다.
+- ce que는 영어에서의 관계대명사 what에 해당된다고 볼 수 있다(chat gpt). 따라서 해당 문장은 "나는 네가 무얼 원하는 지 모르겠어."가 된다.
+
+Tout à coup, Mathilde voit, dans une jolie boîte noire, une magnifique rivière de diamants.
+Son cœur se met à battre comme un fou.
+Ses mains tremblent quand elle prend le beau collier.
+Elle l'attache autour de son cou et reste en extase devant elle-même.
+> Peux-tu me prêter ce bijou?
+> Mais oui, bien sûr.
+- tout à coup : 갑자기
+- diamant : nm. 다이아몬드
+- une rivière de diamants : collier de diamants
+- cœur : nm. 심장, 염통, 가슴
+- mettre à verbe : ~하기 시작하다
+- battre : vi. (심장이) 뛰다
+- fou : a. 미친, 흥분한, 열광한
+- comme un fou : 미친듯이
+- attacher : 묶다, 매다
+- autour : 주위에
+- cou : nm. 목, 경부 (gorge : nf. 목, 인후)
+- extase : nf. 황홀, 도취.
+- elle-même : 그 여자 자신
+- mais oui에서 mais가 들어갔기 때문에 나는 친구가 조금 망설이는 것이 아닌가 하고 생각했다. 하지만 그렇지 않다. 오히려 확신에 찬 긍정의 느낌이라고 한다 (chat gpt)
+
+Mathilde embrasse fort son amie, puis s'enfuit avec son trésor.
+- forte : 세게, 힘차게
+- enfuir : vp. 달아나다, 도망치다
+- trésor : nm. 보물
 → ←
