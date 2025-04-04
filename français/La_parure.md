@@ -73,6 +73,7 @@ Elle regarde son mari d'un air méchant.
 - demander : vt. 질문하다.
 - énervé(e) : a. 약한, 무기력한, 신경질난 ; agacé, en colère.
 - étonné : a. 놀란, 경악한 ; surpris(e).
+- étonner : vt. 놀라게 하다
 - demande-t-il는 간접화법이라고 한다. 나는 이것이 il te demande를 축약한 것이라고 봤는데 그건 아닐 수 있을 것 같다, 여기서 te(t)는 목적어는 아니라고 한다. (chat gpt)
 > 이 문장에서 "il te demande"(그가 너에게 묻는다)처럼 생각할 수도 있지만, 직접적으로 "te" 같은 목적어가 포함된 건 아닙니다. 문맥상 상대방(아내)에게 묻는 것이므로 그렇게 이해해도 자연스럽습니다. 😊
 
@@ -410,7 +411,6 @@ Loissel possède dix-huit mille francs donné par son père.
 Il emprunte le reste à différentes personnes.
 Il sait qu'il va consacrer tout sa vie à rembourser ses dettes.
 - posséder : vt. 가지다, 소유하다
-    - je possède / tu possèdes / il possède / nous possédons / vous possédez / ils possèdent
 - emprunter : vt. 빌리다, 차용하다
 - reste : nm. 나머지
 - consacrer : vt. 바치다, 할애하다, 신에게 바치다
@@ -463,6 +463,108 @@ En effet, au bout de dix ans, la dette est remboursée.
 - effet : nm. 결과, 효과, 효력
 - en effet : 확실히, 사실
 - au bout de : ~의 결과로
-- 1장에서 옷을 400프랑에 샀고 이건 루아젤의 연봉의 1/6 정도였다. 그러니까 연봉은 2400프랑 정도라고 보면 되었다. 새로 산 목걸이의 가격은 40000프랑이었고 이걸 36000프랑으로 깎아서 샀다고 했다. 아버지로부터 받은 유산이 18000프랑이라고 했으니 상환해야 하는 돈은 18000프랑이었다. 이걸 10년만에 갚은 것이다. 연봉을 다 때려부으면 10년에 24000프랑일테지만 그 사이에 생활비가 당연히 필요했을 것이다. 그것들을 아르바이트나 투잡-쓰리잡으로 메꾼 셈이다.
+
+# 4e partie : La vérité
+- vérité : nf. 진리, 진실, 사실, 진상
+
+Mme Loisel est laide et semble vielle maintenant.
+Ses mains sont rouges parce qu'elle travaille dur, ses cheveux sont mal coiffés, ses jupes sont vieilles et usées, et elle parle fort comme les femmes du peuple.
+Quelquefois, elle se souvient de sa beauté, de son succès auprès des hommes, elle se souvient de la parure.
+Elle cherche à imaginer sa vie sans l'existence de cette parure...
+Comme il faut peu de choses pour être condamné au malheur!
+
+- laid : 못생긴, 추한 ; pas beau (pas belle)
+- dur : 열심히, 세게, 거칠게, a. 단단한, 거친
+- ses cheveux sont mal coiffés : 머리 스타일이 단정하지 못함
+- fort : 세게, 강하게, 힘차게, a. 힘센, 강한, 살찐, 뚱뚱한
+- peuple : a. 천한, 저속한, 서민적인 nm. 민족, 국민
+- femme du peuple : 필부, 서민, 상인
+- quelquefois : 때때로, 어쩌다
+- souvenir : vp. 회상하다, 기억하다, 생각나다
+- succès : nm. 성공, 성과, 인기
+- auprès : 곁에, 옆에, ~에 대하여
+- chercher à verbe : ~하려고 하다
+- peu de chose : 사소한 것, 대수롭지 않은 것
+- condamné : a. 유죄선고를 받은
+- condamner : vt. 유죄판결을 내리다, 형을 선고하다
+- Comme il faut peu de choses pour être condamné au malheur! : 불행에 처하게 되는 데에는 얼마나 작은 것이 필요한가
+
+Un dimanche, comme elle se promène sur l'avenue des Champs-Élysées pour se distraire et oublier le dificile travail de la semaine, Mathilde aperçoit une femme avec un enfant.
+> Mais c'est Jeanne, c'est Jeanne Forestier!
+- distraire : vp. 기분을 전환하다, 즐겁게 놀다, 관심을 돌리다 ; se divertir, s'amuser.
+- apercevoir : vt. (안보던 것을 갑자기) 보다, 발견하다, 얼핏 보다
+    - je aperçois / tu aperçois / il aperçoit / nous apercevons / vous apercevez / ils aperçoivent
+
+En effet, c'est madame Forestier, toujours jeune, toujours belle et séduisante qui se promène avec son enfant.
+Mathilde est extrêmement émue.
+Va-t-elle lui dire la vérité au sujet de la rivière de diamants?
+Oui, maintenant que tout est remboursé, elle peut tout lui raconter.
+- séduisant : a. 매력적인, 마음에 드는 ;
+- promener, acheter 형태의 변화동사들
+    - acheter   : j'achète      tu achètes      il achète       nous achetons       vous achetez        ils achètent
+    - posséder  : je possède    tu possèdes     il possède      nous possédons      vous possédez       ils possèdent
+    - promener  : je promène    tu promènes     il promène      nous promenons      vous promenez       ils promènent
+    - lever     : je lève       tu lèves        il lève         nous levons         vous levez          ils lèvent
+    - mener     : je mène       tu mènes        il mène         nous menons         vous menez          ils mènent
+    - préférer  : je préfère    tu préfères     il préfère      nous préférons      vous préférez       ils préfèrent
+- extrêmement : 극도로
+- ému : a. 감동한, 감격한, 흥분한
+- sujet : nm. 주제, 문제, 동기, 이유
+- raconter : 이야기하다, 말하다
+
+Mathilde s'approche.
+Jeanne ne la reconnaît pas.
+> Bonjour Jeanne, dit timidement madame Loisel.
+- reconnaître : vt. 알아보다, 식별하다, 기억해내다
+- timidement : 소심하게, 수줍어하며, 머뭇거리며
+
+Madame Forestier est étornée.
+Que veut cette pauvre femme?
+> Mais madame, je ne vous connais pas, vous devez vous tromper.
+> 
+> Non, je ne me trompe pas.
+> Je suis Mathilde Loisel.
+- étonné : (이전 메모 참고)
+- tromper : vp. 잘못하다, 실수하다, 오해하다, 잘못 생각하다
+
+> Oh, Mathilde! C'est toi?
+> 
+> Oui, c'est moi, après une vie très difficile, à cause de toi!
+> répond Mathilde sans agressivité
+>
+> À cause de moi?
+> Mais je ne comprends pas!
+> s'exclame Jeanne Forestier, étonnée.
+>
+> Tu te souvien de la rivière de diamants pour le bal du Ministère?
+> demande Mathilde.
+> 
+> Oui, elle est chez moi.
+> 
+> Non, c'est une nouvelle rivière de diamants qui est chez toi.
+> Je ne sais pas où est l'autre.
+> Voilà dix ans que nous payons la nouvelle parure, dit la pauvre femme.
+- à cause de : ~때문에
+- agressivité : nf. 공격성
+- exclamer : vp. ~라고 외치다, 부르짖다
+- voilà : ~한지 ~되다
+
+Jean Forestier, très émue, pâlit et prend deux mains de Mathilde :
+> Mais Mathilde, le collier emprunté, c'etait une fausse rivière de diamants!
+> Elle coûte au maximum cinq cents francs.
+
+- pâlir : vi. 창백해지다
+- prendre deux mains :
+- fausse : féminin singulier de faux.
+- factice : a. 인조의, 모조의
+
+1장에서 옷을 400프랑에 샀고 이건 루아젤의 연봉의 1/6 정도였다.
+그러니까 연봉은 2400프랑 정도라고 보면 되었다.
+새로 산 목걸이의 가격은 40000프랑이었고 이걸 36000프랑으로 깎아서 샀다고 했다.
+아버지로부터 받은 유산이 18000프랑이라고 했으니 상환해야 하는 돈은 18000프랑이었다.
+이걸 10년만에 갚은 것이다.
+연봉을 다 때려부으면 10년에 24000프랑일테지만 그 사이에 생활비가 당연히 필요했을 것이다.
+그것들을 아르바이트나 투잡-쓰리잡으로 메꾼 셈이다.
+실제로는, 목걸이가 모조품이었고 모조품의 가격은 많아야 500프랑이라고 포레스티에 부인은 말한다.
 
 → ←
