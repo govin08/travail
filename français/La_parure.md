@@ -3,7 +3,7 @@ La parure
 - CLE international
 - Lecture en français fracile
 
-# Première Partie : L'invitation
+# 1e Partie : L'invitation
 
 Mathilde Loisel est une très jolie jeune femme née dans un famille qui n'a pas beaucoup d'argent.
 Ses parents sont employés dans l'administration et ils la marient à un employé de l'Instruction publique.
@@ -232,7 +232,7 @@ Mathilde embrasse fort son amie, puis s'enfuit avec son trésor.
 - enfuir : vp. 달아나다, 도망치다
 - trésor : nm. 보물
 
-# Deuxième partie : Le bal
+# 2e partie : Le bal
 
 Le jour de la fête arrive enfin.
 Mathilde est la plus jolie de toutes les invitées.
@@ -290,7 +290,7 @@ Elle enlève le vieux manteau qui couvre ses épaules.
 > 
 > Qu'est-ce qu'il se passe?
 > 
-> Je, je ... je n'ai plus ma rivière de diamant!
+> Je, je ... je n'ai plus ma rivière de diamants!
 >
 > Quoi! ...
 > Ce n'est pas possible
@@ -334,5 +334,135 @@ Elle s'assoit sur une chaise, le regarde vide.
     - (현대형) je assois  / tu assois  / il assoit / nous assoyons / vous assoyez / ils assoient
     - Asseyez vous : 앉으세요
 - vide : 허공, 공중
+
+# 3e partie : Les dettes
+- dette : nf. 빚, 부채 ; argent qu'on emprunte et qu'il faut rendre
+
+Son mari rentre vers sept heures sans collier.
+Le lendemain, il va à la Préfecture de police pour faire une déclaration de perte, puis il publie une petite announce dans les journaux pour promettre une bonne récompense à la personne qui va retrouver la rivière de diamants.
+- préfecture : 도청, 도지사
+- préfecture de police : 경찰국, 파리 경시청
+- perte : nf. 잃음, 손실 (← perdre)
+- publier : vt. 출판하다, 공포하다, 공표하다
+- annonce : nf. 알림, 광고, 통지, 표지
+- promettre : vt. 약속하다, 예고하다
+- récompense : nf. 보답, 보수, 댓가, 상 ; cadeau pour remercier
+
+Pendant ce temps, Mathilde reste assise toute la journée à attendre le retour de son mari et du bijou.
+- assis(e) : 앉아있는
+- retour : 다시 돌아옴, 복귀 (← retourner)
+- 동사 이후에 형용사가 나오는 현상은 계속 나온다. claude는 이것을 보어적 형용사(attribut du sujet) 혹은 형용사적 보어(attribut du sujet détaché)라고 했었다. 
+    - 이것은 영어에서 be, remain, become, seem, feel, look 등의 동사들이 바로 뒤에 형용사를 취할 수 있는 것과 대응된다고 한다.
+    - 즉 être, rester, devener, sembler, demeurer, finir, arriver, sortir 등도 그렇다고 한다.
+    - 예문으로 써보면
+    - être : Elle est heureuse.
+    - rester (계속 ~한 상태이다) : Elle reste calme.
+    - demeurer (계속 ~한 상태이다) : Il demeure silencieux.
+    - devenir (되다, 변하다) : Il devient riche.
+    - sembler (~처럼 보이다) : Il semble fatigué.
+    - paraître (~인 것 같다) : Elle paraît heureuse.
+    - finir (결국 ~이 되다) : Elle finit malade.
+    - sortir : Il sort furieux.
+    - arriver : Il arrive fatigué. (이상 chatgpt)
+
+Ce soir-là, quand Loisel rentre enfin, il est tard et il a l'air fatigué.
+> Écris à ton amie que le collier est cassé et qu'il est chez le bijoutier pour être réparé.
+> Nous allons avoir ainsi du temps pour le retrouver, dit-il tristement.
+- cassé : a. 깨진, 망가진 (← casser)
+    - casser : vt. 깨뜨리다, 망가뜨리다
+- bijoutier : n. 보석상, 보석세공인 ; personne qui fabrique et vend des bijoux
+- réparer : vt. 수리하다, 고치다
+- ainsi : 그러면, 따라서, 이렇게, 예를들어
+- tristement : 슬프게, 처량하게
+
+Il dicte la lettre car Mathilde est trop angoissée pour penser.
+- dicter : vt. 받아쓰게 하다, 구술하다
+- car : (이전 메모 참고)
+- angoissé : a. 몹시 불안해하는 ; inquiet
+
+Mais une semain plus tard, le couple est toujours sans nouvelles du bijou.
+Loisel semble maintenant beaucoup plus vieux qu'avant.
+> Maintenant, on ne peut plus attendre.
+> Il faut remplacer le collier.
+- nouvelle : nf. (복수) 뉴스, 보도
+
+Ils vont de bijoutier en bijoutier mais il n'y a pas de rivière de diamants semblable au bijou de madame Forestier.
+- de bijoutier en bijoutier : 보석상에서 보석상으로 (참고 : de plus en plus)
+- semblable : a. 닮은
+
+C'est dans une boutique du Palais Royal qu'ils trouvent enfin des diamants qui ressemblent aux diamants du collier de leur amie.
+Ce collier coûte quarante mille francs.
+Le marchand baisse son prix, ils l'obtiennent pour trente-six mille francs.
+- boutique : nf. 상점, 가게
+- palais : nm. 궁전, 건물
+- Le Palais Royal : ensemble de bâtiments construits en 1633 à Paris, près du Louvre.
+- leur amie에서 leur는 '그들의'라는 뜻이다.
+    - Je        :   mon     ma      mes
+    - Tu        :   ton     ta      tes
+    - Il/Elle   :   son     sa      ses
+    - Nous      :   notre   notre   nos
+    - Vous      :   votre   votre   vos
+    - Ils/Elles :   leur    leur    leurs
+- marchand : n. 상인
+- baisser : vt. 낮추다, (가격을) 내리다
+
+Loissel possède dix-huit mille francs donné par son père.
+Il emprunte le reste à différentes personnes.
+Il sait qu'il va consacrer tout sa vie à rembourser ses dettes.
+- posséder : vt. 가지다, 소유하다
+    - je possède / tu possèdes / il possède / nous possédons / vous possédez / ils possèdent
+- emprunter : vt. 빌리다, 차용하다
+- reste : nm. 나머지
+- consacrer : vt. 바치다, 할애하다, 신에게 바치다
+- rembourser : vt. 갚다, 상환하다 ; rendre la dette.
+
+Mathilde met la nouvelle rivière de diamants dans une boîte et la porte chez madame Forestier.
+> Tu me rends ce bijou avec beaucoup de retard.
+- mettre : vt. 넣다, 놓다
+- rendre : vt. 되돌려주다, 반환하다
+- avec retard : 늦게
+- 상환과 변제에 관한 여러 동사들
+    - acheter : 사다
+    - vendre : 팔다
+    - payer : 지불하다
+    - emprunter : 빌리다
+    - prêter : 빌리다
+    - prendre : 가져가다
+    - rendre : 돌려주다
+    - rapporter : (물건을) 돌려주다
+    - remettre : 다시 주다, 돌려주다
+    - rembourser : (돈을) 갚다, 환불하다
+
+Mathilde n'ouvre pas la boîte.
+C'est préférable.
+Si madame Forestier voit que ce n'est plus le même collier qui est à l'intérieur, que va-t-elle penser?
+Elle va croire qu'elle est une voleuse!
+- préférable : a. 더 나은
+- voleur : n. 도둑 (f : voleuse)
+    - voleuse ; femme qui prend des choses qui appartiennent(속하다) aux autres.
+
+Maintenant, il faut payer l'énorme dette : le couple renvoie la femme de ménage, change d'appartement et va habiter dans une petite chambre sous les toits.
+Mathilde s'habille comme les pauvres, marchande les prix pour la nourriture, va chercher elle-même l'eau à la fontaine, fait le ménage, etc.
+- énorme : a. 거대한, 막대한
+- renvoyer : vt (사람을) 되돌려보내다, 해고하다
+- habiller : vp. 옷을 입다
+- marchander : vt. 흥정하다, 값을 깎다 ; négocier, faire baisser le prix.
+- fontain : nf. 샘, 분수, 샘물
+- l'eau à la fontaine : 우물, 샘물
+- faire le ménage : 집안일을 하다
+
+Après sa journée de travail, son mari est comptable le soir chez un commerçant et, la nuit, il recopie des documents pour quelques sous la page.
+- comptable : n. 회계원 ; personne qui s'occupe des comptes(셈, 계산) d'une autre personne.
+- commerçant : n. 상인
+- recopier : vt. 베끼다, 정서하다, 옮겨쓰다
+- pour quelques sous la page : 한 페이지당 몇 푼을 받고
+
+Et cette vie dure dix ans.
+En effet, au bout de dix ans, la dette est remboursée.
+- durer : vi. 지속되다
+- effet : nm. 결과, 효과, 효력
+- en effet : 확실히, 사실
+- au bout de : ~의 결과로
+- 1장에서 옷을 400프랑에 샀고 이건 루아젤의 연봉의 1/6 정도였다. 그러니까 연봉은 2400프랑 정도라고 보면 되었다. 새로 산 목걸이의 가격은 40000프랑이었고 이걸 36000프랑으로 깎아서 샀다고 했다. 아버지로부터 받은 유산이 18000프랑이라고 했으니 상환해야 하는 돈은 18000프랑이었다. 이걸 10년만에 갚은 것이다. 연봉을 다 때려부으면 10년에 24000프랑일테지만 그 사이에 생활비가 당연히 필요했을 것이다. 그것들을 아르바이트나 투잡-쓰리잡으로 메꾼 셈이다.
 
 → ←
