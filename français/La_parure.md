@@ -53,7 +53,9 @@ Triste, Mathilde dit à M. Loisel:
 > 공식 관저(official residence): 장관이나 고위 공직자가 공무 수행을 위해 사용하는 공식 거주지로, 개인 소유가 아닌 국가 소유의 건물입니다.
 
 Monsieur Loisel ne comprend pas la réaction de son épouse.
-> Tu ne sors jamais! Cette soirée est une bonne occasion pour s'amuser! lui dit-il! C'est difficile d'obtenir une invitation officielle, tout le monde veut être invité!
+> Tu ne sors jamais!
+> Cette soirée est une bonne occasion pour s'amuser! lui dit-il!
+> C'est difficile d'obtenir une invitation officielle, tout le monde veut être invité!
 - réaction : nf. 반응, 반향, 반작용
 - époux : n. 배우자 (f : épouse, épouser : vt. 결혼하다) ; personne mariée à une autre.
 - Tu ne sors jamais는 '당신은 평소에 외출하지 않잖아'라는 뜻이라고 한다 (claude)
@@ -61,7 +63,9 @@ Monsieur Loisel ne comprend pas la réaction de son épouse.
 
 Elle regarde son mari d'un air méchant.
 > Tu ne comprends rien! Bien sûr que je veux aller à cette soirée mais je ne le peux pas. lui répond-elle, énervée.
+> 
 > Pourquoi? demande-t-il, étonné.
+> 
 > Mais parce que je n'ai pas de beaux vêtements!
 - air : nm. 분위기
 - méchant : a. 악독한, 심술궂은, 냉혹한
@@ -90,7 +94,13 @@ Deux grosses larmes descendent lentement de ses yeux vers sa bouche.
 - taire : vt. 말하지 않다, vp. 침묵하다 (→ tait)
 - larme : nf. 눈물
 - lentement : 느리게, 천천히
-- Que se passe-t-il? : what's happening? (무슨 일이야?)에 가깝다. 그러니까 여기서 passer는 '발생하다'라는 뜻이다. passe-t-il은 il passe가 도치된 것이지만 그렇다고 Que il se passe?로 쓰면 문법적으로 틀렸다고 한다. 의문사가 포함된 의문문의 경우 il이 쓰이려면 도치되어야 하며 이때 -t-가 쓰인다. 다만 Qu'est-ce qui se passe?로 쓰일 수는 있다고 한다. (여기서 que 대신 qui가 쓰였다.)
+- Que se passe-t-il? : what's happening? (무슨 일이야?)에 가깝다. 그러니까 여기서 passer는 '발생하다'라는 뜻이다.
+    - passe-t-il은 il passe가 도치된 것이지만 그렇다고 Que il se passe?로 쓰면 문법적으로 틀렸다고 한다. 의문사가 포함된 의문문의 경우 il이 쓰이려면 도치되어야 하며 이때 -t-가 쓰인다. 다만 qu'est-ce 형식이 들어가면 도치없이도 쓰일 수 있다고 한다. 그런데 이때  Qu'est-ce qui se passe?로 쓰여야 하며 Qu'est-ce qu'il se passe?는 틀린 표현이라고 chatgpt가 말했다.
+    - 하지만 이 책의 2장에서 정확히 Qu'est-ce qu'il se passe?라는 표현이 나온다. 이에 관해 chatgpt에게 다시 항의하니, 저 문장은 문법적으로 틀린 표현이 맞고, 다만 구어체에서는 가끔 저런 틀린 표현도 쓰이긴 한다, 라는 답변을 받았다.
+    - 정리하자면 다음의 세 표현이 모두 유효할 수 있다.
+        - Que se passe-t-il? (정식 도치 의문문)
+        - Qu'est-ce qui se passe (est-ce qui를 이용한 표준적인 표현)
+        - Qu'est-ce qu'il se passe (est-ce que를 이용한 구어적인 표현, 문법에 맞지는 않을 수 있음)
 
 Elle sèche ses larmes, contrôle son émotion et lui répond calmement:
 > Je pleure parce que j'ai pas de robe assez belle pour cette fête.
@@ -119,7 +129,8 @@ Enfin, elle se décide à répondre avec hésitation:
 M. Loisel devient très pâle car c'est le prix du fusil qu'il rêve de s'acheter.
 Mais il aime beaucoup sa femme.
 "Oublions le fusil!", pense-t-il.
-> D'accord. Je te donne quatre cents francs pour t'acheter une nouvelle robe mais j'espère qu'elle sera très belle! dit-il à Mathilde.
+> D'accord.
+> Je te donne quatre cents francs pour t'acheter une nouvelle robe mais j'espère qu'elle sera très belle! dit-il à Mathilde.
 - car : 왜냐하면
 - fusil : nm. 총, 소총
 - Oublions le fusil!은 allons-y처럼 1인칭 복수 동사이며, 이것은 명령어에 쓰인다. e.g. Mangeons (먹자), Partons maintenant (당장 떠나자)
@@ -131,7 +142,8 @@ Sa robe est prête mais Madame Loisel est triste, inquiète.
 - inquiet : a. 불안한, 안달하는 (f. inquiète)
 
 Un soir, son mari lui dit:
-> Que se passe-t-il? Tu es bizarre depuis trois jours.
+> Que se passe-t-il?
+> Tu es bizarre depuis trois jours.
 
 Elle lui répond:
 > Je n'ai pas de bijoux.
@@ -179,6 +191,7 @@ Mathilde voit d'abord des bracelets, puis des colliers de perle, des chaînes en
 Elle essaye toutes les parures devant le miroir, hésite, veut toutes les garder.
 Elle demande toujours:
 > Tu n'as rien d'autre?
+> 
 > Mais si. Cherche. Je ne sais pas ce que tu veux.
 - bracelet : nm. 팔찌
 - perle : nf. 진주
@@ -203,7 +216,7 @@ Elle l'attache autour de son cou et reste en extase devant elle-même.
 - diamant : nm. 다이아몬드
 - une rivière de diamants : collier de diamants
 - cœur : nm. 심장, 염통, 가슴
-- mettre à verbe : ~하기 시작하다
+- se mettre à verbe : ~하기 시작하다
 - battre : vi. (심장이) 뛰다
 - fou : a. 미친, 흥분한, 열광한
 - comme un fou : 미친듯이
@@ -218,4 +231,108 @@ Mathilde embrasse fort son amie, puis s'enfuit avec son trésor.
 - forte : 세게, 힘차게
 - enfuir : vp. 달아나다, 도망치다
 - trésor : nm. 보물
+
+# Deuxième partie : Le bal
+
+Le jour de la fête arrive enfin.
+Mathilde est la plus jolie de toutes les invitées.
+Tous les hommes la regardent.
+Son bonheur est immense, inoubliable.
+À minuit, monsieur Loisel s'endort dans un petit salon pendant que son épouse danse, souriante, folle de joie.
+- enfin : 마침내
+- immense : a. 거대한, 엄청난
+- inoubliable : a. 잊을 수 없는
+- endormir : vp. 잠들다
+- souriant : a. 웃음짓는, 기분좋은, 즐거운
+- fou de joie : a. 희열에 넘친 (f. folle de joie)
+- souriante, folle de joie가 수식하는 것은 son épouse라고 한다. 그러니까 주어를 문장 맨 뒤에서 두 형용사가 수식하는것이다. 이것을 형용사적 보어라고 한다고 claude는 설명하고 있다.
+> 말씀하신 대로 "son épouse souriante, folle de joie danse"라는 구조는 명사 뒤에 형용사들이 오고 동사가 마지막에 오는 일반적인 프랑스어 어순입니다.
+> 하지만 원문의 "son épouse danse, souriante, folle de joie" 구조는 조금 다릅니다. 이것은 프랑스어에서 사용되는 "형용사적 보어(attribut du sujet détaché)" 또는 "분리된 서술적 형용사" 구조입니다.
+
+À quatre heures, le bal va bientôt finir.
+Mathilde décide de partir.
+Dehors, il fait un peu froid et la jeune femme n'a pas de fourrure à mettre sur sa robe.
+Son mari pose sur ses épaules un modeste manteau un peu usé.
+Elle a honte.
+- fourrure : nf. 모피, 모피로 만든 옷 ; ici, manteau fait avec la peau d'un animal qui a des poils
+- poser : vt 놓다, 위치시키다, 설치하다, 내려놓다, (옷 따위를) 벗다
+- épaule : nf. 어깨
+- modeste : a. 검소한, 수수한, 하찮은, 겸손한
+- usé : a. 닳아 떨어진, 낡은 ; beaucoup utilisé
+- honte : nf. 치욕, 불명예, 수치심
+- avoir honte : 부끄러워하다
+
+> Partons vite.
+> 
+> Attends-moi ici.
+> Tu vas attraper froid!
+> Je vais appeler un fiacre
+- attraper froid : 감기에 걸리다
+- fiacre : nm. 삯마차 ; petite voiture à cheval que sert de taxi.
+
+Mais, Mathilde n'écoute pas son mari.
+Elle court dans la rue.
+Personne ne doit voir son vieux manteau!
+- doit ← devoir
+- devoir verbe를 어떻게 해석 해야 할지 조금 고민했다. 영어에서 must, should, have to의 부정이 각각 있지만 그 중 must not이 가장 강한 부정이고 don't have to는 야주 약한 형태였다. 각각 '절대로 하지 말아야 한다', '할 필요가 없다'이니까 말이다. 문맥상 여기서는 must not 혹은 should not 정도의 의미가 되어야 하지 않나 하고 생각해본다.
+
+Malheureusement, il n'y a pas de fiacre libre dans la rue.
+Le couple se met à marcher, à marcher et trouve enfin une vielle voiture à cheval qui les ramène à la maison.
+- libre : a. 비어있는, 한가로운
+- couple : nm. 부부, 내외, 남녀 한쌍
+- se mettre à verbe : (이전 메모 참고)
+- ramener : vt. 다시 데려오다, 다시 데려다주다 (cf. mener)
+
+Arrivée dans sa chambre, Mathilde se regarde dans le miroir.
+Elle enlève le vieux manteau qui couvre ses épaules.
+> Mon Dieu!
+> Mais c'est horrible!
+> 
+> Qu'est-ce qu'il se passe?
+> 
+> Je, je ... je n'ai plus ma rivière de diamant!
+>
+> Quoi! ...
+> Ce n'est pas possible
+- enlever : vt. 없애다, 치우다 빼내다
+- Qu'est-ce qu'il se passe? : 이전 메모 참고
+- Quoi는 여기서 감탄사로 쓰였다. quoi가 (목적어 형태의) 의문대명사로 사용되며 마치 what과 같이 사용된다는 점과 영어에서의 what이 감탄사처럼 사용될 수 있다는 점을 고려하면 자연스러워 보인다.
+
+Tous les deux cherchent partout, sur la robe, dans les poches du vieux manteau pour retrouver le collier.
+Mais ils ne le trouvent pas!
+> Il est sûrement dans la salle de bal, dit le mari.
+>
+> Non, mais il est peut-être dans la voiture à cheval.
+> As-tu le numéro? demande madame Loisel.
+> 
+> Non, et toi? continue l'époux de plus en plus inquiet.
+> 
+> Moi non plus, répond la jeune femme, les larmes aux yeux.
+> 
+> Je vais refaire le trajet à pied.
+> Avec un peu de chance, je vais retrouver ta rivière de diamants, dit monsieur Loisel pour se rassurer et rassurer se femme
+- tous les deux : 둘이 함께, 둘다
+- partout : 사방에, 도처에 어디든지
+- poche : nf. 포켓, 주머니
+- sûrement : 확실하게
+- salle de bal : 무도회장
+- continuer : vi. (말, 행동 따위를) 계속하다
+- de plus en plus : 점점 더, 차츰차츰
+- non plus : 또한 (← 부정문에서의 aussi)
+- trajet : 도정, 여정 ; chemin, parcours
+- refraire : v. 다시 하다
+- faire le trajet : 여행하다
+- rassurer : vt. 안심시키다, 보강하다, vp. 두려움에서 벗어나다, 안심하다 ; calmer
+
+Il sort dans la nuit froide pendant que Mathilde reste sans force, incapable d'enlever sa robe ou de penser.
+Elle s'assoit sur une chaise, le regarde vide.
+- force : nf. 힘, 활력
+- incapable : a. 할 수 없는, 무능한
+- asseoir : vp. 앉다
+    - 이 동사는 두가지 형태의 변화형이 있다.
+    - (전통형) je assieds / tu assieds / il assied / nous asseyons / vous asseyez / ils asseyent
+    - (현대형) je assois  / tu assois  / il assoit / nous assoyons / vous assoyez / ils assoient
+    - Asseyez vous : 앉으세요
+- vide : 허공, 공중
+
 → ←
