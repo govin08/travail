@@ -1,7 +1,8 @@
 La parure
 - auteurs : Guy de Maupassant
-- CLE international
-- Lecture en français fracile
+- éditeur : CLE international
+- année : 1884
+- Lecture en français facile
 
 # 1e Partie : L'invitation
 
