@@ -380,7 +380,7 @@ Pour chaque question, répondez aux questions en cochant la bonne réponse.
 vocabulaires
 - gratuit : a. 무료의, 공짜의
 
-### Exercice 2
+#### Exercice 2
 Pour chaque question, répondez en cochant la bonne réponse ou en écrivant l'information demandée.
 
 1 Ça fait combien?
@@ -428,5 +428,137 @@ vocabulaires
 - tarif : nm. 가격
 - porcelaine : nf. 자기, 사기그릇
 
+### Activité 5 수량
 
+#### exercice
+Pour chaque question, répondez en cochant la bonne réponse ou en écrivant l'information demandée.
+
+1 Combien Sophie pesait-elle il y a trois ans?
+- Sophie pesait quarante-six kilo il y a trois ans.
+- 46kg
+
+2 Quelle quantité d'eau vous conseille-t-on de boire?
+- Il faut boire au moins un litre d'eau par jour.
+- un litre d'eau
+
+3 Pour la sauce des spaghettis, il faut :
+- un kilo de tomates.
+- J'ai besoin d'un kilo de tomates pour faire la sauce des spaghettis.
+
+4 Le client veut acheter un demi-kilo de crevettes (vrai / faux)
+- vrai
+- Monsieur, un demi-kilo de crevettes, s'il vous plaît.
+
+5 Pour combien de personnes veut-il réserver une chambre?
+- trois
+- Allô. Je voudrais réserver une chambre pour trois personnes, pour le vendredi deux octobre.
+
+6 La dame achète : 
+- C'est vous, Madame.
+- deux kilo de de pomme de terre.
+- un demie-kilo de carottes.
+- un kilo de courgettes.
+
+7 La dame veut : 
+- Vous désirez?
+- Je voudrais quatre maquereaux, un homard, et un kilo et demie de crevettes, s'il vous plaît.
+
+vocabulaires
+- peser : vt. (무게를) 달다, vi. 무게가 나가다
+- conseiller : vt. 권고하다, 권하다
+- au moins : 적어도
+- crevette : nf. 작은 새우
+- courgette : nf. 기다란 호박
+- maquereau : nm. 고등어
+- saumon : nm. 연어
+- moule : nf. 홍합
+- homard : nm. 바닷가재
+
+## 2. 누구인가? Qui sont-ils?
+
+관계대명사 qui
+- 누구
+    - Qui parle?
+    - Qui a acheté cette maison?
+    = Qui est-ce qui a acheté cette maison?
+- 대상(간접목적어)
+    - À qui parles-tu?
+    = À qui est-ce que tu parles?
+    = À qui tu parles?
+    - Ce message s'addresse à qui?
+- 주어 강조 용법
+    - La voiture s'arrête au feu rouge.
+    - Qu'est-ce qui s'arrête au feu rouge?
+    - C'est la voiture qui s'arrête au feu rouge.
+    - Les deux enfants ont acheté les timbres.
+    - Qu'est-ce qui a acheté les timbres?
+    - C'est les deux enfants qui ont acheté les timbres.
+
+직업과 국적 용어
+- acteur : 배우
+- architecte : 건축가
+- avocat : 변호사
+- chanteur : 가수
+- chômeur : 실직자*
+- cuisinier : 요리사
+- danseur : 무용수
+- écrivain : 작가
+- entrepreneur : 자영업자
+- femme au foyer : 가정주부*
+- fonctionnaire : 공무원*
+- footballeur : 축구선수
+- instituteur : 교사
+- journaliste : 기자
+- médecin : 의사
+- militaire : 군인*
+- musicien : 음악가
+- peintre : 화가*
+- présentateur : 아나운서*
+- professeur : 교수
+- radacteur : 편집장*
+- retraité : 퇴직자*
+- salarié : 샐러리맨
+- traducteur : 번역하다
+- vendeur : 판매원
+- 한국 : la Corée / coréen / coréenne
+- 그리스 : la Grèce / grec / grecque
+- 독일 : l'Allemagne / allemand / allemande
+- 러시아 : la Russie / russe / russe
+- 멕시코 : le Mexique / mexicain / maxicaine
+- 벨기에 : la Belgique / belge / belge
+- 브라질 : le Brésil / brésillien / brésillienne
+- 스페인 : l'Espagne / espagnol / espagnole
+- 아르헨티나 : l'Argentine / argentin / argentine
+- 알제리 : l'Algérie / algérien / algérienne
+- 영국 : l'Angleterre / angalis / anglaise
+- 이탈리아 : l'Italie / italien / italienne
+- 일본 : le Japon / japonais / japonaise
+- 중국 : la Chine / chinois / chinoise
+- 포르투갈 : le Portugal / portugais / portugaise
+- 프랑스 : la France / français / française
+
+직업 표현
+- Il est professeur de français.
+- Je suis étudiant.
+- Robbie Williams est un chanteur anglais.
+- Psy est un chanteur coréen.
+
+국가명 표현
+- le Canada / les Canadiens
+- le Japon / les Japonais
+- la Corée / les Coréens
+- la France / les Français
+- la Grèce / les Grecs
+- la Mexique / les Mexicains
+- les Étas-Unis = l'Amérique / les Américains
+- l'Allemagne / les Allemands
+- l'Italie / les Italiens
+
+
+vocabulaires
+- arrêter : vt. 가로막다, 중지시키다, 멈추다
+- feu : nm. 불, 신호등
+- foyer : 가정
+- rédiger : vt. 편집하다
+- traduire : vt. 번역하다
 → ← ↔
