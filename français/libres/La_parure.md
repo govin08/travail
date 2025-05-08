@@ -69,7 +69,6 @@ Elle regarde son mari d'un air méchant.
 > 
 > Mais parce que je n'ai pas de beaux vêtements!
 - air : nm. 분위기
-- méchant : a. 악독한, 심술궂은, 냉혹한
 - bien sûr : 물론
 - demander : vt. 질문하다.
 - énervé(e) : a. 약한, 무기력한, 신경질난 ; agacé, en colère.
