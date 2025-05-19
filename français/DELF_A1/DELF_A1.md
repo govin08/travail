@@ -561,4 +561,127 @@ vocabulaires
 - foyer : 가정
 - rédiger : vt. 편집하다
 - traduire : vt. 번역하다
+
+### Activité 1 누구
+
+#### Exercice 1
+Pour chaque question, répondez en cochant la bonne réponse ou en écrivant l'information demandée.
+
+1 Qui est collégien?
+- Marc
+- Bonjour, je suis Michel. Lui, C'est marc. Il est collégien.
+
+2 C'est Pauline qui est au lycée. (vrai / faux)
+- faux
+- Pauline a grand frère qui est au lycée.
+
+3 Qui a laissé ce message sur mon téléphone portable?
+- C'est .
+- Allô. C'est papa. J'ai raté mon train. Je rentrai tard.
+
+4 Qui parle?
+- Il a de la fièvre et son nez coule. Demain, faites le rester à la maison.
+
+vocabulaires
+- collégien : nm. 중학생
+- laisser : vt. 남기다
+- raté : a. 놓친, 실패한
+- rater : vt. 불발하다, 실패하다
+- fièvre : nf. 열, 열병, 흥분, 열기
+- couler : vi. 흐르다
+- faire : vt. (사역적 용법) ~하게 하다
+- faites le rester : 그를 머물게 하여라.
+
+### Exercice 2
+Pour chaque qustion, répondez en cochant la bonne réponse.
+
+1 Qui a laissé le message sur le répondeur?
+- La maman de Marie.
+- Allô. Bonjour Marie. C'est maman. Est-ce que tu peux aller chercher du sel? Je n'ai pas le temps d'en acheter. Je te remercie, ma chèri. Au resoir.
+
+2 Quel est le motif de l'appel?
+- Demander d'aller acheter du sel.
+
+vocabulaires
+- motif : nm. 동기, 주제
+- appel : nm. 부름, 호출, 소환
+- remercier : vt. 감사하다
+
+### Activité 2 신분, 국적
+
+#### Exercice 1
+Cochez la case correspondante.
+
+1 Fatima, elle est portugaise et etudiante.
+2 Dimitri, il est russe et médicin.
+
+- Professeur : Je demande à chacun de présenter son voisin. Tu peux commencer Pierre?
+- Pierre : Oui, À ma droite, c'est Fatima, elle est portugaise et etudiante. À ma gauche, c'est Dimitri, il est russe et médicin.
+
+vocabulaires
+- chacun : 각각의, 저마다, 누구나
+    - Je demande à chacun de présenter son voisin. : 나는 각각의 학생들에게 그들의 이웃에 대해 소개할 것을 요청한다.
+    - demander는 간접목적어(doi)를 취하는 동사
+
+#### Exercice 2
+Ecoutez l'enregistrement et choissez 'vrai' ou 'faux'.
+
+- Tu t'appeles comment?
+- Sylvie.
+- Tu habites où?
+- À Toulouse.
+- Tu es française?
+- Oui, c'est ça.
+- Qu'est-ce que fais dans la vie?
+- Je traille dans une agence de voyage.
+
+1 Elle s'appelle Sylvie.
+- vrai
+
+2 Elle est italienne.
+- faux
+
+3 Elle est étudiante.
+- faux
+
+4 Elle habite à Toulouse.
+- vrai
+
+vocabulaires
+- enregistrement : nm. 녹음, 기록
+
+#### Exercice 3
+Cochez les cases correspondant à la situation de la candidate.
+<!-- - Elle est . -->
+- Elle s'appelle Marie-Françoise.
+<!-- - Elle travaille dans un supermarche. -->
+<!-- - Elle habite . -->
+- Elle a deux enfants.
+- Elle a trente-trois ans.
+
+- Bonjour, Madames et Monsieurs. Je vous présente notre première candidate. Elle s'appelle Marie-Françoise. Elle a trente-trois ans. Elle travaille dans un supermarché. Elle est marièe et a deux enfants.
+
+### Activité 3 누구에게
+
+#### Exercice 1
+Pour chaque l'enregistrement, répondez aux questions en cochant la bonne réponse.
+
+1 Qui parle à qui?
+- Un professeur à son élève.
+- Matthieu, je peux recevoir tes parents ce vendredi pour parler de ton bulletin scolaire?
+
+2 À qui Amélie doit-elle téléphoner?
+- À Marie.
+- Salue Amélie. C'est Marie. Je t'appelle pour les devoirs. Dès que tu reçois mon message, rappelle-moi. Tchao.
+
+3 C'est à Matthieu que Patrick a laissé un message.
+- faux
+- Allô Patrick, c'est moi Matthieu. Je suis malade. Je ne pourrai pas venir chez toi. À bientôt.
+
+vocabulaires
+- recevoir : vt. 맞이하다, 접견하다, 만나다
+- bulletin scolaire : 성적표
+- devoir : n. 숙제, 과제
+- dès : ~하자마자
+
 → ← ↔
