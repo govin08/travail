@@ -1,4 +1,6 @@
 # 여행지 목록 - voyages.yaml
+# 최초작성 : 2025. 08. 30
+# 최종수정 : 2025. 08. 30
 voayges:
   voyages_seul:
   - region: "대전광역시"
