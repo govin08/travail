@@ -47,6 +47,7 @@ fi
 
 # 새로운 .gitignore 생성
 echo "# Auto-generated gitignore" > .gitignore
+echo "env_tra/" >> .gitignore
 
 # 민감한 파일들 추가
 if [ -n "$secret_files" ]; then
