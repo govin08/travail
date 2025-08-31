@@ -1,10 +1,7 @@
 
-# 100MB 이상 큰 파일들
 # Auto-generated gitignore
 # 민감한 파일들 (.secret.*)
 env_tra/
-env_tra/Lib/site-packages/torch/lib/dnnl.lib
-env_tra/Lib/site-packages/torch/lib/torch_cpu.dll
 textfiles/.secret.aws_account.txt
 textfiles/.secret.-win-ms-hc-et cetera.txt
 textfiles/.secret.개인통관고유번호.txt
