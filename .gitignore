@@ -1,8 +1,2 @@
-
 # Auto-generated gitignore
-# 민감한 파일들 (.secret.*)
 env_tra/
-textfiles/.secret.aws_account.txt
-textfiles/.secret.-win-ms-hc-et cetera.txt
-textfiles/.secret.개인통관고유번호.txt
-textfiles/.secret.-엄마 계정.txt

@@ -5,6 +5,7 @@ echo "Searching directories (this may take a while)..."
 # 임시 파일들 생성
 large_files_temp=$(mktemp)
 secret_files_temp=$(mktemp)
+file_count=0
 
 echo "Searching for .secret.* files..."
 # 1. 모든 .secret.* 파일들 찾기 (크기 상관없이)
@@ -18,8 +19,9 @@ echo "Searching for large files (100MB+)..."
 # 2. 100MB+ 파일들 찾기 (단, .secret.*는 제외)
 find . -type f -size +100M ! -name ".secret.*" 2>/dev/null | while read -r file; do
     if [[ "$file" != ./.git/* ]] && [[ "$file" != ./env_tra/* ]]; then
+        file_count=$((file_count + 1))
+        echo "[$file_count] Found large file: $file"
         normalized_file="${file#./}"
-        echo "Found large file: $normalized_file"
         echo "$normalized_file" >> "$large_files_temp"
     fi
 done
