@@ -5,7 +5,7 @@ VOCABULAIRE PROGRESSIF DU FRANÇAIS (A1)
 
 # 1. Les Usages - La Politesse
 
-## le nom et l'article (명사와 관사)
+## page six
 
 En France, on ajoute aux expressions de politesse "madame", "monsieur", ou le prénom, si on se connaît bien.
 
@@ -35,7 +35,6 @@ Quand on va revoir la personne dans quelques heures:
 Bonsoir, Raphaël, à lundi!
 
 * Remarque : "Salut" signifie "bonjour" ou "au revoir".
-
 
 ### "Tu" ou "vous"?
 On dit "vous" quand on ne connaît pas quelqu'un et quand on utilise les expressions "monsieur" ou "madame" : dans la rue, dans les magasins, etc.
@@ -95,5 +94,46 @@ Vous ne risquez pas d'être impoli (≠ poli)
 - (5) Mme Laurier rencontre le petit Nicolas, ell dit : "vous ..." / F
 - (6) Florence dit "Bonjour monsieur" à son professeur de mathématiques. / V
 - (7) Luc entre dans une boulangerie. Il dit "Madame, tu peux me donner une baguette?" / F
+
+## page huit
+
+### Présenter = Faire les Présentations
+
+#### Situation professionnelle
+
+Je vous présente Florence Dusapin, notre nouvelle résponsable de marketing.
+- Bonjour, madame, enchanté.
+- Enchantée, monsieur.
+
+#### Contexte amical
+
+Nicolas, est-ce que tu connais ma copine Émille?
+- Non, pas encore. Bojour, Émille.
+- Bonjour, Nicolas.
+
+### Quelque Gestes
+
+Les Français, et surtout les hommes, se serrent la main pour se dire bonjour ou au revoir.
+
+Les femmes qui se connaissent bien (amies, collègues de travail) s'embrassent sur la joue (=elle se font un bisou = une bise).
+One embrasse aussi un enfant (pour lui dire bonjour).
+
+### Accueillir
+
+- Entrez, je vous en prie!
+Je peux prendre votre manteau?
+
+- Ça me fait plasir de vous voir!
+Assseyez-vous, je vous en prie!
+
+- Je suis contente de te
+
+### voca
+
+- responsable : n. 책임자, 주임, 대표자
+- geste : nm. 손짓, 몸짓, 제스쳐, 표시, 행위, 행동
+- se serrer : vp. 꽉 쥐다
+- selon : ~에 따라, ~만큼
+- prie : n. 손님, v. 기도하다, 부탁하다
 
 → ← ↔
