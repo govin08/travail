@@ -126,7 +126,7 @@ Je peux prendre votre manteau?
 - Ça me fait plasir de vous voir!
 Assseyez-vous, je vous en prie!
 
-- Je suis contente de te
+- Je suis contente de te voir! Assieds-toi, je t'en prie!
 
 ### voca
 
@@ -134,6 +134,46 @@ Assseyez-vous, je vous en prie!
 - geste : nm. 손짓, 몸짓, 제스쳐, 표시, 행위, 행동
 - se serrer : vp. 꽉 쥐다
 - selon : ~에 따라, ~만큼
-- prie : n. 손님, v. 기도하다, 부탁하다
+- prie : n. 손님
+- prier : vt. 부탁하다, 기도하다.
+
+## exercices
+
+1. Choisissez la bonne réponse.
+- (1) Je vous *présente* mon nouveau collègue.
+- (2) Lise *embrasse* le petit Bastien.
+- (3) Delphine *fait* le bisou à Philippe.
+- (4) Ça me fait _plaisir_ de te voir.
+- (5) Est-ce que tu _connais_ mon ami Geoffroy?
+- (6) _Assieds_-toi, je t'en prie!
+- (7) Entrez, je vous en _prie_!
+- (8) Sami _serre_ la main de son client.
+
+2. Choissez la légende correcte.
+- (1.a) Marius fait les présentations.
+<!-- - (1-b) Marius dit bonjour. -->
+- (2.b) Ils se disent bonjour.
+- (3.b) "Assieds-toi, je t'en prie."
+- (4.a) "Bonjour, madame, enchanté!"
+
+3. Que dites-vous dans les situations suivantes?
+- (1) Vous présentez votre copain Quentin à votre copine Anaïs :
+  - (m1) Bonjour Quentin, c'est ma amie Anaïs.
+  - (m2) Quentin, je te présente ma amie Anaïs.
+  - (c) Tu connais Quentin?
+- (2) Il est 21 heures, vous saluez votre voisine, qui a 70 ans :
+  - (m1) Au revoir madame.
+  - (m2) Bonsoir madame.
+  - (c) Bonsoir, madame!
+- (3) Vous présentez votre collègue M. Fortin à un client.
+  - (m1) Je vous présente mon collègue, Monsieur Fortin.
+  - (c) Je vous présente Monsieur Fortin.
+- (4) Vous ouvrez la porte à des amis.
+  - (m1) Entres, je te en prie!
+  - (c) Entre/Entrez! Ça me fait plaisir de te/vous voir.
+- (5) Votre visiteur a un gros manteau.
+  - (m1) Donnez-moi votre manteau, s'il vous plaît.
+  - 
+  <!-- mon réponse, réponse de corrigés -->
 
 → ← ↔
