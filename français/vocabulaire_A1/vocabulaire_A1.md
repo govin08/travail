@@ -158,8 +158,8 @@ Assseyez-vous, je vous en prie!
 
 3. Que dites-vous dans les situations suivantes?
 - (1) Vous présentez votre copain Quentin à votre copine Anaïs :
-  - (m1) Bonjour Quentin, c'est ma amie Anaïs.
-  - (m2) Quentin, je te présente ma amie Anaïs.
+  - (m1) Bonjour Quentin, c'est mon amie Anaïs.
+  - (m2) Quentin, je te présente mon amie Anaïs.
   - (c) Tu connais Quentin?
 - (2) Il est 21 heures, vous saluez votre voisine, qui a 70 ans :
   - (m1) Au revoir madame.
@@ -169,11 +169,11 @@ Assseyez-vous, je vous en prie!
   - (m1) Je vous présente mon collègue, Monsieur Fortin.
   - (c) Je vous présente Monsieur Fortin.
 - (4) Vous ouvrez la porte à des amis.
-  - (m1) Entres, je te en prie!
+  - (m1) Entre, je t'en prie!
   - (c) Entre/Entrez! Ça me fait plaisir de te/vous voir.
 - (5) Votre visiteur a un gros manteau.
   - (m1) Donnez-moi votre manteau, s'il vous plaît.
-  - 
+  - (c) Je peux prendre votre manteau?
   <!-- mon réponse, réponse de corrigés -->
 
 → ← ↔
