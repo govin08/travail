@@ -15,7 +15,7 @@ Alliance Française(회현)에서의 프랑스어 수업
 
 # 3월 8일 수업
 
-## Le polycopié (1)
+## Le polycopié (3/8-1)
 
 ### 가족관계에 대한 다양한 표현들
 - père : nm. 아버지
@@ -136,7 +136,7 @@ remarques
     - C'était comment?
     - Qu'est-ce que vous avez fait? : 너는 (당신들은) 뭐했어?
 
-## Le polycopié (2)
+## Le polycopié (3/8-2)
 
 ### 신체에 관한 다양한 표현들
 
@@ -308,7 +308,7 @@ vocabulaires
 - talon : nm. 뒤꿈치, 뒤축, 뒤굽
     - Je porte un t-shirt rouge, un pantalon noir et des chaussures à talons noirs.
 
-## Le polycopié (3)
+## Le polycopié (3/8-3)
 
 Associez les debuts et les fins de phrases.
 - Il est timide.            Il n'aime pas parler en public.
@@ -365,128 +365,6 @@ vocabulaires
 - ambitieux : a. 야망있는, 야심이 있는
 - président : n. 대통령, 의장, 회장
 - découvrir : vt. 발견하다, 알아내다
-
-## Le polycopié (4)
-
-L'accord des adjectifs : masculin → féminin
-- Dans la majorité des cas, il suffit d'ajouter un "-e" à l'adjectif au masculin pour former le féminin.
-    - un petit vélo → une petite voiture
-    - un vélo bleu → une voiture bleue
-- Si l'adjectif au masculin termine déjà par un "-e", il ne change pas au féminin.
-    - un quartier calme → une rue calme
-    - un pantalon rouge → une robe rouge
-- Certains adjectifs ont des terminaisons différentes au masculin et au féminin :
-    - italien → italienne
-    - bon → bonne
-    - ponctuel → ponctuelle : 시간을 잘 지키는
-    - étranger → étrangère
-    - discret → discrète : 신중한, 소박한, (수학)이산의
-    - muet → muette : 벙어리의, 무성의
-    - envieux → envieuse
-    - moqueur → moqueuse : 조롱하는
-    - provocateur → provocatrice : 선동하는, 도전하는, 도발하는
-    - veuf → veuve
-    - beau → belle
-- Enfin, il existe des adjectifs irréguliers :
-    - bas → basse : 낮은, (소리가) 굵은
-    - blanc → blanche
-    - doux → douce : 단, 단맛이 나는, 부드러운
-    - épais → épaisse : 뚱뚱한, 살찐, 두꺼운
-    - faux → fausse : 잘못된, 거짓된
-    - fou → folle : 미친, 광적인
-    - frais → fraîche : 서늘한, 쌀쌀한, 찬
-    - public → publique
-    - roux → rousse : 다갈색의
-    - sec → sèche : (메)마른, 건조한, 말린
-    - turc → turque : 터키식의
-    - vieux → vieille
-
-L'accord des adjectifs : singulier → pluriel
-- Dans la majorité des cas, il suffit d'ajouter un "-s" à l'adjectif au singulier pour former le pluriel.
-    - un petit vélo → des petits vélos
-    - une voiture bleue → des voitures bleues
-- Si l'adjectif au singulier termine par un "-s" ou un "-x", il ne change pas au pluriel.
-    - un pantalon gris → des pantalons gris
-    - un vieux livre → des vieux livres
-- Certains adjectifs ont une forme irrégulière au masculin pluriel
-    - un centre commercial → des centres commerciaux
-    - un nouveau message → des nouveaux messages
-
-Cas particuliers
-- Dans certain cas, les adjectifs de couleur sont invariables :
-    - si la couleur évoque une matière ou un objet
-        - des cravates orange
-    - si la couleur est précisée par un adjectif ou un nom
-        - des tables bleu ciel : 하늘색 테이블들
-    - si la couleur est exprimée par deux adjectifs
-        - une veste rose et blanc
-
-La place des adjectifs
-- avant le nom
-    - Quelques adjectifs courts se placent devant le nom :
-        - beau, joli, petit, grand, gros, bon, mauvais, jeune, vieux, nouveau
-        - une vieille dame
-        - une mauvaise idée
-    - Attention! Devant un nom masculin singulier commençant par une voyelle ou un h muet
-        - beau → bel, nouveau → nouvel, vieux → vieil
-        - un vieil appartement
-    - L'adjectif numéral est toujours placé devant les autres adjectifs.
-        - les deux grandes tables basses
-- après le nom
-    - En général, l'adjectif qualificatif se place derrière le nom.
-        - un homme rusé
-        - une fille calme
-        - des livres neufs
-    - Les adjectifs longs, de nationalité, de forme ou de couleur se placent toujours derrière le nom.
-        - un restaurant italien
-        - une rue tranquille
-        - des tables bleues
-- particularités
-    - certains adjectifs changent de sens selon s'ils sont placés avant ou après le nom
-        - (le adjectif : avant / après)
-        - ancien : 예전의 / 오래된, 낡은
-            - mon ancienne maison : 내가 예전에 살던 집
-            - une maison ancienne : 오래된 집
-        - cher : 친애하는 / 비싼
-            - cher ami, chère amie : 친애하는 친구, 사랑하는 친구
-            - un livre cher, une maison chère : 비싼 책, 비싼 집
-        - curieux : 신기한, 희한한, 궁금한 / 호기심이 있는
-            - une curieuse histoire (=une histoire étrange) : 신기한 이야기
-            - un homme curieux : 호기심이 있는 남자
-        - dernier : 마지막의, 최근의, 최신의 / 지난
-            - la dernière semaine du mois : 이 달의 마지막 주
-            - la semaine dernière : 지난주
-        - différent : 여러, 다양한 / 다른
-            - différentes opinions 다양한 의견들
-            - des opinions différentes : 다른 의견들
-        - pauvre : 불쌍한 / 가난한
-            - le pauvre homme : 불쌍한 남자
-            - une personne pauvre : 가난한 사람
-        - propre : 자기 자신의, 본인의 / 깨끗한
-            - ma propre maison : 나의 집
-            - une maison propre : 깨끗한 집
-        - seul : 유일한 / 혼자의
-            - le seul problème : 유일한 문제
-            - voix seule : 독창, 솔로
-            - Il est seul à la maison. 그는 집에 홀로 있다.
-        - petit : (추상적으로) 작은 / (크기가) 작은
-            - un petit problème : 작은 문제
-            - La maison est petite. 그 집은 작다
-        - grand : (추상적으로) 큰 / (크기가) 큰
-            - un grand écrivain : 대작가
-            - L'appartement est grand : 그 아파트는 크다.
-
-vocabulaires
-- suffire : vi. 충분하다
-- enfin : 마침내, 끝으로, 마지막으로
-- évoquer : vt. 회상하다, 상기하다, 떠올리다, 환기하다
-- matière : nf. 물질, 재료 (métier : nm. 직업)
-- bleu ciel : 하늘색의
-- dame : nf. 부인, 아내
-- numéral : a. 수의, 수를 나타내는
-- adjectif qualificatif : 품질형용사, (grammaire) Adjectif attribuant une qualité à un syntagme nominal.
-- sens : nm. 뜻, 의미
-- selon : ~에 따라
 
 ## Leçon 1. Quelle famille?
 
@@ -588,6 +466,167 @@ remarques
 
 # 3월 15일 수업
 
+## 과제검토
+
+그래서
+- alors : (과정) 그래서
+- donc : 결론적으로
+
+대명사의 쓰임
+- 인칭대명사 + 동사
+    - je, tu, il, elle, on
+    - nous, vous, ils, ells
+- 소유형용사 + 명사
+    - ma, mon, mes
+    - ta, ton, tes
+    - sa, son, ses
+    - notre, nos
+    - votre, vos
+    - leur, leurs
+- 전치사 + 강세대명사(moi / toi / eux)
+    - moi, toi, lui, elle
+    - nous, vous, eux, elles
+    - exemples
+        - moi aussi.
+        - et vous?
+        - avec eux.
+
+À quoi je ressemble : 내가 무엇과 닮았는지. 내 외모에 대한 설명
+
+les yeux의 발음에서 s + y가 합쳐지면 /z/ 발음이 남.
+    
+## Le polycopié (3/8-4)
+
+L'accord des adjectifs : masculin → féminin
+- Dans la majorité des cas, il suffit d'ajouter un "-e" à l'adjectif au masculin pour former le féminin.
+    - un petit vélo → une petite voiture
+    - un vélo bleu → une voiture bleue
+- Si l'adjectif au masculin termine déjà par un "-e", il ne change pas au féminin.
+    - un quartier calme → une rue calme
+    - un pantalon rouge → une robe rouge
+- Certains adjectifs ont des terminaisons différentes au masculin et au féminin :
+    - italien → italienne
+    - bon → bonne
+    - ponctuel → ponctuelle : 시간을 잘 지키는
+    - étranger → étrangère
+        - un pay étranger
+        - une langue étrangère
+    - discret → discrète : 눈에 띄지 않는, 신중한, 소박한, (수학)이산의
+    - muet → muette : 벙어리의, 무성의
+    - envieux → envieuse
+    - moqueur → moqueuse : 놀리는, 조롱하는
+    - provocateur → provocatrice : 선동하는, 도전하는, 도발하는
+    - veuf → veuve 배우자를 잃은
+    - beau → belle
+- Enfin, il existe des adjectifs irréguliers :
+    - bas → basse : 낮은, (소리가) 굵은
+        - une table basse
+    - blanc → blanche
+    - doux → douce : 부드러운, 단, 단맛이 나는
+    - épais → épaisse : 뚱뚱한, 살찐, 두꺼운
+    - faux → fausse : 잘못된, 거짓된
+        - des fausse informations
+    - fou → folle : 미친, 광적인
+    - frais → fraîche : 신선한, 서늘한, 쌀쌀한, 찬
+    - grec → grecque : 그리스의
+    - jaloux → jalouse : 질투나는
+    - nul → nulle : 형편없는, 무능한
+    - public → publique
+        - une école publique / privée
+    - roux → rousse : 다갈색의
+    - sec → sèche : (메)마른, 건조한, 말린
+    - turc → turque : 터키식의
+    - vieux → vieille
+
+L'accord des adjectifs : singulier → pluriel
+- Dans la majorité des cas, il suffit d'ajouter un "-s" à l'adjectif au singulier pour former le pluriel.
+    - un petit vélo → de petits vélos
+    - une voiture bleue → des voitures bleues
+- Si l'adjectif au singulier termine par un "-s" ou un "-x", il ne change pas au pluriel.
+    - un pantalon gris → des pantalons gris
+    - un vieux livre → de vieux livres
+- Certains adjectifs ont une forme irrégulière au masculin pluriel
+    - un centre commercial → des centres commerciaux
+    - un nouveau message → des nouveaux messages
+
+Cas particuliers
+- Dans certain cas, les adjectifs de couleur sont invariables :
+    - si la couleur évoque une matière ou un objet
+        - des cravates orange
+    - si la couleur est précisée par un adjectif ou un nom
+        - des tables bleu ciel : 하늘색 테이블들
+    - si la couleur est exprimée par deux adjectifs
+        - une veste rose et blanc
+
+La place des adjectifs
+- avant le nom
+    - Quelques adjectifs courts se placent devant le nom :
+        - beau, joli, petit, grand, gros, bon, mauvais, jeune, vieux, nouveau
+        - une vieille dame
+        - une mauvaise idée
+    - Attention! Devant un nom masculin singulier commençant par une voyelle ou un h muet
+        - beau → bel, nouveau → nouvel, vieux → vieil
+        - un vieil appartement
+    - L'adjectif numéral est toujours placé devant les autres adjectifs.
+        - les deux grandes tables basses
+- après le nom
+    - En général, l'adjectif qualificatif se place derrière le nom.
+        - un homme rusé
+        - une fille calme
+        - des livres neufs
+    - Les adjectifs longs, de nationalité, de forme ou de couleur se placent toujours derrière le nom.
+        - un restaurant italien
+        - une rue tranquille
+        - des tables bleues
+- particularités
+    - certains adjectifs changent de sens selon s'ils sont placés avant ou après le nom
+        - (le adjectif : avant / après)
+        - ancien : 예전의 / 오래된, 낡은
+            - mon ancienne maison : 내가 예전에 살던 집
+            - une maison ancienne : 오래된 집
+        - cher : 친애하는 / 비싼
+            - cher ami, chère amie : 친애하는 친구, 사랑하는 친구
+            - un livre cher, une maison chère : 비싼 책, 비싼 집
+        - curieux : 신기한, 희한한, 궁금한 / 호기심이 있는
+            - une curieuse histoire (=une histoire étrange) : 신기한 이야기
+            - un homme curieux : 호기심이 있는 남자
+        - dernier : 마지막의, 최근의, 최신의 / 지난
+            - la dernière semaine du mois : 이 달의 마지막 주
+            - la semaine dernière : 지난주
+        - différent : 여러, 다양한 / 다른
+            - différentes opinions 다양한 의견들
+            - des opinions différentes : 다른 의견들
+        - pauvre : 불쌍한 / 가난한
+            - le pauvre homme : 불쌍한 남자
+            - une personne pauvre : 가난한 사람
+        - propre : 자기 자신의, 본인의 / 깨끗한
+            - ma propre maison : 나의 집
+            - une maison propre : 깨끗한 집
+        - seul : 유일한 / 혼자의
+            - le seul problème : 유일한 문제
+            - voix seule : 독창, 솔로
+            - Il est seul à la maison. 그는 집에 홀로 있다.
+        - petit : (추상적으로) 작은 / (크기가) 작은
+            - un petit problème : 작은 문제
+            - La maison est petite. 그 집은 작다
+        - grand : (추상적으로) 큰 / (크기가) 큰
+            - un grand écrivain : 대작가
+            - L'appartement est grand : 그 아파트는 크다.
+
+vocabulaires
+- suffire : vi. 충분하다
+- terminaison : nf. 어미, 접미사
+- enfin : 마침내, 끝으로, 마지막으로
+- évoquer : vt. 회상하다, 상기하다, 떠올리다, 환기하다
+- matière : nf. 물질, 재료 (métier : nm. 직업)
+- bleu ciel : 하늘색의
+- dame : nf. 부인, 아내
+- numéral : a. 수의, 수를 나타내는
+- adjectif qualificatif : 품질형용사, (grammaire) Adjectif attribuant une qualité à un syntagme nominal.
+- rusé : 교활한
+- sens : nm. 뜻, 의미
+- selon : ~에 따라
+
 ## Leçon 3. Les grands événements de la vie
 
 Tous mes vœux de bonheur.
@@ -638,4 +677,50 @@ vocabulaires
 remarques
 - Galeries Lafayette : 프랑스의 백화점
 
+## Le polycopié (3/15-1)
+
+### La maison - le lodgement
+
+La maison
+- vocabulaires
+    - le toit : 지붕
+    - le premier étage : 2층
+    - le mur : 벽
+    - le balcon : 발코니
+    - le rez-de-chaussée : 1층, 지상층
+    - la fenêtre : 창문
+    - la cave au sous-sol : 지하실
+    - l'escalier : 계단
+    - l'ascenseur : 승강기, 엘레베이터
+    - le jardin : 정원
+    - le plafond : 천장
+    - le pot de fleurs : 화분
+    - le garage : 차고
+    - la porte : 문
+    - la clé : 열쇠
+    - la serrure : 열쇠구멍
+    - le sol : 바닥
+    - la terre : 지면, 지표, 흙, 땅
+- Remarque : On ne dit pas "sur le sol", mais "par terre".
+    - Le livre est tombé par terre.
+
+Une appartement
+- Une maison ou un appartement ont plusieurs pièces.
+- vocabulaires
+    - une chambre : 방, 침실
+    - une salle de bains : 욕실
+    - une cuisine : 부엌
+    - un salon : 거실
+    - une salle de séjour : 거실 (?)
+    - une salle à manger 식당, 식탁
+    - un couloir : 복도
+    - des toilettes : 화장실
+    - une entrée : 현관
+- pièce와 chambre
+    - pièce : salon을 포함한 모든 방
+    - chambre : 문이 닫히는 구조의 방, 침실
+    - 3 pièce (2 chambre et 1 salon)
+
+vocabulaires
+- séjour : nm. 체류, 체재, 거주
 → ← ↔
