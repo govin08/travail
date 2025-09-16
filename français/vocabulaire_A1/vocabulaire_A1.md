@@ -176,4 +176,108 @@ Assseyez-vous, je vous en prie!
   - (c) Je peux prendre votre manteau?
   <!-- mon réponse, réponse de corrigés -->
 
+## page dix
+
+### S'excuser
+
+Oh, pardon, madame.
+Je suis désolé!
+- Ce n'est pas rien, monsieur!
+
+Excusez-moi, monsieur!
+Je suis désolée d'être en retard!
+- Je vous en prie, ce n'est pas grave.
+
+### Demander - Remercier
+
+Pardon, madame, vous pouvez me dire où est la poste, s'il vous plaît?
+- Oui, monsieur. C'est au  bout de la rue, à droite.
+- Je vous remercie, madame.
+- Je vous en prie, monsieur.
+
+Tu peux me prêter 1€, s'il te plaît?
+- Oui, bien sûr Voilà!
+- Merci beaucoup!
+- De rien.
+
+### Féliciter
+
+Pour une réussite, une promotion, un nouveau trail, la naissance d'un bébé, par exemple:
+- Félicitations! Toutes mes félicitations!
+- Je suis vraiment content(e) pour toi / vous!
+- Bravo!
+
+Pour un mariage:
+- Tous mes voeux de bonheur!
+- Toutes mes félicitations
+
+### Plaindre
+
+À l'annonce d'une mauvaise nouvelle:
+- Tu sais, je n'ai plus de travail.
+- Oh, mon pauvre Marc! Ma pauvre Solange! Tu n'as pas de chance!
+
+À l'annonce d'une horrible nouvelle:
+- Vous savez que nous avons perdu un enfant?
+- Oh mon Dieu, c'est terrible, c'est affreux, ce n'est pas possible! Je suis désolé(e) pour vous.
+
+### voca
+- grave : n. 저음, 무거운 물체
+- réussite : nf. 성공, 출세
+- vœu : (pl : vœux) 서원, 맹세, 서약
+- bonheur : nm. 행복, 행운, 기쁨
+- plaindre : vt. 불쌍히 여기다, 동정하다 vp. 눈물을 흘리다, 불평하다
+- nouvelle : nf. 뉴스, 보도, 소식, 근황
+- affreux : a. 끔찍한, 무시무시한, 소름끼치는
+
+## exercices
+
+1. Remettez le dialogue dans l'ordre.
+- (b) Pardon, monsieur, vous pouvez me dire où est le musée d'Orsay, s'il vous plait?
+- (d) Oui, madame, c'est facile, c'est la deuxième rue à gauche.
+- (a) Je vous remercie, monsieur.
+- (c) Je vous en prie, madame.
+
+2. Choissez la réponse correcte.
+- (1) Tu peux me prêter ton stylo, s'il te plaît?
+  - (a) Oui, bien sûr!
+- (2) Excusez-moi, je suis en retard!
+  - Ce n'est pas grave.
+- (3) Tu sais, j'ai perdu mon travail!
+  - Mon pauvre, je suis désolé!
+- (4) Merci beaucoup!
+  - (b) De rien!
+- (5) Je vous présente Hélène Duparc.
+  - (a) Salut Hélène!
+- (6) Notre marriage est le 1em août.
+  - Toutes mes félicitations!
+
+3. Que pouvez-vous répondre?
+- (1) J'ai finalement trouvé un travail!
+  - (m1) Félicitations!
+  - (m2) Tous mes voeux de bonheur.
+- (2) Je vais me marier le mois prochain!
+  - (m1) Toutes mes félicitations.
+  - (m2) Tous mes voeux de bonheur.
+- (3) J'ai eu un petit accident de voiture!
+  - (m1) Je suis desolé.
+  - (m2) Oh pauvre Marc.
+- (4) Le semaine dernière, j'ai eu une promotion!
+  - (m1) Félicitations!
+  - (m2) Tous mes voux de bonheur.
+- (5) Vous savez, j'ai perdu ma femme le mois dernier!
+  - (m1) Oh mon Dieu, c'est terrible.
+  - (m2) C'est affreux, ce n'est pas possible.
+- (6) Maman, j'ai gagné le match de tennis!
+  - (m1) Félicitations.
+  - (m2) Tous mes voeux de bonheur. (claude : 부적절)
+  - (c1) Bravo!
+
+Oh mon Dieu, c'est terrible, c'est affreux, ce n'est pas possible! Je suis désolé(e) pour vous.
+Tous mes voeux de bonheur!
+
+### voca
+
+- ordre : n. 순서, 차례
+
 → ← ↔
