@@ -2,6 +2,7 @@ VOCABULAIRE PROGRESSIF DU FRANÇAIS (A1)
 - CLE International의 책
 - 공부기간
     - 2025. 9. 3 ~
+  <!-- m : 내 답안, c : CORRIGÉS, i : ia (claude / gpt) -->
 
 # 1. Les Usages - La Politesse
 
@@ -160,7 +161,8 @@ Assseyez-vous, je vous en prie!
 - (1) Vous présentez votre copain Quentin à votre copine Anaïs :
   - (m1) Bonjour Quentin, c'est mon amie Anaïs.
   - (m2) Quentin, je te présente mon amie Anaïs.
-  - (c) Tu connais Quentin?
+  - (C) Tu connais Quentin?
+  <!-- m : 내 답안, C : CORRIGÉS, c : claude -->
 - (2) Il est 21 heures, vous saluez votre voisine, qui a 70 ans :
   - (m1) Au revoir madame.
   - (m2) Bonsoir madame.
@@ -256,25 +258,36 @@ Pour un mariage:
 - (1) J'ai finalement trouvé un travail!
   - (m1) Félicitations!
   - (m2) Tous mes voeux de bonheur.
+  - (c) Ah, je suis content pour toi.
 - (2) Je vais me marier le mois prochain!
   - (m1) Toutes mes félicitations.
-  - (m2) Tous mes voeux de bonheur.
+  - (m2, c) Tous mes voeux de bonheur.
 - (3) J'ai eu un petit accident de voiture!
   - (m1) Je suis desolé.
   - (m2) Oh pauvre Marc.
+  - (c) Oh mon pauvre!
 - (4) Le semaine dernière, j'ai eu une promotion!
   - (m1) Félicitations!
   - (m2) Tous mes voux de bonheur.
+  - (c) Toutes mes félicitations!
 - (5) Vous savez, j'ai perdu ma femme le mois dernier!
   - (m1) Oh mon Dieu, c'est terrible.
   - (m2) C'est affreux, ce n'est pas possible.
+  - (c) Oh c'eset affreux, je suis désolé pour vous!
 - (6) Maman, j'ai gagné le match de tennis!
   - (m1) Félicitations.
   - (m2) Tous mes voeux de bonheur. (claude : 부적절)
-  - (c1) Bravo!
+  - (i) Bravo!
+  - (c) Bravo! mon chéri!
 
-Oh mon Dieu, c'est terrible, c'est affreux, ce n'est pas possible! Je suis désolé(e) pour vous.
-Tous mes voeux de bonheur!
+4. Trouvez une réponse possible.
+- (1) Bonjour, kevin, comment vas-tu?
+  - (m) Ça va bien, et vous?
+  - (c) 
+- (2) Je vous remercie!
+  - (m) De rien.
+  - (c)
+- (3) Vous pouvez me passer le pain, s'il vous plaît?
 
 ### voca
 
