@@ -51,7 +51,7 @@ Vous ne risquez pas d'être impoli (≠ poli)
 - risquer : vt. 위험하게하다, 위태하게 하다, 위험을 무릎쓰고 하다, 감히 하다
 - poli : a. 공손한, 정중한, 예의바른
 
-## exercices
+## page sept : exercices
 
 1. Replacez les expressions suivantes dans les dialogues.
 [au revoir, toi, tout à l'heure, ça va (2 fois), bonjour (2 fois), bien]
@@ -138,7 +138,7 @@ Assseyez-vous, je vous en prie!
 - prie : n. 손님
 - prier : vt. 부탁하다, 기도하다.
 
-## exercices
+## page neuf : exercices
 
 1. Choisissez la bonne réponse.
 - (1) Je vous *présente* mon nouveau collègue.
@@ -232,7 +232,7 @@ Pour un mariage:
 - nouvelle : nf. 뉴스, 보도, 소식, 근황
 - affreux : a. 끔찍한, 무시무시한, 소름끼치는
 
-## exercices
+## page onze : exercices
 
 1. Remettez le dialogue dans l'ordre.
 - (b) Pardon, monsieur, vous pouvez me dire où est le musée d'Orsay, s'il vous plait?
@@ -360,7 +360,7 @@ Il ets plus personnel des les écrire à la main.
 - carte de voeu : 연하장
 - à la main : 수제의, 직접 한(직접 쓴)
 
-## exercices
+## page treize : exercices
 
 1. Que répondez-vous dans les situations suivantes?
 - (1) "C'est mon anniversaire, le 9 août prochain."
@@ -417,4 +417,95 @@ Il ets plus personnel des les écrire à la main.
 - plaindre : vt. 불쌍히 여기다, 동정하다
   - je plains / tu plains / il plaint
   - nous plaignons / vous plaignez / ils plaignent
+
+# 2. La Famille Les Périodes de la Vie
+
+## page quatorze
+
+### La famille
+Victor et Jeanne sont mariés : Victor est le mari de Jeanne, Jeanne est la femme de Victor.
+Ils ont deux enfants : un fils, Marc, et une fille, Véronique.
+Victor et Jeanne sont les parents de Marc et Véronique.
+
+Marc est le frère de Véronique, Véronique est la soeur de Marc.
+
+Marc est marié avec Caroline.
+Caroline est la belle-fille de Victor et Jeanne.
+Victor est le beau-père de Caroline, Jeanne est sa belle-mère ; Victor et Jeanne sont les beaux-parents.
+Caroline est aussi la belle-soeur de Véronique.
+
+Véronique est mariée avec Denis.
+Denis est le gendre de Victor et Jeanne; il est aussi le beau-frère de Marc.
+
+Marc et Caroline ont deux enfants : Ariane et Félix, qui sont les petits-enfants de Victor et Jeanne ; Ariane est leur petite-fille, Félix est leur petit-fils, Victor et Jeanne sont les grand-parents d'Ariane et Félix.
+Victor est leur grand-père et Jeanne est leur grand-mère.
+
+Véronique et Denis ont un fils, Nicolas.
+Nicolas est le cousin d'Ariane et Félix.
+Ariane est la couine de Nicolas.
+
+Marc ets l'oncle de Nicola, Caroline est sa tante.
+Nicolas est le neveu de Marc et Caroline.
+Ariane est la niéce de Véronique et Denis.
+
+Remarque:
+- D'habitude, on appelle la mère "maman" et le père "papa".
+- On appelle le grand-père "papi" et la grand-mère "mamie".
+- On appelle l'oncle "tonton", et la tante "tatie".
+
+### voca
+- période : nf. 기간(durée), 시기(époque)
+- belle-fille : nf. 며느리
+- beau-père : nm. 시아버지, 장인
+- belle-mère : nf. 시어머니, 장모
+- beaux-parents : n. 시부모
+- belle-soeur : nf. 올케(오빠나 남동생의 아내), 새언니(오빠의 아내)
+- gendre : nm. 사위
+- beau-frère : nm. 매부(여동생의 남편), 매형(누나의 남편)
+
+## page quinze : exercices
+
+1. Trouvez la forme féminine
+- (exemple) : le grand-père → la grand-mère.
+- (1) l'oncle → la tante.
+- (2) le cousin → la cousine
+- (3) le fils → la fille
+- (4) le neveu → la nièce
+- (5) le beau-frère → la belle-soeur
+- (6) le mari → la femme
+- (7) le gendre → la belle-fille
+- (8) le petit-fils → la petite-fille
+
+2. Qui est-ce? Pour répondre, regardez l'arbre généalogique de la page de gauche.
+- (1) C'est la petite-fille de Jeanne. → C'est Ariane.
+- (2) C'est l'oncle de Nicolas. → C'est Marc
+- (3) C'est le neveu de Véronique. → C'est Félix.
+- (4) C'est le beau-père de Denis. → C'est Victor.
+- (5) C'est le couisn d'Ariane. → C'est Nicolas.
+- (6) C'est le gendre de Victor. → C'est Denis.
+- (7) C'est le fils de Caroline. → C'est Félix.
+- (8) C'est la tante de Félix. → C'est Véronique.
+
+3. Complétez selon l'exemple.
+- (exemple) Fabienne est la fille de Geneviève; Geneviève est la mère de Fabienne.
+- (1) Roger est le grand-père de Damien; Damien est le petit-fils de Roger.
+- (2) Emma est la mère de Lise; Lise est la fille d'Emma.
+- (3) Christian est le gendre de Gérard; Gérard est le beau-père de Christian.
+- (4) François est le neveu d'Anne; Anne est la tante de François.
+- (5) Olivier est le frère de Claire; Claire est la soeur d'Olivier.
+- (6) Michel est le beau-frère de Sarah; Sarah est la belle-soeur de Michel.
+- (7) Manon est la nièce de Philippe; Philippe est l'oncle de Manon.
+
+4. Devinette. À qui parle l'enfant?
+- (1) "Bonjour maman!" : Un(e) enfant parle à sa mère.
+- (2) "S'il te plaît, papa!" : Un(e) enfant parle à son père.
+- (3) "Mamie, viens." : Un(e) enfant parle à sa grand-mère.
+- (4) "Tonton, joue avec moi!" : Un(e) enfant parle à son oncle.
+- (5) "Merci, papi" : Un(e) enfant parle à son grand-père.
+- (6) "Au revoir, tatie" : Un(e) enfant parle à sa tante.
+
+### voca
+- généalogique : a. 가계의, 혈통의, 계보의, 족보의
+- devinette : nf. 수수께끼, 수수께끼 놀이
+
 → ← ↔
