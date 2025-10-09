@@ -282,15 +282,139 @@ Pour un mariage:
 
 4. Trouvez une réponse possible.
 - (1) Bonjour, kevin, comment vas-tu?
-  - (m) Ça va bien, et vous?
-  - (c) 
+  - (m) Ça va bien, et toi?
+  - (c) Bien, merci, et toi?
 - (2) Je vous remercie!
   - (m) De rien.
-  - (c)
+  - (c) Je vous en prie!
 - (3) Vous pouvez me passer le pain, s'il vous plaît?
+  - (m) Oui bien sûr! Voilà!
+  - (c) Bien sûr! Voilà!
+- (4) Nous allons nous marier!
+  - (m) Felicitations!
+  - (c) Tous mes voeux de bonheur!
+- (5) Je suis absolument désolé!
+  - (m) Pas de problème
+  - (C) Je t'en prie, ce n'et pas grave!
+- (6) Je vous présente Élénore Dupin.
+  - (m) Bonjour madame, enchanté!
+  - (c) Enchanté, madame!
+- (7) Mercie Joëlle!
+  - (m) De rien!
+  - (c) DE rien!
 
 ### voca
 
 - ordre : n. 순서, 차례
 
+## page douze
+
+### Souhaiter
+- Bonne journée!
+- Bonne après-midi!
+- Bonne soirée!
+- Juste avant de dormir : Bonne nuit! Dors bien! (Dormiez bien!)
+- Bone week-end!
+- Avant des vacances : Bonnes vaccances! Reposes-toi bien! (Reposez-vous bien!)
+- Avant un voyage : Bon voyage!
+- Avant de manger : Bon appétit!
+- Pour un anniversaire : Bon anniversaire, Viviane! - Joyeux anniversaire!
+- Avant un examen : Bonne chance !
+- Avant Noël : Joyeux Noël! - Bon Noël!
+- À partir du 1er janvier : Bonne année! Tous me voeux!
+
+### Quelques usages
+- Traditionellement, les femmes ont la priorité.
+Un homme ouvre la porte à une dame et la laisse passer.
+Un enfant fait la même chose.
+Dans le bus, le tram, le métro, on laisse sa place à une personne âgée.
+On peut dire : "Madame/monsieur, vous voulez vous asseoir?" ou plus simplement : "Je vous en prie, madame/monsieur!"
+- Quand on est invité à dinêr chez une personne, on apporte un petit cadeau:
+  - un bouquet de fleurs, une boîte de chocolats, quand on ne connaît pas très bien la personne;
+  - de fleurs, une bouteille de bon vin ou de champagne, quand on est amis.
+  Au moment de l'invitation, on peut demander : "Qu'est-ce que je peux apporter?"
+- Si l'invitation est à 20 heures par exemple, la politesse demande qu'on arrive environ 10 minutes plus tard.
+- Au moment de Noël, on donne une petite somme d'argent (des étrennes) au facteur (la poste), aux éboueurs (qui ramassent les poubelles) et aux pompiers.
+Généralement, ils viennent directement sonner à la porte.
+- Fin décembre ou début janvier, on envoie des cartes de voeux aux personnes qu'on aime bien et qu'on connaît bien.
+Il ets plus personnel des les écrire à la main.
+
+### voca
+- À partir du : ~로부터, ~부터 
+- la laisse passer : (그녀를) 지나가게 두다.
+- asseoir
+  - J'assieds / J'assois
+  - Tu assieds / Tu assois
+  - Il assied / Il assoit
+  - Nous asseyons / Nous Assoyons
+  - Vous asseyez / Vous assoyez
+  - Ils asseyent / Ils assoient
+- bouquet : nm. 총림, 다발, 묶음
+- somme : nf. 합, 합계, 금액, 액수
+- étrenne : nf. 새해 선물, 인사, 선물, 마수걸이
+- facteur : nm. 우체부
+- éboueur : nm. 도로청소부
+- ramasser : vt. 모으다, 수집하다
+- pompier : nm. 소방관
+- sonner : vi. vt. (종을) 울리다
+- carte de voeu : 연하장
+- à la main : 수제의, 직접 한(직접 쓴)
+
+## exercices
+
+1. Que répondez-vous dans les situations suivantes?
+- (1) "C'est mon anniversaire, le 9 août prochain."
+  - (m) Joyeux anniversaire! ← 아직 생일이 오지 않았으므로 joyeux는 어울리지 않는다 (by claude)
+  - (c) Bon anniversaire!
+- (2) "Nous partons en vancances."
+  - (m) Bon voyage!
+  - (c) Bonnes vacances!
+- (3) "Je vais à l'opéra ce soir."
+  - (m) Repose-toi bien! ← 적절하지 않다는 의견 (claude)
+  - (c) Bonne soirée!
+- (4) "J'ai un examen de chimie mardi prochain."
+  - (m) Bonne chance!
+  - (c) Bonne chance!
+- (5) "Je suis fatigué, je vais au lit."
+  - (m) Bonne nuit! / Dors bien!
+  - (c) Bonne nuit!, dors bien!
+- (6) "Je pars en Chine demain."
+  - (m) Bon voyage! / Amusez-vous bien.
+  - (c) Bon voyage!
+
+2. Associez une situation et une expression.
+- (1) Nous sommes le 1er janvier
+  - e. Bonne année!
+- (2) Léa est invitée à dîner chez des amis.
+  - d. Qu'est-ce que je peux apporter?
+- (3) Agnès a eu une promotion.
+  - f. Toutes mes félicitations!
+- (4) Matthieu part en vacances.
+  - g. Bonnes vacances!
+- (5) Solange va se marier.
+  - Tous mes voeux de bonheur!
+- (6) Nous sommes le 24 décembre.
+  - c. Joyeux Noël!
+- (7) Didier part en voyage.
+  - b. Bon voyage!
+
+3. Choisissez la bonne explication.
+- (1) "Repose-toi bien!"
+  - a. Odile va dormir.
+- (2) "Toutes mes félicitations!"
+  - a. Louise a un nouveau travail.
+- (3) "Enchantée, monsieur!"
+  - a. Béatrice connaît bien Paul. ← 틀렸음. 저 표현은 서로 모를 때 하는 인사 표현
+  - b. Béatrice ne connaît bien Paul.
+- (4) "Mon pauvre René!"
+  - a. Rose plaint René.
+- (5) "Ça va, Lucien?"
+  - b. Adèle est amie avec Lucien.
+- (6) "Salut, Gabriel!"
+  - a. Luc dit bonjour ou au revoir.
+
+### voca
+- plaindre : vt. 불쌍히 여기다, 동정하다
+  - je plains / tu plains / il plaint
+  - nous plaignons / vous plaignez / ils plaignent
 → ← ↔
