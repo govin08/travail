@@ -418,7 +418,7 @@ Il ets plus personnel des les écrire à la main.
   - je plains / tu plains / il plaint
   - nous plaignons / vous plaignez / ils plaignent
 
-# 2. La Famille Les Périodes de la Vie
+# 2. La Famille, Les Périodes de la Vie
 
 ## page quatorze
 
@@ -507,5 +507,221 @@ Remarque:
 ### voca
 - généalogique : a. 가계의, 혈통의, 계보의, 족보의
 - devinette : nf. 수수께끼, 수수께끼 놀이
+
+## page seize : Les périodes de la vie
+
+### L'enfance - L'adolescence
+- un bébé de 0 à 2 ans
+- un(e) enfant de 2 à 11/12 ans
+- un(e) adolescent(e) de 12 à 18 ans
+- un(e) adulte après 18 ans
+- une personne âgée ça dépend des personnes!
+(노인의 기준은 사람마다 다르고 개인차가 크다)
+
+J'ai passé mon enfance en Bretagne.
+= J'habite en Bretagne quand j'étais enfant.
+
+Il a eu une adolescence heureuse.
+= Il était heureux quand il était adolescent.
+
+Remarques:
+1. Le mot "enfant" désigne:
+- le fils ou fille de quelqu'un: Anne a trois enfants.
+- une personne très jeune (entre 2 ans et 12 ans environs): Les enfants vont à l'école.
+2. "Bébé" est toujours masculin; "personne" est toujours fémnin.
+
+### L'âge
+
+Qual âge ont Véronique et Denis?
+- Véronique a 38 ans et Denis a 43 ans.
+Véronique a 5 ans de moins que Denis.
+Denis a 5 ans de plus que sa femme.
+
+Quentin a 7 ans, c'est un petit garçon.
+Manon a 8 ans, c'est un petit fille.
+
+Naïma a 30 ans, elle est encore jeune!
+C'est une jeune femme.
+
+J'ai 90 ans, je suis très âgé, je suis trop vieux pour faire du sport!
+
+Remarques:
+1. Ne confondez pas "Ariane est la petite-fille de Jeanne."
+(=Jeanne est la grande-mère) et
+"Ariane est une petite fille" (= elle est très jeune, c'est enfant.)
+2. L'adjectif "vieux/vielle" a caractère négatif.
+On préfère dire "âgé".
+
+Les enfants grandissent.
+Ils deviennent toujours plus grands.
+Mon fils a grandi de 4 centimètres!
+
+### La vie et la mort
+
+Aude est née le 28 septembre 1960.
+Sa date de neissance est le 28/09/60.
+
+Louis a perdu sa femme: elle est morte (=décédée) le 10 mai.
+Le 10 mai est l'anniversaire de sa mort.
+
+### voca
+- confondre : vt. 섞다, 혼동하다, 잘못 알다
+- caractère : nm. 성격, 기질
+- vieux : masculin
+  - vieille : féminin singulier
+  - vieilles : féminin pluriel
+  - vieil : masculin singulier devant une voyelle ou un h muet
+
+fille와 femme
+- fille의 반댓말은 fils이 될 수도 있고 (딸 - 아들), garçon이 될 수도 있다 (소녀 - 소년).
+- femme의 반댓말은 homme이 될 수도 있고 (여자 - 남자), mari가 될 수도 있다 (아내 - 남편)
+
+죽음에 관한 표현들
+- mourir : vi. 죽다
+- décéder : vi. 죽다
+- mort(e), décédé(e) : a. 죽은
+- mort : nf. 죽음, 사망, 시체
+- décès : nm. 사망, 죽음
+
+## page dix-sept : exercices
+
+1. Choisissez la bonne réponse.
+- (1) Bruno a 35 ans, c'est un adulte.
+- (2) Élodie a 1 an, c'est un bébé.
+- (3) Grégoire a 15 ans, c'est un adolescent.
+- (4) Matthieu a 6 ans, c'est un petit garçon.
+- (5) Georges a 85 ans, c'est une personne âgée.
+- (6) Bérengère a 30 ans, c'est une jeune femme.
+
+2. Choisissez le terme approprié pour compléter la biographie de Romain.
+
+Romain est né le 27 mars.
+C'était un très beau bébé.
+Il a passé toute son enfance à la campagne, depuis sa naissance jusqu'à l'âge de 11 ans.
+Quand il est devenu adolescent, il est allé habiter à Lyon.
+À ce moment, il a eu des problèmes avec ses parents.
+L'adolescence est souvent une période difficile!
+À 20 ans, Romain a commencé à travailler.
+Il est enfin devenu adulte.
+
+3. Replacez les mots suivants dans le dialogue.
+- (1)
+  - Vous êtes _mariée_?
+  - Oui, je suis _mariée_.
+- (2)
+  - Vous avez des _enfants_?
+  - Oui, j'ai deux enfants, un _garçon_ et une _fille_.
+- (3)
+  - Quel _âge_ ont-ils?
+  - Renaud a 34 ans et Hélène, 28 ans.
+- (4)
+  - Vous avez des _petits-enfants_?
+  - Oui, parce que mon _fils_, Renaud, a deux _filles_.
+- (5)
+  - Quel âge _ont_-elles?
+  - 2 et 4 ans.
+- (6)
+  - Est-ce que vous voyez souvent vos _petites-filles_?
+  - Oui, je les vois tous les dimanches.
+- (7)
+  - Est-ce que vous jouez beaucoup avec elles?
+  - Oui, je suis encore _jeune_.
+
+### voca
+- terme : nm. 말, 단어, 표현
+- appropriè : a. 적절한, 적합한, 알맞은
+- biographie : nf. 전기
+- enfin : 마침내
+
+# L'amour - Les Émotions
+
+## page dix-huit
+
+### L'amour
+
+Gabriel rencontre Mathilde chez des amis.
+Il tombe amoureux de Mathilde immédiatement.
+Mathilde, qui était seule, tombe amoureuse aussi.
+
+Un soir, Gabriel invite Mathilde chez lui.
+Il l'embrasse, ils s'embrassent.
+Puis ils passent la nuit ensemble.
+Ils font l'amour.
+Gabriel dit "Je t'aime" à Mathilde.
+
+Ils commencent une relation.
+Gabriel est célibataire, il vit seul, mais au bout de quelques mois, il accepte de vivre avec Mathilde.
+Ils prennent un appartement ensemble.
+
+- Patricia : - Est-ce que tu sais que Gabriel sort avec Mathilde?
+- Sandrine : - Mais oui, ils vivent ensemble.
+- Patricia : - Ils sont amoureux?
+- Sandrine : - Ah oui, c'est la passion!
+
+Gabriel et Mathilde décident de se marier.
+Gabriel voudrait seulement un mariage civil, mais Mathilde voudrait aussi un mariage religieux.
+
+Gabriel et Mathilde organisent leur mariage.
+Samedi, à 11 heures, ils vont à la mairie.
+L'après-midi, à 15 heures, ils vont à l'église.
+Le soir, il y a une grande fête.
+Mathilde porte une belle robe de marièe.
+
+Remarque culturelle : En France, seul le mariage civil a une valeur légale.
+
+Simon et Alain sont homosexuels.
+Ils vivent en couple depuis cinq ans.
+Maintenant, en France, leur liaison peut être officielle, car il existe le "pacs".
+
+Remarques:
+1. Le "PACS" : le Pacte civil de Solidarité, garantit certains droits aux couples non mariés.
+2. Pour parler de la personne avec qui on vit, on dit "ma femme", "mon mari", quand on est marié(e); "mon amie", "mon ami", quand on n'est pas marié(e). Les jeunes disent "ma petite amie", "mon petit ami" ou, plus familièrement, "ma copine", "mon copain".
+
+### voca
+- tomber amoureux : 사랑에 빠지다, 반하다
+- amoureux : 반한, 사랑하는
+- au bout de : ~ 후에, ~가 지나서
+- mariage civil : 법률혼, 민법상의 결혼(식), 시장 앞에서 올리는 결혼식
+- religieux : a. 종교의, 종교의식에 따른
+- mariage religieux : 교회에서 하는 결혼식, 종교의식에 따른 결혼
+- mairie : nf. 시청
+- robe de marièe : 웨딩드레스
+- valeur : nf. 가치, 가격
+- liaison : nf. (논리적) 연관, 연결, 관련
+- car : 왜냐하면, ~이니까
+- pacte : nm. 계약(서), 협정(서)
+- solidarité : nf. 연대, 결속, 상관성
+- garantir : vt. 보장하다, 보증하다
+- droit : nm. 권리, 세금, 보수, a. 바른 곧은, 수직의, 오른쪽의
+- petit ami / petite amie : 남자친구 / 여자친구
+
+## page dix-neuf : exercices
+
+1. Replacez les mots suivants dans le dialogue.
+- (1)
+  - Est-ce que Pauline est mariée?
+  - Non, elle est _célibataire_.
+- (2)
+  - Est-ce qu'elle est seule?
+  - Non, elle a une _relation_.
+- (3)
+  - Est-ce qu'elle est très _amoureuse_?
+  - Ah oui! Elle est tombée _amoureuse_ de Guillaume l'année dernière.
+- (4)
+  - Est-ce qu'ils vivent _ensemble_?
+  - Oui, ils ont _pris_ une maison ensemble.
+
+2. Choisissez la bonne réponse.
+- (1) Félix est tombé amoureux _de_ Micheline.
+- (2) Ils ont une _relation_.
+- (3) Ils ne vivent pas encore ensemble.
+- (4) Micheline aimerait vivre _en couple_.
+- (5) Félix ne veut pas _se marier_.
+- (6) Micheline regarde la robe de _mariée_ de son amie Solange.
+- (7) Félix et Micheline vivent une grande passion.
+
+
+### voca
+- tomber amoureux _de_ : ~에 사랑에 빠지다
 
 → ← ↔

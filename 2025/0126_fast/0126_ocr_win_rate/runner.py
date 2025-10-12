@@ -20,16 +20,6 @@ def select_zerg():
     pyautogui.click(x_col, y_gre)
     print('F9 : race(zerg) and color selected.')
 
-def select_protoss():
-    x_rac, y_rac, y_tos = 835, 354, 386
-    x_col, y_col, y_gre = 910, 354, 466
-    pyautogui.sleep(0.2)
-    pyautogui.click(x_rac, y_rac)
-    pyautogui.click(x_rac, y_tos)
-    pyautogui.click(x_col, y_col)
-    pyautogui.click(x_col, y_gre)
-    print('F9 : race(protoss) and color selected.')
-
 def select_terran():
     x_rac, y_rac, y_ter = 835, 354, 376
     x_col, y_col, y_gre = 910, 354, 466
@@ -38,7 +28,17 @@ def select_terran():
     pyautogui.click(x_rac, y_ter)
     pyautogui.click(x_col, y_col)
     pyautogui.click(x_col, y_gre)
-    print('F9 : race(terran) and color selected.')
+    print('F10 : race(terran) and color selected.')
+
+def select_protoss():
+    x_rac, y_rac, y_tos = 835, 354, 386
+    x_col, y_col, y_gre = 910, 354, 466
+    pyautogui.sleep(0.2)
+    pyautogui.click(x_rac, y_rac)
+    pyautogui.click(x_rac, y_tos)
+    pyautogui.click(x_col, y_col)
+    pyautogui.click(x_col, y_gre)
+    print('F11 : race(protoss) and color selected.')
 
 def collect_rects():
     the_positions = {1: [570, 130, 650, 150],
