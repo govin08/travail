@@ -1,4 +1,4 @@
-1. TOSHIBA(500GB, HDD, NTFS) : 백업용
+1. TOSHIBA(500GB, HDD, NTFS) : 백업용 [450/465]
  - 옛날 집컴퓨터_파일들_20170210
  - backup_20180723_notebook_windows
  - backup_20190804_notebook_windows
@@ -7,7 +7,7 @@
  - backup_20200706_notebook_windows
  - backup_20201205_desktop_ubuntu
 
-2. IPTIME HDD3223 (500GB, HDD, NTFS) : 백업용
+2. IPTIME HDD3223 (500GB, HDD, NTFS) : 백업용 [430/465]
  - backup_20200925_notebook_windows
  - backup_20201206_notebook_windows
  - backup_20210411_desktop
@@ -19,9 +19,12 @@
  - backup_20211016_notebook
  - backup_20211206_notebook
 
-3. Samsung(1TB, SSD, exFAT)
- - backup_20211221_notebook
- - backup_20211221_desktop
+3. Samsung(1TB, SSD, exFAT) [386/931]
+ - uinetworks_2024_0724_notebook
+ - backup_2024_0719_notebook
+ - backup_2022_0927_notebook
+ - backup_2021_1206_notebook
+ - backup_2021_1206_desktop
 
 4. HP SSD S700(250GB, SSD-2.5inch, NTFS)
  - 이전에 HP 노트북에서 쓰던 SSD인 것으로 추정
@@ -35,3 +38,6 @@
 6. Sandisk(8GB, USB, NTFS)
  - windows 10 설치파일
  - ubuntu 20.04 설치파일
+
+7. SEAGATE(Expansio, 1TB, HDD) [194/931]
+ - 251008_desktop
