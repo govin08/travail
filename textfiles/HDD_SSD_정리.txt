@@ -19,7 +19,7 @@
  - backup_20211016_notebook
  - backup_20211206_notebook
 
-3. Samsung(1TB, SSD, exFAT) [386/931]
+3. Samsung(1TB, portable SSD, exFAT) [386/931]
  - uinetworks_2024_0724_notebook
  - backup_2024_0719_notebook
  - backup_2022_0927_notebook
@@ -29,11 +29,11 @@
 4. HP SSD S700(250GB, SSD-2.5inch, NTFS)
  - 이전에 HP 노트북에서 쓰던 SSD인 것으로 추정
  - HP노트북 그 자체에 들어있던 것은 아니고 이후에 업그레이드 한 것
- - 조립컴의 ubuntu용 드라이브(예정)
+ - 데스크탑의 C드라이브
 
 5. crucial MX500(500GB, SSD-2.5inch, NTFS)
  - 이번에 컴퓨터 조립할 때(2020년 9월) 구입함.
- - 조립컴의 windows용 드라이브
+ - 데스크탑의 D드라이브
 
 6. Sandisk(8GB, USB, NTFS)
  - windows 10 설치파일
