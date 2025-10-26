@@ -7,17 +7,8 @@
  - backup_20200706_notebook_windows
  - backup_20201205_desktop_ubuntu
 
-2. IPTIME HDD3223 (500GB, HDD, NTFS) : 백업용 [430/465]
- - backup_20200925_notebook_windows
- - backup_20201206_notebook_windows
- - backup_20210411_desktop
- - backup_20210411_notebook
- - backup_20210615_notebook
- - backup_20210704_notebook
- - backup_20210724_notebook
- - backup_20211001_notebook
- - backup_20211016_notebook
- - backup_20211206_notebook
+2. IPTIME HDD3223 (500GB, HDD, NTFS)
+ - 데스크탑의 E드라이브
 
 3. Samsung(1TB, portable SSD, exFAT) [386/931]
  - uinetworks_2024_0724_notebook
@@ -27,17 +18,27 @@
  - backup_2021_1206_desktop
 
 4. HP SSD S700(250GB, SSD-2.5inch, NTFS)
- - 이전에 HP 노트북에서 쓰던 SSD인 것으로 추정
- - HP노트북 그 자체에 들어있던 것은 아니고 이후에 업그레이드 한 것
+ - HP 노트북의 SSD (추정)
  - 데스크탑의 C드라이브
 
 5. crucial MX500(500GB, SSD-2.5inch, NTFS)
- - 이번에 컴퓨터 조립할 때(2020년 9월) 구입함.
+ - 2020년 9월(데스크탑 조립)시 구입함.
  - 데스크탑의 D드라이브
 
 6. Sandisk(8GB, USB, NTFS)
  - windows 10 설치파일
  - ubuntu 20.04 설치파일
 
-7. SEAGATE(Expansio, 1TB, HDD) [194/931]
- - 251008_desktop
+7. SEAGATE(Expansio, 1TB, HDD) [652/931]
+ - backup_20200925_notebook_windows
+ - backup_20201214_notebook_windows
+ - backup_20210411_desktop
+ - backup_20210411_notebook
+ - backup_20210615_notebook
+ - backup_20210704_notebook
+ - backup_20210724_notebook
+ - backup_20211001_notebook
+ - backup_20211206_notebook
+ - backup_20230623_notebook
+ - backup_20241213_desktop
+ - backup_20250108_desktop
