@@ -245,12 +245,18 @@ https://gutenberg.net.au/ebooks01/0100101.txt
 - 원문 : https://www.poetryfoundation.org/poems/45319/the-charge-of-the-light-brigade
 - 번역 : https://blog.naver.com/yoonphy/222202491638
 
-## 참고 3 : 시 「루리아나 루릴리(Luriana Lurilee)」 원문
+## 참고 3 : 시 「루리아나 루릴리(Luriana Lurilee)」
 
 - 찰스 엘튼의 시 (1899)
 - 원문 : https://en.wikisource.org/wiki/Luriana,_Lurilee
 
-## 참고 4 : 동화 「어부와 아내」
+## 참고 4 : 시 「익사(The castaway)」
+
+- 윌리엄 쿠퍼의 시
+- 원문 :
+
+
+## 참고 5 : 동화 「어부와 아내」
 
 - 그림 형제의 동화
 - 나무위키 설명 : https://namu.wiki/w/%EC%96%B4%EB%B6%80%EC%99%80%20%EA%B7%B8%EC%9D%98%20%EC%95%84%EB%82%B4
