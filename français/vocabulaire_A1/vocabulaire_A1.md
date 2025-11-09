@@ -633,7 +633,7 @@ Il est enfin devenu adulte.
 - biographie : nf. 전기
 - enfin : 마침내
 
-# L'amour - Les Émotions
+# 3. L'amour - Les Émotions
 
 ## page dix-huit
 
@@ -720,8 +720,156 @@ Remarques:
 - (6) Micheline regarde la robe de _mariée_ de son amie Solange.
 - (7) Félix et Micheline vivent une grande passion.
 
+3. Remettez le dialogue suivant dans l'ordre.
+- e. Où est-ce que tu as rencontré Romain?
+- b. Dans un café où j'étais avec des amis.
+- k. Est-ce que tu es tombée amoureuse toute de suite?
+- f. Oui, immédiatement!
+- c. Et Romain?
+- j. Romain était encore amoureux de Manon, à cette époque.
+- a. Quand est-ce qu'il a quitté Manon?
+- h. C'est Manon qui l'a quitté! Elle était jalouse de moi!
+- g. Et maintenant, Romain et toi vivez ensemble?
+- l. Oui, nous avons pris un appartement ensemble.
+- i. Vous avez l'intention de vous marier?
+- d. Je ne pense pas! Je ne suis pas prête pour le mariage!
 
 ### voca
 - tomber amoureux _de_ : ~에 사랑에 빠지다
+- quitter : vt. 떠나다, 헤어지다
 
+## page vingt
+
+### Après le mariage...
+
+- Patricia
+  - Tu sais que Gabriel et Mathilde vont avoir un enfant?
+- Sandrine
+  - C'est vrai?
+  - Pourtant, Gabriel n'aime pas la vie de famille!
+
+Quelques années plus tard...
+- Patricia
+  - Tu sais, Gabriel et Mathilde ont divorcé!
+  - Mathilde a demandé le divorce.
+  - Elle a quitté Gabriel il y a  six mois.
+- Sandrine
+  - La séparation doit être difficile pour Gabriel!
+- Patricia
+  - Oui, peut-être, mais il est libre, maintenant...
+
+- Patricia
+  - Pourquoi est-ce que Mathilde est partie?
+- Gabriel
+  - On se disputait beaucoup.
+  - Elle était très jalouse.
+  - Elle détestait que je regarde une jolie femme dans la rue!
+  - Les disputes étaient terribles!
+- Patricia
+  - Maintenant, tu es divorcé, est-ce que tu voudrais te remarier?
+- Gabriel
+  - Ah non! Certainment pas!
+
+### Le verbe "aimer"
+
+### Pour parler de personnes
+Grégoire aime bien Carine
+- = il est copain(=ami) avec Carine.
+- Carine est copaine(=amie).
+
+Grégoire aime beaucoup Dora.
+- = il a beaucoup d'affection pour elle.
+- Dora est une grande amie.
+
+Grégoire aime Juliette.
+- = il a une relation amoureuse avec elle.
+- Juliette est la femme de sa vie!
+
+Remarque
+- Le verbe "aimer" utillisé seul, a le sens le plus fort quand on parle de relations personnelles.
+
+#### Pour parler d'activités, de situations, de choses
+
+Est-ce que vous aimez le chocolat?
+- Oui, j'aime bien le chocolat -> j'en mange.
+- Oui, j'aime beaucoup le chocolat -> j'en mange avec plaisir.
+- Oui, j'adore le chocolat -> j'en mange trop!
+
+Remarque : il est rare d'utiliser le verbe "aimer" seul, en parlant de choses, d'activités, seul dans une questions.
+
+## page vingt et un
+
+1. Choisissez la bonne explication.
+- (1) Florence est une bonne copine.
+  - b. Louis aime bien Florence.
+- (2) Je vous présente ma femme.
+  - a. Valentin est marié.
+- (3) Aziz est un grand ami.
+  - (x) b. Isabelle aime bien Aziz.
+  - a. Isabelle aime beaucoup Aziz.
+- (4) J'ai quitté mon mari.
+  - a. Margot était mariée.
+- (5) Julien aime beaucoup Sabine.
+  - (x) a. Julien est amoureux de Sabine.
+  - b.Sabine est une amie de Julien
+- (6) Thilbaut aime Agathe.
+  - a. Thilbaut est amoureux d'Agathe.
+- (7) Anne est la femme de ma vie.
+  - b. Christian est très amoureux d'Anne.
+
+2. Vrai ou faux?
+- (1) Elle est libre = elle n'a pas de relation
+  - vrai
+- (2) Elle veut un mariage civil = elle veut aller à l'église.
+  - faux
+- (3) Michel aime beaucoup Claire = Michel est amoureux de Claire.
+  - faux
+- (4) Ils vivent en couple = ils vivent ensemble
+  - vrai
+- (5) Aude sort avec quentin = Aude est mariée avec quentin.
+  - (x) vrai
+  - faux
+- (6) Jeannette rencontre Marius = Jeannette vit avec Marius.
+  - faux
+
+### voca
+- pourtant : 그러나, 그렇지만, 그럼에도 불구하고
+- la vie de famille : 가정생활
+- séparation : nf. 분리, 격리, 이별, 별거
+- grand(e) ami(e) : 지기, 지우
+- la femme de sa vie : 그의 인생의 여자
+- sortir avec qn : ~와 놀러 나가다, 외출하다
+
+## page vingt-deux
+
+### Quelque émotions
+
+#### La joie
+
+Les enfants sont joyeux : Ils s'amusent.
+Ils rient beaucoup.
+Le petit garçon est très drôle.
+
+#### La contentement et la fierté
+
+Les parents sont satisfaits / contents de l'ecole de leurs enfants.
+Les parents sont fiers de leurs enfants.
+Ils sourient avec fierté.
+
+#### La tristesse
+
+Colette a perdu son mari, son mari est mort.
+Elle a beaucoup de chagrin.
+Elle est très malheureuse.
+Elle pleure tout le temps.
+Ses amis sont très tristes pour elle.
+
+## voca
+- contentement : nm. 만족감, 기쁨
+- fierté : nf. 자랑
+- fier : a. 자랑스럽게 생각하는, 만족해하는
+- sourire : vi. 미소짓다, 방긋 웃다
+- tristesse : nf. 슬픔, 우울
+- chagrin : nm. 괴로움, 고통, 슬픔, 비애
+- malheureux : a. 불행한, 가련한
 → ← ↔
