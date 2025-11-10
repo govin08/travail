@@ -864,6 +864,8 @@ Elle est très malheureuse.
 Elle pleure tout le temps.
 Ses amis sont très tristes pour elle.
 
+#### La colère
+
 ## voca
 - contentement : nm. 만족감, 기쁨
 - fierté : nf. 자랑
@@ -872,4 +874,5 @@ Ses amis sont très tristes pour elle.
 - tristesse : nf. 슬픔, 우울
 - chagrin : nm. 괴로움, 고통, 슬픔, 비애
 - malheureux : a. 불행한, 가련한
+- colère : nf. 성, 화, 분노
 → ← ↔
