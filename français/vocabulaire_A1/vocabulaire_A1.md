@@ -797,7 +797,7 @@ Est-ce que vous aimez le chocolat?
 
 Remarque : il est rare d'utiliser le verbe "aimer" seul, en parlant de choses, d'activités, seul dans une questions.
 
-## page vingt et un
+## page vingt et un : exercices
 
 1. Choisissez la bonne explication.
 - (1) Florence est une bonne copine.
@@ -866,7 +866,26 @@ Ses amis sont très tristes pour elle.
 
 #### La colère
 
-## voca
+Nicolas a cassé un vase.
+Sa mère est furieuse contre lui, elle est en colère contre lui: c'est la troisième fois qu'il casse un vase!
+
+#### La peur
+
+Aude a fait peur à Julien.
+Julien a eu très peur.
+
+#### La surprise
+
+Fabrice est surpris (=étonné), parse que Bertrand a téléphone après trois ans d'absence.
+C'était une bonne surprise (≠ une mauvaise surprise)
+
+#### L'ennui
+
+C'est dimanche.
+Benoît s'ennuie : il ne sait pas quoi faire.
+Il déteste les dimanches, il trouve que les dimanches sont ennuyeux(≠intéressants).
+
+### voca
 - contentement : nm. 만족감, 기쁨
 - fierté : nf. 자랑
 - fier : a. 자랑스럽게 생각하는, 만족해하는
@@ -875,4 +894,50 @@ Ses amis sont très tristes pour elle.
 - chagrin : nm. 괴로움, 고통, 슬픔, 비애
 - malheureux : a. 불행한, 가련한
 - colère : nf. 성, 화, 분노
+- contre : ~에, ~곁에, ~에 접근하여
+- faire peur à qn : ~를 놀라게 하다
+- avoir peur : 두려워하다, 걱정하다
+- étonné : a. 놀란, 경악한
+- ennui : nm. 권태, 지겨움, 지루함
+- se ennuyer : vp. 지루하다, 싫증나다
+- ennuyeux : a. 지루한
+
+## page vingt-trois : exercices
+
+1. Associez une phrase et une émotion.
+- (1) Ça alors! Tu as pu venir!
+  - e. la surprise
+- (2) Je ne sais pas quoi faire...
+  - d. l'ennui
+- (3) Regardez mon nouveau téléphone mobile!
+  - a. la joie
+- (4) J'ai perdu ma femme dans un accident.
+  - c. le chagrin
+- (5) Ça suffit maintenant!
+  - la colère
+
+2. Replacez les mots suivants dans la lettre.
+
+Ma chère Lucie,
+
+Comme tu sais, j'ai organisé une grande fête pour mon anniversaire samedi dernier.
+Quelle soirée!
+Tout d'abord, j'ai eu une bonne _surprise_:
+Estelle est venue! j'étais très _heureuse_ de la voir!
+Par contre, j'étais _en colère_ contre Etienne et sa femme, parce qu'ils ne sont pas venus.
+Laurent n'était pas là non plus, mais je comprends: il a beaucoup de _chagrin_ depuis qu'il a perdu son père.
+
+Le gros chien d'Hélène m'a fait _peur_, mais la soirée s'est bien passée et nous avons beaucoup ri!
+Je pense que tout le monde était très content de la fête.
+Je te racontrai tout plus tard.
+
+Je t'embrasse,
+Irène.
+
+### voca
+
+- Ça alors : 저런!
+- par contre : 반대로
+- avoir ri : 웃다
+- embrasser : vt. 껴안다, 포옹하다, 입맞추다
 → ← ↔
