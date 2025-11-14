@@ -271,4 +271,10 @@ https://gutenberg.net.au/ebooks01/0100101.txt
 - 나무위키 설명 : https://namu.wiki/w/%EC%96%B4%EB%B6%80%EC%99%80%20%EA%B7%B8%EC%9D%98%20%EC%95%84%EB%82%B4
 - 영문위키피디아의 줄거리 : https://en.wikipedia.org/wiki/The_Fisherman_and_His_Wife#Synopsis
 
-「」
+
+17 존재의 결
+20 남자의 지성은 위대하다고 은근히 암시하고
+28 너를 지켜주고 있어, 너를 떠받치고 있어
+29 가엾은 찰스 탠슬리와는 이제 끝이라고 결론을 내렸다.
+30 빗발치는 탄환과 포탄의 습격을 받으며
+33 폰스퍼트 씨가
