@@ -1,0 +1,10 @@
+[루트 계정]
+루트 이메일:  govindah08@gmail.com
+루트 비밀번호: h********!
+account ID : 358119108943
+MFA 디바이스: Google Authenticator (폰에 등록됨)
+
+[IAM 유저]
+IAM 유저: govin08
+IAM 비밀번호: 3!hA&[7%
+
