@@ -934,10 +934,87 @@ Je te racontrai tout plus tard.
 Je t'embrasse,
 Irène.
 
-### voca
+3. Choisissez la bonne réponse.
 
+Comment va Fabienne?
+
+- (1) Très bien! Elle est très _heureuse_, depuis qu'elle a _recontré_ Maxime.
+- (2) Ah bon! Mais je pensais qu'elle avait une _relation_ avec Simon!
+- (3) Non, Simon l'a _quittée_ il y a six mois. Elle a été très _triste_, au début.
+- (4) Quelle _surprise_! Simon et elle étaient très _amoureux_, non?
+- (5) Oui, mais Simon était très jaloux, et Fabienne était _malheureuse_ avec lui.
+- Et Maintainent, comment ça a avec Maxime?
+- (6) Ah, c'est la _passion_!
+
+### voca
 - Ça alors : 저런!
 - par contre : 반대로
 - avoir ri : 웃다
 - embrasser : vt. 껴안다, 포옹하다, 입맞추다
+- étonné : a. 놀란, 경악한
+
+# 4. Le Caractère
+
+## page vingt-quatre
+
+### La personnalité en général
+
+- Clément a bon caractère, il est facile de communiquer avec lui.
+Au contraire, Laurent a mauvais caractère, il est difficile de lui parler.
+- Anne est très sympathique: tout le monde l'aime bien; Raymond, au contraire, est vraiment antipathique : tout le monde le déteste.
+- Benjamin est réservé : Il n'aime pas parler en public. C'est quelqu'un de timide. 
+Benoît, au contraire, parle beaucoup : il est bavard.
+- Jean-Pierre est un homme nerveux, alors que Nicole est très calme.
+- Collete est optimiste, elle voit le bon côté des choses, alors que Nadég est quelqu'un de pessimiste.
+- Michel a le sens de l'humour, il est intéressant, il fait rire ses amis.
+Serge en revanche, n'aucun sens de l'humour, il est ennuyeux!
+
+Remarque:
+- (1) À partir de l'adjectif "sympathique", on a créé "sympa" (invariable) qui, dans la langue familière, est utilisé pour une personne (Joëlle est très sympa, Hugo n'est pas très sympa) pour une situation (_C'est sympa de m'inviter!_) ou un lieu (J'ai trouvé un petit restaurant très sympa).
+- (2) Pour la forme féminine des adjectifs, on ajoute, en général, un -e à la consonne (barvarde, méchante); les terminaisons en -eux deviennent -euse (généreuse); les terminaisons en -if deviennent -ive(aggressive).
+Si l'adjectif finit déjà par un -e, on ne change rien (timide, calme)
+
+### Les expressions vagues
+
+Ces termes imprécis sont très courants dans la langue orale et famillière.
+Il est super*!
+Elle est adorable!
+Il est merveilleux!
+Elle est extraordinaire!
+Cet homme est bizarre...
+Cette fille est chouette* (≠elle est horrible)
+
+Remarque:
+- En général, on n'utilise pas les adverbes "très" ou "assez" avec ces expressions.
+On dit par exemple: "Elle est vraiment merveilleuse!
+Il est absolument horrible!"
+
+### Pour nuancer
+- Il est assez / plutôt généreux < Il est généreux < Il est très / vraiment généreux.
+- C'est quelqu'un de généreux (toujours masculin) < C'est quelqu'un de très généreux.
+- Elle est trop (=excessivement) timide.
+- Il est tellement bavard que personne ne peut parler quand il est là.
+
+### voca
+- contraire : a. 반대의, 상반되는
+- sympathique : a. 호감이 가는, 마음에 드는
+- antipathique : a. 불쾌한, 싫은, 상극의
+- réservé : a. 신중한, 조심성있는
+- timide : a. 소심한, 수줍은, 내성적인
+- bavard : a. 말하기 좋아하는, 수다스러운
+- nerveux : a. 신경의, 신경질적인
+- côté : nm. 옆면, 옆구리, 측면
+- alors que : ~인 반면에 ~하는 데 비해
+- revanche : nf. 복수, 보복
+- en revanche : ~인 반면에
+- aucun : (부정문에서) 어떤 (~도 아니다)
+- à partir de : ~로부터
+- méchant : a. 악독한, 심술궂은
+- vague : a. 불분명한, 희미한
+- imprécis : a. 불명확한, 모호한
+- courant : a. 보통의, 흔한, 자주 쓰이는
+- chouette : a. 멋진, 근사한
+- nouncer : vt. 명암(색)을 띄게 하다, 미묘한 변화를 주다
+- plutôt : 오히려, 차라리
+- excessivement : 지나치게, 매우
 → ← ↔
