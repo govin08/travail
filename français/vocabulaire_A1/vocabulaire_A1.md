@@ -1017,4 +1017,45 @@ Il est absolument horrible!"
 - nouncer : vt. 명암(색)을 띄게 하다, 미묘한 변화를 주다
 - plutôt : 오히려, 차라리
 - excessivement : 지나치게, 매우
+
+## page vingt-cinq : exercices
+
+1. Choisissez la bonne réponse.
+- (1) Est-ce qu'il est optimiste?
+  - a. Oui, il voit le bon côté des choses.
+- (2) Est-ce qu'elle est calme?
+  - b. Non, c'est quelqu'un de nerveux.
+- (3) Est-ce qu'elle parle beaucoup?
+  - a. Oui, elle est très bavarde.
+- (4) Est-ce qu'il est timide?
+  - a. Oui, il n'aime pas parler.
+- (5) Est-ce qu'elle est sympa?
+  - a. Oui, c'est quelqu'un de sympa.
+- (6) Est-ce qu'il a bon caractère?
+  - b. Non, il a mauvais caractère.
+
+2. Imaginez le caractère de ces deux personnes.
+- (1) Il n'est pas très sympa. Il a l'air timide. Il est probablement sèrieux, mais les gens ne l'aiment pas.
+- (2) Elle est sympa et bavarde et elle a le sens de l'humour, et les gens l'aiment bien.
+
+3. Associez, pour constituer une phrase complète.
+- (1) Elle aime parler, elle est (d) bavarde.
+- (2) Il voit le bon côté des choses, il est (e) optimiste.
+- (3) Il n'est pas calme, il est (g) nerveux.
+- (4) Tout le monde la déteste, elle est (a) antipathique.
+- (5) Tout le monde l'adore, il est (f) très sympa.
+- (6) Il travaille bien, il est (c) sérieux.
+- (7) Elle n'aime pas parler, elle est (b) réservée.
+
+4. Replacez les mots suivants dans le dialogue.
+- (1) Comment est Thierry?
+- (2) Il est plutôt _réservé_. Il n'aime pas beaucoup parler.
+- (3) Est-ce qu'ile est _sympa_?
+- (4) Oui, il est très _chouette_, mais un peu trop _sérieux_, il travaille tout le temps!
+- (5) Et Barbara?
+- (6) Elle est vraiment _adorable_! Elle a très bon _caractère_ et elle voit toujours le bone côté des choses. C'est quelqu'un d'_optimiste_.
+
+### voca
+- constituer : vt. 구성하다, 이루다, 조직하다
+
 → ← ↔
