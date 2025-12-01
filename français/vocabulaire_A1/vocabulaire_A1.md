@@ -1058,4 +1058,114 @@ Il est absolument horrible!"
 ### voca
 - constituer : vt. 구성하다, 이루다, 조직하다
 
+## page vingt-six
+
+### Les Qualités et les Défauts
+
+Que pensez-vous de Bernard Gendron?
+- C'est un homme intelligent,
+- Est-ce qu'il communique facilement avec les autres?
+- Oh oui, il est chaleureux et sociable.
+- Est-ce qu'il accepte les opinions des autres?
+- Oui, il est très tolérant. Il est aussi patient.
+- Vous pensez qu'il est honnête et franc?
+- Oui, il dit toujours la vérité.
+
+Les qualités de Bernard:
+- l'intelligence, le sérieux
+- la chaleur humaine, la sociabillité
+- la tolérance, la patience
+- l'honnêteté, la franchaise
+
+Et que pensez-vous de Raymod Lasalle?
+- Ah, c'est le contraire de Bernard!
+Je le trouve plutôt bête et paresseux.
+- Comment est-ce qu'il est avec les autres?
+- Assez froid et intolérant.
+- Vous le trouvez honnête?
+- Non, à vrai dire, je crois qu'il est assez malhonnête.
+Beaucoup de gens le trouvent hypocrite.
+
+Les gros défauts de Raymond:
+- la bêtise, la paresse
+- la froideur, l'intolérance
+- la malheonnêteté
+- l'hypocrisie
+
+Allez, parle-moi de Fabrice!
+- Oh il est généreux, tu ne peux pas imaginer!
+Il me fait tout le temps des cadeaux!
+- Alors, il est vraiment gentil?
+- Oui, il est adorable, et il es très doux avec les enfants.
+C'est quelqu'un de très sensible, très bon.
+- Il est cultivé, n'est-ce pas?
+- Oui, mais il reste très modeste sur sa culture.
+
+Que de qualités!
+- la générosité
+- la gentillesse
+- la douceur
+- la sensibilité, la bonté
+- la culture
+- la modestie
+
+Fabrice est bien différent de Thilbaut, alors!
+- Oh oui, Thilbaut est tellement égoïste!
+Il ne pense qu'à lui.
+- Il n'est pas vraiment méchant?
+- Non, mais il est agressif.
+Et puis il est trop impatient!
+- Àu moins, il est intelligent!
+- Oui, mais il est tellement prétentieux et arrogant!
+Il montre à tout le monde sa supériorité naturelle!
+
+Que de défauts!
+- l'égoïsme
+- la méchanceté
+- l'agressivité
+- l'impatience
+- la prétention, l'arrogance
+
+### voca
+- qualité : nf. 질, 특성, 자질, 장점
+- défaut : nm. 부족, 결핍
+- Que pensez-vous de Bernard Gendron? : Bernard Gendron에 대해 어떻게 생각하세요?
+- communiquer : vt. 알리다, 통지하다, vi 통하다, 연결되다
+- chaleureux : a. 열렬한, 따뜻한, 진심어린
+- chaleur : nf. 열
+- humain : a. 인간의
+- tolérant : a. 너그러운, 관대한
+- honnête : a. 정직한, 성실한
+- honnêteté : nf. 정직, 성실
+- franc : a. 솔직한, 거침없는
+- franchise : nf. 솔직함, 정직성
+- vérité : nf. 진리, 사실, 진실
+- bête : a. 어리석은, 바보같은
+- bêtise : nf. 어리석음, 우둔함
+- paresseux : a. 게으른, 나태한, 무기력한
+- paresse : nf. 나태, 게으름
+- froideur : nf. 냉담, 냉정, 무관심
+- à vrai dire : 사실대로 말하면
+- hypocrite : a. 위선적인, 거짓의
+- hypocrisie : nf. 위선
+- gentillesse : nf. 상냥함, 호의, 친절
+- douceur : nf. 단 맛, 감미로움, 부드러움
+- sensible : a. 지각 능력이 있는, 민감한, 예민한
+- sensibilité : nf. 감각, 감수성, 능력
+- bonté : nf. 착함, 친절한 행위, 좋음
+- cultivé : a. 교양있는
+- modeste : a. 겸손한
+- culture : nf. 교양, 소양
+- modestie : nf. 겸손
+- égoïste : a. 이기적인
+- égoïsme : nm. 이기주의
+- méchant : a. 악독한, 심술궂은
+- méchanceté : nf. 조악함, 악의
+- agressivité : nf. 공격성, 호전성
+- àu moins : 적어도
+- prétentieux : a. 잘난 체 하는, 거드름 피우는
+- prétention : nf. 자만, 거만함, 의도, 바램
+- arrogant : a. 교만한, 거만한
+- arrogance : nf. 거만, 교만
+
 → ← ↔
