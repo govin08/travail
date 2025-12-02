@@ -1130,6 +1130,7 @@ Que de défauts!
 - qualité : nf. 질, 특성, 자질, 장점
 - défaut : nm. 부족, 결핍
 - Que pensez-vous de Bernard Gendron? : Bernard Gendron에 대해 어떻게 생각하세요?
+- travailleur : a. 부지런한, 근면한
 - communiquer : vt. 알리다, 통지하다, vi 통하다, 연결되다
 - chaleureux : a. 열렬한, 따뜻한, 진심어린
 - chaleur : nf. 열
@@ -1168,4 +1169,42 @@ Que de défauts!
 - arrogant : a. 교만한, 거만한
 - arrogance : nf. 거만, 교만
 
+## page vingt-sept : exercices
+
+1. Répondez par le contraire.
+- (1) Est-ce qu'elle est intelligente?
+  - Non, elle est _bête_.
+- (2) Est-ce qu'il est méchant?
+  - Non, il est _gentil_.
+- (3) Est-ce qu'elle est chaleureuse?
+  - Non, elle est _froide_.
+- (4) Est-ce qu'il est modeste?
+  - Non, elle est _prétentieux_.
+- (5) Est-ce qu'elle est franche?
+  - Non, elle est _hypocrite_.
+- (6) Est-ce qu'elle est parsseuse?
+  - Non, elle est _travailleuse/sérieuse_.
+
+2. Choisissez la bonne réponse.
+- Il n'accepte pas les opinions des autres, il est _intolérant_.
+- Elle fait beaucoup de cadeaux, elle est _généreuse_.
+- Elle dit toujours la vérité, elle est _franche_.
+- Ils ne snot pas modestes, ils sont _prétentieux_.
+- Ces animal n'est pas gentil, il est _méchant_.
+- Elle communique facilement, elle est _sociable_.
+
+3. Choisissez parmi les qualités et les défauts suivants, celle ou celui qui correspond le mieux à chaque situation.
+- (1) Il a eu le prix Nobel de médicine. _l'intelligence_
+- (2) Elle n'a pas beaucoup d'argent, mais elle a offert un beau cadeau à ses parents. _la générosité_
+- (3) Comme sa femme était en retard de deux minutes, il n'a pas attendu. _l'impatience_
+- (4) Elle connait très bien la littérature, la musique, l'art. _la culture_
+- (5) Paul n'a rien dit à personne, mais il a réussi son examen brillamment. _la modestie_
+- (6) Chloé est toujours gentille, mais elle ne dit jamais la vérité. _la hypocrisie_
+- (7) Didier ne veut jamais travailler. _la paresse_
+
+### voca
+- parmi : ~중에, ~가운데
+- comme : ~때문에, ~이므로
+- littérature : 문학, 허구
+- brillamment : 찬란하게, 눈부시게, 훌륭히
 → ← ↔
