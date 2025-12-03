@@ -1207,4 +1207,62 @@ Que de défauts!
 - comme : ~때문에, ~이므로
 - littérature : 문학, 허구
 - brillamment : 찬란하게, 눈부시게, 훌륭히
+
+# La communication
+
+## page vingt-huit
+
+### parler
+En général, les Français aiment parler, en particulier à table, autour d'un bon repas.
+Frédric, par exemple, parle de beaucoup de choses.
+Il parle à ses amis.
+Il a une grande conversation avec ses amis.
+Il n'est pas toujours sérieux, il aime plaisanter.
+Agnès et charlotte, elles, sont vraiment bavardes, elles n'arrêtent pas de parler!
+
+Tous les soirs, je raconte une histoire à ma fille; elle aime écouter des histoires.
+
+Le petit Vincent pose toujours des questions à ses parents.
+Par exemple, il demande à ses parents pourquoi le ciel est bleu.
+Les parents répondent aux questions, ils répondent à leur enfant; ils expliquent pourqoui le ciel est bleu!
+Comme Vincent est intelligent, il comprend les explications des parents.
+
+Julie dit à ses parents qu'elle est allée au cours de judo, mais en réalité elle est allée chez une amie.
+Julie ment à ses parents: elle fait un mensonge.
+Pourtant, en général, Julie dit la vérité, elle n'est pas menteuse.
+
+### La langue
+Le français est difficile à pronouncer: la prononciation du français est difficile.
+Pawel, mon ami polonais, parle très bien français, mais avec un petit accent polonais.
+
+Qu'est-ce que ça veut dire, "mentir"?
+Qu'est-ce que ça signifie?
+- Ça veut dire: ne pas dire la vérité.
+- Áh bon, je connaissais pas la signification (=le sens) de ce mot.
+
+Comment est-ce qu'on traduit "mentir" en anglais?
+Quelle est la traduction de ce mot en anglais?
+
+Quand on ne comprend pas bien une phrase, on peut dire: 
+"Pardon?
+Qu'est-ce que vous dites?
+Excusez-moi, je n'ai pas bien entendu.
+Est-ce que vous pouvez répéter, s'il vous plaît?"
+
+
+### voca
+- plaisanter : vi. 농담하다, 장난삼아 말하다
+- raconter : vt. 이야기하다, 말하다
+- histoire : nf. 이야기
+- poser une question à qn : ~에게 질문하다
+- mentir : vi. 거짓말하다
+- mensonge : nm. 거짓말, 허구, 환상, 착각
+- pourtant : 그러나, 그렇지만, 그럼에도 불구하고
+- menteuse : a. 거짓말하는, 거짓의, n. 거짓말쟁이
+- polonais : a. 폴란드의
+- signifier : vt. 의미하다, 뜻하다
+- sens : nm. 뜻, 의미
+- traduire : vt. 번역하다
+- traduction : nf. 번역
+
 → ← ↔
