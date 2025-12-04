@@ -1265,4 +1265,44 @@ Est-ce que vous pouvez répéter, s'il vous plaît?"
 - traduire : vt. 번역하다
 - traduction : nf. 번역
 
+## page vingt-neuf : exercices
+
+1. Choisissez la bonne réponse.
+- (1) Elle _pose_ une question à son ami.
+- (2) Il _fait_ un mensonge.
+- (3) Je _réponds_ à une question.
+- (4) Nous _avons_ une conversation intéressante.
+- (5) Qu'est-ce que ça _veut_ dire.
+
+2. Replacez les mots suivants la lettre.
+Chère Bénédicte,
+Je suis très contente de mon travail de professeur de français.
+Toute la journée, j'_explique_ à mes élèves la grammaire française.
+Ils _parlent_ déjà bien, mais ils ont parfois des difficultés de _prononciation_.
+Ils me _posent_ beaucoup de questions.
+Ils me _demandent_ le sens d'un mot, d'une phrase.
+Quelquefois, quand ils ne comprennent pas la signification, je traduis un mot français dans leur langue.
+J'aime bien _répondre_ à leurs questions.
+J'adore mon travail!
+Je t'embrasse!
+
+Virginie
+
+3. Complétez par les mots suivants.
+- (1) Est-ce qu'il dit toujours la vérité?
+  - Oh non, souvent il fait des _mensonge_.
+- (2) Est-ce que tu as _demandé_ l'heure du train?
+  - Oui, un monsieur m'a _dit_ que le train arrivait à 18h 55.
+- (3) Est-ce que cet enfant _pose_ beaucoup de questions?
+  - Oui, et il est difficile de _répondre_ à toutes ses questions!
+- (4) Qu'est-ce que tu cherches dans le dictionnaire français-allemand?
+  - Je cherches la _traduction_ d'un mot allemand en français.
+- (5) Est-ce que tu connais la _signification_ du verbe "demander"?
+  - Oui, ça _veut_ dire "poser une question".
+- (6) Est-ce que Antonio _parle_ bien le français?
+  - Oui, très bien, mais avec un fort _accent_ italien.
+
+
+### voca
+
 → ← ↔
