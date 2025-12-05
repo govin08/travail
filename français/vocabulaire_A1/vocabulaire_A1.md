@@ -1302,7 +1302,62 @@ Virginie
 - (6) Est-ce que Antonio _parle_ bien le français?
   - Oui, très bien, mais avec un fort _accent_ italien.
 
+## page trente
+
+### Donner son opinion
+
+#### La discussion
+
+Quand les les gens sont pas d'accord (=quand ils sont des opinions différentes), ils discutent: ils ont des discussions sur un sujet.
+
+Qu'est-ce que vous pensez de cette idée?
+- Je crois que c'est une bonne idée.
+- Moi aussi, je suis d'accord.
+J'ai l'impression que c'est une bonne idée.
+- Non, je ne suis pas d'accord.
+Je trouve que c'est une mauvaise idée.
+- Vraiment?
+Vous êtes sûr?
+- Oui, je suis certain!
+
+Le train part samedi à 10h 35.
+- C'est vrai, vous avez raison.
+Il part à 10h 35.
+- Mais non, ce n'est pas ça!
+Il part à 11h 35!
+
+#### Proposer, accepter ou refuser
+
+Tu veux un café?
+- Oui, avec plaisir!
+Oui, je veux bien!
+- Non merci, c'est gentil.
+
+Remarque: "Merci" avec un geste négatif de la main ou de la tête, signifie "non merci".
+
+Isabelle invite ses amis à dîner.
+Elle propose de diner ensemble:
+- Isabelle: Vous voulez venir dîner samedi?
+- Aude : Oui, volontiers. Ça me frait très plaisir.
+- Émile et Quentin : Non, c'est dommage, nous somme déjà invités, samedi.
+
+Aude accepte la proposition, mais Émile et Quentin refusent l'invitation.
+
+Vous êtes libres, dimanche soir?
+- Oui, nous sommes libres.
+- Non, nous sommes désolés, nous sommes pris, dimanche soir.
+
+Tu préfères aller cinéma ou au théàtre?
+- Comme tu veux, ça m'est égal (je n'ai pas de préférence).
 
 ### voca
+- plaisir : nm. 기쁨, 즐거움, 환희
+- C'est gentil : 친절하시네요.
+- geste : nm. 손짓, 행동, 제스쳐
+- volontiers : 기꺼이, 쾌히
+- dommage : nm. 손해, 손실, 유감스러운 일
+- proposition : nf. 제안, 제의, 주장, 명제
+- pris : a. 차있는, 바쁜
+- égal : a. 같은, 동등한
 
 → ← ↔
