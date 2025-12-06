@@ -1347,7 +1347,7 @@ Vous êtes libres, dimanche soir?
 - Oui, nous sommes libres.
 - Non, nous sommes désolés, nous sommes pris, dimanche soir.
 
-Tu préfères aller cinéma ou au théàtre?
+Tu préfères aller cinéma ou au théâtre?
 - Comme tu veux, ça m'est égal (je n'ai pas de préférence).
 
 ### voca
@@ -1359,5 +1359,60 @@ Tu préfères aller cinéma ou au théàtre?
 - proposition : nf. 제안, 제의, 주장, 명제
 - pris : a. 차있는, 바쁜
 - égal : a. 같은, 동등한
+
+## page trente et un : exercices
+
+1. Choisissez deux réponses appropriées.
+- (1) Tu veux un jus d'orange?
+  - a. Oui, avec plaisir!
+  - c. Non merci.
+- (2) Le musée est fermé le dimanche.
+  - a. Oui, c'est vrai.
+  - b. Non, ce n'est pas ça!
+- (3) Vous voulez venir au théâtre?
+  - b. Oui, avec plaisir!
+  - c. Oui, volontiers!
+- (4) Qu'est-ce que tu penses de ce livre?
+  - a. Je crois que c'est un bon livre.
+  - c. Je trouve que c'est un bon livre.
+- (5) Ce film est excellent!
+  - a. Non, je ne suis pas d'accord.
+  - c. Oui, tu as raison.
+- (6) Tu veux aller au cinéma, demain soir?
+  - b. Oui, ça me ferait plaisir.
+  - c. Non, je suis pris, demain soir.
+
+2. Que font ces personnes? Associez
+- (1) "Je suis désolé, je suis pris."
+  - c. Il refuse l'invitation.
+- (2) "Est-ce que tu veux venir chez moi?"
+  - e. Elle invite une amie.
+- (3) "Oui, c'est vrai, je suis d'accord avec toi."
+  - d. Il est d'accord.
+- (4) "Qu'est-ce que tu penses de ça?"
+  - a. Elle demande une opinion.
+- (5) "Je trouve que c'est facile."
+  - b. Il donne son opinion.
+
+3. Vrai ou faux?
+- (1) Je ne suis pas d'accord avec toi.
+  = J'ai une opinion différente.
+  - vrai
+- (2) Il est désolé.
+  = Il veut bien.
+  - faux
+- (3) Elle est certaine. (그녀는 확신한다.)
+  = Elle a raison. (그녀는 맞다)
+  - faux
+- (4) Il est pris.
+  = Il n'est pas libre.
+  - vrai
+- (5) Je crois que c'est bien.
+  = Je trouve que c'est bien.
+  - vrai
+- (6) Ça m'est égal.
+  = Ça me ferait plaisir.
+  - faux
+
 
 → ← ↔
