@@ -1414,5 +1414,70 @@ Tu préfères aller cinéma ou au théâtre?
   = Ça me ferait plaisir.
   - faux
 
+## page trente deux
 
+### Au téléphone
+Allô, bonjour, je voudrais parler à Michel, s'il vous plaît.
+- Ne quittez pas, je vous le passe.
+Michel, c'est pour toi!
+
+Allô, bonjour, c'est Cécile à l'appareil.
+Est-ce que je pourrais parler à Sarah, s'il vous plaît?
+- Ah!
+Je suis désolé, Sarah n'est pas là.
+Elle est difficile à joindre (contacter) en ce moment.
+Est-ce que je peux prendre un message? /
+Vous voulez laisser un message?
+- Oui, est-ce que vous pouvez demander à Sarah de m'appeler ce soir, s'il vous plaît?
+- Très bien, je lui dirai.
+Est-ce qu'elle a votre muméro?
+- Peut-être pas.
+C'est le 01 45 87 44 00.
+
+Société Galaxie, bonjour.
+- Bonjour madame, je voudrais parler à Cristine Cheng, s'il vous plaît.
+- Oui, monsieur, c'est de la part de qui?
+- Yves Lamartine.
+- Un instant, je vous la passe.
+(quelques secondes plus tard)
+- Je suis désolée, Mme Cheng est en ligne.
+Vous patientez?
+- Non merci, je rappellerai plus tard.
+Au revoir, madame.
+
+Allô, Jérôme?
+- Ah non, je ne suis pas Jérôme.
+Vous avez fait erreur!
+- Oh, excusez-moi!
+
+### Au répondeur
+"Bonjour, vous êtes bien au 01 45 87 44 00.
+Nous sommes absents pour le moment, mais laissez-nous un message et vos coordonnées après le signal sonore.
+Nous vous rappellerons dès que possible.
+Merci, à bientôt."
+
+"Bonjour, je voudrais laisser un message à Madame Jansen.
+Je suis Thierry Delvaux, le nouveau responsable de la banque.
+Pouvez-vous me rappeller sur mon mobile, au 06 56 65 45 98?
+Merci, madame.
+À bientôt."
+
+Pour joindre quelqu'un, on peut aussi envoyer (≠recevoir) un texto (un SNS).
+
+Remarque : "Les coordonnées" sont le nom, le numéro de téléphone, le numéro de téléphone mobile, l'adresse, etc.
+
+### voca
+- appareil : nm. 수화기, 전화기
+- joindre : vt. 합치다, 연결하다
+- contacter : vt. 접촉하다, 연락하다
+- société : nf. 사회, 공동체, 회사
+- de la part de qn : ~의 의뢰로, ~의 편에서, ~으로부터
+- patienter : vi. 참고 기다리다
+- en ligne : 통화중인
+- vous êtes bien au 01 45 87 44 00. : 01 45 87 44 00으로 제대로 연결되셨습니다.
+- coordonées : 연락처
+- signal sonore : 신호음
+- dès que possible : 가능한 한 빨리
+- responsable : n. 책임자, 대표자, 주임
+- texto : 문자 메시지
 → ← ↔
