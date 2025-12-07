@@ -1414,7 +1414,7 @@ Tu préfères aller cinéma ou au théâtre?
   = Ça me ferait plaisir.
   - faux
 
-## page trente deux
+## page trente-deux
 
 ### Au téléphone
 Allô, bonjour, je voudrais parler à Michel, s'il vous plaît.
@@ -1430,7 +1430,7 @@ Est-ce que je peux prendre un message? /
 Vous voulez laisser un message?
 - Oui, est-ce que vous pouvez demander à Sarah de m'appeler ce soir, s'il vous plaît?
 - Très bien, je lui dirai.
-Est-ce qu'elle a votre muméro?
+Est-ce qu'elle a votre numéro?
 - Peut-être pas.
 C'est le 01 45 87 44 00.
 
@@ -1480,4 +1480,7 @@ Remarque : "Les coordonnées" sont le nom, le numéro de téléphone, le numéro
 - dès que possible : 가능한 한 빨리
 - responsable : n. 책임자, 대표자, 주임
 - texto : 문자 메시지
+
+## page trente-trois
+
 → ← ↔
