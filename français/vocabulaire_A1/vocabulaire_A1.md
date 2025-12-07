@@ -1208,7 +1208,7 @@ Que de défauts!
 - littérature : 문학, 허구
 - brillamment : 찬란하게, 눈부시게, 훌륭히
 
-# La communication
+# 5. La communication
 
 ## page vingt-huit
 
@@ -1482,5 +1482,156 @@ Remarque : "Les coordonnées" sont le nom, le numéro de téléphone, le numéro
 - texto : 문자 메시지
 
 ## page trente-trois
+1. Remettez les dialogues dans l'ordre.
+- (1)
+  - b. Bonjour monsieur, je voudrais parler à Raphaël Latellier, s'il vous plaît.
+  - d. Oui, c'est de la part de qui?
+  - a. Benoît Moreau.
+  - c. Ne quittez pas, je vous le passe.
+
+- (2)
+  - a. Bonjour, c'est Bertrand, à l'appareil. Est-ce que Gilles est là?
+  - c. Non, il n'est pas là. Est-ce que je peux prendre un message?
+  - b. Non merci, je le rappellerai plus tard. Au revoir!
+
+2. Au téléphone, que dites-vous quand..
+- (1) Vous vous présentez au téléphone?
+  - Bonjour, c'est Claire, à l'appareil!
+- (2) Vous demandez à quelqu'un d'attendre?
+  - Un instant, s'il vous plaît.
+- (3) Vous demandez le nom et le numéro de téléphone?
+  - Vous pouvez me donner vos coordonnées?
+- (4) Vous demandez l'identité de la personne qui appelle?
+  - C'est de la part de qui?
+- (5) Vous proposez de prendre un message?
+  - Est-ce que je peux prendre un message? / Vous voulez laisser un message?
+- (6) Vous demandez à parler à quelqu'un?
+  - Est-ce que je pourrais parler à Jérôme? / Je voudrais parler à Jérôme.
+
+3. Choisissez les verbes possibles.
+- (1) Elle _accepte / refuse_ une invitation.
+- (2) Je _pose / réponds à_ une question
+- (3) Elle _explique / raconte / dit_ quelque chose à sa mère.
+- (4) Il _laisse / prend_ un message.
+- (5) Il _pense / croit / trouve_ que c'est difficile.
+
+4. Choisissez le mot correct.
+
+Salut Sébastien, j'ai essayé de te _joindre_ sur ton mobile, mais tu n'est jamais là.
+Je voudrais te _proposer_ d'aller au théâtre, samedi prochain.
+J'ai _invité_ Fabrice et Delphine, mais ils sont déjà _pris_.
+J'ai _envoyé_ un texto à Thomas, mais il n'a pas encore _répondu_.
+
+# 6. Le corps - les mouvements
+
+## page trente-quatre
+
+### Le corps humain
+팔, 손, 다리, 발
+- le bras
+- la main
+- la jambe
+- le pied
+
+머리, 어깨, 가슴(유방), 배, 발목
+- la tête
+- l'épaule
+- la poitrine (= les deux seins)
+- le ventre
+- la cheville
+
+등, 엉덩이
+- le dos
+- les fesses
+
+손가락, 손톱
+- le doigt
+- l'ongle
+
+Remarque : Pour la plupart des animaux, on ne parle pas de "bras" ni de "jambe", mais de "patte" : Un chien a quatre pattes.
+
+### La tête
+머리카락, 눈, 코, 턱
+- les cheveux
+- l'oeil, les yeux
+- le nez
+- le menton
+
+귀, 뺨, 입, 치아
+- l'oreille
+- la joue
+- la bouche
+- la dent
+
+### Quelques parties du corps
+피부, 근육, 혈액 (출혈이 있다), 위, 심장
+- la peau
+- les muscles
+- le sang (ça saigne)
+- l'estomac
+- le coeur
+
+### voca
+- plupart : 대개
+- ne A ni B : neither A nor B
+- patte : nf. (동물의) 발, 다리
+- saigner : vi. 출혈하다, 피를 흘리다
+
+## page trente-cinq
+1. Retrouvez 14 partie du corps (7 horizontalement, 7 verticalement).
+
+horizontalement
+- ventre
+- bras
+- doigt
+- main
+- joue
+- tête
+- pied
+
+verticalement
+- jambe
+- peau
+- dos
+- oreille
+- nez
+- bouche
+- cheveux
+
+2. Complétez.
+- (1) Pour voir, nous utilison _les yeux_.
+- (2) Pour écouter, nous utilison _les oreilles_.
+- (3) Pour manger, nous utilison _la bouche_.
+- (4) Pour sentir, nous utilison _le nez_.
+- (5) Pour attraper un objet, nous utilison _les mains_.
+- (6) Pour marcher, nous utilison _les pieds_.
+
+3. Complétez par la partie du corp utilisée.
+- (1) Jules est très fort et sportif, il a des _muscles_ développé
+- (2) Michel est pianiste, il a des _mains_ grandes et souples.
+- (3) Dora travaille dans la parfumerie, son _nez_ lui permet de sentir les parfums.
+- (4) François goûte les vins, il utilise sa _bouche_.
+- (5) Laetitia est coiffeuse, elle travaille sur les _cheveux_ de ses clients.
+- (6) Colombe fait beaucoup de jogging, elle a les _jambes_ très musclées.
+
+4. Vrai ou faux?
+- (1) Nous avons des yeux. : V
+- (2) Il y a dix doigt à une main. : F
+- (3) Nous avons deux mains et deux bras. : V
+- (4) L'estomac est à extérieur du corps. : F
+- (5) Les dents sont dans la bouche. : V
+- (6) Les cheveux sont sur les bras : F
+
+### voca
+- sentir : vt. 냄새를 맡다, 느끼다
+- fort : a. 힘센, 강한, 튼튼한
+- développé : a. 발달한, 발전한
+- souple : a. 유연한, 민첩한, 날쌘
+- parfumerie : nf. 화장품 상점
+- permettre : vt. 허락하다, 허용하다
+- parfum : nm. 향수
+- goûter : vt. 맛을 음미하다, 맛보다
+- coiffeur : n. 이발사, 미용사
+- extérieur : a. 외부의, 밖의
 
 → ← ↔
