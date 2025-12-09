@@ -1577,7 +1577,7 @@ Remarque : Pour la plupart des animaux, on ne parle pas de "bras" ni de "jambe",
 - patte : nf. (동물의) 발, 다리
 - saigner : vi. 출혈하다, 피를 흘리다
 
-## page trente-cinq
+## page trente-cinq : exercices
 1. Retrouvez 14 partie du corps (7 horizontalement, 7 verticalement).
 
 horizontalement
@@ -1633,5 +1633,63 @@ verticalement
 - goûter : vt. 맛을 음미하다, 맛보다
 - coiffeur : n. 이발사, 미용사
 - extérieur : a. 외부의, 밖의
+
+## page trente-six
+
+### Le mouvement? La posture
+s'asseoir
+- Asseyez-vous! (Assieds-toi!)
+- D'accord, je m'assieds sur une chaise.
+
+→ être assis(e)
+- Je suis asis sur une chaise.
+- Elle est assise.
+
+se lever
+- Levez-vous! (Lève toi!)
+- D'accord, je me lève.
+
+→ être debout
+- Je suis debout.
+
+### Quelques activités
+Bastien tient un ballon dans mains, puis il lance le ballon.
+
+Manon court et attrape le ballon, mais après elle tombe.
+
+Maxime porte un sac très lourd.
+
+Mathilde pose (=met) le livre sur la table ; Julien enlève le livre de la table.
+
+Joël marche dans la rue ; il entre dans le magasin.
+
+Joël sort du magasin.
+
+Louis apporte du champagne.
+
+Nadège emmène les enfants au cinéma.
+
+"Glaces à emporter."
+
+Remarque : On "emmène" une personne, mais on "emporte" quelque chose.
+
+### voca
+- asseoir : vt. 앉히다, vp. 앉다
+  - j'assieds     j'assois
+  - tu assieds    tu assois
+  - il assied     il assoit
+  - nous asseyons nous assoyons
+  - vous asseyez  vous assoyez
+  - ils asseyent  ils assoient
+- assis : a. 앉아있는
+- debout : a. 세워져 있는, 서있는
+- tenir : vt. 잡다, 쥐다, 지니다
+- lancer : vt. 던지다
+- enlever : vt. 없애다, 치우다
+- bijouterie : nf. 보석 가게
+- emmencer : vt. 데리고 가다, 가지고 가다
+- emporter : vt. 가지고 가다, 가져가다, 실어가다
+- glaces à emporter : 테이크아웃 아이스크림
+
 
 → ← ↔
