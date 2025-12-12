@@ -1732,4 +1732,88 @@ Quelle(s) partie(s) du corps utilise-t-on quand...
 - On est assis : les fesses
 - On est debout : les jambes et les pieds
 
+# 7. La santé
+
+## page trente-huit
+
+### Comment allez-vous?
+
+#### Ça va bien!
+- Je vais bien!
+Je suis en bonne santé.
+J'ai passe une semaine de vacances à la montagn, et maitenant, je suis en forme.
+
+#### Ça va mal!
+- Qu'est-ce que vous avez?
+Vous avez l'air fatigué(e)!
+- Oui, je suis très fatigué(e) = je suis crevé : je dois me reposer.
+- Je suis malade, je suis en mauvaise santé, je dois aller chez le médecin.
+J'espère que ce n'est pas grave!
+J'espère que je n'ai pas de maladie grave.
+- Partricia a un rhume, elle est en rhumée : elle a mal à la gorge (elle a la gorge rouge et irritée) et elle tousse.
+Renaud a la grippe, il a mal à la tête, il a de la fièvre (il a 39℃ de fièvre.)
+- Serge a mal aux dents, il doit aller chez la dentiste.
+
+Remarques :
+- (1) Notez bien l'expression très commode : avoir mal à + nom féminin; avoir mal au + nom masculin.
+  - avoir mal au ventre / dos / genou / pied / bras / coeur / foie.
+  - avoir mal à la tête / gorge / jambe / main / cheville / poitrine, l'épaule.
+  - avoir mal aux dents / yeux / pieds / oreilles
+- (2) Le mot "médicin" est masculin ; "Pauline est médicin."
+
+#### Les handicaps
+- Adèle a une mauvaise(≠bonne) vue ; elle porte des lunettes ou des lentilles de contact.
+Simon ne voit rien, il est aveugle.
+- Léon entend très mal, il est sourd.
+René ne peut pas parler, il est muet.
+- Damien est handicapé, il est dans un fauteuil roulant.
+
+### Ça va mieux!
+Ça va mieux?
+- Oui, ça va mieux.
+Le docteur Darmont a soigné Renaud.
+Renaud a acheté des médicaments et a suivi un traitement.
+Maintenant, Renaud va bien, il est guéri.
+
+Remarque littéraire : Il exite plusieurs pièces de théâtre sur les malades et la médicine; connaissez-vous la comédie de Molière _Le malade imaginaire (1673)_ ou celle de Jules Romains _Knock (1923)_
+
+### voca
+- Comment allez-vous? : 어떻게 지냈어요?
+- Qu'est-ce que vous avez? : 뭐가 있으세요? 어디가 안좋으세요?
+- crevé : 터진, 파열된, 기진맥진한
+- être en mauvaise santé : 건강이 좋지 않다
+- grave : a. 근엄한, 중요한, 심각한
+- maladie : nf. 병, 질환
+- J'espère que ce n'est pas grave! : 심각하지 않기를 바랍니다.
+- J'espère que je n'ai pas de maladie grave. : 제가 심각한 병이 없기를 바랍니다.
+- rhume : nm. 감기
+- rhumé : a. 감기에 걸린
+- rhumatisme : n. 류머티즘 (관절염)
+- rhum : nm. 럼주, 럼
+- gorge : nf. 목, 인후
+- avoir la gorge irritée : 목에 염증이 있다.
+- irriter : vt. 성나게 하다, 약올리다, 염증이 생기게 하다
+- tousser : vi. 기침하다, 기침이 나다
+- grippe : vf. 유행성 감기
+- fièvre : vf. 열, 발열, 열병, 흥분
+- commode : a. 쉬운, 간단한, 편리한, 알맞은, 적합한
+- foie : nm. 간
+- handicap : 불리한 조건, (신체적·정신적) 장애, (정치·사회·경제적인) 악조건, 불리한 점.
+- vue : nf. 시각, 시력
+- lentille : nf. 렌즈
+- lentilles de contact : 콘택트 렌즈
+- aveugle : a. 눈먼, 장님의, n. 맹인
+- sourd : a. 귀먹은, 귀머거리의, n. 귀머거리
+- muet : a. 벙어리의, 말을 못하는, 말이 없는, 무언의, n. 벙어리
+- handicapé : a. 장애가 있는
+- fauteuil : nm. 안락의자
+- roulant : a. 바퀴로 움직이는, 굴러가는, 회전식의
+- fauteuil roulant : n. 휠체어
+- soigner : vt. 마음을 쓰다, 보살피다, 가꾸다, 꾸미다
+- médicament : nm. 약, 약제
+- traitement : nm. 대우, 대접, 치료, 처치, 급여, 봉급
+- suivre : 뒤따라가다, 쫒아가다, 주의를 기울이다, (치료를, 강의 따위를) 계속하다
+- suivre un traitement : 요양하다, 치료받다
+- guérir : vt. (병·환자를) 고치다, 치료하다, vi. (병·환자가) 낫다, 치유되다
+- littéraire : a. 문학의, 문학적인, 문과의
 → ← ↔
