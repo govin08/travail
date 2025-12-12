@@ -1691,5 +1691,33 @@ Remarque : On "emmène" une personne, mais on "emporte" quelque chose.
 - emporter : vt. 가지고 가다, 가져가다, 실어가다
 - glaces à emporter : 테이크아웃 아이스크림
 
+## page trente-sept : exercices
+1. Complétez le tableau suivant.
+- Mouvement
+  - Asseyez-vous!
+  - Il se lève.
+  - Levez-vous.
+  - Assieds-toi.
+  - Il s'assied à côté de moi.
+- Posture
+  - Elle est debout dans la rue.
+  - Ils sont assis à une terrasse de café.
+  - Il est assis à table.
+
+2. Associez les contraires.
+- (1) lancer - e. attrapper
+- (2) entre - c. sortir
+- (3) être debout - d. être assis
+- (4) se lever - a. s'asseoir
+- (5) mettre - b. enlever
+
+3. Complétez par les mots suivants.
+- (1) Adeline _pose_ une bouteille de vin sur la table.
+- (2) Sandrine _entre_ dans le magazin pour acheter un stylo.
+- (3) Simon _sort_ du bureau à 18h.
+- (4) Michel emmène ses enfants au cinéma.
+- (5) Louis _enlève_ le livre de la table.
+- (6) Étienne _lance_ un ballon à la petite fille.
+- (7) Bertrand _apporte_ du chocolat à ses amis.
 
 → ← ↔
