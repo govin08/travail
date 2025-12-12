@@ -1720,4 +1720,16 @@ Remarque : On "emmène" une personne, mais on "emporte" quelque chose.
 - (6) Étienne _lance_ un ballon à la petite fille.
 - (7) Bertrand _apporte_ du chocolat à ses amis.
 
+remarque : (1)과 (5)는 서로 바꿀 수 없음.
+- poser qc sur la table : qc를 탁자 위에 두다.
+- enlèver qc de la table : qc를 탁자에서 없애다.
+
+4. Choisissez la ou les bonnes réponses.
+Quelle(s) partie(s) du corps utilise-t-on quand...
+- On court ? : les jambes et les pieds
+- On tient quelque chose? : les mains et les doigt
+- On marche? : les pieds
+- On est assis : les fesses
+- On est debout : les jambes et les pieds
+
 → ← ↔
