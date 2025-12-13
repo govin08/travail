@@ -1854,5 +1854,59 @@ J'ai _mal_ à la gorge et mal à la _tête_.
 - (7) Tu as pris des _médicaments_?
 - (8) Oui, et je commence à _aller_ mieux.
 
+## page quarante
 
+### Un accident
+Il y eu un grave accident sur l'autoroute: il y un mort et deux blessé.
+- Une ambulance a transporté les blessés.
+- Le chirurgien est vite arrivé pour opérer les patients, pour faire une opération.
+
+Matthieu a eu un accident de ski: il s'est cassé la jambe.
+
+### Attentre un bébé
+Fabienne est enceinte, elle attend un enfant.
+Elle va accoucher dans une clinique.
+L'accouchement est prévu le 27 mars.
+
+### À la pharmacie
+Bounjour madame, je suis enrhumé.
+Qu'est-ce que vous me conceillez?
+- Vous avez de la fièvre?
+- Non, je ne pense pas.
+- Vous pouvez prendre ce médicament contre le rhume.
+Prenez trois comprimés par jour.
+Je vous conseille aussi de prendre de la vitanmine C.
+- J'ai mal à la gorge, aussi.
+- Alors, prenez des pastilles contre le mal de gorge.
+
+Remarque économique et culturelle: Les Français sont parmi les plus gros consommateurs de médicaments d'Europe!
+
+À la pharmacie, on achète aussi:
+- Un comprimé d'aspirine
+- Un pansement
+- Un préservatif
+- de l'alcool à 90℃
+
+### voca
+- mort : 사망자
+- blessé : 부상당한, 상처입은, 부상자
+- transporter : vt. 운반하다, 수송하다
+- opérer : vt. 수행하다, 실행하다, 수술하다
+- casser : vp. 부서지다, 부러지다, 자기의 ~가 부러지다
+- enceinte : a. 임신한, n. 둘러싸고 있는 것
+- accoucher : vi. 분만하다, 해산하다
+- clinique : n. 개인병원, 진료소, 임상진단, 임상의학
+- accouchement : nm. 해산, 출산
+- prevoir : vt. 예견하다, 예상하다, 계획하다
+- prevu : a. 예측된, 예정된
+- pharmacie : n. 약국
+- contre : 반대로, 반하여, 반대하여, 향하여
+- comprimé : a. 정제된, 압축된 n. 정제, 알약
+- pastille : n. 봉봉, 당의정, 정제, 트로치
+- parmi : ~ 중에 하나이다
+- consommateur : n. 소비자, 손님
+- les plus gros consommateur de médicaments : 가장 많은 약을 사용하는
+- pansement : 붕대, 치료용품, 붕대 감기
+- préservatif : a. 예방의, n. 피임기구, 콘돔
+- alcool : n. 알코올
 → ← ↔
