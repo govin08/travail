@@ -281,4 +281,5 @@
 * 세밀화가들과 그림일 사랑하며 세상을 바라보는 사람들의 임무는 알라가 우리에게 준 장엄한 아름다움을 기억하는 것이었다. 190
 - 콘야 출신의 호자 199
 * 칼렌데리(Kalenderi) : Kalenderi (Cyrillic: Календери) is a village in the municipality of Kostajnica, Republika Srpska, Bosnia and Herzegovina. 198
+* 책은 우리의 슬픔에 스스로 위안이라고 착각하는 깊이를 더해줄 뿐이다. 250
 「」
