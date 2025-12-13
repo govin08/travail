@@ -282,4 +282,5 @@
 - 콘야 출신의 호자 199
 * 칼렌데리(Kalenderi) : Kalenderi (Cyrillic: Календери) is a village in the municipality of Kostajnica, Republika Srpska, Bosnia and Herzegovina. 198
 * 책은 우리의 슬픔에 스스로 위안이라고 착각하는 깊이를 더해줄 뿐이다. 250
+- 이발사의 조수 255
 「」
