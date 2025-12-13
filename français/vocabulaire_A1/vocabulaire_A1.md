@@ -1752,7 +1752,7 @@ J'espère que ce n'est pas grave!
 J'espère que je n'ai pas de maladie grave.
 - Partricia a un rhume, elle est en rhumée : elle a mal à la gorge (elle a la gorge rouge et irritée) et elle tousse.
 Renaud a la grippe, il a mal à la tête, il a de la fièvre (il a 39℃ de fièvre.)
-- Serge a mal aux dents, il doit aller chez la dentiste.
+- Serge a mal aux dents, il doit aller chez le dentiste.
 
 Remarques :
 - (1) Notez bien l'expression très commode : avoir mal à + nom féminin; avoir mal au + nom masculin.
@@ -1787,7 +1787,7 @@ Remarque littéraire : Il exite plusieurs pièces de théâtre sur les malades e
 - J'espère que ce n'est pas grave! : 심각하지 않기를 바랍니다.
 - J'espère que je n'ai pas de maladie grave. : 제가 심각한 병이 없기를 바랍니다.
 - rhume : nm. 감기
-- rhumé : a. 감기에 걸린
+- enrhumé : a. 감기에 걸린
 - rhumatisme : n. 류머티즘 (관절염)
 - rhum : nm. 럼주, 럼
 - gorge : nf. 목, 인후
@@ -1816,4 +1816,43 @@ Remarque littéraire : Il exite plusieurs pièces de théâtre sur les malades e
 - suivre un traitement : 요양하다, 치료받다
 - guérir : vt. (병·환자를) 고치다, 치료하다, vi. (병·환자가) 낫다, 치유되다
 - littéraire : a. 문학의, 문학적인, 문과의
+
+## page trente-neuf : exercices
+1. Répondez par le contraire.
+- (1) Est-ce qu'elle est en forme?
+  - Non, au contraire, elle est en mauvaise santé.
+- (2) Est-ce que vous allez bien?
+  - Non, je suis crevé.
+- (3) Est-ce qu'il a bonne vue?
+  - Non, il porte des lunettes.
+- (4) Est-ce qu'il entend bien?
+  - Non, au contraire, il est sourd.
+- (5) Est-ce qu'il est toujours malade?
+  - Non, c'est fini, il est guéri.
+
+2. Qu'est-ce que ces personnes doivent faire? Associez.
+- (1) Maryse a une mauvaise vue.
+  - c. Elle doit porter des lunettes.
+- (2) Gilles est crevé.
+  - d. Il doit se reposer.
+- (3) Denis est malade.
+  - e. Il doit aller chez le médicin.
+- (4) Luc est handicapé.
+  - a. Il doit acheter un fauteuil roulant.
+- (5) Denise a mal aux dents.
+  - b. Elle doit aller chez le dentiste
+
+4. Replacez mots suivants dans le dialogue.
+- (1) Bonjour, Guilaume, ça va?
+- (2) Non, ça ne va pas.
+Je suis _malade_.
+- (3) Ou'est-ce que tu _as_?
+- (4) J'ai un gros _rhume_.
+J'ai _mal_ à la gorge et mal à la _tête_.
+- (5) Tu es allé chez le _médicin_?
+- (6) Oui, il m'a donné un _traitement_.
+- (7) Tu as pris des _médicaments_?
+- (8) Oui, et je commence à _aller_ mieux.
+
+
 → ← ↔
