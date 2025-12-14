@@ -1910,4 +1910,37 @@ Remarque économique et culturelle: Les Français sont parmi les plus gros conso
 - pansement : 붕대, 치료용품, 붕대 감기
 - préservatif : a. 예방의, n. 피임기구, 콘돔
 - alcool : n. 알코올
+
+## page quarante et un
+1. Replacez les mots suivants dans le dialogue.
+- (1) Vous avez vu l' _accident_?
+- (2) Oui, j'ai tout vu. L'_ambulance_ est arrivée tout de suite.
+- (3) Est-ce qu'il y a des _blessés_?
+- (4) Je crois qu'il y a quatre _blessés_, mais heureusement pas de _morts_.
+- (5) Est-ce qu'il y a un _hôpital_, près d'ici?
+- (6) Oui, à quelques kilomètres; et il y a pluisieur bons _chirugiens_.
+
+2. Décrivez les situations.
+- (1) Le petit garçon a eu un accident.
+Il est tombé et il s'est cassé la bras.
+- (2) La dame s'est blessée à la jambe.
+Ça saigne, alors elle va mettre de l'alcool, puis elle va mettre une pansement.
+
+3. Choisissez les termes possibles.
+- (1) Paul est blessé / malade / enrhumé.
+- (2) Sébastien a mal à la gorge / la grippe / de la fièvre.
+- (3) Alice est en forme / en bonne santé.
+- (4) Odile va bien / chez le médicin / mal / mieux.
+- (5) Viviane prend un médicament / des pestilles / des vitamines.
+- (6) Serge a une bonne vue / un rhume / une maladie grave.
+
+4. Vrai ou faux?
+- Il est enrhumé = il a un rhume : V
+- Elle est sourde = elle voit mal : F
+  - aveugle / entend
+- Elle est enceinte = elle attend un bébé : V
+- Ils sont blessés = ils ont eu un accident de voiture : F
+- Elle est crevée = elle est morte : F
+- Il prend un médicament = il va chez le médicin : F
+
 → ← ↔
