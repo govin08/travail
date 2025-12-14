@@ -1886,6 +1886,7 @@ Remarque économique et culturelle: Les Français sont parmi les plus gros conso
 - Un pansement
 - Un préservatif
 - de l'alcool à 90℃
+- du cotton
 
 ### voca
 - mort : 사망자
