@@ -1208,7 +1208,7 @@ Que de défauts!
 - littérature : 문학, 허구
 - brillamment : 찬란하게, 눈부시게, 훌륭히
 
-# 5. La communication
+# 5. La Communication
 
 ## page vingt-huit
 
@@ -1522,7 +1522,7 @@ Je voudrais te _proposer_ d'aller au théâtre, samedi prochain.
 J'ai _invité_ Fabrice et Delphine, mais ils sont déjà _pris_.
 J'ai _envoyé_ un texto à Thomas, mais il n'a pas encore _répondu_.
 
-# 6. Le corps - les mouvements
+# 6. Le Corps - Les Mouvements
 
 ## page trente-quatre
 
@@ -1732,7 +1732,7 @@ Quelle(s) partie(s) du corps utilise-t-on quand...
 - On est assis : les fesses
 - On est debout : les jambes et les pieds
 
-# 7. La santé
+# 7. La Santé
 
 ## page trente-huit
 
@@ -1942,5 +1942,20 @@ Il est tombé et il s'est cassé la bras.
 - Ils sont blessés = ils ont eu un accident de voiture : F
 - Elle est crevée = elle est morte : F
 - Il prend un médicament = il va chez le médicin : F
+
+# 8. La Description Physique
+
+## page quarante-deux
+
+### L'apparence
+Roseline est un peu ronde, elle se trouve trop grosse.
+Elle a pris quatre kilos, elle a grossi de quatre kilos.
+Elle voudrait perdre du poids = perdre des kilos = maigrir.
+Elle voudrait être aussi mince qu'Irene.
+Roseline fait un régime, elle ne mange pas de gâteaux ni de chocolat.
+
+### voca
+- apparence : nf. 외모, 외관
+- poids : nm. 무게, 중량, 체중
 
 → ← ↔
