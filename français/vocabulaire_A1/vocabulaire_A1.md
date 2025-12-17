@@ -1954,8 +1954,97 @@ Elle voudrait perdre du poids = perdre des kilos = maigrir.
 Elle voudrait être aussi mince qu'Irene.
 Roseline fait un régime, elle ne mange pas de gâteaux ni de chocolat.
 
+Nicolas ressemble beaucoup à son père.
+
+Michel est beau, c'est un bel homme;
+Claire est belle, c'est une belle femme.
+Au contraire, Adeline n'est pas jolie, elle est même laide, mais elle a du charme!
+
+Le père est noir, sa femme est blanche, leur fils est métis, leur fille métisse.
+
+Remarque: L'adjectif "joli" s'utilise seulement pour parler d'une femme... ou d'un objet!
+
+### La Taille
+Combien est-ce qu'il mesure?
+- Bertrand est très grand, il measure 1,90m.
+- Et Jean, il est grand? Il measure combien?
+- Il est petit, il measure 1,60m.
+Xavier est de taille moyenne, il measure 1,70m.
+
+### L'âge
+Quel âge ont vos parents?
+- Mon père a 80 ans, c'est un vieux monsieur, mais il fait plus jeune que son âge.
+Ma mère a 77 ans, c'est une vielle dame.
+- Et vous, quel âge avez-vous?
+- J'ai 41 ans.
+- Alors, vous êtes une jeune femme!
+
 ### voca
 - apparence : nf. 외모, 외관
 - poids : nm. 무게, 중량, 체중
+- laid : a. 못생긴, 추한, 더러운
+- charme : nm. 매력
+- métis : a. 혼혈의
+- taille : n. 키, 신장
+- moyenne : nf. 평균
+- Quel âge avez-vous? : 당신은 몇 살인가요?
+
+## page quarante-trois : exercices
+1. Répondez par le contaire.
+- (1) Denis est _grand_?
+  - Non, il est petit.
+- (2) Joël est beau?
+  - Non, il est _laid_.
+- (3) Viviane est mince?
+  - Non, elle est _ronde_.
+- (4) Quentin a grossi?
+  - Non, il a _maigri_.
+- (5) Delphine est vielle?
+  - Non, elle est _jeune_.
+
+2. Choisissez la meileure explications.
+- (1) Charlotte est laide.
+  - b. Elle n'est pas belle.
+- (2) Il mesure 1m 85.
+  - a. Il est grand.
+- (3) Elle a 87 ans.
+  - a. C'est une vielle dame.
+- (4) Elle fait un régime.
+  - b. Parce qu'elle est trop grosse.
+- (5) Il a perdu du poids.
+  - b. Il a maigri.
+- (6) Il est mince.
+  - a. Il n'est pas gros.
+
+3. Associez, pour constituer une phrase complète.
+- (1) Anne a 38 ans, c'est
+  - d. une jeune femme.
+- (2) Benoît mesure 1m 65, il est
+  - e. petit
+- (3) Marine fait
+  - f. un régime.
+- (4) Louis a 80 ans, c'est un
+  - a. vieux monsieur.
+- (5) Guillaume ne ressemble pas
+  - g. à son père.
+- (6) Irère est très
+  - b. belle.
+- (7) Christian est un bel
+  - c. homme.
+
+4. Complétez
+- (1) _Combien_ est'ce qu'il _mesure_?
+  - Il _mesure_ 1m 78.
+- (2) Quel _âge_ a Juliette?
+  - Elle a 22 ans.
+- (3) J'ai _pris_ 3 kilos.
+Maintenant, je dois _faire_ un régime.
+- (4) Christine mange beaucoup, mais elle ne _grossit_ pas: elle reste _mince_.
+- (5) Anne _resemble_ beaucoup à sa mère.
+- (6) Serge n'est pas beau du tout, il est _laid_.
+
+
+### voca
+- meilleur : a. 더 나은, 더 좋은
 
 → ← ↔
