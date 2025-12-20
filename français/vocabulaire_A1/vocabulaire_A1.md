@@ -2043,8 +2043,63 @@ Maintenant, je dois _faire_ un régime.
 - (5) Anne _resemble_ beaucoup à sa mère.
 - (6) Serge n'est pas beau du tout, il est _laid_.
 
-
 ### voca
 - meilleur : a. 더 나은, 더 좋은
+
+## page quarante-quatre
+
+### Le visage
+
+#### Les yeux
+(Il/Elle) a les yeux, bleus, gris, verts, marrons ...
+
+Elle a de grands yeux noirs; il a de beaux yeux verts.
+
+#### Les cheveux
+(Il/Elle) a des cheveux blonds, châtains, bruns, roux, noirs, gris, blancs ...
+- Elle a les cheveux longs et frisés.
+- mi-longs avec frange
+- courts et raides
+
+Remarque grammaticale : Notez bien la structure "avoir les cheveux blonds", "avoir les yeux noirs" et non "ses cheveux sont blonds", "ses yeux sont noirs."
+
+### Le visage
+- Il a un grand nez et une petite bouche.
+- Il a des lunettes, une moustache et une barbe.
+
+Remarque littéraire: Connaissez-vous les personnage de Cyrano de Bergerac (pièce de théâtre d'Edmond Rostand, 1897)?
+Il est très laid, il a un nez immense... mais il a beaucoup de charme et d'intelligence.
+
+### Il est comment? Elle est comment?
+Il est beau, brun (= il a les cheveux bruns) et il a les yeux verts:
+c'est un beau brun aux yeux verts.
+
+Elle est belle, blonde (=elle a les cheveux blonds) et elle a les yeux bleus:
+c'est une belle blonde aux les yeux bleus.
+
+Elle est petite, rousse, elle a les yeux gris:
+c'est une petite rousse aux les yeux gris.
+
+Remarque: Ne confondez pas: il/elle est brun(e) (= c'est la couleur des cheveux; ils sont marrons) et il/elle est noir(e) (c'est la couleur de la peau.)
+Vous pouvez dire: il/elle a les cheveux noirs.
+
+### voca
+- gris : a. 회색의
+- châtain : a. 밤색의
+- brun : a. 갈색의
+- frisé : a. 곱슬곱슬한
+- mi-long : 중간 길이의
+- frange : 앞머리
+- court : 짧은
+- raide : 뻣뻣한, 곧은, 직모의
+- moustache : 콧수염
+- barbe : 수염, 턱수염
+- personnage : nm. 등장인물
+- Cyrano de Bergerac : 시라노 드 베르주라크
+- laid : a. 못생긴
+- immense : a. 거대한, 막대한
+- roux : 다갈색의, 적갈색의 (→ rousse)
+- brun, blond, roux : 갈색머리 사람, 금발머리 사람, 다갈색머리 사람
+- confondre : vt. 섞다, 혼동하다, 잘못 알다
 
 → ← ↔
