@@ -2102,4 +2102,40 @@ Vous pouvez dire: il/elle a les cheveux noirs.
 - brun, blond, roux : 갈색머리 사람, 금발머리 사람, 다갈색머리 사람
 - confondre : vt. 섞다, 혼동하다, 잘못 알다
 
+## page quarante-cinq : exercices
+1. Transformez.
+- (1) Elle est grande et blonde, elle a les yeux gris.
+  - C'est une une grande blonde aux les yeux gris.
+- (2) Il est petit et brun.
+  - C'est un petit brun.
+- (3) Elle est belle et rousse, elle a les yeux verts.
+  - C'est une belle rousse aux les yeux verts.
+- (4) Il est beau et blond, il a les yeux bleus.
+  - C'est un beau blond aux les yeux bleus.
+- (5) Il est petit et roux.
+  - C'est un petit roux.
+- (6) Il est grand et brun.
+  - C'est un grand brun.
+
+2. Choisissez la réponse correcte.
+- (1) Elle a les yeux _marron_.
+- (2) Il a les cheveux très _courts_.
+- (3) Elle a de beaux _yeux_ verts.
+- (4) Elle a les cheveux _longs_.
+- (5) Il a les yeux _gris_.
+- (6) Il a les cheveux _roux_.
+
+remarques:
+- (1) 눈을 표현할 때는 marron이 맞다. marron은 성수 불변 형용사. châtain은 cheveux châtain일때 쓰인다.
+
+3. Éliminez l'intrus.
+- verts / bleus / _roux_
+- frisés / _jolis_ / raides
+- _grands_ / châtins / mi-longs
+- moustache / _yeux_ / barbe
+- courts / longs / _petits_
+- _lunettes_ / frange / cheveux
+
+### voca
+- intrus : n. 불청객, 제외시킬 것
 → ← ↔
