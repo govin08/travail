@@ -2139,3 +2139,114 @@ remarques:
 ### voca
 - intrus : n. 불청객, 제외시킬 것
 → ← ↔
+
+# 9. Les vêtements - les couleurs
+
+## page quarante-six
+On peut-être habillé(e) ou, au contraire, nu(e).
+L'ensemble des vêtements que l'on porte est une tenue, à la mode (cf. démodé(e)).
+
+### Quelque vêtements
+
+#### les vêtements de femme
+자켓, 주머니, 바지, 치마, 드레스, 여성옷 상의
+- une veste
+- une poche
+- un patalon
+- une jupe
+- une robe
+- un haut
+
+투피스(여성용 정장), 외투, 스웨터, 세트 (한 벌), 셔츠
+- un taileur
+- un manteau
+- un pull
+- un ensemble
+- une chemise
+
+#### les vêtements d'homme
+정장, 비옷, 셔츠, 단추(버튼), 깃(칼라), 모자달린 재킷(파카)
+- un costume
+- un imperméable
+- une chemise
+- un bouton
+- le col
+- un anorak (parka)
+
+잠바(짧은 상의), 소매, 수영복, 잠옷
+- un blouson
+- la manche
+- un maillot de bain
+- un pyjama
+
+Remarque:
+- On utilise en français des mots d'origine anglo-américaine, comme "un short", "un T-shirt", "un jean", "un jogging", "un sweat", "un polo", "une parka"
+
+### Les sous-vêtements
+남성용 팬티, 브래지어, 팬티스타킹, 여성용 팬티, 양말
+- un slip (pour homme)
+- un soutien-gorge
+- un collant
+- une culotte (pour femme)
+- des chaussettes
+
+### voca
+- habillé : 옷을 입은
+- nu : 벗은, 나체의
+- ensemble : nm. 통일성, 조화
+- tenue : nf. 옷차림, 옷매무새
+- mode : nf. 유행, 풍조, 패션
+- démodé : a. 유행에 뒤진, 구식의
+- jogging : nm. 겉옷, 추리닝
+- sweat : 스웨터
+- polo : 폴로 셔츠
+- sous-vêtement : 속옷
+
+## page quarante-sept : exercices
+1. Trouvez 16 noms de vêtements et sous-vêtements (8 horizontalement et 8 verticalement)
+- horizontalement
+  - culotte
+  - anorak
+  - veste
+  - imperméable
+  - blouson
+  - pull
+  - pantalon
+  - chaussette
+- verticalement
+  - slip
+  - jupe
+  - ensemble
+  - robe
+  - manteau
+  - haut
+  - col
+  - chemise
+
+2. Éliminez l'intrus.
+- _costume_ / jupe / robe
+- pantalon / _short_ / jean
+- _jupe_ / blouson / veste
+- collant / choussette / _chemise_
+- manteau / _pyjama_ / imperméable
+- _maillot de bain_ / chemise / costume
+- ensemble / costume / _anorak_
+
+3. Choisissez la bonne réponse.
+- Elle a _un tailleur_ / un costume.
+- Il met une colotte / _un slip_
+- Cette tenue est nue / _à la mode_.
+- Il met une veste / _un imperméable_ sur son costume.
+- La chemise est un _vêtement_ / sous-vêtement
+- Sous sa veste, elle a un _haut_ / collant.
+- Le _manteau_ / pantalon a deux manches.
+
+4. Que pensez-vous des tenues suivantes? Sont-elles, pour vous, normales ou étanges?
+- (1) un costume et une chemise blanche : n
+- (2) une robe et un pyjama : e
+- (3) un maillot de bain et des chaussettes : e
+- (4) une jupe et un pull : n
+- (5) un pyjama et un blouson : e
+- (6) un anorak et un pantalon : n
+- (7) un taileur et un haut : n
+- (8) une veste et un blouson : e
