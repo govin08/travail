@@ -2250,3 +2250,107 @@ Remarque:
 - (6) un anorak et un pantalon : n
 - (7) un taileur et un haut : n
 - (8) une veste et un blouson : e
+
+## page quarante-huit
+
+### Les chaussures
+하이힐(높은 굽 신발), 낮은 굽 신발, 장화
+- des chaussures à talons hauts
+- des chaussures à talons plats
+- des bottes
+
+### Quelques accessoires
+벨트, 털스카프, 장갑, 우산, 선글라스
+- une ceinture
+- une écharpe en laine
+- des gants
+- un parapluie
+- des lunettes de soleil
+
+가죽 핸드백, 모자, 야구모자, 면 손수건, 실크 넥타이
+- un sac à main en cuir
+- un chapeau
+- une casquette
+- un mouchoir en coton
+- une cravate en soie
+
+Remarque culturelle:
+- Les Français, et surtout les Parisiennes, portent très souvent une jolie écharpe, même à la maison ou au bureau.
+
+### Les bijoux
+Les bijoux peuvent être en or, en argent, en diamant ... ou plastique!
+
+목걸이, 팔찌, 브로치, 반지, 체인, 손목시계, 귀걸이
+- un collier
+- un bracelet
+- une broche
+- une bague
+- une chaîne
+- une montre
+- une boucle d'oreille
+
+### Les couleurs
+Les noms de couleurs sont masculins:
+- elle aime le rouge et le vert.
+
+Les adjectifs, en général, s'accordent:
+- Il a une chemise verte.
+
+- bleu(e)
+- jaune
+- rouge
+- vert(e)
+- noir(e)
+- blanc(he)
+- rose : 분홍색
+- orange
+- gris(e) : 회색
+- beige
+- violet(te)
+
+Elle porte une veste gris clair / foncé.
+
+### voca
+- talon : nm. 뒤꿈치
+- plat : a. 평평한, 판판한
+- accessoire : n. 부차적인 것, 세세한 점, 액세서리
+- en laine : 털의
+- en cuir : 가죽의
+- en coton : 면의
+- en soie : 비단의, 명주의, 실크의
+- surtout : 특별히, 특히
+
+## page quarante-neuf : exercices
+1. Associez un vêtement et un accessoire.
+- (1) un maillot de bain - d. des lunettes de soleil
+- (2) un pantalon - e. une ceinture
+- (3) une chemise - f. une cravate
+- (4) un anorak - b. des gants en laine
+- (5) un imperméable - c. un parapluie
+- (6) un manteau - a. une écharpe
+
+2. Répondez par le contraire des mots soulignés
+- (1) Est-ce que ce vêtement est _à la mode_?
+  - Non, il est démodé.
+- (2) Est-ce que _tu t'habilles_?
+  - Non, je me déshabille.
+- (3) Est-ce qu'il est _bien_ habillé?
+  - Non, il est mal habillé.
+- (4) Est-ce que tu _restes en jean_?
+  - Non, je me change.
+- (5) Est-ce qu'elle met son écharpe?
+  - Non, elle enlève son écharpe.
+
+3. Replacez les mots suivants dans le dialogue.
+- (1) Alors, comment est-ce que tu vas t'_habiller_ pour ta soirée?
+- (2) Je ne sais pas encore. Je crois que je vais _mettre_ une jupe noire et un _haut_ vert.
+- (3) Et quelles _chaussures_?
+- (4) Des chaussures à _talons_ hauts.
+- (5) Est-ce que tu vas mettre des _bijoux_?
+- (6) Oui, mais j'hésite. Ou bien des _boucles_ d'oreilles et un _bracelet_ ou bien une _broche_ et une _bague_ en or.
+- (7) Pourquoi pas une _écharpe_ ?
+- (8) Ah oui, c'est une bonne idée! J'ai une très belle écharpe verte, en _soie_.  Ce sera parfait!
+
+### voca
+- souligner : vt. 밑줄을 긋다
+- enlever : vt. 벗다, 벗기다
