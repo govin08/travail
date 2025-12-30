@@ -2354,3 +2354,110 @@ Elle porte une veste gris clair / foncé.
 ### voca
 - souligner : vt. 밑줄을 긋다
 - enlever : vt. 벗다, 벗기다
+
+## page cinquante
+
+### Comment tu t'habilles?
+Le matin, je m'habille: je mets ves vêtements.
+Le soir, je me déshabille, je enlève mes vêtements.
+
+Aujourd'hui, Aude est en pantalon.
+Ce soir, elle va au théâtre, alors elle se change (=elle change de vêtements).
+Elle ne reste pas en pantalon, elle met une jupe habilée(=chic).
+
+Comment est-ce qu'Aude était habillé?
+- Elle était élégante, très chic comme d'habitude.
+Elle avait/portait une jolie jupe noire et un haut bleu clair.
+Aude est toujours bien (↔ mal) habillée.
+
+### Acheter un vêtement
+Bonjour, madame, est-ce que je peux vous renseigner?
+- Oui, je voudrais essayer la jupe verte qui est dans la vitrine.
+- Oui, madame. Quelle taille faites-vous?
+- Je fais du 42.
+- Voilà, madame. La cabine est au fond à droite.
+
+Quelque minutes après.
+- Alors, ça va? Ça vous plaît?
+- Oui, la couleur me plaît, mais c'est un peu grand.
+- Est-ce que vous voulez essayer le même modèle 40?
+- Oui, s'il vous plaît.
+
+Quelque minutes plus tard.
+- Alors, ça va, la taille?
+- Oui, et la couleur me va bien, mais la forme ne me va pas.
+
+### Acheter des chaussures
+Monsieur, vous désirez?
+- Je voudrais essayer les chaussures noirs, qui sont dans la vitrine.
+- Oui, monsieur, vous faites quelle pointure?
+- Je fais du 41.
+- Je suis désolée, monsieur, je n'ai plus ce modèle dans votre pointure.
+- Qu'est-ce que vous avez dans ma pointure?
+- J'ai un autre modèle, en noir. Vous voulez l'essayer?
+
+Quelque minutes plus tard
+- Alors, ça va?
+- Non, pas vraiment, c'est trop petit. Est-ce que vous avez le même modèle, en 42?
+
+### voca
+- habillé : a. 옷을 입은, 멋진, 격식을 갖춘
+- renseigner : vt. 정보를 제공하다. 가르쳐주다
+- taille : nf. 신장, 키
+- cabine : nf. 작은 공간, 선실
+- fond : nm. 바닥, 깊은 곳
+- au fond : 안쪽
+- la forme ne me va pas : 디자인이 마음에 안들어요.
+- pointure : nf. (신발, 모자 따위의) 치수, 사이즈
+- modèle : nm. 표본, 모형
+
+## page cinquante et un
+1. Décrivez la scène, puis fait le dialogue entre ces deux personnes.
+
+Une dame aux cheveux châtain entre dans la boutique.
+Elle porte une jupe rouge et un haut gris foncé.
+Elle a des chaussures rouges et un sac à main noir.
+Elle montre un pantalon vert qui se trouve dans la vitrine.
+Elle fait une taille 40.
+- Bonjour, madame. Est-ce que je peux essayer le pantalon vert qui est dans la vitrine?
+- Oui, madame, quelle taille faites-vous?
+- Je fais du 40.
+- Voilà, madame. Les cabines sont là-bas!
+
+La dame essaye le pantalon, mais il est trop petit.
+- Alors, ça va?
+- Non, pas vraiment, il est trop petit. Est-ce que vous avez le même modèle en 42?
+- Oui je crois.
+
+La vendreuse a trouvé le pantalon en taille 42.
+- Voici le même modèle, en 42.
+
+2. Choisissez la bonne réponse.
+- (1) Vous prenez / _faites_ quelle pointure?
+- (2) Aujourd'hui, je _suis_ / mets en pantalon.
+- (3) Cette couleur te habille / _va_ bien.
+- (4) Est-ce que je peux avoir / _essayer_ ce costume?
+- (5) Comment tu t'_habilles_ / mets?
+- (6) Je ne mets / _reste_ pas en short, je vais me _changer_ / essayer.
+- (7) Qu'est-ce que vous faites / _avez_ dans ma pointure?
+
+3. Choisissez une ou deux réponses possibles.
+- (1) Tu t'habilles comment?
+  - a. Je vais mettre un pull et un jean.
+- (2) Ça vous plaît?
+  - b. Non, ça ne me plaît pas.
+  - c. Oui, mais c'est un peu petit.
+- (3) Je peux vous renseigner?
+  - a. Oui, je voudrais essayer cette robe.
+  - b. Non merci, je regarde.
+- (4) Ça va, la taille?
+  - a. Non, c'est trop petit.
+  - b. Non, c'est un peu grand.
+- (5) Tu mets des bijoux?
+  - b. Oui, une broche.
+- (6) Il est bien habillé?
+  - a. Oui, il est toujours chic.
+  - c. Non, il est mal habillé.
+
+### voca
+- boutique : nf. 상점, 가게
