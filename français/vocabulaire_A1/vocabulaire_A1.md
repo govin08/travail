@@ -2461,3 +2461,108 @@ La vendreuse a trouvé le pantalon en taille 42.
 
 ### voca
 - boutique : nf. 상점, 가게
+
+# 10. La maison - le logement
+## page cinquante-deux
+### La maison
+지붕, 2층, 벽, 발코니, 1층, 창문, 지하저장고, 계단, 정원
+- le toit
+- le premier étage
+- le mur
+- le balcon
+- le rez-de-chaussée
+- la fenêtre
+- la cave au sous-sol
+- l'escalier
+- le jardin
+
+천장, 화분, 차고, 문, 열쇠, 자물쇠, 바닥
+- le plafond
+- le pot de fleurs
+- le garage
+- la porte
+- la clé
+- la serrure
+- le sol
+
+Remarque: On ne dit pas "sur le sol", mais "par terre": Le livre est tombé par terre.
+
+### Un appartement
+Une maison ou un appartement ont plusieurs pièces.
+
+통로, 화장실, 입구, 욕실, 침실, 부엌, 거실, 응접실(=밥 먹는 곳)
+- un couloir
+- des toilettes
+- une entrée
+- une salle de bains
+- une chambre
+- une cuisine
+- un salon
+- une salle de séjour = une salle à manger
+
+### voca
+- sous-sol : 지하
+- séjour : 체류, 거주
+
+헷갈리는 단어
+- porte : 문
+- port : 항구
+- pont : 다리
+- plafond : 천장
+- placard : 벽장
+
+## page cinquante-trois : exercices
+1. Choisissez la bonne réponse.
+- (1) On dort dans _la chambre_.
+- (2) On met la voiture dans _le garage_.
+- (3) On ouvre la porte avec _une clé_.
+- (4) On mange dans _la salle à manger_.
+- (5) On regarde la télévision dans _le salon_.
+- (6) On se lave dans _la salle de bains_.
+
+2. Replacez les mots suivants dans les phrases.
+- (1) Pauline a mis des fleurs sur son _balcon_.
+- (2) La maison a une grande _cave_ au sou-sol.
+- (3) Les enfants jouent dans dans leur _chambre_.
+- (4) Je préfare le dîner dans la _cuisine_.
+- (5) Il fait chaud, nous ouvron la _fenêtre_.
+- (6) La voiture est dans le _garage_.
+
+3. Éliminez l'intrus.
+- (1) salle de bains / _couloir_ / toilettes
+- (2) salle à manger / salon / _chambre_
+- (3) _toit_ / cave / sou-sol
+- (4) mur / _cuisine_ / plafond
+- (5) _jardin_ / entrée / couloir
+- (6) fenêtre / _cuisine_ / porte
+- (7) _sol_ / clé / serrure
+
+4. Vrai ou faux?
+- (1) On marche sur le plafond. : F
+- (2) On met la clé dans la serrure. : V
+- (3) Il y a un couloir à l'extérieur de la maison. : F
+- (4) Nous avons mis la voiture dans la chambre. : F
+- (5) La cave se trouve au troisième étage. : F
+- (6) Il a mis des fleurs sur son balcon. : V
+- (7) Le toit se trouve au rez-de-chaussée. : F
+
+5. "La maison de mes rêves" : replacez les mots suivants dans le texte.
+
+"
+J'imagine ma maison avec un _rez-de-chaussée_ et un étage.
+Au sous-sol, il y a une _cave_ et un _garage_.
+J'aimerais une grande _salle de séjour_ avec beaucoup de _fenêtres_ qui ouvrent sur le _jardin_...
+J'aimerais aussi quatre _chambres_, une pour nous, une pour Alexandre, une pour Sophie et une pour les amis.
+Il faut bien sûr quatre belles _salles de bains_.
+Ah, j'oublie la _cuisine_: je la voudrais assez grand aussi, car j'adore faire la cuisine.
+"
+
+### voca
+- trouver : vp. 있다, 존재하다
+- chaussée : 도로, 차도, 둑, 제방
+- rêve : nm. 꿈
+- car : 왜냐하면
+- qui ouvrent sur le jardin : 정원으로 열리는
+
+remarque:
+- cuisine은 부엌이라는 뜻도 있고 요리라는 뜻도 있다.
