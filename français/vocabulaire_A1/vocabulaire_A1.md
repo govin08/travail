@@ -2566,3 +2566,103 @@ Ah, j'oublie la _cuisine_: je la voudrais assez grand aussi, car j'adore faire l
 
 remarque:
 - cuisine은 부엌이라는 뜻도 있고 요리라는 뜻도 있다.
+
+## page cinquante-quatre
+### Quelques meubles dans le salon
+커튼, 그림, 쇼파, 쿠션, 낮은 탁자, 카펫, 안락의자
+- des rideaux
+- un tableau
+- un canapé
+- un coussin
+- une table basse
+- un tapis
+- un fauteuil
+
+꽃다발, 꽃병, 선반, 포스터, 서랍장, 탁자, 의자
+- un bouquet de fleurs
+- un vase
+- une étagère
+- une affiche
+- une commode
+- une table
+- une chaise
+* un calendrier (달력)
+
+### Dans la cuisine
+벽장(붙박이장), 개수대, 가스레인지, 오븐, 냉동고, 식기세척기, 세탁기, 냉장고
+- un placard
+- un évier
+- une cuisinière
+- un four
+- un congélateur
+- un lave-vaisselle
+- un lave-linge (machine à laver)
+- un réfrigérateur (un frigo)
+
+### Dans la chambre
+램프, 베개, 시트, 차렵이불, 카펫, 자명종, 옷장, 라디에이터, 담요, 침대
+- une lampe
+- un oreiller
+- des draps
+- une couette
+- la moquette
+- un réveil qui sonne
+- une armoire
+- un radiateur
+- une couverture
+- un lit
+
+### voca
+- linge : nm. 세탁물
+- vaisselle : nf. 식기류 (설거지거리)
+- réveil : nm. 기상, 잠깨기, 자명종
+
+## page cinquante-cinq
+1. Choisissez la réponse correcte.
+- (1) Il est 7 heures du matin, _le réveil_ / la lampe sonne.
+- (2) Dans la chambre, il y a des tables / _tableaux_ au mur.
+- (3) Elle lave une assiette dans l'_évier_ / oreiller.
+- (4) Il y a six _chaises_ / fauteuils autour de la table.
+- (5) Nous avons mis les livres sur la chaise / _table basse_
+- (6) Il y a beaucoup de tapis / _coussins_ sur le canapé.
+
+2. Replacez les mots suivants dans les phrases.
+- (1) Je lis mon journal dans le _fauteuil_.
+- (2) Je lave les légumes dans l'_évier_.
+- (3) Je prends un livre sur l'_étagère_.
+- (4) Je pose mon café sur la _table_ basse.
+- (5) J'ouvre le _frigo_ pour prendre du lait.
+- (6) Je mets les assiettes dans le _placard_.
+- (7) Il est 23 heures, je vais au _lit_.
+
+3. Vrai ou faux?
+- (1) Il y a un évier dans la chambre. / F
+- (2) Il y a des draps aux fenêtre. / F
+- (3) L'oreiller se trouve sur le lit. / V
+- (4) Les étagère sont dans le jardin. / F
+- (5) La commode est un meuble. / V
+- (6) Le lit est dans la chambre. / V
+- (7) Le canapé est dans la cuisine. / F
+- (8) La mosquette est sur le lit. / F
+
+4. Choisissez deux réponses à chaque question.
+- (1) Vous avez des légumes?
+  - a. Oui, dans le congélateur
+  - c. Oui, dans le frigo.
+- (2) Vous lisez un livre?
+  - a. Oui, dans mon fauteuil.
+  - b. Oui, dans ma chambre.
+- (3) Où est le vase à fleurs?
+  - a. Dans le salon.
+  - c. Sur la table basse.
+- (4) Vous avez des rideaux?
+  - b. Oui, aux fenêtres.
+  - c. Oui, dans la chambre.
+
+### voca
+- journal : nm. 일기, 신문
+- aller au lit : 잠자리에 들다
+
+헷갈리는 단어
+- oreille : nf. 귀
+- oreiller : nf. 배게
