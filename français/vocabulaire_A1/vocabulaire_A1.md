@@ -2666,3 +2666,113 @@ remarque:
 헷갈리는 단어
 - oreille : nf. 귀
 - oreiller : nf. 배게
+
+## page cinquante-six
+### Dans la salle de bains
+샤워기, 욕조, 비데, 거울, 세면대, 비누, 수건
+- une douche
+- une baignoire
+- un bidet
+- un miroir
+- un lavabo
+- un savon
+- une serviette de toilette
+
+### Habiter dans un appartement
+Alexandre habite au quatrième étage d'un immeuble moderne.
+Tous les jours, il éteint la lumière avant de partir.
+Il ferme sa porte à clé, puis il prend l'escalier pour descendre au rez-de-chaussée.
+
+Le soir, quand il rentre, il ouvre sa boîte aux lettres pour prendre son courrier.
+Il est fatigué, alors il prend l'ascenseur pour monter au quatrième.
+Il ouvre sa porte et allume la lumière.
+
+Dans la semaine, il reste à la maison (=il reste chez lui), mais le samedi, il sort.
+
+Quelquefois, il reçoit(=invite) des amis à la maison.
+
+Son amie Corinne frappe à la porte, parce que la sonnette ne marche pas.
+Normalement, Corinne sonne à la porte.
+
+Alexandre n'a pas acheté son appartement, il loue son appartement: il est locataire, il n'est pas propriétaire.
+Tous les mois, il paye un loyer.
+Bien sûr, il doit aussi payer les factures d'électricité, de téléphone ...
+
+Il aime bien son deux-pièces, mais il voudrait déménager dans un appartement plus grand et plus confortable.
+Il va demander des renseignement à une agence immobilière.
+
+Remarque sociologique:
+En 2010, plus de 57% des Français étaient propriétaires de leur habitation.
+
+### voca
+- éteindre : vt. 끄다
+- lumière : nf. 빛, 햇빛, 조명, 등불
+- puis : 그리고 나서, 그 후에
+- boîte aux lettres : 우편함
+- courrier : nm. 우편물, 편지
+- recevoir : vt. 초대하다, 접견하다, 대접하다
+- sonnette : nf. 초인종
+* sonnet : n. 소네트 (정형 시)
+- sonner à la porte : (문 앞에서) 초인종을 울리다
+- locataire : n. 하숙인, 임차인
+- propriétaire : n. 집주인, 부동산 소유자, 지주
+- loyer : nm. 집세, 임대료
+- facture : nf. 청구서, 납품서
+- déménager : vt. 옮기다, 이사하다
+- renseignement : nm. 정보, 자료
+* renseigner : vt. 가르쳐주다, 정보를 제공하다
+- agence immobilière : 복덕방, 부동산
+
+## page cinquante-sept
+1. Dans quelle(s) pièce(s) de la maison trouve-t-on.
+- (1) un canapé - le salon
+- (2) un évier - la cuisine
+- (3) un lavabo - la salle de bains
+- (4) un four - la cuisine
+- (5) un frigo - la cuisine
+- (6) un lit - la chambre
+- (7) un oreiller - la chambre
+- (8) une douche - la salle de bains
+- (9) un coussin - le salon
+- (10) un fauteuil - le salon
+
+2. Répondez par le contaire.
+- (1) Est-ce qu'il ouvre la porte?
+  - Non, il la ferme.
+- (2) Est-ce qu'elle allume la lumière?
+  - Non, elle l'éteint
+- (3) Est-ce qu'il est propriétaire de son appartement?
+  - Non, il est locataire.
+- (4) Est-ce qu'elle sort, ce soir?
+  - Non, elle reste chez elle.
+- (5) Est-ce que l'ascenseur descend?
+  - Non, il monte.
+
+3. Choisissez la meilleure explication.
+- (1) Il est propriétaire d'une maison.
+  - b. Il a acheté une maison.
+- (2) Elle reste chez elle.
+  - a. Elle ne sort pas.
+- (3) Ils vont déménager.
+  - b. Ils vont changer de maison.
+- (4) Elle prend l'escalier.
+  <!-- - a. Elle descend l'escalier. -->
+  - b. Elle ne prend pas l'ascenseur.
+- (5) Il sonne à la porte.
+  - b. La sonnette marche.
+
+4. À vous! Répondez librement aux questions par des phrases complètes.
+- (1) Est-ce que vous habitez dans une maison ou un appartement?
+  - J'habite dans un appartement.
+- (2) Est-ce que vous êtes locataire ou propriètaire?
+  - Je suis propriètaire.
+- (3) Comment est votre chambre?
+  - Il y a une table et une chaise dans ma chambre et il y a un ordinateur sur la table.
+- (4) Est-ce que vous préferez vivre dans une habitation ancienne ou moderne? Pourquoi?
+  - Je préfère une habitation moderne parce que c'est plus commode.
+- (5) Est-ce que vous voulez déménager? Pourquoi?
+  - Non, j'aime mon appartement.
+- (6) En général, est-ce que vous recevez souvent des amis à la maison?
+  - Non, je ne reçois mes amis que parfois.
+- (7) Le week-end, vous sortez beaucoup ou vous restez à la maison.
+  - Normalement, je reste chez moi mais je sors parfois.
