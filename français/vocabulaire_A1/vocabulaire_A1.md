@@ -2140,7 +2140,7 @@ remarques:
 - intrus : n. 불청객, 제외시킬 것
 → ← ↔
 
-# 9. Les vêtements - les couleurs
+# 9. Les Vêtements - Les Couleurs
 
 ## page quarante-six
 On peut-être habillé(e) ou, au contraire, nu(e).
@@ -2462,7 +2462,7 @@ La vendreuse a trouvé le pantalon en taille 42.
 ### voca
 - boutique : nf. 상점, 가게
 
-# 10. La maison - le logement
+# 10. La Maison - Le Logement
 ## page cinquante-deux
 ### La maison
 지붕, 2층, 벽, 발코니, 1층, 창문, 지하저장고, 계단, 정원
@@ -2776,3 +2776,86 @@ En 2010, plus de 57% des Français étaient propriétaires de leur habitation.
   - Non, je ne reçois mes amis que parfois.
 - (7) Le week-end, vous sortez beaucoup ou vous restez à la maison.
   - Normalement, je reste chez moi mais je sors parfois.
+
+# 11. Les Activitiés Quotidiennes
+## page cinquante-huit
+### Le matin et le soir
+#### Le matin
+- Le réveil sonne à 7 heures.
+- Léa allume la lampe.
+- Jean et Léa se lèvent.
+- Ils s'habillent.
+- Jean accompagne les enfants à l'école.
+- Léa part de la maison, elle part au travail.
+- Les enfants déjeunent à la cantine de l'école.
+
+#### Le soir
+- Léa va chercher les enfants à l'école.
+- Jean rentre à la maison, il rentre du travail.
+- La famille dîne.
+- Ils se déshabillent.
+- Jean et Léa se couchent.
+- Jean met le réveil à 7 heures.
+- Léa éteint la lampe.
+
+### Les activitiés dans la journée
+Est-ce que vous écoutez la radio le matin?
+- Oui, j'allume la radio pour écouter les informations / les nouvelles.
+- Qu'est-ce que vous faites, quand vous rentrez le soir?
+- D'abord, j'ouvre mon courrier
+Ensuite je passe du temps sur mon ordinateur!
+Je lis les journaux sur internet, je regarde/lis mes mails (=courriers électroniques)...
+Bien sûr, je consulte mon répondeur (=j'écoute les messages), je passe quelques coup de fil (=je téléphone à des personnes) ...
+- Quand est-ce que vous faites les courses?
+- Le samde, en général.
+- Qui fait le ménage à la maison, vous ou Léa?
+- Euh... Nous deux, bien sûr.
+
+### voca
+- quotidien : 매일의, 일상의
+* hebdomadaire : 매주의, 일주일에 한 번씩의
+- accompagner : vt. 동반하다, 수행하다, 인솔하다
+- partir de : ~를 떠나가다
+- partir à : ~를 향해 가다
+- cantine : nf. 간이식당, 구내식당
+- coucher : vp. 눕다, 자다.
+- courrier : nm. 우편물, 편지
+- ensuite : 그리고 나서 (puis)
+- consulter le répondeur : 응답기를 확인하다
+- coup de fil : 전화, 통화 (←전선 한 번)
+- coup : 한 번, 때림, 부딪침
+- fil : 전선, 실, 줄
+- faire le ménage : 청소하다
+
+## page cinquante-neuf
+1. Assosiciez pour constituter une phrase complète.
+- (1) Elle regarde _la télévision_.
+- (2) Nous écoutons _la radio_.
+- (3) Ils lisent _le journal_.
+- (4) Tu fais _le ménage_.
+- (5) Elle part _au travail_.
+- (6) Je rentre _à la maison_.
+- (7) Il consulte _son répondeur_.
+
+2. Choisissez la bonne réponse.
+- (1) À 8 heure du matin, Léon _accompagne_ les enfants à l'école.
+- (2) À quelle heure est-ce que vous _partez_ de la maison, le matin?
+- (3) Le soir, nous _dînons_ ensemble.
+- (4) Le réveil _sonne_ à 6h 30.
+- (5) Je suis fatigué, je vais _me coucher_.
+- (6) À Quelle heure est-ce que vous mettez le réveil?
+- (7) Le matin, Angélique _éteint_ les lampes avant de partir.
+
+3. Choisissez la bonne réponse.
+- (1) Qu'est-ce que vous regardez?
+  - a. la télévision
+- (2) Vous consultez votre répondeur?
+  - a. Oui, j'écoute mes messages.
+- (3) Qu'est-ce que vous faites?
+  - a. Les courses.
+- (4) Qu'est-ce que vous allumez?
+  - b. La radio.
+- (5) Vous dînez à quelle heures?
+  - b. À 20 heures.
+- (6) Vous lisez le journal?
+  - b. Non, j'écoute la radio.
