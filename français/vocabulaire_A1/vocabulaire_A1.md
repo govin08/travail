@@ -2859,3 +2859,8 @@ Bien sûr, je consulte mon répondeur (=j'écoute les messages), je passe quelqu
   - b. À 20 heures.
 - (6) Vous lisez le journal?
   - b. Non, j'écoute la radio.
+
+## page soixante
+### Se préparer
+Le matin, Léa se prépare.
+Elle fait sa toilette: elle se lave avec du savon, elle prend une douche ou un bain.
