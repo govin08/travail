@@ -2863,4 +2863,104 @@ Bien sûr, je consulte mon répondeur (=j'écoute les messages), je passe quelqu
 ## page soixante
 ### Se préparer
 Le matin, Léa se prépare.
-Elle fait sa toilette: elle se lave avec du savon, elle prend une douche ou un bain.
+Elle fait sa toilette: elle se lave avec du savon, elle prend une douche ou un bain, 
+
+elle se lave les cheveux avec du shampooing.
+
+elle se sèche les cheveux avec un séche-cheveux.
+
+elle se brosse (=se lave) les dents avec du dentifrice et une brosse à dents.
+
+Ensuite, elle se maquille.
+Maintenant, elle est prête.
+
+Jean se rase avec un rasoir et de la mousse à raser.
+
+Remarque grammaticale:
+Notez la structure "je me brosse les dents"; "il se lave les cheveux".
+
+### Faire le ménage
+Léa fait la vaisselle, car elle n'a pas de lave-vaisselle.
+
+Jean passe l'aspirateur.
+
+Elle nettoie la salle de bains.
+
+Jean fait le lit.
+
+Léa fait les vitres.
+
+Elle fait la lessive: elle met le linge à laver dans le lave-linge (=la machine à laver)
+
+Elle lave à la main certain vêtements.
+
+Jean fait du repassage: il repasse un pantalon.
+
+Il pile le linge.
+
+Il le range dans les placard.
+
+### voca
+- shampooing : 샴푸
+- sécher : vt. 말리다
+- séche-cheveux : 헤어 드라이기
+- dentifrice : nf. 치약
+- brosse à dents : 칫솔
+- maquiller : vt. 화장시키다, vp. 화장하다
+- raser : vt. 깎다, 베다 vp. 면도하다
+- rasoir : nm. 면도칼, 면도기
+- mousse : nf. 이끼, 거품, 기포
+- aspirateur : nm. 진공청소기
+- aspirer : vt. 열망하다, 갈망하다, 들이마시다, 빨아들이다
+- passer l'aspirateur : 청소기를 돌리다
+- faire le lit : 침대를 정돈하다
+- vitre : 판유리, 창유리
+* vitrine : 진열창, 쇼윈도
+- faire les vitres : 창문을 닦다
+- lessive : nf. 세제, 세탁물
+- faire la lessive : 빨래를 하다
+- linge : 세탁물
+- lave-linge : 세탁기
+- repassage : nm. 다림질
+- faire du repassage : 다림질을 하다
+- plier : vt. 접다, 정리하다
+
+## page soixante et un : exercices
+1. Dites si la personne fait sa toillette(T) ou le ménage(M).
+- Corine passe l'aspirateur. / M
+- Félix se rase. / T
+- Anne se lave les cheveux. / T
+- Catherine fait les vitres. / M
+- Alexandre fait la vaisselle. / M
+- Aline se maquille. / T
+- Marc repasse sa chemise. / M
+- Sami se brosse les dents. / T
+
+2. Choisissez la bonne réponse.
+- (1) Je _passe_ / fais l'aspirateur.
+- (2) Il _fait_ / nettoie la lessive.
+- (3) Elle passe / _repasse_ une chemise.
+- (4) Il se sèche / _se brosse_ les dents.
+- (5) Elle _plie_ / passe le linge.
+- (6) Il _lave_ / se lave un T-shirt.
+
+3. Complétez par les expressions suivantes.
+- (1) Je passe l'aspirateur / un coupe de fil / du temps sur internet.
+- (2) Il fait la lessive / sa toilette / la vaisselle / le lit / les courses.
+- (3) Elle met le le réveil à 6h30 / linge dans la machine.
+- (4) Je prends un bain / une douche .
+- (5) Ils rentrent à la maison / du travail.
+- (6) Elle se lave les cheveux / les dents.
+
+4. Remettez le texte suivant dans un ordre logique.
+- f. Le réveil sonne.
+- c. Pauline se lève.
+- g. Elle prend une douche.
+- a. Elle se lave les cheveux.
+- e. Elle se sèche les cheveux.
+- d. Elle s'habille.
+- h. Elle se maquille.
+- b. Elle part au travail.
+
+### voca
+- logique : a. 논리적인
