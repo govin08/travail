@@ -2964,3 +2964,101 @@ Il le range dans les placard.
 
 ### voca
 - logique : a. 논리적인
+
+## page soixante-deux
+### Les objets quotidiens
+Il y a beaucoup de choses dans le sac à main de Lise!
+
+볼펜, 열쇠, 아기사진, (지폐)지갑, 다이어리(메모장), 수첩, 연필, 화장지묶음
+- un stylo
+- des clés
+- des photos de bébé
+- un portefeuille
+- un agenda
+- un carnet
+- un crayon
+- un paquet de mouchoirs en papier
+
+선글라스, (동전)지갑, 소형우산, 빗, 화장품 파우치, 수표책, 휴대폰, 버스/지하철의 승차권
+- des lunettes de soleil
+- un porte-monnaie
+- un petit-parapluie
+- un peigne
+- une trousse de maquillage
+- un chéquier
+- un téléphone mobile (=un portable)
+- des tickets de bus ou de métro
+
+### Quelques objets utiles à la maison
+전구, 가위, 재활용지, 편지지와 봉투, 성냥갑과 라이터
+- une ampoule électrique
+- une paire de ciseaux
+- du papier recyclé
+- du papier à lettres et des enveloppes
+- une boîte d'allumettes et un briquet
+
+지우개(고무), 연필깎이, 상자, 초, 비닐봉지
+- une gomme
+- un taille-crayon
+- une boîte
+- une bougie
+- un sac en plastique
+
+### voca
+- sac à main : 손가방, 핸드백
+- mouchoir : nm. 손수건
+- mouchoir en papier : 화장지, 티슈
+- trousse : nf. 상자, 케이스
+- maquillage : nm. 화장
+- chèque : nm. 수표
+- ampoule : nf. 전구
+- allumette : nf. 성냥
+- briquet : nm. 라이터
+
+## page soixante-trois : exercices
+1. Éliminez l'intrus.
+- (1) portefeuille / _peigne_ / porte-monnaie
+- (2) _chéquier_ / carnet / agenda
+- (3) papier / _clé_ / stylo
+- (4) ampoule / bougie / _sac_
+- (5) _parapluie_ / crayon / gomme
+- (6) allumettes / briquet / _trousse_
+- (7) peigne / trousse de maquillage / _papier à lettres_
+
+2. De quel(s) objet(s) a-t-on besoin pour
+- (1) allumer une bougie?
+  - des allumettes ou un briquet
+- (2) se moucher?
+  - un mouchoir en papier
+- (3) prendre le bus?
+  - des tickets de bus
+- (4) mettre les cartes de crédit?
+  - un portefeuille
+- (5) couper du papier?
+  - une paire de ciseaux
+- (6) mettre les produits de maquillage?
+  - une trousse de maquillage
+
+3. Devinez de quel objet on parle.
+- (1) Je les mets s'il y a beucoup de soleil.
+  - les lunettes de soleil
+- (2) Je les utilise pour ouvrir ma porte
+  - les clés
+- (3) Je le prends s'il pleut
+  - le parapluie
+- (4) C'est commode pour téléphoner dans la rue.
+  - le téléphone mobile (=le portable)
+- (5) Je mets une lettre dans cet objet.
+  - une enveloppe
+- (6) J'écris avec cet objet
+  - un stylo ou un crayon
+- (7) J'en achète pour mettre sur un gâteau d'anniversaire.
+  - des bougies
+- (8) Tous mes rendez-vous sont notés dans cet objet.
+  - un agenda
+
+### voca
+- moucher : vt. 코를 풀다
+- deviner : vt. 점치다, 예언하다, 추측하다, 짐작하다
+- commode : a. 편리한, 적합한
+- noter : vt. 메모하다, 적다
