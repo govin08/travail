@@ -3057,8 +3057,31 @@ Il y a beaucoup de choses dans le sac à main de Lise!
 - (8) Tous mes rendez-vous sont notés dans cet objet.
   - un agenda
 
+4. Replacez les mots suivants dans le texte.
+
+Un matin, comme les autres
+- Bastien, tu es _prêt_?
+- Oui, maman, presque!
+Je _me lave_ les dents et j'arrive!
+- Estelle, tu viens?
+- Oui, maman, je _me maquille_ et j'arrive!
+- Chéri, viens! Nous allons être en retard!
+- Oui, ma chérie je finis de _me raser_ et j'arrive!
+- Je ne trouve pas mes _clés_!
+- Elles sont dans ton _sac à main_, ma chérie.
+Est-ce que tu as vu mon _téléphone_ mobile, par hassrd?
+- Je crois qu'il est sur la table, avec ton _agenda_.
+Estelle, est-ce que tu as fini de _te préparer_?
+Il est 8 heures
+
+
 ### voca
 - moucher : vt. 코를 풀다
 - deviner : vt. 점치다, 예언하다, 추측하다, 짐작하다
 - commode : a. 편리한, 적합한
 - noter : vt. 메모하다, 적다
+- comme les autres : 다른 사람들처럼
+- presque : 거의
+- j'arrove : 곧 가요
+- hasard : 우연
+- par hasard : 혹시, 우연히
