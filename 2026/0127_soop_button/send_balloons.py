@@ -24,7 +24,9 @@ def send_balloons(monitor_idx:int, num:str):
     pyautogui.press('tab', presses=3, interval=0.1)
     pyautogui.press('enter')
 
+keyboard.add_hotkey('F5', lambda: send_balloons(1, "10"))
 keyboard.add_hotkey('F6', lambda: send_balloons(1, "5"))
+keyboard.add_hotkey('F7', lambda: send_balloons(2, "10"))
 keyboard.add_hotkey('F8', lambda: send_balloons(2, "5"))
 
 keyboard.wait()  # 프로그램이 계속 실행되도록 유지
