@@ -6,7 +6,7 @@ import keyboard
 print('sending is now ready.')
 
 x1, y1 = -517, 884
-x2, y2 = 1317, 896
+x2, y2 = 1317, 860
 button_positions = {1:(x1,y1), 2:(x2,y2)}
 
 def send_balloons(monitor_idx:int, num:str):
