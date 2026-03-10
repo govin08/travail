@@ -18,6 +18,6 @@ def tavern(n_towns:int):
         pydirectinput.press('t', interval=0.1)
     pydirectinput.press('enter', interval=0.1)
 
-keyboard.add_hotkey('F9', lambda: tavern(args.n_towns))
+keyboard.add_hotkey('F6', lambda: tavern(args.n_towns))
 
 keyboard.wait()
