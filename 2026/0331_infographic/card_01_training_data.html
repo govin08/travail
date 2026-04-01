@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>01 훈련데이터 수집</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;600;700;900&family=Orbitron:wght@700;900&display=swap');
+
+  :root {
+    --glass: rgba(10, 25, 50, 0.85);
+    --glass_transparent: rgba(10, 25, 50, 0.45);  /* ← 0.85 → 0.45 로 낮추기 */
+    --glass-border: rgba(100, 180, 255, 0.25);
+  }
+
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+
+  body {
+    font-family: 'Noto Sans KR', sans-serif;
+    background: #0d1b2a; /* ← 배경색: 원하는 색으로 바꾸세요 */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    padding: 40px;
+  }
+
+  /* ── 카드 공통 ── */
+  .card {
+    background: var(--glass_transparent);
+    border: 1px solid var(--glass-border);
+    border-radius: 10px;
+    backdrop-filter: blur(10px);
+    overflow: hidden;
+    width: 300px; /* ← 카드 너비: 숫자 바꾸면 크기 조절 */
+  }
+
+  .card-header {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding: 10px 16px;
+    font-size: 15px;
+    font-weight: 700;
+    color: #fff;
+    letter-spacing: 0.5px;
+    background: linear-gradient(90deg, #1a3a5c, #1f618d88);
+    border-bottom: 1px solid var(--glass-border);
+  }
+
+  .card-header .num {
+    font-family: 'Orbitron', sans-serif;
+    font-size: 11px;
+    background: rgba(255,255,255,0.12);
+    border-radius: 4px;
+    padding: 2px 7px;
+    letter-spacing: 2px;
+  }
+
+  .card-body {
+    padding: 16px 18px;
+  }
+
+  /* ── 데이터 아이템 ── */
+  .data-items {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+  }
+
+  .data-item {
+    display: flex;
+    align-items: center;
+    gap: 14px;
+    padding: 10px 14px;
+    background: rgba(255,255,255,0.12);
+    border: 1px solid rgba(255,255,255,0.08);
+    border-radius: 6px;
+  }
+
+  .data-icon {
+    font-size: 22px;
+    width: 36px;
+    text-align: center;
+    flex-shrink: 0;
+  }
+
+  .data-info { flex: 1; }
+
+  .d-title {
+    font-size: 13px;
+    font-weight: 700;
+    color: #fff;
+  }
+
+  .d-sub {
+    font-size: 11px;
+    color: rgba(255,255,255,0.5);
+    margin-top: 1px;
+  }
+
+  /* ── 뱃지 ── */
+  .data-badge {
+    font-size: 10px;
+    font-family: 'Orbitron', sans-serif;
+    padding: 2px 8px;
+    border-radius: 3px;
+    letter-spacing: 1px;
+    font-weight: 700;
+  }
+
+  .badge-blue  { background: rgba(41,128,185,0.25); color: #5dade2; border: 1px solid rgba(41,128,185,0.4); }
+  .badge-red   { background: rgba(192,57,43,0.25);  color: #e74c3c; border: 1px solid rgba(192,57,43,0.4); }
+  .badge-green { background: rgba(39,174,96,0.25);  color: #27ae60; border: 1px solid rgba(39,174,96,0.4); }
+</style>
+</head>
+<body>
+
+  <div class="card">
+    <div class="card-header">
+      <span class="num">01</span>
+      훈련데이터 수집
+    </div>
+    <div class="card-body">
+      <div class="data-items">
+
+        <!-- 항목 1: 정형 데이터 -->
+        <div class="data-item">
+          <div class="data-icon">🗄️</div>
+          <div class="data-info">
+            <div class="d-title">정형 데이터</div>
+            <div class="d-sub">교전 기록, 위치, 상태</div>
+          </div>
+          <div class="data-badge badge-blue">DB</div>
+        </div>
+
+        <!-- 항목 2: 지휘소 음성 -->
+        <div class="data-item">
+          <div class="data-icon">🎙️</div>
+          <div class="data-info">
+            <div class="d-title">지휘소 음성</div>
+            <div class="d-sub">작전 명령, 상황 보고 음성</div>
+          </div>
+          <div class="data-badge badge-red">STT</div>
+        </div>
+
+        <!-- 항목 3: 관찰일지 -->
+        <div class="data-item">
+          <div class="data-icon">📋</div>
+          <div class="data-info">
+            <div class="d-title">관찰일지</div>
+            <div class="d-sub">관측 기록, 피해 보고서</div>
+          </div>
+          <div class="data-badge badge-green">OCR</div>
+        </div>
+
+      </div>
+    </div>
+  </div>
+
+</body>
+</html>
