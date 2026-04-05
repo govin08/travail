@@ -5,7 +5,7 @@ import keyboard
 
 print('sending is now ready.')
 
-x1, y1 = -517, 775
+x1, y1 = -508, 782
 x2, y2 = 1314, 759
 button_positions = {1:(x1,y1), 2:(x2,y2)}
 
