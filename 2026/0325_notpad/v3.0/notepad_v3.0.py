@@ -1,9 +1,9 @@
 # v2 : Ctrl+F 기능 추가, Ctrl+H -> Ctrl+R
 # v2.1 : 서식 -> 보기, 글꼴항목 없애기, 확대 및 축소 기능
-# v3.0 : PyQt6 사용 (기존 : tkinter)
 # - 파일 작업 / 편집 / 찾기·바꾸기 / 보기(확대축소·자동줄바꿈)
 # - 한글 IME 완전 지원 (QTextEdit 기반)
 # - 상태표시줄 (줄·열·문자수)
+# v3.0 : PyQt6 사용 (기존 : tkinter)
 
 import sys
 import os
