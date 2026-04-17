@@ -2,7 +2,7 @@ import pyautogui
 import time
 import keyboard
 # import pyperclip
-
+# x=1313, y=759
 print('sending is now ready.')
 
 x1, y1 = -508, 782
