@@ -5,6 +5,7 @@ from PyQt6.QtCore import Qt
 
 class Cahier(QMainWindow):
     BASE_FONT_SIZE = 11
+
     def __init__(self):
         super().__init__()
         self.current_file: str | None = None
@@ -22,11 +23,11 @@ class Cahier(QMainWindow):
     # ── UI 구성 ──────────────────────────────
 
     def _build_editor(self):
-        self.editor = QTextEdit()
+        self.editor = QTextEdit(self)
         self.editor.setFont(QFont(self.font_family, self.font_size))
         self.editor.setLineWrapMode(QTextEdit.LineWrapMode.WidgetWidth)
         self.setCentralWidget(self.editor)
-        
+
         self.editor.document().contentsChanged.connect(self._on_modified)
         self.editor.cursorPositionChanged.connect(self._update_status)
 
@@ -35,7 +36,7 @@ class Cahier(QMainWindow):
         mb = self.menuBar()
 
         # ── 파일
-        fm = mb.addMenu("파일")
+        fm = mb.addMenu("파일(&F)")
         fm.addAction(self._act("새로 만들기(&N)", "Ctrl+N", self.new_file))
         fm.addAction(self._act("열기(&O)...",     "Ctrl+O", self.open_file))
         fm.addAction(self._act("저장(&S)",        "Ctrl+S", self.save_file))
