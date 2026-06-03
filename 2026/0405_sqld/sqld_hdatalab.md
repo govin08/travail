@@ -458,8 +458,6 @@
 
 ![](C:\Users\sjkim\AppData\Roaming\marktext\images\2026-04-06-20-39-10-image.png)![](C:\Users\sjkim\AppData\Roaming\marktext\images\2026-04-06-20-38-59-image.png)
 
-
-
 ## 1-5. 식별자
 
 ### 식별자 개념
@@ -611,8 +609,6 @@
 논리 모델링에서 **식별자**는 물리 모델링에서 **Key**로 구현되며, Key는 데이터의 식별, 무결성, 관계 설정에 중요한 역할을 함
 
 ![](C:\Users\sjkim\AppData\Roaming\marktext\images\2026-04-06-21-16-44-image.png)
-
-
 
 ### 식별자 표기법
 
