@@ -6,7 +6,7 @@ import keyboard
 print('sending is now ready.')
 
 x1, y1 = -508, 782
-x2, y2 = 1314, 759
+x2, y2 = 1315, 756
 button_positions = {1:(x1,y1), 2:(x2,y2)}
 
 def send_balloons(monitor_idx:int, num:str):
@@ -21,7 +21,7 @@ def send_balloons(monitor_idx:int, num:str):
 
     keyboard.write("잘 들었습니다.")
 
-    pyautogui.press('tab', presses=3, interval=0.1)
+    pyautogui.press('tab', presses=2, interval=0.1)
     pyautogui.press('enter')
 
 keyboard.add_hotkey('F6', lambda: send_balloons(1, "5"))
