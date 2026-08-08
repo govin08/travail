@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<title>주말 시간표</title>
+<style>
+  :root{
+    --ink:#23231f; --muted:#8a8880; --line:#e7e5dd; --page:#fff;
+  }
+  *{box-sizing:border-box}
+  body{
+    margin:0; padding:40px 20px;
+    background:var(--page); color:var(--ink);
+    font-family:"Pretendard","Apple SD Gothic Neo","Malgun Gothic",system-ui,sans-serif;
+    -webkit-font-smoothing:antialiased;
+  }
+  #sheet{max-width:760px;margin:0 auto}
+  h1{font-size:30px;font-weight:700;text-align:center;margin:0 0 28px;letter-spacing:-.02em}
+  table{width:100%;border-collapse:collapse;table-layout:fixed}
+  th{
+    font-size:17px;font-weight:700;padding:0 0 12px;
+    border-bottom:2px solid #b9b7ae;
+  }
+  th.t{color:var(--muted);font-weight:500;width:88px}
+  td{height:46px;border-bottom:1px solid var(--line);padding:0;vertical-align:middle}
+  td.t{color:var(--muted);font-size:14px;text-align:center;border-bottom:none}
+  td.day{border-left:1px solid var(--line)}
+  tr:last-child td{border-bottom:2px solid #b9b7ae}
+  .blk{
+    height:100%;margin:3px 6px;border-radius:10px;
+    display:flex;flex-direction:column;align-items:center;justify-content:center;gap:2px;
+  }
+  .blk b{font-size:19px;font-weight:700}
+  .blk span{font-size:14px;opacity:.8}
+  @media print{body{padding:0}}
+</style>
+</head>
+<body>
+<div id="sheet"></div>
+
+<script>
+/* ─────────── 여기만 고치면 됩니다 ─────────── */
+
+const 시작 = 9;      // 표의 시작 시각
+const 끝   = 21;     // 표의 끝 시각
+
+const 수업 = [
+  // 요일: "토" 또는 "일"
+  { 요일:"토", 시작:9,  끝:11, 이름:"태형", 과목:"미적분1", 색:"보라" },
+  { 요일:"토", 시작:11, 끝:13, 이름:"진하", 과목:"미적분2", 색:"초록" },
+  { 요일:"토", 시작:19, 끝:21, 이름:"용훈", 과목:"확률과통계", 색:"주황" },
+
+  { 요일:"일", 시작:11, 끝:12, 이름:"진하", 과목:"미적분2", 색:"초록" },
+  { 요일:"일", 시작:13, 끝:15, 이름:"태형", 과목:"미적분1", 색:"보라" },
+  { 요일:"일", 시작:19, 끝:21, 이름:"용훈", 과목:"확률과통계", 색:"주황" },
+];
+
+// 쓸 수 있는 색: 보라, 초록, 주황, 파랑, 분홍, 회색
+const 색표 = {
+  보라:["#EEEDFE","#3C3489"],
+  초록:["#E1F5EE","#085041"],
+  주황:["#FAECE7","#712B13"],
+  파랑:["#E6F1FB","#0C447C"],
+  분홍:["#FBEAF0","#72243E"],
+  회색:["#F1EFE8","#444441"],
+};
+
+/* ─────────── 아래는 건드리지 않아도 됩니다 ─────────── */
+
+const 요일들 = ["토","일"];
+
+function 그리기(){
+  const 칸수 = 끝 - 시작;
+  let h = '<h1>주말 시간표</h1><table><tr><th class="t">시간</th>';
+  요일들.forEach(d => h += `<th>${d}</th>`);
+  h += '</tr>';
+
+  const 채움 = {};
+  요일들.forEach(d => 채움[d] = {});
+  수업.forEach(c => {
+    for(let t = c.시작; t < c.끝; t++){
+      채움[c.요일][t] = (t === c.시작) ? c : "이어짐";
+    }
+  });
+
+  for(let t = 시작; t < 끝; t++){
+    h += `<tr><td class="t">${t}-${t+1}</td>`;
+    요일들.forEach(d => {
+      const v = 채움[d][t];
+      if(v === "이어짐") return;
+      if(v){
+        const span = v.끝 - v.시작;
+        const [bg, fg] = 색표[v.색] || 색표.회색;
+        h += `<td class="day" rowspan="${span}">
+                <div class="blk" style="background:${bg};color:${fg}">
+                  <b>${v.이름}</b>${v.과목 ? `<span>${v.과목}</span>` : ''}
+                </div></td>`;
+      } else {
+        h += '<td class="day"></td>';
+      }
+    });
+    h += '</tr>';
+  }
+  document.getElementById('sheet').innerHTML = h + '</table>';
+}
+그리기();
+</script>
+</body>
+</html>
