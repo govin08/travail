@@ -5,8 +5,8 @@ import keyboard
 # x=1313, y=759
 print('sending is now ready.')
 
-x1, y1 = -2527, 894
-x2, y2 = 1310, 900
+x1, y1 = -608, 894
+x2, y2 = 1310, 888
 button_positions = {1:(x1,y1), 2:(x2,y2)}
 
 def send_balloons(monitor_idx:int, num:str):
