@@ -13,4 +13,4 @@ Je peux bien me concentrer dans le métro.
 J'aime les romans classiques.
 J'apprécie aussi les romans français.
 Par exemple, j'adore Maupassant, Camus, Sartre, Gide et Sagan.
-Un jour, je souhaite lire des nouvelle de Maupassant en français.
+Un jour, je souhaite lire des nouvelles de Maupassant en français.
