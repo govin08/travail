@@ -3085,3 +3085,73 @@ Il est 8 heures
 - j'arrove : 곧 가요
 - hasard : 우연
 - par hasard : 혹시, 우연히
+
+# 12. Les Produits Alimentaires Les Commerces
+## page cinquante-quartre
+- On peut acheter des légumes et des fruits frais chez le machand de fruits et légumes.
+### Quelques Légumes
+버섯, 꽃양배추, 양파, 감자, 파
+- un champignon
+- un chou-fleur
+- un oignon
+- une pomme de terre
+- un poireau
+
+가지, 시금치, 꼬투리 강낭콩, 주키니 호박, 마늘
+- une aubergine
+- des épinards
+- des haricots verts
+- une courgette
+- l'ail
+
+당근, 고추, 오이, 라디(무), 토마토, 샐러드
+- une carrotte
+- un poivron
+- un concombre
+- un radis
+- une tomate
+- une salade
+
+On mange les légumes crus (comme par exemple les radis, les concombres ...) ou, au contraire, cuits (les pommes de terre, les haricots verts, les poireaux ...) Dans un bistrot, on peut demander "une assiette de crudités", c'est-à-dire une assiette de légumes crus.
+
+### Quelques fruits
+자몽, 포도, 사과, (서양)배, 살구, 오렌지
+- un pamplemousse
+- du raisin
+- une pomme
+- une poire
+- un abricot
+- une orange
+
+복숭아, 체리, 키위, 딸기, 산딸기(라즈베리), 멜론
+- une pêche
+- des cerises
+- un kiwi
+- des fraises
+- des framboises
+- un melon
+
+파인애플, 덜 익은 바나나, 익은 바나나, 레몬
+- un ananas
+- une banane verte, pas mûre
+- une banane mûre
+- un citron
+
+### voca
+- crus / cuits : 날것의, 생 / 익힌, 조리된
+- bistrot : 작은 식당, 선술집
+
+## page soixante-cinq : exercices
+1. Vrai ou faux?
+- (1) Le poireau est un fruit. / F
+- (2) On peut acheter des poivrons verts / 
+- (3) Une pomme verte n'est pas mûre. / V
+- (4) En France, on mange les haricots verts crus. / F
+- (5) La pomme de terre est un fruit. / F
+- (6) En France, on mange les radis crus. / V
+- (7) Une banane mûre est rouge. / F
+- (8) Le pamplemousse est un fruit. / V
+
+2. De quel(s) objet(s) a-t-on besoin pour
+- (1) allumer une bougie?
+  - des allumettes ou un b
