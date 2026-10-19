@@ -3144,7 +3144,7 @@ On mange les légumes crus (comme par exemple les radis, les concombres ...) ou,
 ## page soixante-cinq : exercices
 1. Vrai ou faux?
 - (1) Le poireau est un fruit. / F
-- (2) On peut acheter des poivrons verts / 
+- (2) On peut acheter des poivrons verts / V
 - (3) Une pomme verte n'est pas mûre. / V
 - (4) En France, on mange les haricots verts crus. / F
 - (5) La pomme de terre est un fruit. / F
