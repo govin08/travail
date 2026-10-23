@@ -5,4 +5,4 @@ D'abord, on fait chauffer le porc dans une casserole.
 Cependant, on coupe l'oignon.
 Après, on ajoute du 고추장 et l'oignon coupé dans la casserorle.
 Et, on remue les aliment pour ne pas le brûler.
-Enfin, on peut manger le 제육볶음
+Enfin, on peut manger le 제육볶음.
