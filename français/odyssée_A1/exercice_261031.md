@@ -11,8 +11,11 @@ Après l'arrivée à la gare de 익산, j'ai marché dans la ville et visité le
 Le restaurant était ancien et j'ai mangé 물짜장.
 Ensuite, je suis allé à mon logement à pied.
 
-Le deuxieme jour, il faisait gris.
+Le deuxième jour, il faisait gris.
 J'ai visité le monument célèbre dans la ville, 미륵사지 석탑.
-Je suis y allé à bus.
+J'y suis allé en bus.
 La tour était très grande.
-Je suis resté lá-bas seulement 1 heure parce que je devais prends le prochain bus.
+Je suis resté là-bas seulement une heure parce que je devais prendre le prochain bus.
+J'ai mangé du 뼈해장국 et je suis rentré à mon logement en bus.
+
+Le troisième jour, j'ai acheté des gâteaux pour mes collègues et j'ai pris le train pour rentrer à 서울.
